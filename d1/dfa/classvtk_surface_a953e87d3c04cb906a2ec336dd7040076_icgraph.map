@@ -1,0 +1,4 @@
+<map id="vtkSurface::GetEdgeLengths" name="vtkSurface::GetEdgeLengths">
+<area shape="rect" id="node1" title="Computes the Mesh Edges Lengths in an array." alt="" coords="237,5,428,32"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#aeb1922c987d5fdcebe1b680d82db9087" title="Recusrsively splits the edges longer than Ratio*AverageLength." alt="" coords="5,5,189,32"/>
+</map>

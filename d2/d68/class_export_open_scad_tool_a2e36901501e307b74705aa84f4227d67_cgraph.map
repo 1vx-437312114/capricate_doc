@@ -1,0 +1,13 @@
+<map id="ExportOpenScadTool::writeWiring" name="ExportOpenScadTool::writeWiring">
+<area shape="rect" id="node1" title="Export the wiring in the openscad format." alt="" coords="5,226,151,267"/>
+<area shape="rect" id="node2" href="$d1/d7c/namespace_utils.html#adfd018a6efe0bd54e0e8344ecc1fe208" title="Compute world coordinate equivalent of voxel grid integer index." alt="" coords="249,5,363,32"/>
+<area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html#a25425137e60d6d5f21d597e8f6632eed" title="Return the interior wiring connection position (world coordinates)" alt="" coords="207,56,405,83"/>
+<area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html#a61c467b19b4d5940fdeff3070709d2b2" title="Return if touchpoint is sphere shaped." alt="" coords="225,107,387,133"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="221,157,391,184"/>
+<area shape="rect" id="node6" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="219,208,393,235"/>
+<area shape="rect" id="node7" href="$d9/d58/class_touchpoint.html#a3c7555f7762d81e5b93e48fa31a7490c" title="Return the geometry of the touchpoint (vtkPolyData)" alt="" coords="223,259,389,285"/>
+<area shape="rect" id="node8" href="$d9/d58/class_touchpoint.html#af65e6d637a44d8a800b51186d18364a2" title="Return radius of sphere shaped touchpoint." alt="" coords="209,309,403,336"/>
+<area shape="rect" id="node9" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="207,360,405,387"/>
+<area shape="rect" id="node10" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="461,436,607,463"/>
+<area shape="rect" id="node11" href="$d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" title="Return dimensions of the voxel data." alt="" coords="199,461,413,488"/>
+</map>

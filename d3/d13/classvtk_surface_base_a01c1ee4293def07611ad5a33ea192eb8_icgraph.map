@@ -1,0 +1,5 @@
+<map id="vtkSurfaceBase::SetPointCoordinates" name="vtkSurfaceBase::SetPointCoordinates">
+<area shape="rect" id="node1" title="Sets the coordinates of Point." alt="" coords="264,23,437,65"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#ab2a2b9f817f68f93f09771179f81c5d1" title="Adds uniform noise to the model." alt="" coords="35,5,186,32"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#a3a42275949d2fd9818fb5209acc3c25b" title="rescale the points so that the maximum coordinates range is equal to 1" alt="" coords="5,56,216,83"/>
+</map>

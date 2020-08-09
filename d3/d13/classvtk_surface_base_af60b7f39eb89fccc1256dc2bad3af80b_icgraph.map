@@ -1,0 +1,10 @@
+<map id="vtkSurfaceBase::AddPolygon" name="vtkSurfaceBase::AddPolygon">
+<area shape="rect" id="node1" title="Adds a face (ve1,ve2,ve3) to the vtkSurfaceBase Object and returns its Id." alt="" coords="517,132,711,159"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a0c1300b92e803904eddacbbc25a89c09" title="Adds a face (ve1,ve2,ve3) to the vtkSurfaceBase Object and returns its Id." alt="" coords="271,81,446,108"/>
+<area shape="rect" id="node7" href="$d1/dfa/classvtk_surface.html#afe7e615323e323b5aff70fa1b4cf6fb1" title="returns a vtkSurface with no empty memory slots" alt="" coords="271,132,446,159"/>
+<area shape="rect" id="node8" href="$d1/dfa/classvtk_surface.html#a56f1edbf05daf9d9e038d28b2261bcc5" title="returns a vtkSurface made of the biggest connected component" alt="" coords="248,183,469,225"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a3605512219637518eaa534c82f974a79" title="Bisects Edge by creating a new vertex at its midpoints and two new faces." alt="" coords="7,5,198,32"/>
+<area shape="rect" id="node4" href="$d1/dfa/classvtk_surface.html#aeb1922c987d5fdcebe1b680d82db9087" title="Recusrsively splits the edges longer than Ratio*AverageLength." alt="" coords="11,56,195,83"/>
+<area shape="rect" id="node5" href="$d1/dfa/classvtk_surface.html#ad35b4c37556f13f0deeb6bb9753f18af" title="returns a mesh which is a linear subdivision of this" alt="" coords="27,107,178,133"/>
+<area shape="rect" id="node6" href="$d1/dfa/classvtk_surface.html#a8871f6a866295a51c983283a4ccc0a9d" title="subdivide the mesh (in place)" alt="" coords="5,157,200,184"/>
+</map>

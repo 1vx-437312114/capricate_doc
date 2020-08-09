@@ -1,0 +1,39 @@
+<map id="MainWindow::slotPreferencesAccepted" name="MainWindow::slotPreferencesAccepted">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1320,201,1361"/>
+<area shape="rect" id="node2" href="$d3/d5f/class_preferences_dialog.html#ad070e538be8aefc76a2bd78cca51a68b" title=" " alt="" coords="258,5,457,47"/>
+<area shape="rect" id="node3" href="$d3/d5f/class_preferences_dialog.html#a10f830599ba6b77e44fcf65354a4d773" title=" " alt="" coords="260,71,455,112"/>
+<area shape="rect" id="node4" href="$d3/d5f/class_preferences_dialog.html#a502ed7b9f8be3f6258a60cef9c9499e8" title=" " alt="" coords="253,137,461,193"/>
+<area shape="rect" id="node5" href="$d3/d5f/class_preferences_dialog.html#a398c8ea038a3f91a37195ac224949f89" title=" " alt="" coords="249,217,465,273"/>
+<area shape="rect" id="node6" href="$d3/d5f/class_preferences_dialog.html#a40ec30ae03bf3bf6edddbf963fe3de01" title=" " alt="" coords="273,297,441,339"/>
+<area shape="rect" id="node7" href="$d3/d5f/class_preferences_dialog.html#abcff070694619c602bedefbc66a74244" title=" " alt="" coords="259,363,455,404"/>
+<area shape="rect" id="node8" href="$d3/d5f/class_preferences_dialog.html#a2d9700cc2d0d43e04bdf8327704e0264" title=" " alt="" coords="261,429,454,485"/>
+<area shape="rect" id="node9" href="$d3/d5f/class_preferences_dialog.html#a9a9dd3861a63699d578a9ea025c95647" title=" " alt="" coords="282,509,433,565"/>
+<area shape="rect" id="node10" href="$d3/d5f/class_preferences_dialog.html#a1dbb7aa4d85db5b4176b445090d17821" title=" " alt="" coords="284,589,431,631"/>
+<area shape="rect" id="node11" href="$d3/d5f/class_preferences_dialog.html#a375893dc621843a2327c1786ebd8ff23" title=" " alt="" coords="268,655,447,711"/>
+<area shape="rect" id="node12" href="$d3/d5f/class_preferences_dialog.html#a822e286659665748e66ac0dbcc88445d" title=" " alt="" coords="287,736,427,777"/>
+<area shape="rect" id="node13" href="$d3/d5f/class_preferences_dialog.html#af4a944aa7e25d0046ffd8d571e9e59c0" title=" " alt="" coords="268,802,447,858"/>
+<area shape="rect" id="node14" href="$d3/d5f/class_preferences_dialog.html#a13f2700f67477bdc8493f4e5d8f18a87" title=" " alt="" coords="270,882,445,938"/>
+<area shape="rect" id="node15" href="$d3/d5f/class_preferences_dialog.html#afa3866ea0a2428e3168780f7ce7ee7a4" title=" " alt="" coords="281,962,434,1018"/>
+<area shape="rect" id="node16" href="$d3/d5f/class_preferences_dialog.html#aac5c24061013132857cc9b762dc72387" title=" " alt="" coords="263,1042,452,1098"/>
+<area shape="rect" id="node17" href="$d3/d5f/class_preferences_dialog.html#a793b5955a76216ef58ec5177dc3d15f9" title=" " alt="" coords="259,1122,456,1178"/>
+<area shape="rect" id="node18" href="$d3/d5f/class_preferences_dialog.html#aaf70a9f541255732293848e3c5fdfa15" title=" " alt="" coords="280,1202,435,1258"/>
+<area shape="rect" id="node19" href="$d3/d5f/class_preferences_dialog.html#a883f92a254a14d689379937f5caa2d25" title=" " alt="" coords="278,1283,437,1324"/>
+<area shape="rect" id="node20" href="$d3/d5f/class_preferences_dialog.html#ace7304ca5a6894b899fe9af0a17469c6" title=" " alt="" coords="269,1349,445,1405"/>
+<area shape="rect" id="node21" href="$d3/d5f/class_preferences_dialog.html#a102952d3ef73bdb7747d63150f8f1289" title=" " alt="" coords="265,1429,449,1485"/>
+<area shape="rect" id="node22" href="$d3/d5f/class_preferences_dialog.html#a591d7b488356577a9abb02b6fe71524e" title=" " alt="" coords="281,1509,434,1565"/>
+<area shape="rect" id="node23" href="$d3/d5f/class_preferences_dialog.html#a802407670820577b7a627133e6c38711" title=" " alt="" coords="266,1589,449,1645"/>
+<area shape="rect" id="node24" href="$d3/d5f/class_preferences_dialog.html#ad0b49ed5ce980fea06f9812841ecf9c5" title=" " alt="" coords="264,1669,451,1711"/>
+<area shape="rect" id="node25" href="$d3/d5f/class_preferences_dialog.html#aef57ebf5d10b1fe34fd33eb8ddce354c" title=" " alt="" coords="274,1735,441,1791"/>
+<area shape="rect" id="node26" href="$d3/d5f/class_preferences_dialog.html#ace54659890a90fe3e87951c9dd60d1c5" title=" " alt="" coords="272,1816,443,1857"/>
+<area shape="rect" id="node27" href="$d3/d5f/class_preferences_dialog.html#abb1576f13be3754da4cebc5f5c624f10" title=" " alt="" coords="266,1881,449,1923"/>
+<area shape="rect" id="node28" href="$d3/d5f/class_preferences_dialog.html#a5f0306e1ac2387f9a56b0a7c55d921c5" title=" " alt="" coords="269,1947,445,1988"/>
+<area shape="rect" id="node29" href="$d3/d5f/class_preferences_dialog.html#a22ae7890f5d506aec2d01ec1fe087e9d" title=" " alt="" coords="270,2013,445,2069"/>
+<area shape="rect" id="node30" href="$d3/d5f/class_preferences_dialog.html#acd5d17d36edd5e2c889c495aff5c58d7" title=" " alt="" coords="273,2093,441,2135"/>
+<area shape="rect" id="node31" href="$d3/d5f/class_preferences_dialog.html#ace3bbb86fc20219c88cef8ff21f4ebf0" title=" " alt="" coords="276,2159,439,2200"/>
+<area shape="rect" id="node32" href="$d3/d5f/class_preferences_dialog.html#a987ba30f65385851fb38ef638f7c0bec" title=" " alt="" coords="280,2225,435,2281"/>
+<area shape="rect" id="node33" href="$d3/d5f/class_preferences_dialog.html#a164e2ad502644fcaccb731b9a91df87a" title=" " alt="" coords="276,2305,439,2361"/>
+<area shape="rect" id="node34" href="$d3/d5f/class_preferences_dialog.html#a7abbf7f149f514115f885a6820b0a65d" title=" " alt="" coords="289,2385,426,2427"/>
+<area shape="rect" id="node35" href="$d3/d5f/class_preferences_dialog.html#aa6d9e95622e7ecfb37aced226c3f1cfc" title=" " alt="" coords="289,2451,426,2492"/>
+<area shape="rect" id="node36" href="$d3/d5f/class_preferences_dialog.html#aaed099cea680fc282f2c15e228b1687d" title=" " alt="" coords="288,2516,427,2557"/>
+<area shape="rect" id="node37" href="$d9/dc6/class_main_window.html#a2880d5eb045b8ce05784b5a80863fa7c" title="Write the configuration settings in a file." alt="" coords="252,2581,463,2623"/>
+</map>

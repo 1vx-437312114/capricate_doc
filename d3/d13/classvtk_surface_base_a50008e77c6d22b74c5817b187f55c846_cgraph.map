@@ -1,0 +1,6 @@
+<map id="vtkSurfaceBase::AddVertex" name="vtkSurfaceBase::AddVertex">
+<area shape="rect" id="node1" title="adds a vertex with coordinates (x,y,z) to the vtkSurface and returns its Id" alt="" coords="5,13,188,39"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#aceee5b078bbb14fd9c2ac54f2c043ced" title="adds a vertex with coordinates (x,y,z) to the vtkSurface and returns its Id" alt="" coords="236,13,419,39"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#afd79981b00b0a0acc2f0f56dc41031da" title=" " alt="" coords="467,5,637,47"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#ac6bf9896f86fffac680b5983649d7fea" title=" " alt="" coords="685,5,856,47"/>
+</map>

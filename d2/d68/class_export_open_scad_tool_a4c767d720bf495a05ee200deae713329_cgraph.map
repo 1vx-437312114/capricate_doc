@@ -1,0 +1,7 @@
+<map id="ExportOpenScadTool::writeComponents" name="ExportOpenScadTool::writeComponents">
+<area shape="rect" id="node1" title="Export additional 3d&#45;printing build components in the openscad format." alt="" coords="5,49,151,90"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a9d34f7a775d90ec0edfec76112024eb2" title="Return the component with a given id." alt="" coords="257,5,409,32"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html#ad44d3d543360e0b06e75a7b116b9eff2" title="Return the number of 3d&#45;printing build / compound components." alt="" coords="224,56,443,83"/>
+<area shape="rect" id="node5" href="$d2/d00/class_component.html#ac9629632c22344ae2d72f2c21bf91756" title="Return the number of subcomponents." alt="" coords="199,107,468,133"/>
+<area shape="rect" id="node3" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="516,5,591,32"/>
+</map>

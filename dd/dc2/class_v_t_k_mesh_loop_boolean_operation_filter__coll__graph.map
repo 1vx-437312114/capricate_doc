@@ -1,0 +1,4 @@
+<map id="VTKMeshLoopBooleanOperationFilter" name="VTKMeshLoopBooleanOperationFilter">
+<area shape="rect" id="node1" title="Filter for boolean operations on polygon meshes using the vtk library with the vtkLoopBooleanPolyData..." alt="" coords="5,263,228,443"/>
+<area shape="rect" id="node2" href="$d4/dcd/class_mesh_boolean_operation_filter.html" title="Base class for boolean operations on polygon meshes filters." alt="" coords="9,5,224,215"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="vtkSurface::GetDistanceBetweenVertices" name="vtkSurface::GetDistanceBetweenVertices">
+<area shape="rect" id="node1" title="Returns the euclidian distance between the vertices V1 and V2." alt="" coords="5,5,223,47"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a342d0273e9a72ba4975767cc64c7a83c" title="Returns the coordinates of Point." alt="" coords="271,5,445,47"/>
+</map>

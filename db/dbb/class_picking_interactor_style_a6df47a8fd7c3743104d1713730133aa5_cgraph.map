@@ -1,0 +1,4 @@
+<map id="PickingInteractorStyle::setScene" name="PickingInteractorStyle::setScene">
+<area shape="rect" id="node1" title="Set the scene pointer, needed for adding the touchpoint to the scene." alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="204,13,349,39"/>
+</map>

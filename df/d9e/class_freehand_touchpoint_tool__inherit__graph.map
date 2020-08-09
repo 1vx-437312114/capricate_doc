@@ -1,0 +1,4 @@
+<map id="FreehandTouchpointTool" name="FreehandTouchpointTool">
+<area shape="rect" id="node1" title="Tool for drawing arbitrary shaped touchpoints on a mesh." alt="" coords="5,263,188,487"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="37,5,156,215"/>
+</map>

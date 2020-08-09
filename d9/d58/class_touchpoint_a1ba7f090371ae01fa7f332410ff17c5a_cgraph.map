@@ -1,0 +1,4 @@
+<map id="Touchpoint::setTouchpointType" name="Touchpoint::setTouchpointType">
+<area shape="rect" id="node1" title="Set touchpoint type." alt="" coords="5,13,208,39"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#aabec59cfa02cddb2dab4420b3c056df0" title="Return color value for a given touchpoint type." alt="" coords="256,5,431,47"/>
+</map>

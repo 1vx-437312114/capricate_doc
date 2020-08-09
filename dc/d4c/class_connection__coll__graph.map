@@ -1,0 +1,6 @@
+<map id="Connection" name="Connection">
+<area shape="rect" id="node1" title="Connection between a source touchpoint and a destination connector." alt="" coords="178,893,358,1264"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,372,179,449"/>
+<area shape="rect" id="node3" href="$d3/d2c/struct_connection_indices.html" title="The ConnectionIndices struct contains the indices of the source touchpoint and destination connector ..." alt="" coords="203,365,333,457"/>
+<area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html" title="Base class for representing various design elements which are embeded in mesh surface." alt="" coords="358,5,597,816"/>
+</map>

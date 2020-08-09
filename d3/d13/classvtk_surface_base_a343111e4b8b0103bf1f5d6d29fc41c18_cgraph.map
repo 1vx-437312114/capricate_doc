@@ -1,0 +1,22 @@
+<map id="vtkSurfaceBase::MergeVertices" name="vtkSurfaceBase::MergeVertices">
+<area shape="rect" id="node1" title="Merge the two input vertices v1 and v2." alt="" coords="5,394,212,421"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a46f5c7e99dfcbc87899fa82ddec0a8cc" title="Deletes the free edge e1 and possibly its vertices if they are free." alt="" coords="787,95,977,122"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a49e78891f9e8280362f9a6919ec0aec1" title="Deletes the FREE vertex v1 free means not connected to any higher order element." alt="" coords="1295,19,1493,46"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#ae63b7ea41f949bf8b801ba46b3828f2e" title="removes the edge e1 from the ring of v1" alt="" coords="1041,248,1231,289"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="1303,475,1485,516"/>
+<area shape="rect" id="node8" href="$d3/d13/classvtk_surface_base.html#a6d0fece7168e91590325097ee7a320a2" title="Returns v1 and v2 as the vertices bounding the edge." alt="" coords="1025,45,1247,71"/>
+<area shape="rect" id="node9" href="$d3/d13/classvtk_surface_base.html#aae9fbf8586bd128017ffb7a389651d9f" title="Deletes the face f1, possibly its adjacent edges and vertices if they are free and is CleanVertices a..." alt="" coords="275,213,465,239"/>
+<area shape="rect" id="node11" href="$d3/d13/classvtk_surface_base.html#a8ff6bce196e2ef18c7360219e8c97877" title="removes Face from the ring of Edge" alt="" coords="538,248,729,289"/>
+<area shape="rect" id="node12" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="551,314,715,341"/>
+<area shape="rect" id="node14" href="$d5/d9c/vtksurfacebase_8cxx.html#a2e8c26ea64993c77629c368633da5ff0" title=" " alt="" coords="312,734,428,761"/>
+<area shape="rect" id="node15" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="528,634,739,661"/>
+<area shape="rect" id="node16" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="260,785,480,811"/>
+<area shape="rect" id="node17" href="$d3/d13/classvtk_surface_base.html#abd694015b1a8fca265c35937c9c02b2b" title="Returns the list of faces adjacent to the point v1." alt="" coords="279,551,461,592"/>
+<area shape="rect" id="node18" href="$d3/d13/classvtk_surface_base.html#a0031b6361753a6f7b7761760b4f95fec" title="inserts the edge e1 in the ring of v1" alt="" coords="277,416,463,457"/>
+<area shape="rect" id="node20" href="$d3/d13/classvtk_surface_base.html#a3aaa2ae54afb7d66bcb4c4e666c38a90" title="inserts Face in the ring of Edge" alt="" coords="277,668,463,709"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#aa880815b0dd0315f0b0716dc7b7f16b2" title="deletes the vertex if it is not connected uneffective if CleanVertices is set to 0" alt="" coords="1039,95,1233,122"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a310ee566afcb88b7672ea6abf2d9f098" title="Returns the valence of the Point V1 i.e. its number of adjacent Points." alt="" coords="1299,95,1489,122"/>
+<area shape="rect" id="node10" href="$d3/d13/classvtk_surface_base.html#a75b276734fd326f5abdc5431659e566a" title="deletes the edge if it is adjacent to no polygon uneffective if CleanEdges is set to 0" alt="" coords="540,146,727,173"/>
+<area shape="rect" id="node13" href="$d3/d13/classvtk_surface_base.html#a2f903d435003385ebe7839c1f157db7f" title="returns 1 if Face is actually used to store a polygon (not deleted). Returns 0 otherwise" alt="" coords="533,197,733,223"/>
+<area shape="rect" id="node19" href="$d3/d13/classvtk_surface_base.html#ac6bf9896f86fffac680b5983649d7fea" title=" " alt="" coords="548,416,719,457"/>
+</map>

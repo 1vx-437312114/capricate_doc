@@ -1,0 +1,4 @@
+<map id="SimulatedAnnealingOptimizer" name="SimulatedAnnealingOptimizer">
+<area shape="rect" id="node1" title="Optimizes the wirelength of a path by using the simulated annealing optimizer." alt="" coords="5,219,219,443"/>
+<area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="13,5,211,171"/>
+</map>

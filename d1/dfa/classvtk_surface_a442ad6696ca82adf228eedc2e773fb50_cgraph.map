@@ -1,0 +1,4 @@
+<map id="vtkSurface::GetEdgeLength" name="vtkSurface::GetEdgeLength">
+<area shape="rect" id="node1" title="returns the legth of the input edge;" alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a6d0fece7168e91590325097ee7a320a2" title="Returns v1 and v2 as the vertices bounding the edge." alt="" coords="236,5,457,32"/>
+</map>

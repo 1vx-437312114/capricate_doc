@@ -1,0 +1,4 @@
+<map id="AStar::unmarkPath" name="AStar::unmarkPath">
+<area shape="rect" id="node1" title="Unmark a path (unlock)" alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$de/d52/class_a_star.html#aa76c29f42861c4f6fc7c328e4dbc7d83" title="Mark a path as locked so that it can not be used by another search." alt="" coords="187,5,305,32"/>
+</map>

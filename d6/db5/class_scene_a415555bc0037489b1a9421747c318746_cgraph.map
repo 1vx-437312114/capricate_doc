@@ -1,0 +1,12 @@
+<map id="Scene::updateOccupationMapActor" name="Scene::updateOccupationMapActor">
+<area shape="rect" id="node1" title="Update the occupation map visualization after changes to the underlying voxel data." alt="" coords="5,181,203,222"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#aa52192763d5339a0e7803abe296220c9" title="Return the cuberille visualization of the voxel grid data." alt="" coords="271,5,438,32"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#a7009d25646e9f3a07482091ed2d62e52" title="Return the inner and outer voxels visualization of the voxel grid data." alt="" coords="251,57,459,98"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html#a04c9e871c5edc15ca00d736a9cb6c0d0" title="Return the interior voxels only visualization of the voxel grid data." alt="" coords="273,122,437,163"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#a0799bb0687ffe3a97e0523a4e700ef2d" title="Return the occupation map visualization." alt="" coords="251,188,458,215"/>
+<area shape="rect" id="node6" href="$db/dae/class_voxel_image_visualizer.html#a00b60f629dcc3335bff26934e88b9bcb" title="Return the occupation map visualization (unoccupied = yellow, occupied = blue)" alt="" coords="278,239,431,281"/>
+<area shape="rect" id="node9" href="$db/dae/class_voxel_image_visualizer.html#a15634f5a62fd0d71806741d1db033243" title="Set input data of the visualizer." alt="" coords="281,305,428,346"/>
+<area shape="rect" id="node10" href="$db/dae/class_voxel_image_visualizer.html#a65eec474a368555a6ba16c1f54e956db" title="Set output size of the visualization." alt="" coords="281,370,428,411"/>
+<area shape="rect" id="node7" href="$db/dae/class_voxel_image_visualizer.html#a381e70e9dba0cad1fddf946aa7f4a408" title="Compute scaling factor for visualization actor." alt="" coords="519,210,666,251"/>
+<area shape="rect" id="node8" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="507,276,679,303"/>
+</map>

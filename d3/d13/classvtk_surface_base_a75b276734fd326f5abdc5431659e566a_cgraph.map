@@ -1,0 +1,10 @@
+<map id="vtkSurfaceBase::CleanEdge" name="vtkSurfaceBase::CleanEdge">
+<area shape="rect" id="node1" title="deletes the edge if it is adjacent to no polygon uneffective if CleanEdges is set to 0" alt="" coords="5,115,192,141"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a46f5c7e99dfcbc87899fa82ddec0a8cc" title="Deletes the free edge e1 and possibly its vertices if they are free." alt="" coords="240,115,431,141"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#aa880815b0dd0315f0b0716dc7b7f16b2" title="deletes the vertex if it is not connected uneffective if CleanVertices is set to 0" alt="" coords="492,56,687,83"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#ae63b7ea41f949bf8b801ba46b3828f2e" title="removes the edge e1 from the ring of v1" alt="" coords="494,107,685,149"/>
+<area shape="rect" id="node8" href="$d3/d13/classvtk_surface_base.html#a6d0fece7168e91590325097ee7a320a2" title="Returns v1 and v2 as the vertices bounding the edge." alt="" coords="479,173,700,200"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a49e78891f9e8280362f9a6919ec0aec1" title="Deletes the FREE vertex v1 free means not connected to any higher order element." alt="" coords="748,5,947,32"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a310ee566afcb88b7672ea6abf2d9f098" title="Returns the valence of the Point V1 i.e. its number of adjacent Points." alt="" coords="752,56,943,83"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="757,107,938,149"/>
+</map>

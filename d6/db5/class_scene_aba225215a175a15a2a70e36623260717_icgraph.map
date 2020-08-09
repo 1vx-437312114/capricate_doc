@@ -1,0 +1,7 @@
+<map id="Scene::getMagnet" name="Scene::getMagnet">
+<area shape="rect" id="node1" title="Return a magnet from the scene, given its unique id." alt="" coords="623,35,751,61"/>
+<area shape="rect" id="node2" href="$dd/d00/class_export_s_t_l_tool.html#a218420198ac8fef5b9f9a8acc889307d" title=" " alt="" coords="413,5,575,32"/>
+<area shape="rect" id="node3" href="$d2/d68/class_export_open_scad_tool.html#adfa47b51eeeefb3f8c8bb890266acc8c" title="Export magnetic mesh objects in the openscad format." alt="" coords="421,57,567,98"/>
+<area shape="rect" id="node4" href="$d2/d68/class_export_open_scad_tool.html#a71ef67a238fb9cd74563b65d77c1ea73" title=" " alt="" coords="5,57,151,98"/>
+<area shape="rect" id="node5" href="$d2/d68/class_export_open_scad_tool.html#adc9cf506ecd2ef6e33f37f2eb206da1a" title="Export the meshdifference between mesh and magnets in the openscad format." alt="" coords="199,86,365,127"/>
+</map>

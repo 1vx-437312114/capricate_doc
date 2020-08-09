@@ -1,0 +1,8 @@
+<map id="Component" name="Component">
+<area shape="rect" id="node1" title="3D&#45;Printing construction component which is not of type wiring, touchpoint or connector." alt="" coords="22,611,245,952"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,449,160,526"/>
+<area shape="rect" id="node3" title=" " alt="" coords="185,441,386,533"/>
+<area shape="rect" id="node4" href="$d3/dbe/struct_component_1_1_open_s_c_a_d_sub_component.html" title="OpenSCAD Code container for subcomponents." alt="" coords="157,301,413,379"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="245,147,325,224"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="222,5,349,97"/>
+</map>

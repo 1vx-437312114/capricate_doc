@@ -1,0 +1,4 @@
+<map id="PlaceTouchpointTool" name="PlaceTouchpointTool">
+<area shape="rect" id="node1" title="Tool for placing sphere shaped touchpoints on a mesh surface." alt="" coords="5,263,169,443"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="28,5,147,215"/>
+</map>

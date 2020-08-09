@@ -1,0 +1,6 @@
+<map id="Meshloader::createSceneObject" name="Meshloader::createSceneObject">
+<area shape="rect" id="node1" title="Creates a scene object from the polydata." alt="" coords="524,35,732,61"/>
+<area shape="rect" id="node2" href="$d7/d0d/class_meshloader.html#a6fb121942ec1f679af2d5b4c0f2995b4" title="Load a mesh given its filename." alt="" coords="296,5,449,32"/>
+<area shape="rect" id="node3" href="$d7/d0d/class_meshloader.html#a80a624e102d120e7a1bde32bd1f98004" title="Load a mesh given its filename from a Qt resource." alt="" coords="269,57,476,98"/>
+<area shape="rect" id="node4" href="$d9/d00/class_p_s_interface_tool.html#aa56a7c9e4ac484fb006585caee411761" title="Construct a PSInterface object." alt="" coords="5,64,221,91"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="Utils::clampInt" name="Utils::clampInt">
+<area shape="rect" id="node1" title="Clamp integer value between min and max." alt="" coords="975,329,1081,355"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#a1b82f162b238396efeae6b9369430a87" title="Mark voxel grid cells occupied / unoccupied by the touchpoint geometry." alt="" coords="741,103,927,144"/>
+<area shape="rect" id="node11" href="$d1/d7c/namespace_utils.html#a4b6c4a605143b128db1c74f39d0277ef" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="777,514,891,541"/>
+<area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html#afbb2470ea0d67a12a29eb3d6bd958f01" title="Mark voxel grid cells as occupied by the touchpoint geometry." alt="" coords="495,55,683,82"/>
+<area shape="rect" id="node5" href="$d9/d58/class_touchpoint.html#a550348f9d05c347b5186b6531d583a11" title="Mark voxel grid cells as unoccupied by the touchpoint geometry." alt="" coords="488,110,691,137"/>
+<area shape="rect" id="node4" href="$db/dbb/class_picking_interactor_style.html#a1620702107e2c2d0c0aefbd896098b0d" title="Overloaded method, invoked when right mouse button is pressed." alt="" coords="260,44,411,85"/>
+<area shape="rect" id="node6" href="$d6/db5/class_scene.html#af1128c48ccb6999066aa1d935075cb23" title="Remove a touchpoint from the scene given its unique touchpoint id." alt="" coords="249,110,422,137"/>
+<area shape="rect" id="node7" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="24,5,167,47"/>
+<area shape="rect" id="node8" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="18,71,173,112"/>
+<area shape="rect" id="node9" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="14,136,177,177"/>
+<area shape="rect" id="node10" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="37,202,154,229"/>
+<area shape="rect" id="node12" href="$d1/da7/class_place_ground_plane8_connectors_tool.html#aaf1c46eccc1ea15dec8c7669c8a97a47" title="Add connector to touchpoint registry." alt="" coords="487,161,691,203"/>
+<area shape="rect" id="node14" href="$dc/db2/class_place_ground_plane4_connectors_tool.html#a07d60110c5f9b56bf016c68d879f6d80" title="Add connector to touchpoint registry." alt="" coords="487,227,691,268"/>
+<area shape="rect" id="node16" href="$d9/d00/class_p_s_interface_tool.html#a55b3f305a7b9ffce3be9ec646ce145a8" title=" " alt="" coords="487,293,691,319"/>
+<area shape="rect" id="node18" href="$da/dcb/class_freehand_add_final_point_callback.html#a4a889b08c802e7e81598b8dd8b5e3dad" title="Overwritten callback method, which is executed when the left mouse button is pressed." alt="" coords="485,344,693,385"/>
+<area shape="rect" id="node19" href="$d4/d58/class_polyline_add_final_point_callback.html#aebf2f4ff9236a12c598205822c2949a2" title="Overwritten callback method, which is executed when the left mouse button is pressed for the first ti..." alt="" coords="489,409,689,451"/>
+<area shape="rect" id="node20" href="$db/dbb/class_picking_interactor_style.html#a22c8515240e36efd282409c27faf0e52" title="Overloaded method, invoked when left mouse button is pressed." alt="" coords="514,475,665,516"/>
+<area shape="rect" id="node21" href="$d1/db5/class_lasso_interactor_style.html#a711994cec6c74643d2bc161ba73daacd" title="Overwritten method, which is executed when the left mouse button is released." alt="" coords="518,540,661,581"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a46bb2fea8ddeab75e15a223c291116b6" title=" " alt="" coords="490,605,689,647"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#affed0fab82fd390e2762933c6dca9124" title=" " alt="" coords="490,671,689,712"/>
+<area shape="rect" id="node26" href="$d9/dc6/class_main_window.html#adfdb8fcb8685844e8ce11bfb41b83b7d" title=" " alt="" coords="490,736,689,777"/>
+<area shape="rect" id="node27" href="$d9/dc6/class_main_window.html#a5283a0d7aeeafd409c69b272053f3986" title=" " alt="" coords="490,801,689,843"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#a0c92ca2d04a79a1580c2e8e136b82682" title=" " alt="" coords="490,867,689,908"/>
+<area shape="rect" id="node29" href="$d9/dc6/class_main_window.html#a86cd359f80311725589d0861dd7a9851" title=" " alt="" coords="490,932,689,973"/>
+<area shape="rect" id="node13" href="$d1/da7/class_place_ground_plane8_connectors_tool.html#ac6f514739682b173fadccf10f5bc9aab" title=" " alt="" coords="233,161,437,203"/>
+<area shape="rect" id="node15" href="$dc/db2/class_place_ground_plane4_connectors_tool.html#a7ae289774f2b51d2daba1215effc4311" title=" " alt="" coords="233,227,437,268"/>
+<area shape="rect" id="node17" href="$d9/d00/class_p_s_interface_tool.html#aa26bf20d4e597f64df960e4c1a5c3a69" title=" " alt="" coords="251,293,420,319"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="245,768,425,809"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,775,185,802"/>
+</map>

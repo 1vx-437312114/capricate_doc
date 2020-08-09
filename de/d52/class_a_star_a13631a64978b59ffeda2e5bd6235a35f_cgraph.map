@@ -1,0 +1,4 @@
+<map id="AStar::isPassable" name="AStar::isPassable">
+<area shape="rect" id="node1" title="Check if index vector pos is not locked." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node2" href="$de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="180,5,260,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="LassoTool::setTouchpointDepth" name="LassoTool::setTouchpointDepth">
+<area shape="rect" id="node1" title="Set the penetration depth of the touchpoint." alt="" coords="757,49,928,90"/>
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a2faae5bc0aeb2b1678fc404e6824bb22" title=" " alt="" coords="463,5,708,32"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#afc1f42fae7a3264cad5527106dd694cc" title=" " alt="" coords="471,56,699,83"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#aa8469086fa2aa2924362cd671ded0b55" title=" " alt="" coords="461,107,709,133"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,49,413,90"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,56,185,83"/>
+</map>

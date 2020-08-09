@@ -1,0 +1,4 @@
+<map id="VoxelOctree::closestPointOnTriangle" name="VoxelOctree::closestPointOnTriangle">
+<area shape="rect" id="node1" title="Computes the closest point from a position to a triangle." alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node2" href="$d8/dcf/class_voxel_octree.html#a8501730a22c659ce06e598398f702a53" title=" " alt="" coords="227,13,375,39"/>
+</map>

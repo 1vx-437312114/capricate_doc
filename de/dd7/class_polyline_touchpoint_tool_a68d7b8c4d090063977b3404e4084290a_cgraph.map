@@ -1,0 +1,9 @@
+<map id="PolylineTouchpointTool::execute" name="PolylineTouchpointTool::execute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,160,166"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a90991eb2b230d4839cde43ee588af34f" title="Return the graphical representation (vtkActor) of the mesh." alt="" coords="221,5,369,32"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="210,56,381,83"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html#a8bf8e4b441886787dc82c2caa9b25884" title="Return the vtkRenderer of the scene." alt="" coords="226,107,365,133"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#a180c8577946667c192ae08462fab006a" title="Return the vtk render window of the application." alt="" coords="208,157,383,184"/>
+<area shape="rect" id="node6" href="$d9/d58/class_touchpoint.html#aabec59cfa02cddb2dab4420b3c056df0" title="Return color value for a given touchpoint type." alt="" coords="208,209,383,250"/>
+<area shape="rect" id="node7" href="$d6/db5/class_scene.html#a519eb93d7083d43d001a9f4285d98763" title="Set the actual contour widget." alt="" coords="209,275,381,301"/>
+</map>

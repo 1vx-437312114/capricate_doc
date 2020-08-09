@@ -1,0 +1,6 @@
+<map id="VoxelImageVisualizer::getInteriorOutput" name="VoxelImageVisualizer::getInteriorOutput">
+<area shape="rect" id="node1" title="Return visualization of the mesh interior only." alt="" coords="5,35,152,76"/>
+<area shape="rect" id="node2" href="$db/dae/class_voxel_image_visualizer.html#a266b4be6343bb49d53b4af2c9e7df310" title=" " alt="" coords="200,35,347,76"/>
+<area shape="rect" id="node3" href="$db/dae/class_voxel_image_visualizer.html#a381e70e9dba0cad1fddf946aa7f4a408" title="Compute scaling factor for visualization actor." alt="" coords="407,5,554,47"/>
+<area shape="rect" id="node4" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="395,71,567,98"/>
+</map>

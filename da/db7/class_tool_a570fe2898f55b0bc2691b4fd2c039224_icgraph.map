@@ -1,0 +1,6 @@
+<map id="Tool::getToolName" name="Tool::getToolName">
+<area shape="rect" id="node1" title="Return the name of the tool." alt="" coords="656,5,787,32"/>
+<area shape="rect" id="node2" href="$d4/d4d/class_tool_registry.html#a6ddfc6ea3a96bd8d7357d35a88fa7294" title="Add a tool to the registry." alt="" coords="460,5,608,32"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#adf9f10cd195a9f50070ef914937e5ebf" title="Register all touchpoint tools in the tool registry." alt="" coords="233,5,412,32"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,5,185,32"/>
+</map>

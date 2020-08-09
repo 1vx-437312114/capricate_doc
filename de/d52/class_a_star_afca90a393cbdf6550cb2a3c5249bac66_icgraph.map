@@ -1,0 +1,6 @@
+<map id="AStar::coordIdx" name="AStar::coordIdx">
+<area shape="rect" id="node1" title="Compute 3D integer coordinate index from 1D linearized index." alt="" coords="349,56,463,83"/>
+<area shape="rect" id="node2" href="$de/d52/class_a_star.html#a5450c01e578edaa89de3d3b8a22b0706" title="Return the cost of traversing the voxel." alt="" coords="198,5,286,32"/>
+<area shape="rect" id="node3" href="$de/d52/class_a_star.html#a3d259f327b7c6966a4b3bc77c3a1c02b" title="Search a path in the voxelgrid using the A* algorithm with the preset heuristic." alt="" coords="5,56,135,83"/>
+<area shape="rect" id="node4" href="$de/d52/class_a_star.html#a7db84752520b860d018730cdd1d40f42" title="Return neighbor voxels of voxel with nodeIndex." alt="" coords="183,107,301,133"/>
+</map>

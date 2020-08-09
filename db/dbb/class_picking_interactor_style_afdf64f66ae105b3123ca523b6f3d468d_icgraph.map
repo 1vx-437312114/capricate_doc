@@ -1,0 +1,4 @@
+<map id="PickingInteractorStyle::trackballMode" name="PickingInteractorStyle::trackballMode">
+<area shape="rect" id="node1" title="Set interactor mode to TRACKBALL_MODE." alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node2" href="$db/dbb/class_picking_interactor_style.html#a1620702107e2c2d0c0aefbd896098b0d" title="Overloaded method, invoked when right mouse button is pressed." alt="" coords="5,5,156,47"/>
+</map>

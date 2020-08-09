@@ -1,0 +1,7 @@
+<map id="MainWindow::slotLassoMagnetTool" name="MainWindow::slotLassoMagnetTool">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,233,108"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html#aa3ef777234d67638f33c92a57a083868" title=" " alt="" coords="330,5,430,32"/>
+<area shape="rect" id="node3" href="$d4/d4d/class_tool_registry.html#ac7399939344c02b4bdcd9e23c92758da" title="Return a pointer to a tool given its name." alt="" coords="307,56,453,83"/>
+<area shape="rect" id="node4" href="$dd/d4a/class_lasso_tool.html#a2458cea555baedc6aa100f702f95a973" title="Set the offset above the surface of the touchpoint." alt="" coords="281,107,479,133"/>
+<area shape="rect" id="node5" href="$dd/d4a/class_lasso_tool.html#a54110ccf80be4b7e02a3df9cf91e88f7" title="Set the penetration depth of the touchpoint." alt="" coords="295,158,465,199"/>
+</map>

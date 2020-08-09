@@ -1,0 +1,4 @@
+<map id="VoxelImageVisualizer::getPolyDataOutput" name="VoxelImageVisualizer::getPolyDataOutput">
+<area shape="rect" id="node1" title="Return foreground voxel grid cells as vtkPolyData." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node2" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="200,13,372,39"/>
+</map>

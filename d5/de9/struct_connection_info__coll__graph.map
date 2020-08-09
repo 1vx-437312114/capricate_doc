@@ -1,0 +1,5 @@
+<map id="ConnectionInfo" name="ConnectionInfo">
+<area shape="rect" id="node1" title="The ConnectionInfo struct contains the indices of the source and destination touchpoint." alt="" coords="107,160,253,237"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,13,179,90"/>
+<area shape="rect" id="node3" href="$d3/d2c/struct_connection_indices.html" title="The ConnectionIndices struct contains the indices of the source touchpoint and destination connector ..." alt="" coords="203,5,333,97"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="OctreeVoxelizer::update" name="OctreeVoxelizer::update">
+<area shape="rect" id="node1" title="Execute voxelization algorithm." alt="" coords="5,136,167,163"/>
+<area shape="rect" id="node2" href="$d3/d01/class_surface_voxelizer.html#a6229ddeb8b8ffac7578bc61ea59f21c4" title="Return voxel grid outputimage." alt="" coords="223,5,409,32"/>
+<area shape="rect" id="node3" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="521,123,596,149"/>
+<area shape="rect" id="node4" href="$d3/d01/class_surface_voxelizer.html#a95de539d4c1fcec15fe71e0e198146f3" title="Set mesh geometry (vtkPolyData) as input data." alt="" coords="215,107,417,133"/>
+<area shape="rect" id="node5" href="$d3/d01/class_surface_voxelizer.html#a233c618ca6eedc6b0a3cb05652e128e6" title="Set voxel grid dimensions." alt="" coords="221,158,411,199"/>
+<area shape="rect" id="node6" href="$d5/d6e/class_octree_voxelizer.html#ac4d2a8be8056f86ed42f32e73866b808" title=" " alt="" coords="230,223,402,265"/>
+<area shape="rect" id="node7" href="$d3/d01/class_surface_voxelizer.html#ad92c2d3d705fd77a35eca686805fd6b5" title="Execute voxelization algorithm." alt="" coords="233,289,399,316"/>
+<area shape="rect" id="node8" href="$d3/d01/class_surface_voxelizer.html#a561f458666b251ca2a008d91c3d40eda" title="Compute 1D linearized index from 3D index." alt="" coords="486,239,631,265"/>
+<area shape="rect" id="node9" href="$d3/d01/class_surface_voxelizer.html#a3e6ab3230ceb81ca440c9a9ec8e57a51" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="465,289,652,316"/>
+<area shape="rect" id="node11" href="$d3/da6/surfacevoxelizer_8h.html#afa23ae24e8d335ddaaffe1c53e3a3785" title=" " alt="" coords="508,340,609,367"/>
+<area shape="rect" id="node10" href="$d3/d01/class_surface_voxelizer.html#abf6ba302b811d653c38f9bddd6a95856" title="Clamp integer values between min and max." alt="" coords="700,289,879,316"/>
+<area shape="rect" id="node12" href="$d3/da6/surfacevoxelizer_8h.html#af60a3ac6c4ab41e6e6c719f117f3732a" title="plane box overlap based on the separating axis theorem Adapted from" alt="" coords="729,340,850,367"/>
+</map>

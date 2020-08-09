@@ -1,0 +1,34 @@
+<map id="Scene::replaceMeshPolyData" name="Scene::replaceMeshPolyData">
+<area shape="rect" id="node1" title="Replace the actual mesh polydata with the polydata given as parameter." alt="" coords="5,757,200,784"/>
+<area shape="rect" id="node2" href="$db/dae/class_voxel_image_visualizer.html#a9d6ddcce68efaea01bfacaa932f27d9a" title="Return RGB color cube output visualization." alt="" coords="525,9,671,50"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#aa52192763d5339a0e7803abe296220c9" title="Return the cuberille visualization of the voxel grid data." alt="" coords="272,245,439,272"/>
+<area shape="rect" id="node6" href="$d6/db5/class_scene.html#a7009d25646e9f3a07482091ed2d62e52" title="Return the inner and outer voxels visualization of the voxel grid data." alt="" coords="251,297,459,338"/>
+<area shape="rect" id="node7" href="$db/dae/class_voxel_image_visualizer.html#a279e821afcfbef7cb624c391eec3b7a4" title="Return visualization of the mesh interior only." alt="" coords="282,75,429,117"/>
+<area shape="rect" id="node9" href="$d6/db5/class_scene.html#a04c9e871c5edc15ca00d736a9cb6c0d0" title="Return the interior voxels only visualization of the voxel grid data." alt="" coords="273,362,437,403"/>
+<area shape="rect" id="node10" href="$d6/db5/class_scene.html#a90991eb2b230d4839cde43ee588af34f" title="Return the graphical representation (vtkActor) of the mesh." alt="" coords="281,428,429,455"/>
+<area shape="rect" id="node11" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="270,479,441,505"/>
+<area shape="rect" id="node12" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="268,529,443,556"/>
+<area shape="rect" id="node13" href="$d6/db5/class_scene.html#a0799bb0687ffe3a97e0523a4e700ef2d" title="Return the occupation map visualization." alt="" coords="252,580,459,607"/>
+<area shape="rect" id="node14" href="$db/dae/class_voxel_image_visualizer.html#a00b60f629dcc3335bff26934e88b9bcb" title="Return the occupation map visualization (unoccupied = yellow, occupied = blue)" alt="" coords="521,139,675,181"/>
+<area shape="rect" id="node15" href="$d1/db8/class_voxelizer.html#a26853b4686f962a54f48a6dfd1fbcd5d" title=" " alt="" coords="285,631,425,657"/>
+<area shape="rect" id="node16" href="$d6/db5/class_scene.html#a8bf8e4b441886787dc82c2caa9b25884" title="Return the vtkRenderer of the scene." alt="" coords="286,681,425,708"/>
+<area shape="rect" id="node17" href="$db/dae/class_voxel_image_visualizer.html#a5f41640feebb9f49204b777abb09fec2" title="Return visualization with VOXEL_OUTSIDE = &quot;White&quot;, VOXEL_OCCUPIED = &quot;Red&quot;, VOXEL_SHELL = &quot;Yellow&quot;,..." alt="" coords="511,205,685,246"/>
+<area shape="rect" id="node18" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="283,732,428,759"/>
+<area shape="rect" id="node19" href="$d6/db5/class_scene.html#a0f623445e01bd234eb0d29f2e33f4de2" title="Return the scene voxelizer." alt="" coords="286,783,425,809"/>
+<area shape="rect" id="node20" href="$d6/db5/class_scene.html#acc5e8dbc84b359afaa7d4ab9b9ef265a" title="Return the working plane actor of the scene." alt="" coords="266,833,445,860"/>
+<area shape="rect" id="node21" href="$d6/db5/class_scene.html#a2c29ea6207a84e38a132b3fc5a76af3f" title="Set the cuberille visualization of the voxel grid data." alt="" coords="272,884,439,911"/>
+<area shape="rect" id="node22" href="$d6/db5/class_scene.html#a8a5bbc640b28cb958d61ba27fa11b0a8" title="Set the inner and outer voxels visualization of the voxel grid data." alt="" coords="251,935,459,977"/>
+<area shape="rect" id="node23" href="$db/dae/class_voxel_image_visualizer.html#a15634f5a62fd0d71806741d1db033243" title="Set input data of the visualizer." alt="" coords="282,1001,429,1042"/>
+<area shape="rect" id="node24" href="$d6/db5/class_scene.html#a8f87a02bb1aef320096879b3745839cd" title="Set the interior voxels only visualization of the voxel grid data." alt="" coords="273,1066,437,1107"/>
+<area shape="rect" id="node25" href="$d6/db5/class_scene.html#a36de0362da7ee73ded780390f80caaaa" title="Set the look at vector of the camera." alt="" coords="292,1132,419,1159"/>
+<area shape="rect" id="node26" href="$d6/db5/class_scene.html#abf928529f82ab5dbc8e59a20dbd27de9" title="Set the graphical representation (vtkActor) of the mesh." alt="" coords="281,1183,429,1209"/>
+<area shape="rect" id="node27" href="$d6/db5/class_scene.html#a53f4a71963cdc0a9b4f68434078af3ee" title="Set the geometric data (vtkPolyData) of the mesh." alt="" coords="270,1233,441,1260"/>
+<area shape="rect" id="node28" href="$d6/db5/class_scene.html#a431017310523135dc8738eb7301f6c76" title="Set the occupation map visualization." alt="" coords="252,1284,459,1311"/>
+<area shape="rect" id="node29" href="$db/dae/class_voxel_image_visualizer.html#a65eec474a368555a6ba16c1f54e956db" title="Set output size of the visualization." alt="" coords="282,1335,429,1377"/>
+<area shape="rect" id="node30" href="$d1/db8/class_voxelizer.html#ab878f5b9cd34bca2411652da392c1e62" title=" " alt="" coords="248,1401,463,1428"/>
+<area shape="rect" id="node31" href="$d6/db5/class_scene.html#abdd2ca5a54aa2156e3c464354ef70e3a" title="Set the voxel grid image data." alt="" coords="283,1452,428,1479"/>
+<area shape="rect" id="node32" href="$d6/db5/class_scene.html#abe144e7f90394523c79861981c2338bd" title="Set the scene voxelizer." alt="" coords="286,1503,425,1529"/>
+<area shape="rect" id="node3" href="$db/dae/class_voxel_image_visualizer.html#a381e70e9dba0cad1fddf946aa7f4a408" title="Compute scaling factor for visualization actor." alt="" coords="746,77,893,118"/>
+<area shape="rect" id="node4" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="733,144,905,171"/>
+<area shape="rect" id="node8" href="$db/dae/class_voxel_image_visualizer.html#a266b4be6343bb49d53b4af2c9e7df310" title=" " alt="" coords="525,74,671,115"/>
+</map>

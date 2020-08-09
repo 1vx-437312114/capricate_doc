@@ -1,0 +1,5 @@
+<map id="AStar::isPassable" name="AStar::isPassable">
+<area shape="rect" id="node1" title="Check if index vector pos is not locked." alt="" coords="349,5,476,32"/>
+<area shape="rect" id="node2" href="$de/d52/class_a_star.html#a7db84752520b860d018730cdd1d40f42" title="Return neighbor voxels of voxel with nodeIndex." alt="" coords="183,5,301,32"/>
+<area shape="rect" id="node3" href="$de/d52/class_a_star.html#a3d259f327b7c6966a4b3bc77c3a1c02b" title="Search a path in the voxelgrid using the A* algorithm with the preset heuristic." alt="" coords="5,5,135,32"/>
+</map>

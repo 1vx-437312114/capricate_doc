@@ -1,0 +1,8 @@
+<map id="VoxelOctree::AABB::getCenter" name="VoxelOctree::AABB::getCenter">
+<area shape="rect" id="node1" title="Return the center of the AABB." alt="" coords="697,57,843,98"/>
+<area shape="rect" id="node2" href="$d8/dcf/class_voxel_octree.html#a916e75ddc4d7d02767e9c9a14a4e8ce6" title="Build the octree." alt="" coords="5,49,133,76"/>
+<area shape="rect" id="node3" href="$d8/dcf/class_voxel_octree.html#af2cc14fcc3bd3679c8803e964cf08549" title=" " alt="" coords="412,35,649,61"/>
+<area shape="rect" id="node5" href="$d8/dcf/class_voxel_octree.html#a6a6f83af743fde0840a023406c5d86d3" title="Computes the sign of the distance in the leaf node (if the voxel is inside or outside of the mesh sur..." alt="" coords="181,130,364,171"/>
+<area shape="rect" id="node6" href="$d8/dcf/class_voxel_octree.html#a7d8d6764945dbc748598c9ce41350e77" title="Computes the distance from the leaf node to the mesh surface." alt="" coords="433,86,629,127"/>
+<area shape="rect" id="node4" href="$d8/dcf/class_voxel_octree.html#a0715dbbe502cc236c17715301bb10ad7" title="Subdivides the octree nodes further." alt="" coords="195,49,351,76"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ExportOpenScadTool::setFilename" name="ExportOpenScadTool::setFilename">
+<area shape="rect" id="node1" title="Set the filename of the openscad output file." alt="" coords="735,5,880,47"/>
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#aa9c04ef63aa1c705b8e5a26aec1cdf9b" title=" " alt="" coords="461,13,687,39"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,5,413,47"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,13,185,39"/>
+</map>

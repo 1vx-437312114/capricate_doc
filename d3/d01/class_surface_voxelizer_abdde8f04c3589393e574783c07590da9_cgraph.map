@@ -1,0 +1,4 @@
+<map id="SurfaceVoxelizer::posToCell" name="SurfaceVoxelizer::posToCell">
+<area shape="rect" id="node1" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$d3/d01/class_surface_voxelizer.html#abf6ba302b811d653c38f9bddd6a95856" title="Clamp integer values between min and max." alt="" coords="240,5,419,32"/>
+</map>

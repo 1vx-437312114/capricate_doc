@@ -1,0 +1,5 @@
+<map id="vtkSurface::RescaleCoordinates" name="vtkSurface::RescaleCoordinates">
+<area shape="rect" id="node1" title="rescale the points so that the maximum coordinates range is equal to 1" alt="" coords="5,46,216,73"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a342d0273e9a72ba4975767cc64c7a83c" title="Returns the coordinates of Point." alt="" coords="264,5,439,47"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a01c1ee4293def07611ad5a33ea192eb8" title="Sets the coordinates of Point." alt="" coords="265,71,438,112"/>
+</map>

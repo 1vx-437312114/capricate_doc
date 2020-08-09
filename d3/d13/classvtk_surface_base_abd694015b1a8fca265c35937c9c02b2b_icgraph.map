@@ -1,0 +1,11 @@
+<map id="vtkSurfaceBase::GetVertexNeighbourFaces" name="vtkSurfaceBase::GetVertexNeighbourFaces">
+<area shape="rect" id="node1" title="Returns the list of faces adjacent to the point v1." alt="" coords="793,115,975,156"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#ada6cfad7e26b2cae144e98bd508ca9cb" title="Returns the entropy of the valences of the mesh." alt="" coords="545,5,735,47"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#ae78633a07d17cf7a4f10ba23604c0b9d" title="writes a text file containing an histogram of the vertices valence distribution" alt="" coords="535,71,745,98"/>
+<area shape="rect" id="node6" href="$d1/dfa/classvtk_surface.html#a996cf3bc28f8a22732f0310eac7f8fd3" title="Computes the area of Vertex (it will actually compute the area of the Surrounding cells divided by th..." alt="" coords="551,122,729,149"/>
+<area shape="rect" id="node8" href="$d1/dfa/classvtk_surface.html#ac7e948e93dc12e4773321535197b9866" title="Computes the normal at a vertex (works only for triangular meshes)" alt="" coords="543,173,737,199"/>
+<area shape="rect" id="node9" href="$d3/d13/classvtk_surface_base.html#a343111e4b8b0103bf1f5d6d29fc41c18" title="Merge the two input vertices v1 and v2." alt="" coords="537,223,743,250"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#afe3aaa7de019acb523e75df87e6c9a19" title="copy to stream the connectivity and geometric properties of the mesh" alt="" coords="281,13,487,39"/>
+<area shape="rect" id="node4" href="$d1/dfa/classvtk_surface.html#a95f0aa5277c846fe4a21300f55409186" title="same as GetMeshProperties, but the properties are displayed on screen" alt="" coords="5,13,233,39"/>
+<area shape="rect" id="node7" href="$d1/dfa/classvtk_surface.html#a827481a8bbfe917053f7fb961950daaa" title="Computes the Vertices Areas with respect to their surrounding cells." alt="" coords="287,122,481,149"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MeshSampler::generateSamplesOnMesh" name="MeshSampler::generateSamplesOnMesh">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,216,65"/>
+<area shape="rect" id="node2" href="$d9/d6b/namespace_sampling.html#a6485f7ee5709973834120058ed6dc745" title="computes a hammersley two&#45;dimensional point" alt="" coords="264,5,436,32"/>
+<area shape="rect" id="node4" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="313,56,387,83"/>
+<area shape="rect" id="node3" href="$d9/d6b/namespace_sampling.html#acf525e677ad04c36632c86a31132564a" title="computes the radical inverse (base for hammersley sampling)" alt="" coords="484,5,681,32"/>
+</map>

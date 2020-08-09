@@ -1,0 +1,7 @@
+<map id="Utils::convertOFFStrToPolyData" name="Utils::convertOFFStrToPolyData">
+<area shape="rect" id="node1" title="Converts an OFF file string to a vtkPolyData object." alt="" coords="477,66,688,93"/>
+<area shape="rect" id="node2" href="$d9/d00/class_p_s_interface_tool.html#aa26bf20d4e597f64df960e4c1a5c3a69" title=" " alt="" coords="5,10,175,37"/>
+<area shape="rect" id="node3" href="$dd/d00/class_export_s_t_l_tool.html#a218420198ac8fef5b9f9a8acc889307d" title=" " alt="" coords="9,65,171,91"/>
+<area shape="rect" id="node4" href="$d4/d76/class_i_g_l_mesh_boolean_operation_filter.html#a2a84e6e879e95cac0ad31f1531c621ea" title="Execute operation on meshes." alt="" coords="223,29,429,71"/>
+<area shape="rect" id="node5" href="$d9/d68/class_cork_mesh_boolean_operation_filter.html#a0248d172d1c6b4037b2ce5bab38f14c3" title="Execute operation on meshes." alt="" coords="233,147,419,188"/>
+</map>

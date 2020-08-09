@@ -1,0 +1,4 @@
+<map id="VTKAlgorithmWaitThread" name="VTKAlgorithmWaitThread">
+<area shape="rect" id="node1" title="Thread for executing VTK algorithms while keeping the GUI responsive." alt="" coords="5,131,195,267"/>
+<area shape="rect" id="node2" title=" " alt="" coords="64,5,136,83"/>
+</map>

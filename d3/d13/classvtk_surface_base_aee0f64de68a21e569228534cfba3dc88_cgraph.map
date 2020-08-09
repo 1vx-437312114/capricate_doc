@@ -1,0 +1,11 @@
+<map id="vtkSurfaceBase::CheckNormals" name="vtkSurfaceBase::CheckNormals">
+<area shape="rect" id="node1" title="Reorders Cells description so that each cell is well oriented." alt="" coords="5,136,216,163"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#af6106de85da3d9bb09d35c8f31cbb191" title="the method which keeps the orientation of the faces consistent. This is called whenever a new face is..." alt="" coords="264,99,499,141"/>
+<area shape="rect" id="node9" href="$d3/d13/classvtk_surface_base.html#a2f903d435003385ebe7839c1f157db7f" title="returns 1 if Face is actually used to store a polygon (not deleted). Returns 0 otherwise" alt="" coords="281,165,481,192"/>
+<area shape="rect" id="node3" href="$d5/d9c/vtksurfacebase_8cxx.html#a2e8c26ea64993c77629c368633da5ff0" title=" " alt="" coords="599,5,715,32"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="552,56,763,83"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a6d0fece7168e91590325097ee7a320a2" title="Returns v1 and v2 as the vertices bounding the edge." alt="" coords="547,107,768,133"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="575,157,739,184"/>
+<area shape="rect" id="node8" href="$d3/d13/classvtk_surface_base.html#a9c77655b36b9fa47039e88d71f1be28a" title="Returns true if the edge is a Manifold one (2 adjacent polygons)" alt="" coords="551,208,764,235"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="816,150,997,191"/>
+</map>

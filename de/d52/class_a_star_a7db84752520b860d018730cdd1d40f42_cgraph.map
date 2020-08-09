@@ -1,0 +1,7 @@
+<map id="AStar::neighbors" name="AStar::neighbors">
+<area shape="rect" id="node1" title="Return neighbor voxels of voxel with nodeIndex." alt="" coords="5,81,124,108"/>
+<area shape="rect" id="node2" href="$de/d52/class_a_star.html#afca90a393cbdf6550cb2a3c5249bac66" title="Compute 3D integer coordinate index from 1D linearized index." alt="" coords="179,5,293,32"/>
+<area shape="rect" id="node3" href="$de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="348,107,428,133"/>
+<area shape="rect" id="node4" href="$de/d52/class_a_star.html#abfc996c3525f7063745d948b15d0dda5" title="Check if index vector pos is inside the voxel grid." alt="" coords="172,107,300,133"/>
+<area shape="rect" id="node5" href="$de/d52/class_a_star.html#a13631a64978b59ffeda2e5bd6235a35f" title="Check if index vector pos is not locked." alt="" coords="173,157,299,184"/>
+</map>

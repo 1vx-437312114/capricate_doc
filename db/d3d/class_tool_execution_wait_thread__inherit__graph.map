@@ -1,0 +1,4 @@
+<map id="ToolExecutionWaitThread" name="ToolExecutionWaitThread">
+<area shape="rect" id="node1" title="Thread for executing tools while keeping the GUI responsive." alt="" coords="5,131,195,252"/>
+<area shape="rect" id="node2" title=" " alt="" coords="64,5,136,83"/>
+</map>

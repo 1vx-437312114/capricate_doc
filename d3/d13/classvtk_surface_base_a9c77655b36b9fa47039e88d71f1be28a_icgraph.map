@@ -1,0 +1,21 @@
+<map id="vtkSurfaceBase::IsEdgeManifold" name="vtkSurfaceBase::IsEdgeManifold">
+<area shape="rect" id="node1" title="Returns true if the edge is a Manifold one (2 adjacent polygons)" alt="" coords="1087,307,1300,333"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#af6106de85da3d9bb09d35c8f31cbb191" title="the method which keeps the orientation of the faces consistent. This is called whenever a new face is..." alt="" coords="804,215,1039,257"/>
+<area shape="rect" id="node17" href="$d1/dfa/classvtk_surface.html#afe3aaa7de019acb523e75df87e6c9a19" title="copy to stream the connectivity and geometric properties of the mesh" alt="" coords="819,307,1024,333"/>
+<area shape="rect" id="node19" href="$d3/d13/classvtk_surface_base.html#adea9f67a72ae9f40ebbc5dd3536c0864" title="returns true if the vertex is manifold." alt="" coords="836,358,1007,399"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#af60b7f39eb89fccc1256dc2bad3af80b" title="Adds a face (ve1,ve2,ve3) to the vtkSurfaceBase Object and returns its Id." alt="" coords="545,136,739,163"/>
+<area shape="rect" id="node11" href="$d3/d13/classvtk_surface_base.html#a16e3b6b8174063a24d61f9e20e71aaf1" title="Changes one vertex of a given face." alt="" coords="543,202,741,243"/>
+<area shape="rect" id="node12" href="$d3/d13/classvtk_surface_base.html#aee0f64de68a21e569228534cfba3dc88" title="Reorders Cells description so that each cell is well oriented." alt="" coords="537,268,747,295"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a0c1300b92e803904eddacbbc25a89c09" title="Adds a face (ve1,ve2,ve3) to the vtkSurfaceBase Object and returns its Id." alt="" coords="279,56,454,83"/>
+<area shape="rect" id="node9" href="$d1/dfa/classvtk_surface.html#afe7e615323e323b5aff70fa1b4cf6fb1" title="returns a vtkSurface with no empty memory slots" alt="" coords="279,107,454,133"/>
+<area shape="rect" id="node10" href="$d1/dfa/classvtk_surface.html#a56f1edbf05daf9d9e038d28b2261bcc5" title="returns a vtkSurface made of the biggest connected component" alt="" coords="256,158,477,199"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a3605512219637518eaa534c82f974a79" title="Bisects Edge by creating a new vertex at its midpoints and two new faces." alt="" coords="10,5,201,32"/>
+<area shape="rect" id="node6" href="$d1/dfa/classvtk_surface.html#aeb1922c987d5fdcebe1b680d82db9087" title="Recusrsively splits the edges longer than Ratio*AverageLength." alt="" coords="13,201,197,228"/>
+<area shape="rect" id="node7" href="$d1/dfa/classvtk_surface.html#ad35b4c37556f13f0deeb6bb9753f18af" title="returns a mesh which is a linear subdivision of this" alt="" coords="30,56,181,83"/>
+<area shape="rect" id="node8" href="$d1/dfa/classvtk_surface.html#a8871f6a866295a51c983283a4ccc0a9d" title="subdivide the mesh (in place)" alt="" coords="8,107,203,133"/>
+<area shape="rect" id="node13" href="$d3/d13/classvtk_surface_base.html#abb20d4428cd6182c950aff49ac550c29" title="Embeds a vtkPolyData into a vtkSurfaceBase object." alt="" coords="271,275,463,317"/>
+<area shape="rect" id="node16" href="$d3/d13/classvtk_surface_base.html#aa396a785b13b7e7784d5ce5d1bdba2d9" title="switches the cells orientation (usefull when the mesh is displayed all black...)" alt="" coords="253,341,480,368"/>
+<area shape="rect" id="node14" href="$d1/dfa/classvtk_surface.html#a35760f7e4379a535a7338a3dba028b9f" title="Builds a 1 connected component mesh from the mesh in two steps: First: merge the points which are clo..." alt="" coords="5,256,205,283"/>
+<area shape="rect" id="node15" href="$d1/dfa/classvtk_surface.html#a242df182bc35f6b38c25de1b1582bc42" title="Creates the vtkSurface object by reading a mesh file." alt="" coords="14,307,197,333"/>
+<area shape="rect" id="node18" href="$d1/dfa/classvtk_surface.html#a95f0aa5277c846fe4a21300f55409186" title="same as GetMeshProperties, but the properties are displayed on screen" alt="" coords="528,319,756,345"/>
+</map>

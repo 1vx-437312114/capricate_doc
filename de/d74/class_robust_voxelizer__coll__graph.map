@@ -1,0 +1,5 @@
+<map id="RobustVoxelizer" name="RobustVoxelizer">
+<area shape="rect" id="node1" title="Robust voxelizer based on raycasting and majority voting." alt="" coords="71,233,313,648"/>
+<area shape="rect" id="node2" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="5,5,179,171"/>
+<area shape="rect" id="node3" title=" " alt="" coords="203,49,381,127"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SinglePassVoxelizer" name="SinglePassVoxelizer">
+<area shape="rect" id="node1" title="Single pass rasterization based voxelizer." alt="" coords="5,219,179,472"/>
+<area shape="rect" id="node2" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="5,5,179,171"/>
+</map>

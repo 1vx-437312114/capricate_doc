@@ -1,0 +1,16 @@
+<map id="AutowireTool::clearConnections" name="AutowireTool::clearConnections">
+<area shape="rect" id="node1" title="Remove all wiring connections." alt="" coords="5,303,212,330"/>
+<area shape="rect" id="node2" href="$dd/d10/class_connection.html#a96ce1fa7643d6de71dd728e0d9c2ead0" title="Return the graphical representation (vtkActor) of the connection geometry." alt="" coords="283,5,463,47"/>
+<area shape="rect" id="node3" href="$dd/d10/class_connection.html#a6dfa62a677e8a374e02559892853b4d9" title="Return the graphical line representation object (vtkActor) of the connection." alt="" coords="289,71,458,98"/>
+<area shape="rect" id="node4" href="$dd/d10/class_connection.html#a5269756a5f3eabbc5ee96df7d53ac992" title="Return the value of the markNeighborhood flag." alt="" coords="260,122,487,149"/>
+<area shape="rect" id="node5" href="$dd/d10/class_connection.html#a621375a3053bac56b06b25cf79e5a5b4" title="Return the connection path as a vector of 3d voxel grid indices." alt="" coords="303,173,444,199"/>
+<area shape="rect" id="node6" href="$d6/db5/class_scene.html#a8bf8e4b441886787dc82c2caa9b25884" title="Return the vtkRenderer of the scene." alt="" coords="304,223,443,250"/>
+<area shape="rect" id="node7" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="275,274,472,301"/>
+<area shape="rect" id="node8" href="$dd/d10/class_connection.html#a24be5fb6fd21b1b0bbc9853b8075f9f4" title="Set the graphical representation (vtkActor) of the connection geometry." alt="" coords="283,325,463,367"/>
+<area shape="rect" id="node9" href="$dd/d10/class_connection.html#aa53698bb689af2a64f852309c6dbf6c8" title="Set the geometry (vtkPolyData) of the connection." alt="" coords="283,391,463,432"/>
+<area shape="rect" id="node10" href="$dd/d10/class_connection.html#ab326c063ff3ad8a7261e2893dbe01bb1" title="Set the pointer to the destination connector." alt="" coords="283,457,463,483"/>
+<area shape="rect" id="node11" href="$dd/d10/class_connection.html#ae15a2ee585ad551838dbedc5bf71e22a" title="Set the graphical line representation object (vtkActor)" alt="" coords="289,507,458,534"/>
+<area shape="rect" id="node12" href="$dd/d10/class_connection.html#a6ffa49b4f1ad929605b3562b6c8951b2" title="Set the pointer to the source touchpoint." alt="" coords="296,558,451,585"/>
+<area shape="rect" id="node13" href="$de/d52/class_a_star.html#a38fa07c212033976433ac07e04d2f626" title="Unmark a path (unlock)" alt="" coords="307,609,440,635"/>
+<area shape="rect" id="node14" href="$de/d52/class_a_star.html#aa76c29f42861c4f6fc7c328e4dbc7d83" title="Mark a path as locked so that it can not be used by another search." alt="" coords="535,609,653,635"/>
+</map>

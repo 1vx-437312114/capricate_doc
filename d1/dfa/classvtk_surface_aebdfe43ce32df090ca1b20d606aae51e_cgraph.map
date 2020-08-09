@@ -1,0 +1,6 @@
+<map id="vtkSurface::WriteMeshStatisticsFile" name="vtkSurface::WriteMeshStatisticsFile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,236,83"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="284,5,504,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a310ee566afcb88b7672ea6abf2d9f098" title="Returns the valence of the Point V1 i.e. its number of adjacent Points." alt="" coords="299,56,489,83"/>
+<area shape="rect" id="node4" href="$da/d7b/vtksurface_8cxx.html#a7dfabf648221e2ab9f1d4babc35dd051" title=" " alt="" coords="333,107,455,133"/>
+</map>

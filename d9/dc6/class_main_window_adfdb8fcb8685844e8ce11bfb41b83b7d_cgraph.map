@@ -1,0 +1,30 @@
+<map id="MainWindow::slotOptimizationBenchmarkCthulhu" name="MainWindow::slotOptimizationBenchmarkCthulhu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,475,204,517"/>
+<area shape="rect" id="node2" href="$d9/d4f/namespace_layout_algorithms.html#ad165a81c391eaa466ebce1da720ee6b5" title="Computes a wiring entry point in world coordinates for a sphere shaped touchpoint geometry." alt="" coords="252,195,433,237"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a15f9fa9fe71b50669ecf5f5a3a1ce90e" title="Import STL / OBJ mesh into the scene." alt="" coords="262,457,423,484"/>
+<area shape="rect" id="node26" href="$d1/d7c/namespace_utils.html#a4b6c4a605143b128db1c74f39d0277ef" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="285,508,400,535"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#a11dbefea61baedac29ea616f5fae877d" title="slots" alt="" coords="266,559,419,585"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="503,5,674,32"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a08e4bb8908089a538371760ac9f2f54e" title="En&#45;/disable all menus (usefull during operations which work in another thread)" alt="" coords="496,407,681,433"/>
+<area shape="rect" id="node6" href="$db/dae/class_voxel_image_visualizer.html#a9d6ddcce68efaea01bfacaa932f27d9a" title="Return RGB color cube output visualization." alt="" coords="758,498,905,539"/>
+<area shape="rect" id="node9" href="$db/dae/class_voxel_image_visualizer.html#a279e821afcfbef7cb624c391eec3b7a4" title="Return visualization of the mesh interior only." alt="" coords="515,559,662,601"/>
+<area shape="rect" id="node11" href="$db/dae/class_voxel_image_visualizer.html#a00b60f629dcc3335bff26934e88b9bcb" title="Return the occupation map visualization (unoccupied = yellow, occupied = blue)" alt="" coords="755,629,908,670"/>
+<area shape="rect" id="node12" href="$d1/db8/class_voxelizer.html#a26853b4686f962a54f48a6dfd1fbcd5d" title=" " alt="" coords="519,676,659,703"/>
+<area shape="rect" id="node13" href="$db/dae/class_voxel_image_visualizer.html#a5f41640feebb9f49204b777abb09fec2" title="Return visualization with VOXEL_OUTSIDE = &quot;White&quot;, VOXEL_OCCUPIED = &quot;Red&quot;, VOXEL_SHELL = &quot;Yellow&quot;,..." alt="" coords="744,433,919,474"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a69be5fbef09fb7b5c37dfe4bf546bd8a" title="Return the used voxelizer." alt="" coords="501,727,677,753"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#a81962e4df0a9d0167d3870ec87a574d9" title="Return the resolution of the used voxelizer." alt="" coords="501,778,677,819"/>
+<area shape="rect" id="node18" href="$dc/da5/class_voxelizer_thread.html#aeec94d245092bf8afa42ec5af6563e1b" title=" " alt="" coords="507,844,671,871"/>
+<area shape="rect" id="node19" href="$dc/d29/class_v_t_k_algorithm_wait_thread.html#a352c79c18a5dac09f0710f4f61437c79" title=" " alt="" coords="504,57,673,98"/>
+<area shape="rect" id="node20" href="$d1/db8/class_voxelizer.html#a6c0182587b20e001a80607ebc9537958" title=" " alt="" coords="509,123,668,149"/>
+<area shape="rect" id="node21" href="$db/dae/class_voxel_image_visualizer.html#a15634f5a62fd0d71806741d1db033243" title="Set input data of the visualizer." alt="" coords="515,174,662,215"/>
+<area shape="rect" id="node22" href="$db/dae/class_voxel_image_visualizer.html#a65eec474a368555a6ba16c1f54e956db" title="Set output size of the visualization." alt="" coords="515,239,662,281"/>
+<area shape="rect" id="node23" href="$d1/db8/class_voxelizer.html#ab878f5b9cd34bca2411652da392c1e62" title=" " alt="" coords="481,305,696,332"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a37afa0d4419a56879d650a1400b42306" title=" " alt="" coords="503,356,675,383"/>
+<area shape="rect" id="node7" href="$db/dae/class_voxel_image_visualizer.html#a381e70e9dba0cad1fddf946aa7f4a408" title="Compute scaling factor for visualization actor." alt="" coords="979,501,1126,542"/>
+<area shape="rect" id="node8" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="967,568,1139,595"/>
+<area shape="rect" id="node10" href="$db/dae/class_voxel_image_visualizer.html#a266b4be6343bb49d53b4af2c9e7df310" title=" " alt="" coords="758,563,905,605"/>
+<area shape="rect" id="node15" href="$d3/d5f/class_preferences_dialog.html#ace3bbb86fc20219c88cef8ff21f4ebf0" title=" " alt="" coords="750,711,913,753"/>
+<area shape="rect" id="node17" href="$d3/d5f/class_preferences_dialog.html#a987ba30f65385851fb38ef638f7c0bec" title=" " alt="" coords="754,777,909,833"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a9b4b1ec94ad0c252298db72eb6cf6d6d" title="Refresh the screen after changes to the scene." alt="" coords="745,356,918,383"/>
+<area shape="rect" id="node27" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="535,895,642,921"/>
+</map>

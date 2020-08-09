@@ -1,0 +1,6 @@
+<map id="VoxelOctree::traverse" name="VoxelOctree::traverse">
+<area shape="rect" id="node1" title="Traverse the octree." alt="" coords="5,35,153,61"/>
+<area shape="rect" id="node2" href="$d8/dcf/class_voxel_octree.html#a97f818ad002b649909f2b7e116d87182" title="Traverses the octree to build the voxel image." alt="" coords="201,35,388,61"/>
+<area shape="rect" id="node3" href="$d8/dcf/class_voxel_octree.html#a21c3528b452a216e10419c285ec28664" title="Convert octree to voxel grid." alt="" coords="437,5,581,32"/>
+<area shape="rect" id="node4" href="$d2/de9/struct_voxel_octree_1_1_a_a_b_b.html#a5fb084e31d4f69230410273d8d6ab789" title="Return the width of the AABB." alt="" coords="436,57,581,98"/>
+</map>

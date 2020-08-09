@@ -1,0 +1,8 @@
+<map id="vtkSurfaceBase::IsFace" name="vtkSurfaceBase::IsFace">
+<area shape="rect" id="node1" title="Returns the Id of the face having v1, v2 and v3 for vertices." alt="" coords="5,64,168,91"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="216,5,427,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a6c3a0d390ca15d995c91db45c81fcea8" title="Returns the third Point of the face f1 (the two first Points are v1 and v2)" alt="" coords="235,57,408,98"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="239,123,403,149"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="475,64,695,91"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="494,115,675,157"/>
+</map>

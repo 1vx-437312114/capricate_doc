@@ -1,0 +1,4 @@
+<map id="vtkSurfaceBase::AllocateMoreEdgesAttributes" name="vtkSurfaceBase::AllocateMoreEdgesAttributes">
+<area shape="rect" id="node1" title=" " alt="" coords="229,5,400,47"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a73172bd0d284295c511313a594af799f" title="adds an edge (v1,v2) to the vtkSurface, with possibly an adjacent face f1" alt="" coords="5,13,181,39"/>
+</map>

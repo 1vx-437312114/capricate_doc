@@ -1,0 +1,4 @@
+<map id="Component::setID" name="Component::setID">
+<area shape="rect" id="node1" title="Set the unique id for identification of the component." alt="" coords="187,5,316,32"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a30201c068436f1339f9709b778b19ee1" title="Reset the whole scene and all actors." alt="" coords="5,5,139,32"/>
+</map>

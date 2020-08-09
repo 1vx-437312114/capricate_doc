@@ -1,0 +1,15 @@
+<map id="ExportOpenScadTool::writeDifference" name="ExportOpenScadTool::writeDifference">
+<area shape="rect" id="node1" title="Export the meshdifference between mesh and wiring in the openscad format." alt="" coords="5,169,151,210"/>
+<area shape="rect" id="node2" href="$d2/d68/class_export_open_scad_tool.html#a7f29f99b52300deb6af6bdab5153030d" title="Export the mesh in the openscad format." alt="" coords="199,67,344,109"/>
+<area shape="rect" id="node4" href="$d2/d68/class_export_open_scad_tool.html#a2e36901501e307b74705aa84f4227d67" title="Export the wiring in the openscad format." alt="" coords="199,201,344,242"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="414,5,585,32"/>
+<area shape="rect" id="node5" href="$d1/d7c/namespace_utils.html#adfd018a6efe0bd54e0e8344ecc1fe208" title="Compute world coordinate equivalent of voxel grid integer index." alt="" coords="442,56,557,83"/>
+<area shape="rect" id="node6" href="$d9/d58/class_touchpoint.html#a25425137e60d6d5f21d597e8f6632eed" title="Return the interior wiring connection position (world coordinates)" alt="" coords="400,107,599,133"/>
+<area shape="rect" id="node7" href="$d9/d58/class_touchpoint.html#a61c467b19b4d5940fdeff3070709d2b2" title="Return if touchpoint is sphere shaped." alt="" coords="418,157,581,184"/>
+<area shape="rect" id="node8" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="412,208,587,235"/>
+<area shape="rect" id="node9" href="$d9/d58/class_touchpoint.html#a3c7555f7762d81e5b93e48fa31a7490c" title="Return the geometry of the touchpoint (vtkPolyData)" alt="" coords="417,259,582,285"/>
+<area shape="rect" id="node10" href="$d9/d58/class_touchpoint.html#af65e6d637a44d8a800b51186d18364a2" title="Return radius of sphere shaped touchpoint." alt="" coords="403,309,596,336"/>
+<area shape="rect" id="node11" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="401,360,598,387"/>
+<area shape="rect" id="node12" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="655,436,800,463"/>
+<area shape="rect" id="node13" href="$d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" title="Return dimensions of the voxel data." alt="" coords="392,461,607,488"/>
+</map>

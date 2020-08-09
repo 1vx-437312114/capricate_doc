@@ -1,0 +1,9 @@
+<map id="GreedyOptimizer::optimize" name="GreedyOptimizer::optimize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,148,183,175"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a64cb0dcdcb57a45fe485fb3489c112c4" title="Return if the 26&#45;neighborhood voxels of a connection path are locked too." alt="" coords="235,5,439,32"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#abe8f9d18527a1fea362460cdc53cb5eb" title="Return the bounds of the mesh in scene coordinates." alt="" coords="231,57,444,98"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="239,123,436,149"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="265,173,410,200"/>
+<area shape="rect" id="node6" href="$de/d52/class_a_star.html#aa76c29f42861c4f6fc7c328e4dbc7d83" title="Mark a path as locked so that it can not be used by another search." alt="" coords="278,224,397,251"/>
+<area shape="rect" id="node7" href="$de/d52/class_a_star.html#a0d1fd50821c4cd7bbd8a87bd9fcf5dd3" title="Search a path in the voxelgrid using the A* algorithm with the preset heuristic." alt="" coords="273,275,402,301"/>
+</map>

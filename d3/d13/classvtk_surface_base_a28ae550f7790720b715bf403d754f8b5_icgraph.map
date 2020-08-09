@@ -1,0 +1,12 @@
+<map id="vtkSurfaceBase::GetNumberOfEdges" name="vtkSurfaceBase::GetNumberOfEdges">
+<area shape="rect" id="node1" title="Returns the number of edges in the vtkSurfaceBase Object." alt="" coords="535,175,725,217"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#a953e87d3c04cb906a2ec336dd7040076" title="Computes the Mesh Edges Lengths in an array." alt="" coords="289,5,479,32"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#aeb1922c987d5fdcebe1b680d82db9087" title="Recusrsively splits the edges longer than Ratio*AverageLength." alt="" coords="27,31,211,57"/>
+<area shape="rect" id="node4" href="$d1/dfa/classvtk_surface.html#a2a5532c01f9e99216df56a7452cc82a1" title="returns a polydata of the mesh edges only" alt="" coords="281,107,487,133"/>
+<area shape="rect" id="node5" href="$d1/dfa/classvtk_surface.html#afe3aaa7de019acb523e75df87e6c9a19" title="copy to stream the connectivity and geometric properties of the mesh" alt="" coords="281,157,487,184"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#a667824957faeecac1f36e8337931c3aa" title="Set memory allocation in the vtkSurfaceBase object, which is assumed to be as large as the *mesh vtkS..." alt="" coords="313,208,455,235"/>
+<area shape="rect" id="node8" href="$d3/d13/classvtk_surface_base.html#af819348a4ab1b2d74cbbcaadd24e7286" title="Recover extra memory." alt="" coords="295,259,473,285"/>
+<area shape="rect" id="node9" href="$d1/dfa/classvtk_surface.html#ad35b4c37556f13f0deeb6bb9753f18af" title="returns a mesh which is a linear subdivision of this" alt="" coords="309,309,459,336"/>
+<area shape="rect" id="node10" href="$d1/dfa/classvtk_surface.html#a8871f6a866295a51c983283a4ccc0a9d" title="subdivide the mesh (in place)" alt="" coords="287,360,481,387"/>
+<area shape="rect" id="node6" href="$d1/dfa/classvtk_surface.html#a95f0aa5277c846fe4a21300f55409186" title="same as GetMeshProperties, but the properties are displayed on screen" alt="" coords="5,157,233,184"/>
+</map>

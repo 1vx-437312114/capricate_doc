@@ -1,0 +1,8 @@
+<map id="Scene::getRenderWindow" name="Scene::getRenderWindow">
+<area shape="rect" id="node1" title="Return the vtk render window of the application." alt="" coords="261,143,436,170"/>
+<area shape="rect" id="node2" href="$de/dd7/class_polyline_touchpoint_tool.html#a68d7b8c4d090063977b3404e4084290a" title=" " alt="" coords="32,5,187,47"/>
+<area shape="rect" id="node3" href="$d4/d58/class_polyline_add_final_point_callback.html#aebf2f4ff9236a12c598205822c2949a2" title="Overwritten callback method, which is executed when the left mouse button is pressed for the first ti..." alt="" coords="9,71,209,112"/>
+<area shape="rect" id="node4" href="$da/dcb/class_freehand_add_final_point_callback.html#a4a889b08c802e7e81598b8dd8b5e3dad" title="Overwritten callback method, which is executed when the left mouse button is pressed." alt="" coords="5,136,213,177"/>
+<area shape="rect" id="node5" href="$de/de0/class_freehand_touchpoint_tool.html#a553b2df8ed2128433bac512947a1ce2c" title=" " alt="" coords="28,201,191,243"/>
+<area shape="rect" id="node6" href="$d1/db5/class_lasso_interactor_style.html#a711994cec6c74643d2bc161ba73daacd" title="Overwritten method, which is executed when the left mouse button is released." alt="" coords="38,267,181,308"/>
+</map>

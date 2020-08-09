@@ -1,0 +1,18 @@
+<map id="vtkSurfaceBase::IsFaceActive" name="vtkSurfaceBase::IsFaceActive">
+<area shape="rect" id="node1" title="returns 1 if Face is actually used to store a polygon (not deleted). Returns 0 otherwise" alt="" coords="819,317,1019,344"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#aee0f64de68a21e569228534cfba3dc88" title="Reorders Cells description so that each cell is well oriented." alt="" coords="558,115,769,141"/>
+<area shape="rect" id="node8" href="$d3/d13/classvtk_surface_base.html#a1c405b8df23f423fd18fee6d923b8efe" title="Checks the integrity of the structure. Returns true if the structure is OK." alt="" coords="556,292,771,319"/>
+<area shape="rect" id="node9" href="$d1/dfa/classvtk_surface.html#afe7e615323e323b5aff70fa1b4cf6fb1" title="returns a vtkSurface with no empty memory slots" alt="" coords="576,343,751,369"/>
+<area shape="rect" id="node10" href="$d1/dfa/classvtk_surface.html#a5e49c2664a0fa9927b19a86d88f2d919" title="Computes the mesh minimal angle, average minimal angle, minimal triangle quality and average triangle..." alt="" coords="564,445,763,486"/>
+<area shape="rect" id="node11" href="$d1/dfa/classvtk_surface.html#afe3aaa7de019acb523e75df87e6c9a19" title="copy to stream the connectivity and geometric properties of the mesh" alt="" coords="292,423,497,449"/>
+<area shape="rect" id="node13" href="$d3/d13/classvtk_surface_base.html#aae9fbf8586bd128017ffb7a389651d9f" title="Deletes the face f1, possibly its adjacent edges and vertices if they are free and is CleanVertices a..." alt="" coords="568,191,759,217"/>
+<area shape="rect" id="node15" href="$d1/dfa/classvtk_surface.html#a8871f6a866295a51c983283a4ccc0a9d" title="subdivide the mesh (in place)" alt="" coords="297,241,492,268"/>
+<area shape="rect" id="node16" href="$d1/dfa/classvtk_surface.html#ad35b4c37556f13f0deeb6bb9753f18af" title="returns a mesh which is a linear subdivision of this" alt="" coords="588,511,739,537"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#abb20d4428cd6182c950aff49ac550c29" title="Embeds a vtkPolyData into a vtkSurfaceBase object." alt="" coords="299,23,491,65"/>
+<area shape="rect" id="node6" href="$d1/dfa/classvtk_surface.html#aeb1922c987d5fdcebe1b680d82db9087" title="Recusrsively splits the edges longer than Ratio*AverageLength." alt="" coords="303,140,487,167"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#aa396a785b13b7e7784d5ce5d1bdba2d9" title="switches the cells orientation (usefull when the mesh is displayed all black...)" alt="" coords="281,89,508,116"/>
+<area shape="rect" id="node4" href="$d1/dfa/classvtk_surface.html#a35760f7e4379a535a7338a3dba028b9f" title="Builds a 1 connected component mesh from the mesh in two steps: First: merge the points which are clo..." alt="" coords="19,5,219,32"/>
+<area shape="rect" id="node5" href="$d1/dfa/classvtk_surface.html#a242df182bc35f6b38c25de1b1582bc42" title="Creates the vtkSurface object by reading a mesh file." alt="" coords="28,56,211,83"/>
+<area shape="rect" id="node12" href="$d1/dfa/classvtk_surface.html#a95f0aa5277c846fe4a21300f55409186" title="same as GetMeshProperties, but the properties are displayed on screen" alt="" coords="5,423,233,449"/>
+<area shape="rect" id="node14" href="$d3/d13/classvtk_surface_base.html#a343111e4b8b0103bf1f5d6d29fc41c18" title="Merge the two input vertices v1 and v2." alt="" coords="291,191,498,217"/>
+</map>

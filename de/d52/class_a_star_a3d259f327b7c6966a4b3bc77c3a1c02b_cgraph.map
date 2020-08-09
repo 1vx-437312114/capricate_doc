@@ -1,0 +1,12 @@
+<map id="AStar::searchPath" name="AStar::searchPath">
+<area shape="rect" id="node1" title="Search a path in the voxelgrid using the A* algorithm with the preset heuristic." alt="" coords="5,107,135,133"/>
+<area shape="rect" id="node2" href="$de/d52/class_a_star.html#afca90a393cbdf6550cb2a3c5249bac66" title="Compute 3D integer coordinate index from 1D linearized index." alt="" coords="357,56,470,83"/>
+<area shape="rect" id="node3" href="$de/d52/class_a_star.html#a5450c01e578edaa89de3d3b8a22b0706" title="Return the cost of traversing the voxel." alt="" coords="198,5,286,32"/>
+<area shape="rect" id="node4" href="$de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="700,157,780,184"/>
+<area shape="rect" id="node5" href="$de/d52/class_a_star.html#a7db84752520b860d018730cdd1d40f42" title="Return neighbor voxels of voxel with nodeIndex." alt="" coords="183,157,301,184"/>
+<area shape="rect" id="node8" href="$de/d52/class_a_star.html#a67f440fb4e77fad8d273ef848e9703c1" title="Reset grid." alt="" coords="196,259,288,285"/>
+<area shape="rect" id="node6" href="$de/d52/class_a_star.html#abfc996c3525f7063745d948b15d0dda5" title="Check if index vector pos is inside the voxel grid." alt="" coords="349,259,477,285"/>
+<area shape="rect" id="node7" href="$de/d52/class_a_star.html#a13631a64978b59ffeda2e5bd6235a35f" title="Check if index vector pos is not locked." alt="" coords="525,208,652,235"/>
+<area shape="rect" id="node9" href="$de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" title=" " alt="" coords="355,309,471,336"/>
+<area shape="rect" id="node10" href="$de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" title=" " alt="" coords="537,284,641,311"/>
+</map>

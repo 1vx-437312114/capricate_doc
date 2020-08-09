@@ -1,0 +1,4 @@
+<map id="ToolRegistry::addTool" name="ToolRegistry::addTool">
+<area shape="rect" id="node1" title="Add a tool to the registry." alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html#a570fe2898f55b0bc2691b4fd2c039224" title="Return the name of the tool." alt="" coords="201,5,332,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="vtkSurfaceBase::FlipEdge" name="vtkSurfaceBase::FlipEdge">
+<area shape="rect" id="node1" title="Flips the edge. If the flip was performed, return &#45;1. Otherwise, the edge already existing is returne..." alt="" coords="5,202,180,229"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#ae63b7ea41f949bf8b801ba46b3828f2e" title="removes the edge e1 from the ring of v1" alt="" coords="243,5,434,47"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="233,71,444,98"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a6d0fece7168e91590325097ee7a320a2" title="Returns v1 and v2 as the vertices bounding the edge." alt="" coords="228,122,449,149"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="497,326,717,353"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#a6c3a0d390ca15d995c91db45c81fcea8" title="Returns the third Point of the face f1 (the two first Points are v1 and v2)" alt="" coords="252,289,425,331"/>
+<area shape="rect" id="node8" href="$d3/d13/classvtk_surface_base.html#a0031b6361753a6f7b7761760b4f95fec" title="inserts the edge e1 in the ring of v1" alt="" coords="245,224,432,265"/>
+<area shape="rect" id="node10" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="257,173,421,199"/>
+<area shape="rect" id="node11" href="$d3/d13/classvtk_surface_base.html#a69ae53c0816a844aeb6ec835084e48bf" title="Replaces the definition of f1 by the face formed by v1,v2 and v3." alt="" coords="253,406,425,433"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="517,163,698,204"/>
+<area shape="rect" id="node9" href="$d3/d13/classvtk_surface_base.html#ac6bf9896f86fffac680b5983649d7fea" title=" " alt="" coords="522,228,693,269"/>
+</map>

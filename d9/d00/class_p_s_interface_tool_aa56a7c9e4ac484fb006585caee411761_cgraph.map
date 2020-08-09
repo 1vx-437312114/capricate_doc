@@ -1,0 +1,6 @@
+<map id="PSInterfaceTool::PSInterfaceTool" name="PSInterfaceTool::PSInterfaceTool">
+<area shape="rect" id="node1" title="Construct a PSInterface object." alt="" coords="5,35,221,61"/>
+<area shape="rect" id="node2" href="$d7/d0d/class_meshloader.html#a15574d976cca4b56627695dee5871568" title="Return mesh." alt="" coords="295,5,450,32"/>
+<area shape="rect" id="node3" href="$d7/d0d/class_meshloader.html#a80a624e102d120e7a1bde32bd1f98004" title="Load a mesh given its filename from a Qt resource." alt="" coords="269,57,476,98"/>
+<area shape="rect" id="node4" href="$d7/d0d/class_meshloader.html#a4f336822f507e4952518c1a194e99744" title="Creates a scene object from the polydata." alt="" coords="524,64,732,91"/>
+</map>

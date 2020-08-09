@@ -1,0 +1,6 @@
+<map id="VoxelImageVisualizer::getPolyDataOutput" name="VoxelImageVisualizer::getPolyDataOutput">
+<area shape="rect" id="node1" title="Return foreground voxel grid cells as vtkPolyData." alt="" coords="759,5,905,47"/>
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#adb56e27c5e383155fa30d30b7cf5acef" title=" " alt="" coords="461,13,711,39"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,5,413,47"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,13,185,39"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="meshloader.h" name="meshloader.h">
+<area shape="rect" id="node1" title="Class for loading meshes in various formats via VTK (stl, obj)." alt="" coords="172,5,272,32"/>
+<area shape="rect" id="node2" href="$d9/d53/mainwindow_8h.html" title="Qt MainWindow of the application." alt="" coords="73,155,177,181"/>
+<area shape="rect" id="node5" href="$d8/d15/psinterfacetool_8h.html" title="Tool for automatically place a groundplate with electrical connections and magnets." alt="" coords="163,80,281,107"/>
+<area shape="rect" id="node7" href="$d9/d7e/meshloader_8cpp.html" title=" " alt="" coords="306,80,421,107"/>
+<area shape="rect" id="node3" href="$d8/dd9/mainwindow_8cpp.html" title=" " alt="" coords="5,229,124,256"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="147,229,222,256"/>
+<area shape="rect" id="node6" href="$d5/da0/psinterfacetool_8cpp.html" title=" " alt="" coords="201,155,333,181"/>
+</map>

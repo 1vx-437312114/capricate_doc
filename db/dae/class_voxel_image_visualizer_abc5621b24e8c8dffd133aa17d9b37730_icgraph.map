@@ -1,0 +1,5 @@
+<map id="VoxelImageVisualizer::getVoxelActor" name="VoxelImageVisualizer::getVoxelActor">
+<area shape="rect" id="node1" title=" " alt="" coords="200,39,347,80"/>
+<area shape="rect" id="node2" href="$db/dae/class_voxel_image_visualizer.html#a832d4efbe743573453e2ee744e92ece6" title="Return background color cells visualization." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node3" href="$db/dae/class_voxel_image_visualizer.html#a8021df5f7e97d1d5f85c4ffdba400c65" title="Return foreground color cells visualization." alt="" coords="5,71,152,112"/>
+</map>

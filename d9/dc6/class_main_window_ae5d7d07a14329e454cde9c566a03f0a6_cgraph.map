@@ -1,0 +1,4 @@
+<map id="MainWindow::toggleShowProp" name="MainWindow::toggleShowProp">
+<area shape="rect" id="node1" title="Show / Hide vtkProps (actors)" alt="" coords="5,5,205,32"/>
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a9b4b1ec94ad0c252298db72eb6cf6d6d" title="Refresh the screen after changes to the scene." alt="" coords="253,5,427,32"/>
+</map>

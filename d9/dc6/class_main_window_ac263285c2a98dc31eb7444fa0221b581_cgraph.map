@@ -1,0 +1,5 @@
+<map id="MainWindow::slotShowAxis" name="MainWindow::slotShowAxis">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,191,32"/>
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#ae5d7d07a14329e454cde9c566a03f0a6" title="Show / Hide vtkProps (actors)" alt="" coords="239,5,439,32"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a9b4b1ec94ad0c252298db72eb6cf6d6d" title="Refresh the screen after changes to the scene." alt="" coords="487,5,660,32"/>
+</map>

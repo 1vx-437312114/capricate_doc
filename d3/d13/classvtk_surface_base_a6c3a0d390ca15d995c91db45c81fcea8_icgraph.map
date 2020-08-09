@@ -1,0 +1,9 @@
+<map id="vtkSurfaceBase::GetThirdPoint" name="vtkSurfaceBase::GetThirdPoint">
+<area shape="rect" id="node1" title="Returns the third Point of the face f1 (the two first Points are v1 and v2)" alt="" coords="493,99,667,141"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a3605512219637518eaa534c82f974a79" title="Bisects Edge by creating a new vertex at its midpoints and two new faces." alt="" coords="255,5,445,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#ae1d5c759716c9ec5bb01ceab96ece9d1" title="Conquer from a triangle f1 through the edge bounded by v1 and v2." alt="" coords="264,56,436,83"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#adea9f67a72ae9f40ebbc5dd3536c0864" title="returns true if the vertex is manifold." alt="" coords="21,70,191,111"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#abc24e58144c7a215d84afa33a6864439" title="Flips the edge. If the flip was performed, return &#45;1. Otherwise, the edge already existing is returne..." alt="" coords="263,157,437,184"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#a193d4aa307b371583cb5c27a5a91efca" title="Returns the Id of the face having v1, v2 and v3 for vertices." alt="" coords="269,208,431,235"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#a8c1c05d41fedc99401dd39995d8e5c97" title="Flips the edge. If the resulting edge already exists, it is flipped (an so on). Returns &#45;1 in case of..." alt="" coords="5,157,207,184"/>
+</map>

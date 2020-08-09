@@ -1,0 +1,5 @@
+<map id="Meshloader::loadMesh" name="Meshloader::loadMesh">
+<area shape="rect" id="node1" title="Load a mesh given its filename." alt="" coords="5,31,159,57"/>
+<area shape="rect" id="node2" href="$d7/d0d/class_meshloader.html#a4f336822f507e4952518c1a194e99744" title="Creates a scene object from the polydata." alt="" coords="207,5,415,32"/>
+<area shape="rect" id="node3" href="$d7/d0d/class_meshloader.html#af0be0b2271e9cadcf50a525db0410890" title="Return vtkAbstractPolyDataReader object." alt="" coords="232,56,389,83"/>
+</map>

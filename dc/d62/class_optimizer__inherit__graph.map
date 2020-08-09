@@ -1,0 +1,12 @@
+<map id="Optimizer" name="Optimizer">
+<area shape="rect" id="node1" title="Base class for wirelength optimizers." alt="" coords="770,5,969,171"/>
+<area shape="rect" id="node2" href="$da/d4f/class_brute_force_optimizer.html" title="Optimizes the wirelength of a path by exhaustive search by trying every possibility." alt="" coords="5,424,168,516"/>
+<area shape="rect" id="node3" href="$dc/d6d/class_g_a_optimizer.html" title="Optimizes the wirelength of a path by using a genetic algorithm." alt="" coords="192,219,387,721"/>
+<area shape="rect" id="node4" href="$de/d17/class_great_deluge_optimizer.html" title="Optimizes the wirelength of a path by using the great deluge algorithm." alt="" coords="411,336,581,604"/>
+<area shape="rect" id="node5" href="$da/d20/class_greedy_optimizer.html" title="Optimizes the wirelength of a path by using the nearest neighbor (greedy) algorithm." alt="" coords="606,424,746,516"/>
+<area shape="rect" id="node6" href="$d1/d15/class_hill_climbing_optimizer.html" title="Optimizes the wirelength of a path by using the hill climbing algorithm." alt="" coords="771,343,968,597"/>
+<area shape="rect" id="node7" href="$d0/d4c/class_null_optimizer.html" title="Does not optimize at all (null) but instead connects the first touchpoint with the first connector an..." alt="" coords="993,424,1114,516"/>
+<area shape="rect" id="node8" href="$d2/d35/class_random_optimizer.html" title="Does not optimize at all (null) but instead connects the first touchpoint with the first connector an..." alt="" coords="1138,402,1313,538"/>
+<area shape="rect" id="node9" href="$d0/d53/class_simulated_annealing_optimizer.html" title="Optimizes the wirelength of a path by using the simulated annealing optimizer." alt="" coords="1337,358,1551,582"/>
+<area shape="rect" id="node10" href="$d0/da8/class_threshold_accepting_optimizer.html" title="Optimizes the wirelength of a path by using the threshold acceptance algorithm." alt="" coords="1575,336,1787,604"/>
+</map>

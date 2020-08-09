@@ -1,0 +1,7 @@
+<map id="TriangleMinAngle" name="TriangleMinAngle">
+<area shape="rect" id="node1" title=" " alt="" coords="813,42,936,69"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#a5e49c2664a0fa9927b19a86d88f2d919" title="Computes the mesh minimal angle, average minimal angle, minimal triangle quality and average triangle..." alt="" coords="551,5,749,47"/>
+<area shape="rect" id="node5" href="$d1/dfa/classvtk_surface.html#aebdfe43ce32df090ca1b20d606aae51e" title=" " alt="" coords="535,71,765,98"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#afe3aaa7de019acb523e75df87e6c9a19" title="copy to stream the connectivity and geometric properties of the mesh" alt="" coords="281,13,487,39"/>
+<area shape="rect" id="node4" href="$d1/dfa/classvtk_surface.html#a95f0aa5277c846fe4a21300f55409186" title="same as GetMeshProperties, but the properties are displayed on screen" alt="" coords="5,13,233,39"/>
+</map>

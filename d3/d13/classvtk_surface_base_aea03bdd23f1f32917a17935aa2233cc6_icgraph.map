@@ -1,0 +1,7 @@
+<map id="vtkSurfaceBase::IsEdgeActive" name="vtkSurfaceBase::IsEdgeActive">
+<area shape="rect" id="node1" title="returns 1 if Edge is actually used to store an edge (not deleted). Returns 0 otherwise" alt="" coords="535,56,736,83"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#afe3aaa7de019acb523e75df87e6c9a19" title="copy to stream the connectivity and geometric properties of the mesh" alt="" coords="281,5,487,32"/>
+<area shape="rect" id="node4" href="$d1/dfa/classvtk_surface.html#ad35b4c37556f13f0deeb6bb9753f18af" title="returns a mesh which is a linear subdivision of this" alt="" coords="309,56,459,83"/>
+<area shape="rect" id="node5" href="$d1/dfa/classvtk_surface.html#a8871f6a866295a51c983283a4ccc0a9d" title="subdivide the mesh (in place)" alt="" coords="287,107,481,133"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#a95f0aa5277c846fe4a21300f55409186" title="same as GetMeshProperties, but the properties are displayed on screen" alt="" coords="5,5,233,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="vtkSurfaceBase::IsEdgeBetweenFaces" name="vtkSurfaceBase::IsEdgeBetweenFaces">
+<area shape="rect" id="node1" title="Returns the Id of the edge between the faces f1 and f2 Returns &#45;1 if the edge doesn&#39;t exist." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="268,13,432,39"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="480,5,661,47"/>
+</map>

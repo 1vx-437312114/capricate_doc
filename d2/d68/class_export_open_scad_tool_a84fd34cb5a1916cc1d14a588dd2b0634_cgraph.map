@@ -1,0 +1,4 @@
+<map id="ExportOpenScadTool::writeConnectionList" name="ExportOpenScadTool::writeConnectionList">
+<area shape="rect" id="node1" title="Export the connection list (touchpoint no. to connector no.) as json and text." alt="" coords="5,5,151,47"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="199,13,396,39"/>
+</map>

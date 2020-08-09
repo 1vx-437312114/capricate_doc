@@ -1,0 +1,27 @@
+<map id="AStar" name="AStar">
+<area shape="rect" id="node1" title="Implementation of the A* search algorithm." alt="" coords="156,4005,411,4552"/>
+<area shape="rect" id="node2" title=" " alt="" coords="95,3440,258,3517"/>
+<area shape="rect" id="node3" href="$d3/df3/class_grid_node.html" title="Grid node for the A* search algorithm." alt="" coords="5,2552,167,2937"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="372,3015,587,3943"/>
+<area shape="rect" id="node5" title=" " alt="" coords="191,2706,378,2783"/>
+<area shape="rect" id="node6" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="198,2221,371,2387"/>
+<area shape="rect" id="node7" title=" " alt="" coords="335,1825,495,1917"/>
+<area shape="rect" id="node11" href="$db/d46/class_touchpoint_registry.html" title="Manages all the touchpoints and connections in a scene." alt="" coords="453,2119,647,2489"/>
+<area shape="rect" id="node8" title=" " alt="" coords="298,1429,493,1507"/>
+<area shape="rect" id="node9" href="$d9/d58/class_touchpoint.html" title="Base class for representing various design elements which are embeded in mesh surface." alt="" coords="265,147,504,957"/>
+<area shape="rect" id="node14" href="$dd/d10/class_connection.html" title="Connection between a source touchpoint and a destination connector." alt="" coords="524,1035,704,1405"/>
+<area shape="rect" id="node10" title=" " alt="" coords="453,2699,636,2791"/>
+<area shape="rect" id="node12" title=" " alt="" coords="521,1825,681,1917"/>
+<area shape="rect" id="node13" title=" " alt="" coords="513,1538,712,1615"/>
+<area shape="rect" id="node15" title=" " alt="" coords="529,513,702,591"/>
+<area shape="rect" id="node16" href="$d3/d2c/struct_connection_indices.html" title="The ConnectionIndices struct contains the indices of the source touchpoint and destination connector ..." alt="" coords="726,506,857,598"/>
+<area shape="rect" id="node17" title=" " alt="" coords="661,2706,815,2783"/>
+<area shape="rect" id="node18" title=" " alt="" coords="839,2699,999,2791"/>
+<area shape="rect" id="node19" title=" " alt="" coords="820,2265,1019,2343"/>
+<area shape="rect" id="node20" href="$d2/d00/class_component.html" title="3D&#45;Printing construction component which is not of type wiring, touchpoint or connector." alt="" coords="808,1700,1031,2041"/>
+<area shape="rect" id="node21" title=" " alt="" coords="785,1538,939,1615"/>
+<area shape="rect" id="node22" title=" " alt="" coords="964,1531,1165,1623"/>
+<area shape="rect" id="node23" href="$d3/dbe/struct_component_1_1_open_s_c_a_d_sub_component.html" title="OpenSCAD Code container for subcomponents." alt="" coords="937,1181,1193,1259"/>
+<area shape="rect" id="node24" title="STL class." alt="" coords="1025,513,1105,591"/>
+<area shape="rect" id="node25" title="STL class." alt="" coords="1001,5,1128,97"/>
+</map>

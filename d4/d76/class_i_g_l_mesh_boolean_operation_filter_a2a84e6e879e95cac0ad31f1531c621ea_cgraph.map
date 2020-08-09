@@ -1,0 +1,5 @@
+<map id="IGLMeshBooleanOperationFilter::update" name="IGLMeshBooleanOperationFilter::update">
+<area shape="rect" id="node1" title="Execute operation on meshes." alt="" coords="5,27,212,69"/>
+<area shape="rect" id="node2" href="$d1/d7c/namespace_utils.html#aa5d158311887a6c34d059c9d136a3574" title="Converts an OFF file string to a vtkPolyData object." alt="" coords="260,5,471,32"/>
+<area shape="rect" id="node3" href="$d1/d7c/namespace_utils.html#afd090f87572898d5aff43d140fa6c0c9" title="Converts a vtkPolyData object to an OFF file string which can be written to disk or passed to a funct..." alt="" coords="281,57,449,98"/>
+</map>

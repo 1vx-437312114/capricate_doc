@@ -1,0 +1,4 @@
+<map id="Meshloader::getReader" name="Meshloader::getReader">
+<area shape="rect" id="node1" title="Return vtkAbstractPolyDataReader object." alt="" coords="207,5,364,32"/>
+<area shape="rect" id="node2" href="$d7/d0d/class_meshloader.html#a6fb121942ec1f679af2d5b4c0f2995b4" title="Load a mesh given its filename." alt="" coords="5,5,159,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SurfaceVoxelizer::setSampleDimensions" name="SurfaceVoxelizer::setSampleDimensions">
+<area shape="rect" id="node1" title="Set voxel grid dimensions." alt="" coords="663,136,853,177"/>
+<area shape="rect" id="node2" href="$d3/d01/class_surface_voxelizer.html#a2c6e15933555fa5a7853bdb0ff7ca288" title="Set voxel grid dimensions as std::array." alt="" coords="424,5,615,47"/>
+<area shape="rect" id="node3" href="$d8/dc0/class_single_pass_voxelizer.html#a2cd430591b881ba1fed2294284283fd1" title="Execute voxelization algorithm." alt="" coords="449,71,590,112"/>
+<area shape="rect" id="node6" href="$da/dce/class_multi_pass_voxelizer.html#abb1e58d42145fecc9e937c614a297861" title="Execute voxelization algorithm." alt="" coords="453,136,586,177"/>
+<area shape="rect" id="node7" href="$d5/d6e/class_octree_voxelizer.html#a6587bb79f04277bd15705d408f2a013d" title="Execute voxelization algorithm." alt="" coords="439,202,600,229"/>
+<area shape="rect" id="node8" href="$dd/df8/class_robust_voxelizer.html#ad6c9b7b523ad75df14bb79122e6d4b3a" title="Execute voxelization algorithm." alt="" coords="437,253,601,279"/>
+<area shape="rect" id="node4" href="$d9/dd1/class_mesh_subtractor.html#ac7f4a729498501d6703614b0555931e6" title=" " alt="" coords="215,78,376,105"/>
+<area shape="rect" id="node5" href="$dd/d00/class_export_s_t_l_tool.html#a218420198ac8fef5b9f9a8acc889307d" title=" " alt="" coords="5,78,167,105"/>
+</map>

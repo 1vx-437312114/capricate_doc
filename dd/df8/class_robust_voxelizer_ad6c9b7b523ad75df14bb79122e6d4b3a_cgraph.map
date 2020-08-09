@@ -1,0 +1,13 @@
+<map id="RobustVoxelizer::update" name="RobustVoxelizer::update">
+<area shape="rect" id="node1" title="Execute voxelization algorithm." alt="" coords="5,107,169,133"/>
+<area shape="rect" id="node2" href="$d3/d01/class_surface_voxelizer.html#a6229ddeb8b8ffac7578bc61ea59f21c4" title="Return voxel grid outputimage." alt="" coords="226,5,411,32"/>
+<area shape="rect" id="node3" href="$dd/df8/class_robust_voxelizer.html#a29bbe0aaf700d50e540604d3fd9aab4c" title=" " alt="" coords="247,56,390,83"/>
+<area shape="rect" id="node4" href="$d3/d01/class_surface_voxelizer.html#a95de539d4c1fcec15fe71e0e198146f3" title="Set mesh geometry (vtkPolyData) as input data." alt="" coords="217,107,420,133"/>
+<area shape="rect" id="node5" href="$d3/d01/class_surface_voxelizer.html#a233c618ca6eedc6b0a3cb05652e128e6" title="Set voxel grid dimensions." alt="" coords="223,158,414,199"/>
+<area shape="rect" id="node6" href="$d3/d01/class_surface_voxelizer.html#ad92c2d3d705fd77a35eca686805fd6b5" title="Execute voxelization algorithm." alt="" coords="235,224,402,251"/>
+<area shape="rect" id="node7" href="$d3/d01/class_surface_voxelizer.html#a561f458666b251ca2a008d91c3d40eda" title="Compute 1D linearized index from 3D index." alt="" coords="489,173,634,200"/>
+<area shape="rect" id="node8" href="$d3/d01/class_surface_voxelizer.html#a3e6ab3230ceb81ca440c9a9ec8e57a51" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="468,224,655,251"/>
+<area shape="rect" id="node10" href="$d3/da6/surfacevoxelizer_8h.html#afa23ae24e8d335ddaaffe1c53e3a3785" title=" " alt="" coords="511,275,612,301"/>
+<area shape="rect" id="node9" href="$d3/d01/class_surface_voxelizer.html#abf6ba302b811d653c38f9bddd6a95856" title="Clamp integer values between min and max." alt="" coords="703,224,881,251"/>
+<area shape="rect" id="node11" href="$d3/da6/surfacevoxelizer_8h.html#af60a3ac6c4ab41e6e6c719f117f3732a" title="plane box overlap based on the separating axis theorem Adapted from" alt="" coords="731,275,853,301"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MainWindow::slotPSInterfaceTool" name="MainWindow::slotPSInterfaceTool">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,224,83"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html#aa3ef777234d67638f33c92a57a083868" title=" " alt="" coords="314,5,414,32"/>
+<area shape="rect" id="node3" href="$d4/d4d/class_tool_registry.html#ac7399939344c02b4bdcd9e23c92758da" title="Return a pointer to a tool given its name." alt="" coords="291,56,437,83"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#ac31dba57d9d9c648c7851d96b744ec5f" title=" " alt="" coords="272,107,456,133"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a9b4b1ec94ad0c252298db72eb6cf6d6d" title="Refresh the screen after changes to the scene." alt="" coords="504,107,677,133"/>
+</map>

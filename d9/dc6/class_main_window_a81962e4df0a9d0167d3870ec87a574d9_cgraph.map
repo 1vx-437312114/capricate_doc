@@ -1,0 +1,4 @@
+<map id="MainWindow::getVoxelizerResolution" name="MainWindow::getVoxelizerResolution">
+<area shape="rect" id="node1" title="Return the resolution of the used voxelizer." alt="" coords="5,13,181,54"/>
+<area shape="rect" id="node2" href="$d3/d5f/class_preferences_dialog.html#a987ba30f65385851fb38ef638f7c0bec" title=" " alt="" coords="229,5,384,61"/>
+</map>

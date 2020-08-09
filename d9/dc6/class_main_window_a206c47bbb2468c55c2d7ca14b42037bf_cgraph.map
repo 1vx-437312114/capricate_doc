@@ -1,0 +1,5 @@
+<map id="MainWindow::slotShowWorkplane" name="MainWindow::slotShowWorkplane">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,225,32"/>
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#ae5d7d07a14329e454cde9c566a03f0a6" title="Show / Hide vtkProps (actors)" alt="" coords="273,5,473,32"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a9b4b1ec94ad0c252298db72eb6cf6d6d" title="Refresh the screen after changes to the scene." alt="" coords="521,5,695,32"/>
+</map>

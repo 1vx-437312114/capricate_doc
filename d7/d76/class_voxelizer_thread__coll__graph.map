@@ -1,0 +1,5 @@
+<map id="VoxelizerThread" name="VoxelizerThread">
+<area shape="rect" id="node1" title="Thread for executing tools while keeping the GUI responsive." alt="" coords="47,233,182,340"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,49,77,127"/>
+<area shape="rect" id="node3" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="101,5,275,171"/>
+</map>

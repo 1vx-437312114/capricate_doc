@@ -1,0 +1,9 @@
+<map id="vtkSurfaceBase::InsertEdgeInRing" name="vtkSurfaceBase::InsertEdgeInRing">
+<area shape="rect" id="node1" title="inserts the edge e1 in the ring of v1" alt="" coords="509,107,696,149"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a73172bd0d284295c511313a594af799f" title="adds an edge (v1,v2) to the vtkSurface, with possibly an adjacent face f1" alt="" coords="270,5,446,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a3605512219637518eaa534c82f974a79" title="Bisects Edge by creating a new vertex at its midpoints and two new faces." alt="" coords="263,56,453,83"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a16e3b6b8174063a24d61f9e20e71aaf1" title="Changes one vertex of a given face." alt="" coords="259,107,457,149"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#abc24e58144c7a215d84afa33a6864439" title="Flips the edge. If the flip was performed, return &#45;1. Otherwise, the edge already existing is returne..." alt="" coords="271,173,445,200"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#a343111e4b8b0103bf1f5d6d29fc41c18" title="Merge the two input vertices v1 and v2." alt="" coords="255,224,461,251"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#a8c1c05d41fedc99401dd39995d8e5c97" title="Flips the edge. If the resulting edge already exists, it is flipped (an so on). Returns &#45;1 in case of..." alt="" coords="5,173,207,200"/>
+</map>

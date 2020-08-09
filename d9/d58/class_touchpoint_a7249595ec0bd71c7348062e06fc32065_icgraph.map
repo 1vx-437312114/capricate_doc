@@ -1,0 +1,5 @@
+<map id="Touchpoint::markUnoccupied" name="Touchpoint::markUnoccupied">
+<area shape="rect" id="node1" title="Mark a single voxel grid cell as unoccupied." alt="" coords="269,42,460,69"/>
+<area shape="rect" id="node2" href="$db/dbb/class_picking_interactor_style.html#a1620702107e2c2d0c0aefbd896098b0d" title="Overloaded method, invoked when right mouse button is pressed." alt="" coords="38,5,189,47"/>
+<area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html#acec000052c2afdd4278d67c03ec357fd" title="Unmark the 26&#45;neighborhood of a single voxel grid cell as unoccupied." alt="" coords="5,71,221,98"/>
+</map>

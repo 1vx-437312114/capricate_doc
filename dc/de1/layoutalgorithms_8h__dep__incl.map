@@ -1,0 +1,29 @@
+<map id="layoutalgorithms.h" name="layoutalgorithms.h">
+<area shape="rect" id="node1" title="Various algorithms / functions for computing placement positions for components." alt="" coords="1396,5,1524,32"/>
+<area shape="rect" id="node2" href="$d1/d51/freehandaddfinalpointcallback_8h.html" title="Callback for Freehand Tool." alt="" coords="229,80,433,107"/>
+<area shape="rect" id="node9" href="$dd/d22/polylineaddfinalpointcallback_8h.html" title="Callback for Polyline Tool." alt="" coords="701,80,899,107"/>
+<area shape="rect" id="node15" href="$df/df7/lassointeractorstyle_8h.html" title="Interactor style for lasso tool." alt="" coords="972,80,1119,107"/>
+<area shape="rect" id="node17" href="$d4/d3f/pickinginteractorstyle_8h.html" title="Interactor style for placing sphere shaped (or other fixed geometry) touchpoints tool." alt="" coords="1926,80,2082,107"/>
+<area shape="rect" id="node21" href="$dd/d50/placegroundplane4connectorstool_8h.html" title="Tool for automatically place connector ground plane with 4 connectors for sensor board." alt="" coords="1675,80,1901,107"/>
+<area shape="rect" id="node23" href="$db/d7e/placegroundplane8connectorstool_8h.html" title=" " alt="" coords="1248,80,1475,107"/>
+<area shape="rect" id="node25" href="$d8/d15/psinterfacetool_8h.html" title="Tool for automatically place a groundplate with electrical connections and magnets." alt="" coords="1499,80,1618,107"/>
+<area shape="rect" id="node27" href="$da/d26/layoutalgorithms_8cpp.html" title=" " alt="" coords="2106,80,2249,107"/>
+<area shape="rect" id="node3" href="$dd/d24/freehandaddfinalpointcallback_8cpp.html" title=" " alt="" coords="5,155,224,181"/>
+<area shape="rect" id="node4" href="$d7/d41/freehandtouchpointtool_8h.html" title=" " alt="" coords="249,155,413,181"/>
+<area shape="rect" id="node5" href="$d9/d53/mainwindow_8h.html" title="Qt MainWindow of the application." alt="" coords="1479,229,1583,256"/>
+<area shape="rect" id="node8" href="$de/d12/freehandtouchpointtool_8cpp.html" title=" " alt="" coords="241,229,420,256"/>
+<area shape="rect" id="node6" href="$d8/dd9/mainwindow_8cpp.html" title=" " alt="" coords="1411,304,1530,331"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="1553,304,1628,331"/>
+<area shape="rect" id="node10" href="$da/d75/polylineaddfinalpointcallback_8cpp.html" title=" " alt="" coords="437,155,649,181"/>
+<area shape="rect" id="node11" href="$d6/d98/lassotool_8h.html" title="Tool for selecting triangles on a mesh to form a touchpoint out of them." alt="" coords="856,155,941,181"/>
+<area shape="rect" id="node13" href="$d7/dbd/polylinetouchpointtool_8h.html" title="Tool for drawing polygon shaped touchpoints on a mesh." alt="" coords="673,155,831,181"/>
+<area shape="rect" id="node12" href="$d4/d9d/lassotool_8cpp.html" title=" " alt="" coords="856,229,955,256"/>
+<area shape="rect" id="node14" href="$d6/d40/polylinetouchpointtool_8cpp.html" title=" " alt="" coords="659,229,831,256"/>
+<area shape="rect" id="node16" href="$d7/d0f/lassointeractorstyle_8cpp.html" title=" " alt="" coords="965,155,1125,181"/>
+<area shape="rect" id="node18" href="$d1/d05/pickinginteractorstyle_8cpp.html" title=" " alt="" coords="2037,155,2208,181"/>
+<area shape="rect" id="node19" href="$da/d57/placetouchpointtool_8h.html" title="Tool for placing sphere shaped touchpoints on a mesh surface." alt="" coords="2233,155,2378,181"/>
+<area shape="rect" id="node20" href="$d5/d6b/placetouchpointtool_8cpp.html" title=" " alt="" coords="2226,229,2385,256"/>
+<area shape="rect" id="node22" href="$d3/d91/placegroundplane4connectorstool_8cpp.html" title=" " alt="" coords="1672,155,1912,181"/>
+<area shape="rect" id="node24" href="$d2/d05/placegroundplane8connectorstool_8cpp.html" title=" " alt="" coords="1149,155,1389,181"/>
+<area shape="rect" id="node26" href="$d5/da0/psinterfacetool_8cpp.html" title=" " alt="" coords="1465,155,1597,181"/>
+</map>

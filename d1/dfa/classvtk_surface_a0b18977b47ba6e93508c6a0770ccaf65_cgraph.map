@@ -1,0 +1,4 @@
+<map id="vtkSurface::ComputeQualityHistogram" name="vtkSurface::ComputeQualityHistogram">
+<area shape="rect" id="node1" title="Computes the histogram of triangles quality and writes it in a file." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="240,13,460,39"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SurfaceVoxelizer::update" name="SurfaceVoxelizer::update">
+<area shape="rect" id="node1" title="Execute voxelization algorithm." alt="" coords="5,56,172,83"/>
+<area shape="rect" id="node2" href="$d3/d01/class_surface_voxelizer.html#a561f458666b251ca2a008d91c3d40eda" title="Compute 1D linearized index from 3D index." alt="" coords="241,5,386,32"/>
+<area shape="rect" id="node3" href="$d3/d01/class_surface_voxelizer.html#a3e6ab3230ceb81ca440c9a9ec8e57a51" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="220,56,407,83"/>
+<area shape="rect" id="node5" href="$d3/da6/surfacevoxelizer_8h.html#afa23ae24e8d335ddaaffe1c53e3a3785" title=" " alt="" coords="263,107,364,133"/>
+<area shape="rect" id="node4" href="$d3/d01/class_surface_voxelizer.html#abf6ba302b811d653c38f9bddd6a95856" title="Clamp integer values between min and max." alt="" coords="455,56,633,83"/>
+<area shape="rect" id="node6" href="$d3/da6/surfacevoxelizer_8h.html#af60a3ac6c4ab41e6e6c719f117f3732a" title="plane box overlap based on the separating axis theorem Adapted from" alt="" coords="483,107,605,133"/>
+</map>

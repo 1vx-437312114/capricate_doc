@@ -1,0 +1,14 @@
+<map id="TouchpointRegistry::reset" name="TouchpointRegistry::reset">
+<area shape="rect" id="node1" title="Clear everything." alt="" coords="5,231,140,273"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#ae06d7b971e13790fab04d7f40b5b89ef" title="Set touchpoint actor." alt="" coords="207,5,349,32"/>
+<area shape="rect" id="node3" href="$dd/d10/class_connection.html#a24be5fb6fd21b1b0bbc9853b8075f9f4" title="Set the graphical representation (vtkActor) of the connection geometry." alt="" coords="188,57,368,98"/>
+<area shape="rect" id="node4" href="$dd/d10/class_connection.html#aa53698bb689af2a64f852309c6dbf6c8" title="Set the geometry (vtkPolyData) of the connection." alt="" coords="188,122,368,163"/>
+<area shape="rect" id="node5" href="$dd/d10/class_connection.html#ab326c063ff3ad8a7261e2893dbe01bb1" title="Set the pointer to the destination connector." alt="" coords="188,188,368,215"/>
+<area shape="rect" id="node6" href="$d9/d58/class_touchpoint.html#a20ea5d908fdf70e2698c5f86789e4742" title="Set touchpoint id to given id." alt="" coords="215,239,341,265"/>
+<area shape="rect" id="node7" href="$dd/d10/class_connection.html#ae15a2ee585ad551838dbedc5bf71e22a" title="Set the graphical line representation object (vtkActor)" alt="" coords="193,289,363,316"/>
+<area shape="rect" id="node8" href="$d9/d58/class_touchpoint.html#aa9274369fab341dc277036e07dbfc234" title="Set the polydata of the touchpoint." alt="" coords="195,340,361,367"/>
+<area shape="rect" id="node11" href="$dd/d10/class_connection.html#a6ffa49b4f1ad929605b3562b6c8951b2" title="Set the pointer to the source touchpoint." alt="" coords="201,391,355,417"/>
+<area shape="rect" id="node12" href="$d9/d58/class_touchpoint.html#a27645f8861d2ce10dc9bff4e72549539" title="Set text label touchpoint number actor." alt="" coords="195,441,361,468"/>
+<area shape="rect" id="node9" href="$d9/d58/class_touchpoint.html#abc86c4002a67fd423b649d597b2055d5" title="Creates the graphical representation (vtkActor) for a touchpoint geometry." alt="" coords="416,333,608,374"/>
+<area shape="rect" id="node10" href="$d9/d58/class_touchpoint.html#aabec59cfa02cddb2dab4420b3c056df0" title="Return color value for a given touchpoint type." alt="" coords="656,333,831,374"/>
+</map>

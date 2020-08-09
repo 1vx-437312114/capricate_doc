@@ -1,0 +1,5 @@
+<map id="Sampling::halton2D" name="Sampling::halton2D">
+<area shape="rect" id="node1" title="computes halton sequence for two&#45;dimensional points" alt="" coords="5,31,141,57"/>
+<area shape="rect" id="node2" href="$d9/d6b/namespace_sampling.html#aa7ea03a0919d8d9464796c547901b28a" title="computes halton sequence for prime 2" alt="" coords="189,5,316,32"/>
+<area shape="rect" id="node3" href="$d9/d6b/namespace_sampling.html#a636cfa67ed8470d9c214992ab76de04f" title="computes halton sequence for prime 2" alt="" coords="189,56,316,83"/>
+</map>

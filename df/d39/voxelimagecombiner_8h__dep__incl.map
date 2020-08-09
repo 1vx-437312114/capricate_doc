@@ -1,0 +1,11 @@
+<map id="voxelimagecombiner.h" name="voxelimagecombiner.h">
+<area shape="rect" id="node1" title="Class for &quot;combining&quot; two voxel images." alt="" coords="189,5,341,32"/>
+<area shape="rect" id="node2" href="$d4/d3f/pickinginteractorstyle_8h.html" title="Interactor style for placing sphere shaped (or other fixed geometry) touchpoints tool." alt="" coords="95,80,251,107"/>
+<area shape="rect" id="node9" href="$db/dfc/voxelimagecombiner_8cpp.html" title=" " alt="" coords="275,80,441,107"/>
+<area shape="rect" id="node3" href="$d9/d53/mainwindow_8h.html" title="Qt MainWindow of the application." alt="" coords="73,229,177,256"/>
+<area shape="rect" id="node6" href="$d1/d05/pickinginteractorstyle_8cpp.html" title=" " alt="" coords="87,155,258,181"/>
+<area shape="rect" id="node7" href="$da/d57/placetouchpointtool_8h.html" title="Tool for placing sphere shaped touchpoints on a mesh surface." alt="" coords="283,155,428,181"/>
+<area shape="rect" id="node4" href="$d8/dd9/mainwindow_8cpp.html" title=" " alt="" coords="5,304,124,331"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="147,304,222,331"/>
+<area shape="rect" id="node8" href="$d5/d6b/placetouchpointtool_8cpp.html" title=" " alt="" coords="276,229,435,256"/>
+</map>

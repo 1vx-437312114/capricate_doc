@@ -1,0 +1,9 @@
+<map id="Touchpoint::getInteriorPosition" name="Touchpoint::getInteriorPosition">
+<area shape="rect" id="node1" title="Return the interior wiring connection position (world coordinates)" alt="" coords="653,60,852,87"/>
+<area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#a45e5cdff2b089a3594c38021ef5d27a7" title="Add wiring geometry of a connection to the scene (tubes)" alt="" coords="413,19,605,45"/>
+<area shape="rect" id="node4" href="$d2/d68/class_export_open_scad_tool.html#a2e36901501e307b74705aa84f4227d67" title="Export the wiring in the openscad format." alt="" coords="437,82,582,123"/>
+<area shape="rect" id="node3" href="$df/dfa/class_autowire_tool.html#a78b35a48395b5502f8c00b373592678b" title="Execute autowiring tool." alt="" coords="207,5,357,32"/>
+<area shape="rect" id="node5" href="$d2/d68/class_export_open_scad_tool.html#a71ef67a238fb9cd74563b65d77c1ea73" title=" " alt="" coords="5,107,151,149"/>
+<area shape="rect" id="node6" href="$d2/d68/class_export_open_scad_tool.html#a9c35cf64ece9ee328df6ebfd080c0689" title="Export the meshdifference between mesh and wiring in the openscad format." alt="" coords="209,107,355,149"/>
+<area shape="rect" id="node7" href="$d2/d68/class_export_open_scad_tool.html#adc9cf506ecd2ef6e33f37f2eb206da1a" title="Export the meshdifference between mesh and magnets in the openscad format." alt="" coords="199,173,365,214"/>
+</map>

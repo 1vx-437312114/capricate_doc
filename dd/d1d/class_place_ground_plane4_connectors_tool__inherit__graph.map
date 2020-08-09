@@ -1,0 +1,4 @@
+<map id="PlaceGroundPlane4ConnectorsTool" name="PlaceGroundPlane4ConnectorsTool">
+<area shape="rect" id="node1" title="Tool for automatically place connector ground plane with 4 connectors for sensor board." alt="" coords="5,263,253,413"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="70,5,189,215"/>
+</map>

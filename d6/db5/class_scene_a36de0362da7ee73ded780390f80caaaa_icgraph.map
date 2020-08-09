@@ -1,0 +1,5 @@
+<map id="Scene::setLookAt" name="Scene::setLookAt">
+<area shape="rect" id="node1" title="Set the look at vector of the camera." alt="" coords="465,5,592,32"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a266f98c6795eca4f5c03cba5761967d6" title="Replace the actual mesh polydata with the polydata given as parameter." alt="" coords="223,5,417,32"/>
+<area shape="rect" id="node3" href="$d9/d00/class_p_s_interface_tool.html#aa26bf20d4e597f64df960e4c1a5c3a69" title=" " alt="" coords="5,5,175,32"/>
+</map>

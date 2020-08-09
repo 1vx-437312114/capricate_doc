@@ -1,0 +1,12 @@
+<map id="PSInterfaceTool::addConnector" name="PSInterfaceTool::addConnector">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,209,184"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a68d5e73ae04e190548aa66ab701814b7" title="Add a touchpoint to the scene (which is subsequently added to the touchpoint registry)" alt="" coords="273,5,424,32"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="263,56,434,83"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="261,107,436,133"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#a8bf8e4b441886787dc82c2caa9b25884" title="Return the vtkRenderer of the scene." alt="" coords="279,157,418,184"/>
+<area shape="rect" id="node6" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="276,208,421,235"/>
+<area shape="rect" id="node7" href="$d6/db5/class_scene.html#a7caf30a70e69430d5e4ac93d6828a649" title="Return the bounds of the voxel grid." alt="" coords="257,259,440,285"/>
+<area shape="rect" id="node9" href="$d1/d7c/namespace_utils.html#a4b6c4a605143b128db1c74f39d0277ef" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="291,309,406,336"/>
+<area shape="rect" id="node8" href="$d6/db5/class_scene.html#a0799bb0687ffe3a97e0523a4e700ef2d" title="Return the occupation map visualization." alt="" coords="488,259,695,285"/>
+<area shape="rect" id="node10" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="538,309,645,336"/>
+</map>

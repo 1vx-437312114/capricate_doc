@@ -1,0 +1,4 @@
+<map id="VoxelizerThread" name="VoxelizerThread">
+<area shape="rect" id="node1" title="Thread for executing tools while keeping the GUI responsive." alt="" coords="5,131,140,252"/>
+<area shape="rect" id="node2" title=" " alt="" coords="37,5,109,83"/>
+</map>

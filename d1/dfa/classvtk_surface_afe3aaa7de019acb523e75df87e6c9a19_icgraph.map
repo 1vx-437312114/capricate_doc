@@ -1,0 +1,4 @@
+<map id="vtkSurface::GetMeshProperties" name="vtkSurface::GetMeshProperties">
+<area shape="rect" id="node1" title="copy to stream the connectivity and geometric properties of the mesh" alt="" coords="281,5,487,32"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#a95f0aa5277c846fe4a21300f55409186" title="same as GetMeshProperties, but the properties are displayed on screen" alt="" coords="5,5,233,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="vtkSurface::GetVertexNormal" name="vtkSurface::GetVertexNormal">
+<area shape="rect" id="node1" title="Computes the normal at a vertex (works only for triangular meshes)" alt="" coords="5,64,199,91"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="247,5,467,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a342d0273e9a72ba4975767cc64c7a83c" title="Returns the coordinates of Point." alt="" coords="269,57,444,98"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#abd694015b1a8fca265c35937c9c02b2b" title="Returns the list of faces adjacent to the point v1." alt="" coords="266,122,447,163"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="515,100,725,127"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="529,151,711,193"/>
+</map>

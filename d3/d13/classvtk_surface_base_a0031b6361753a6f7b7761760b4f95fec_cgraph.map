@@ -1,0 +1,5 @@
+<map id="vtkSurfaceBase::InsertEdgeInRing" name="vtkSurfaceBase::InsertEdgeInRing">
+<area shape="rect" id="node1" title="inserts the edge e1 in the ring of v1" alt="" coords="5,39,192,80"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#ac6bf9896f86fffac680b5983649d7fea" title=" " alt="" coords="245,5,416,47"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="240,71,421,112"/>
+</map>

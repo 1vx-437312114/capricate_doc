@@ -1,0 +1,5 @@
+<map id="vtkSurface::ComputeTrianglesStatistics" name="vtkSurface::ComputeTrianglesStatistics">
+<area shape="rect" id="node1" title="Computes the mesh minimal angle, average minimal angle, minimal triangle quality and average triangle..." alt="" coords="535,5,733,47"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#afe3aaa7de019acb523e75df87e6c9a19" title="copy to stream the connectivity and geometric properties of the mesh" alt="" coords="281,13,487,39"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#a95f0aa5277c846fe4a21300f55409186" title="same as GetMeshProperties, but the properties are displayed on screen" alt="" coords="5,13,233,39"/>
+</map>

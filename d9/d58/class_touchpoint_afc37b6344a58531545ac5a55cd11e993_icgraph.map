@@ -1,0 +1,4 @@
+<map id="Touchpoint::setInteriorPositionIndex" name="Touchpoint::setInteriorPositionIndex">
+<area shape="rect" id="node1" title="Set the interior wiring connection position (grid coordinates)" alt="" coords="204,5,403,47"/>
+<area shape="rect" id="node2" href="$db/dbb/class_picking_interactor_style.html#a22c8515240e36efd282409c27faf0e52" title="Overloaded method, invoked when left mouse button is pressed." alt="" coords="5,5,156,47"/>
+</map>

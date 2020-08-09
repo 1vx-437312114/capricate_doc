@@ -1,0 +1,8 @@
+<map id="vtkSurfaceBase::GetVertexNeighbours" name="vtkSurfaceBase::GetVertexNeighbours">
+<area shape="rect" id="node1" title="Returns the List of Points adjacent to the point v1." alt="" coords="776,57,957,98"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#ae52ed54bd4ec3f6e0380b5e08f8465d0" title="Computes the connected components of the mesh." alt="" coords="551,57,728,98"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#a35760f7e4379a535a7338a3dba028b9f" title="Builds a 1 connected component mesh from the mesh in two steps: First: merge the points which are clo..." alt="" coords="292,5,492,32"/>
+<area shape="rect" id="node4" href="$d1/dfa/classvtk_surface.html#a56f1edbf05daf9d9e038d28b2261bcc5" title="returns a vtkSurface made of the biggest connected component" alt="" coords="281,57,503,98"/>
+<area shape="rect" id="node5" href="$d1/dfa/classvtk_surface.html#afe3aaa7de019acb523e75df87e6c9a19" title="copy to stream the connectivity and geometric properties of the mesh" alt="" coords="289,123,495,149"/>
+<area shape="rect" id="node6" href="$d1/dfa/classvtk_surface.html#a95f0aa5277c846fe4a21300f55409186" title="same as GetMeshProperties, but the properties are displayed on screen" alt="" coords="5,123,233,149"/>
+</map>

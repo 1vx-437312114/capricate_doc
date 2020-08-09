@@ -1,0 +1,4 @@
+<map id="AStar::neighbors" name="AStar::neighbors">
+<area shape="rect" id="node1" title="Return neighbor voxels of voxel with nodeIndex." alt="" coords="183,5,301,32"/>
+<area shape="rect" id="node2" href="$de/d52/class_a_star.html#a3d259f327b7c6966a4b3bc77c3a1c02b" title="Search a path in the voxelgrid using the A* algorithm with the preset heuristic." alt="" coords="5,5,135,32"/>
+</map>

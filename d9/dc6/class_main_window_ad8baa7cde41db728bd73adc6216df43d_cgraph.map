@@ -1,0 +1,16 @@
+<map id="MainWindow::slotAutowire" name="MainWindow::slotAutowire">
+<area shape="rect" id="node1" title=" " alt="" coords="5,407,183,433"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html#aa3ef777234d67638f33c92a57a083868" title=" " alt="" coords="287,5,387,32"/>
+<area shape="rect" id="node3" href="$d3/d5f/class_preferences_dialog.html#ad070e538be8aefc76a2bd78cca51a68b" title=" " alt="" coords="238,57,437,98"/>
+<area shape="rect" id="node4" href="$d3/d5f/class_preferences_dialog.html#a10f830599ba6b77e44fcf65354a4d773" title=" " alt="" coords="240,122,435,163"/>
+<area shape="rect" id="node5" href="$d3/d5f/class_preferences_dialog.html#aaf70a9f541255732293848e3c5fdfa15" title=" " alt="" coords="260,188,415,244"/>
+<area shape="rect" id="node6" href="$d4/d4d/class_tool_registry.html#ac7399939344c02b4bdcd9e23c92758da" title="Return a pointer to a tool given its name." alt="" coords="265,268,410,295"/>
+<area shape="rect" id="node7" href="$d3/d5f/class_preferences_dialog.html#a164e2ad502644fcaccb731b9a91df87a" title=" " alt="" coords="256,319,419,375"/>
+<area shape="rect" id="node8" href="$d5/d26/class_tool_execution_wait_thread.html#afc8640e551daf8e913f7f4aca7cfe7f0" title=" " alt="" coords="252,399,423,441"/>
+<area shape="rect" id="node9" href="$df/dfa/class_autowire_tool.html#a235760db81eef8788b772968a1286bb7" title="Set diameter of wire." alt="" coords="237,465,437,506"/>
+<area shape="rect" id="node10" href="$df/dfa/class_autowire_tool.html#a5aac1badac0469f1339bd7663d5f0e92" title="Set optimization algorithm object to be used." alt="" coords="248,531,427,557"/>
+<area shape="rect" id="node11" href="$df/dfa/class_autowire_tool.html#a5511c7e5ce246d643ca3aef700c834a0" title="Set to use chebyshev distance heuristic." alt="" coords="231,582,444,623"/>
+<area shape="rect" id="node12" href="$df/dfa/class_autowire_tool.html#a0458a3c810063c8551163d42628aa5b2" title="Set to use diagonal distance heuristic." alt="" coords="238,647,437,689"/>
+<area shape="rect" id="node13" href="$df/dfa/class_autowire_tool.html#a701101b10c2e6dc8ac166686b936cc77" title="Set to use euclidean distance heuristic." alt="" coords="235,713,439,754"/>
+<area shape="rect" id="node14" href="$df/dfa/class_autowire_tool.html#a732866f61e0d1f4ad27fb8d0d8111d20" title="Set to use manhattan distance heuristic." alt="" coords="233,778,441,819"/>
+</map>

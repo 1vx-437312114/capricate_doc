@@ -1,0 +1,6 @@
+<map id="VoxelOctree::AABB::getHeight" name="VoxelOctree::AABB::getHeight">
+<area shape="rect" id="node1" title="Return the height of the AABB." alt="" coords="671,5,816,47"/>
+<area shape="rect" id="node2" href="$d8/dcf/class_voxel_octree.html#af2cc14fcc3bd3679c8803e964cf08549" title=" " alt="" coords="385,13,623,39"/>
+<area shape="rect" id="node3" href="$d8/dcf/class_voxel_octree.html#a0715dbbe502cc236c17715301bb10ad7" title="Subdivides the octree nodes further." alt="" coords="181,13,337,39"/>
+<area shape="rect" id="node4" href="$d8/dcf/class_voxel_octree.html#a916e75ddc4d7d02767e9c9a14a4e8ce6" title="Build the octree." alt="" coords="5,13,133,39"/>
+</map>

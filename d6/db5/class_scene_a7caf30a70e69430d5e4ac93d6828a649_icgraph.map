@@ -1,0 +1,18 @@
+<map id="Scene::getVoxelgridBounds" name="Scene::getVoxelgridBounds">
+<area shape="rect" id="node1" title="Return the bounds of the voxel grid." alt="" coords="513,246,696,273"/>
+<area shape="rect" id="node2" href="$d1/da7/class_place_ground_plane8_connectors_tool.html#aaf1c46eccc1ea15dec8c7669c8a97a47" title="Add connector to touchpoint registry." alt="" coords="259,5,463,47"/>
+<area shape="rect" id="node4" href="$dc/db2/class_place_ground_plane4_connectors_tool.html#a07d60110c5f9b56bf016c68d879f6d80" title="Add connector to touchpoint registry." alt="" coords="259,71,463,112"/>
+<area shape="rect" id="node6" href="$d9/d00/class_p_s_interface_tool.html#a55b3f305a7b9ffce3be9ec646ce145a8" title=" " alt="" coords="259,137,463,163"/>
+<area shape="rect" id="node7" href="$d9/d00/class_p_s_interface_tool.html#aa26bf20d4e597f64df960e4c1a5c3a69" title=" " alt="" coords="23,162,192,189"/>
+<area shape="rect" id="node8" href="$da/dcb/class_freehand_add_final_point_callback.html#a4a889b08c802e7e81598b8dd8b5e3dad" title="Overwritten callback method, which is executed when the left mouse button is pressed." alt="" coords="257,239,465,280"/>
+<area shape="rect" id="node9" href="$d4/d58/class_polyline_add_final_point_callback.html#aebf2f4ff9236a12c598205822c2949a2" title="Overwritten callback method, which is executed when the left mouse button is pressed for the first ti..." alt="" coords="261,304,461,345"/>
+<area shape="rect" id="node10" href="$d1/db5/class_lasso_interactor_style.html#a711994cec6c74643d2bc161ba73daacd" title="Overwritten method, which is executed when the left mouse button is released." alt="" coords="290,369,433,411"/>
+<area shape="rect" id="node11" href="$db/dbb/class_picking_interactor_style.html#a1620702107e2c2d0c0aefbd896098b0d" title="Overloaded method, invoked when right mouse button is pressed." alt="" coords="286,435,437,476"/>
+<area shape="rect" id="node12" href="$d6/db5/class_scene.html#af1128c48ccb6999066aa1d935075cb23" title="Remove a touchpoint from the scene given its unique touchpoint id." alt="" coords="275,501,448,527"/>
+<area shape="rect" id="node3" href="$d1/da7/class_place_ground_plane8_connectors_tool.html#ac6f514739682b173fadccf10f5bc9aab" title=" " alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node5" href="$dc/db2/class_place_ground_plane4_connectors_tool.html#a7ae289774f2b51d2daba1215effc4311" title=" " alt="" coords="5,71,209,112"/>
+<area shape="rect" id="node13" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="36,395,179,436"/>
+<area shape="rect" id="node14" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="30,460,185,501"/>
+<area shape="rect" id="node15" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="26,525,189,567"/>
+<area shape="rect" id="node16" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="49,591,166,618"/>
+</map>

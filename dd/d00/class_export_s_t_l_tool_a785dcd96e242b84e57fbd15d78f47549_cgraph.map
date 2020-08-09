@@ -1,0 +1,4 @@
+<map id="ExportSTLTool::writeConnectionList" name="ExportSTLTool::writeConnectionList">
+<area shape="rect" id="node1" title="Export the connection list (touchpoint no. to connector no.) as json and text." alt="" coords="5,5,236,32"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="284,5,481,32"/>
+</map>

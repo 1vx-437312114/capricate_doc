@@ -1,0 +1,7 @@
+<map id="PreferencesDialog::setNozzleSize_textEdit" name="PreferencesDialog::setNozzleSize_textEdit">
+<area shape="rect" id="node1" title=" " alt="" coords="732,39,891,80"/>
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a31a84d76013d226265d5c4f86d90de14" title="Read the configuration settings from a file." alt="" coords="233,5,440,47"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#af60f6c7d3b7594e7792d9d27b53de99a" title=" " alt="" coords="488,68,684,109"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,46,185,73"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="247,71,427,112"/>
+</map>

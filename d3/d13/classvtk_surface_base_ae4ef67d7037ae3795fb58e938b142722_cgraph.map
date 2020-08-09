@@ -1,0 +1,7 @@
+<map id="vtkSurfaceBase::GetFaceNeighbours" name="vtkSurfaceBase::GetFaceNeighbours">
+<area shape="rect" id="node1" title="Returns the List of Faces adjacent to the Face" alt="" coords="5,56,244,83"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="297,5,507,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="292,56,512,83"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="320,107,484,133"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="560,99,741,141"/>
+</map>

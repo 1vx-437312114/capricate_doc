@@ -1,0 +1,4 @@
+<map id="VoxelOctree::clampInt" name="VoxelOctree::clampInt">
+<area shape="rect" id="node1" title="Clamp integer value between min and max." alt="" coords="212,5,363,32"/>
+<area shape="rect" id="node2" href="$d8/dcf/class_voxel_octree.html#a6dd121864cf40c800d2b130d222ffe2b" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="5,5,164,32"/>
+</map>

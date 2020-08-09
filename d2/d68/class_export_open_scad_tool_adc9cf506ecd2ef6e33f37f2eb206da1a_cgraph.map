@@ -1,0 +1,19 @@
+<map id="ExportOpenScadTool::writeDifferenceMagnets" name="ExportOpenScadTool::writeDifferenceMagnets">
+<area shape="rect" id="node1" title="Export the meshdifference between mesh and magnets in the openscad format." alt="" coords="5,107,172,149"/>
+<area shape="rect" id="node2" href="$d2/d68/class_export_open_scad_tool.html#adfa47b51eeeefb3f8c8bb890266acc8c" title="Export magnetic mesh objects in the openscad format." alt="" coords="220,42,365,83"/>
+<area shape="rect" id="node6" href="$d2/d68/class_export_open_scad_tool.html#a7f29f99b52300deb6af6bdab5153030d" title="Export the mesh in the openscad format." alt="" coords="220,107,365,149"/>
+<area shape="rect" id="node8" href="$d2/d68/class_export_open_scad_tool.html#a2e36901501e307b74705aa84f4227d67" title="Export the wiring in the openscad format." alt="" coords="220,306,365,347"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#aba225215a175a15a2a70e36623260717" title="Return a magnet from the scene, given its unique id." alt="" coords="457,5,585,32"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#a1c12a8d990b55ebee10c44cabedbd6a2" title="Return the number of magnetic parts in the scene." alt="" coords="423,56,618,83"/>
+<area shape="rect" id="node4" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="711,5,786,32"/>
+<area shape="rect" id="node7" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="435,111,606,137"/>
+<area shape="rect" id="node9" href="$d1/d7c/namespace_utils.html#adfd018a6efe0bd54e0e8344ecc1fe208" title="Compute world coordinate equivalent of voxel grid integer index." alt="" coords="463,161,578,188"/>
+<area shape="rect" id="node10" href="$d9/d58/class_touchpoint.html#a25425137e60d6d5f21d597e8f6632eed" title="Return the interior wiring connection position (world coordinates)" alt="" coords="421,212,620,239"/>
+<area shape="rect" id="node11" href="$d9/d58/class_touchpoint.html#a61c467b19b4d5940fdeff3070709d2b2" title="Return if touchpoint is sphere shaped." alt="" coords="439,263,602,289"/>
+<area shape="rect" id="node12" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="433,313,608,340"/>
+<area shape="rect" id="node13" href="$d9/d58/class_touchpoint.html#a3c7555f7762d81e5b93e48fa31a7490c" title="Return the geometry of the touchpoint (vtkPolyData)" alt="" coords="438,364,603,391"/>
+<area shape="rect" id="node14" href="$d9/d58/class_touchpoint.html#af65e6d637a44d8a800b51186d18364a2" title="Return radius of sphere shaped touchpoint." alt="" coords="424,415,617,441"/>
+<area shape="rect" id="node15" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="422,465,619,492"/>
+<area shape="rect" id="node16" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="676,541,821,568"/>
+<area shape="rect" id="node17" href="$d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" title="Return dimensions of the voxel data." alt="" coords="413,567,628,593"/>
+</map>

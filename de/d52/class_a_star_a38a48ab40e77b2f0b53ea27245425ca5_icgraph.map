@@ -1,0 +1,9 @@
+<map id="AStar::init" name="AStar::init">
+<area shape="rect" id="node1" title="Initializes A* grid nodes." alt="" coords="247,163,327,189"/>
+<area shape="rect" id="node2" href="$de/d52/class_a_star.html#a68113f6c893688205f6b189aca7ba061" title="Construct an A* object." alt="" coords="54,5,150,32"/>
+<area shape="rect" id="node3" href="$d0/da8/class_threshold_accepting_optimizer.html#a6dead9a1dffa1d54cb9cc59e80655fb7" title=" " alt="" coords="5,57,199,98"/>
+<area shape="rect" id="node4" href="$de/d17/class_great_deluge_optimizer.html#ad0e859eaa1e24d3ba184cb0641972427" title=" " alt="" coords="27,122,177,163"/>
+<area shape="rect" id="node5" href="$d1/d15/class_hill_climbing_optimizer.html#a4f1754d5bfc6c5e702ee1421ed0cb204" title=" " alt="" coords="28,187,176,229"/>
+<area shape="rect" id="node6" href="$d0/d53/class_simulated_annealing_optimizer.html#a8e1aba518749f6534cdb3155a38af511" title=" " alt="" coords="5,253,199,294"/>
+<area shape="rect" id="node7" href="$dc/d6d/class_g_a_optimizer.html#a71b18c78d275e4d896826f07b2e01f4b" title=" " alt="" coords="25,319,179,345"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="vtkSurface::GetEdgeLengths" name="vtkSurface::GetEdgeLengths">
+<area shape="rect" id="node1" title="Computes the Mesh Edges Lengths in an array." alt="" coords="5,71,196,98"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#abe33f0d274c3eb53ac3dcdfbffba8652" title="Returns the euclidian distance between the vertices V1 and V2." alt="" coords="246,5,463,47"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a6d0fece7168e91590325097ee7a320a2" title="Returns v1 and v2 as the vertices bounding the edge." alt="" coords="244,71,465,98"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a28ae550f7790720b715bf403d754f8b5" title="Returns the number of edges in the vtkSurfaceBase Object." alt="" coords="259,123,450,164"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a342d0273e9a72ba4975767cc64c7a83c" title="Returns the coordinates of Point." alt="" coords="513,5,688,47"/>
+</map>

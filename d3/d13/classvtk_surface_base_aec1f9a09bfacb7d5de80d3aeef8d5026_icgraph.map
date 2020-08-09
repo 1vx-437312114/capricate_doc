@@ -1,0 +1,5 @@
+<map id="vtkSurfaceBase::GetCleanEdgesState" name="vtkSurfaceBase::GetCleanEdgesState">
+<area shape="rect" id="node1" title="returns the value of CleanEdges. Default Value : 1" alt="" coords="248,23,427,65"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#aeb1922c987d5fdcebe1b680d82db9087" title="Recusrsively splits the edges longer than Ratio*AverageLength." alt="" coords="11,5,195,32"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#a8871f6a866295a51c983283a4ccc0a9d" title="subdivide the mesh (in place)" alt="" coords="5,56,200,83"/>
+</map>

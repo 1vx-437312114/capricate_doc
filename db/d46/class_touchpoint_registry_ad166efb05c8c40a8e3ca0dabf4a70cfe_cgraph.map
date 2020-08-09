@@ -1,0 +1,4 @@
+<map id="TouchpointRegistry::getTouchpoint" name="TouchpointRegistry::getTouchpoint">
+<area shape="rect" id="node1" title="Return a touchpoint given its index position." alt="" coords="5,5,140,47"/>
+<area shape="rect" id="node2" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="188,13,263,39"/>
+</map>

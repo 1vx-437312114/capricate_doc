@@ -1,0 +1,6 @@
+<map id="vtkSurface::GetDistanceBetweenVertices" name="vtkSurface::GetDistanceBetweenVertices">
+<area shape="rect" id="node1" title="Returns the euclidian distance between the vertices V1 and V2." alt="" coords="485,23,703,65"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#a35760f7e4379a535a7338a3dba028b9f" title="Builds a 1 connected component mesh from the mesh in two steps: First: merge the points which are clo..." alt="" coords="237,5,437,32"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#a953e87d3c04cb906a2ec336dd7040076" title="Computes the Mesh Edges Lengths in an array." alt="" coords="242,56,433,83"/>
+<area shape="rect" id="node4" href="$d1/dfa/classvtk_surface.html#aeb1922c987d5fdcebe1b680d82db9087" title="Recusrsively splits the edges longer than Ratio*AverageLength." alt="" coords="5,56,189,83"/>
+</map>

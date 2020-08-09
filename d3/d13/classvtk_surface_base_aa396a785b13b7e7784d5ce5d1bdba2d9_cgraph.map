@@ -1,0 +1,13 @@
+<map id="vtkSurfaceBase::SwitchOrientation" name="vtkSurfaceBase::SwitchOrientation">
+<area shape="rect" id="node1" title="switches the cells orientation (usefull when the mesh is displayed all black...)" alt="" coords="5,161,232,188"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#aee0f64de68a21e569228534cfba3dc88" title="Reorders Cells description so that each cell is well oriented." alt="" coords="285,136,495,163"/>
+<area shape="rect" id="node11" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="280,187,500,213"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#af6106de85da3d9bb09d35c8f31cbb191" title="the method which keeps the orientation of the faces consistent. This is called whenever a new face is..." alt="" coords="548,99,783,141"/>
+<area shape="rect" id="node10" href="$d3/d13/classvtk_surface_base.html#a2f903d435003385ebe7839c1f157db7f" title="returns 1 if Face is actually used to store a polygon (not deleted). Returns 0 otherwise" alt="" coords="565,165,765,192"/>
+<area shape="rect" id="node4" href="$d5/d9c/vtksurfacebase_8cxx.html#a2e8c26ea64993c77629c368633da5ff0" title=" " alt="" coords="883,5,999,32"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="836,56,1047,83"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#a6d0fece7168e91590325097ee7a320a2" title="Returns v1 and v2 as the vertices bounding the edge." alt="" coords="831,107,1052,133"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="859,157,1023,184"/>
+<area shape="rect" id="node9" href="$d3/d13/classvtk_surface_base.html#a9c77655b36b9fa47039e88d71f1be28a" title="Returns true if the edge is a Manifold one (2 adjacent polygons)" alt="" coords="835,208,1048,235"/>
+<area shape="rect" id="node8" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="1100,150,1281,191"/>
+</map>

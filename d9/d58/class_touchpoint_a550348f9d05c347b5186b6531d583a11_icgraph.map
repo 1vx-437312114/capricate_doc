@@ -1,0 +1,8 @@
+<map id="Touchpoint::unMarkOccupation" name="Touchpoint::unMarkOccupation">
+<area shape="rect" id="node1" title="Mark voxel grid cells as unoccupied by the touchpoint geometry." alt="" coords="437,111,640,138"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#af1128c48ccb6999066aa1d935075cb23" title="Remove a touchpoint from the scene given its unique touchpoint id." alt="" coords="216,111,389,138"/>
+<area shape="rect" id="node3" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="15,5,158,47"/>
+<area shape="rect" id="node4" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="9,71,164,112"/>
+<area shape="rect" id="node5" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="5,136,168,177"/>
+<area shape="rect" id="node6" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="28,202,145,229"/>
+</map>

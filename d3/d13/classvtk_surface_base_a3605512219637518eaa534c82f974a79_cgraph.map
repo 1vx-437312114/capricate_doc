@@ -1,0 +1,24 @@
+<map id="vtkSurfaceBase::BisectEdge" name="vtkSurfaceBase::BisectEdge">
+<area shape="rect" id="node1" title="Bisects Edge by creating a new vertex at its midpoints and two new faces." alt="" coords="5,397,196,424"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a6e6f179eb028cec1da57d67a713e64b4" title="adds an edge (v1,v2) to the vtkSurface and returns its Id" alt="" coords="780,36,956,62"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a0c1300b92e803904eddacbbc25a89c09" title="Adds a face (ve1,ve2,ve3) to the vtkSurfaceBase Object and returns its Id." alt="" coords="252,100,427,126"/>
+<area shape="rect" id="node9" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="1039,122,1249,149"/>
+<area shape="rect" id="node10" href="$d3/d13/classvtk_surface_base.html#a6d0fece7168e91590325097ee7a320a2" title="Returns v1 and v2 as the vertices bounding the edge." alt="" coords="1033,274,1255,301"/>
+<area shape="rect" id="node11" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="1062,325,1226,352"/>
+<area shape="rect" id="node14" href="$d3/d13/classvtk_surface_base.html#aceee5b078bbb14fd9c2ac54f2c043ced" title="adds a vertex with coordinates (x,y,z) to the vtkSurface and returns its Id" alt="" coords="248,473,431,500"/>
+<area shape="rect" id="node17" href="$d3/d13/classvtk_surface_base.html#ae63b7ea41f949bf8b801ba46b3828f2e" title="removes the edge e1 from the ring of v1" alt="" coords="497,372,688,414"/>
+<area shape="rect" id="node18" href="$d3/d13/classvtk_surface_base.html#a8ff6bce196e2ef18c7360219e8c97877" title="removes Face from the ring of Edge" alt="" coords="244,524,435,566"/>
+<area shape="rect" id="node19" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="483,620,703,646"/>
+<area shape="rect" id="node20" href="$d3/d13/classvtk_surface_base.html#a6c3a0d390ca15d995c91db45c81fcea8" title="Returns the third Point of the face f1 (the two first Points are v1 and v2)" alt="" coords="253,642,426,683"/>
+<area shape="rect" id="node21" href="$d3/d13/classvtk_surface_base.html#a0031b6361753a6f7b7761760b4f95fec" title="inserts the edge e1 in the ring of v1" alt="" coords="499,438,686,479"/>
+<area shape="rect" id="node22" href="$d3/d13/classvtk_surface_base.html#a69ae53c0816a844aeb6ec835084e48bf" title="Replaces the definition of f1 by the face formed by v1,v2 and v3." alt="" coords="253,708,425,734"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#af60b7f39eb89fccc1256dc2bad3af80b" title="Adds a face (ve1,ve2,ve3) to the vtkSurfaceBase Object and returns its Id." alt="" coords="496,98,689,125"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a4028c02d912144539d372c64739f3046" title=" " alt="" coords="783,87,953,128"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#af6106de85da3d9bb09d35c8f31cbb191" title="the method which keeps the orientation of the faces consistent. This is called whenever a new face is..." alt="" coords="751,204,985,246"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#a447cd5aee68a7db76285f963493d7560" title=" " alt="" coords="1059,56,1229,98"/>
+<area shape="rect" id="node8" href="$d5/d9c/vtksurfacebase_8cxx.html#a2e8c26ea64993c77629c368633da5ff0" title=" " alt="" coords="1086,173,1202,200"/>
+<area shape="rect" id="node13" href="$d3/d13/classvtk_surface_base.html#a9c77655b36b9fa47039e88d71f1be28a" title="Returns true if the edge is a Manifold one (2 adjacent polygons)" alt="" coords="1037,224,1251,250"/>
+<area shape="rect" id="node12" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="1303,372,1484,414"/>
+<area shape="rect" id="node15" href="$d3/d13/classvtk_surface_base.html#afd79981b00b0a0acc2f0f56dc41031da" title=" " alt="" coords="507,503,678,544"/>
+<area shape="rect" id="node16" href="$d3/d13/classvtk_surface_base.html#ac6bf9896f86fffac680b5983649d7fea" title=" " alt="" coords="783,492,953,534"/>
+</map>

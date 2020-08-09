@@ -1,0 +1,17 @@
+<map id="MultiPassVoxelizer::update" name="MultiPassVoxelizer::update">
+<area shape="rect" id="node1" title="Execute voxelization algorithm." alt="" coords="5,224,139,265"/>
+<area shape="rect" id="node2" href="$da/dce/class_multi_pass_voxelizer.html#ab482e66ff649c7b0a5ccaa655ed66fd6" title=" " alt="" coords="187,5,421,47"/>
+<area shape="rect" id="node3" href="$d3/d01/class_surface_voxelizer.html#a6229ddeb8b8ffac7578bc61ea59f21c4" title="Return voxel grid outputimage." alt="" coords="211,71,397,98"/>
+<area shape="rect" id="node4" href="$da/dce/class_multi_pass_voxelizer.html#ae7eee007c1a99d71c441b25c09f205a4" title=" " alt="" coords="483,129,642,155"/>
+<area shape="rect" id="node5" href="$da/dce/class_multi_pass_voxelizer.html#aadae0f751c41660748fe7629961681c5" title=" " alt="" coords="496,191,629,232"/>
+<area shape="rect" id="node6" href="$da/dce/class_multi_pass_voxelizer.html#abeb5f145ef46b488c4ddb37830f51386" title=" " alt="" coords="496,277,629,319"/>
+<area shape="rect" id="node7" href="$d3/d01/class_surface_voxelizer.html#a95de539d4c1fcec15fe71e0e198146f3" title="Set mesh geometry (vtkPolyData) as input data." alt="" coords="203,341,405,367"/>
+<area shape="rect" id="node8" href="$d3/d01/class_surface_voxelizer.html#a233c618ca6eedc6b0a3cb05652e128e6" title="Set voxel grid dimensions." alt="" coords="209,392,399,433"/>
+<area shape="rect" id="node9" href="$da/dce/class_multi_pass_voxelizer.html#a2b54c4f4c8ea36eaf38f79caa5a5f97f" title=" " alt="" coords="237,224,371,265"/>
+<area shape="rect" id="node10" href="$d3/d01/class_surface_voxelizer.html#ad92c2d3d705fd77a35eca686805fd6b5" title="Execute voxelization algorithm." alt="" coords="221,458,387,485"/>
+<area shape="rect" id="node11" href="$d3/d01/class_surface_voxelizer.html#a561f458666b251ca2a008d91c3d40eda" title="Compute 1D linearized index from 3D index." alt="" coords="490,407,635,434"/>
+<area shape="rect" id="node12" href="$d3/d01/class_surface_voxelizer.html#a3e6ab3230ceb81ca440c9a9ec8e57a51" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="469,458,656,485"/>
+<area shape="rect" id="node14" href="$d3/da6/surfacevoxelizer_8h.html#afa23ae24e8d335ddaaffe1c53e3a3785" title=" " alt="" coords="512,509,613,535"/>
+<area shape="rect" id="node13" href="$d3/d01/class_surface_voxelizer.html#abf6ba302b811d653c38f9bddd6a95856" title="Clamp integer values between min and max." alt="" coords="704,458,883,485"/>
+<area shape="rect" id="node15" href="$d3/da6/surfacevoxelizer_8h.html#af60a3ac6c4ab41e6e6c719f117f3732a" title="plane box overlap based on the separating axis theorem Adapted from" alt="" coords="733,509,854,535"/>
+</map>

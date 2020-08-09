@@ -1,0 +1,13 @@
+<map id="MainWindow::getVoxelizer" name="MainWindow::getVoxelizer">
+<area shape="rect" id="node1" title="Return the used voxelizer." alt="" coords="917,195,1093,221"/>
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a15f9fa9fe71b50669ecf5f5a3a1ce90e" title="Import STL / OBJ mesh into the scene." alt="" coords="708,195,869,221"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a6e3c9bc26115fb1b1664607e58716641" title=" " alt="" coords="463,5,658,32"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a46bb2fea8ddeab75e15a223c291116b6" title=" " alt="" coords="461,57,660,98"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#affed0fab82fd390e2762933c6dca9124" title=" " alt="" coords="461,122,660,163"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#adfdb8fcb8685844e8ce11bfb41b83b7d" title=" " alt="" coords="461,187,660,229"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a5283a0d7aeeafd409c69b272053f3986" title=" " alt="" coords="461,253,660,294"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a0c92ca2d04a79a1580c2e8e136b82682" title=" " alt="" coords="461,318,660,359"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a86cd359f80311725589d0861dd7a9851" title=" " alt="" coords="461,383,660,425"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,187,413,229"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,195,185,221"/>
+</map>

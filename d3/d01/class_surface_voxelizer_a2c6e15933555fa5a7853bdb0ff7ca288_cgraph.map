@@ -1,0 +1,4 @@
+<map id="SurfaceVoxelizer::setSampleDimensions" name="SurfaceVoxelizer::setSampleDimensions">
+<area shape="rect" id="node1" title="Set voxel grid dimensions as std::array." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$d3/d01/class_surface_voxelizer.html#a233c618ca6eedc6b0a3cb05652e128e6" title="Set voxel grid dimensions." alt="" coords="244,5,435,47"/>
+</map>

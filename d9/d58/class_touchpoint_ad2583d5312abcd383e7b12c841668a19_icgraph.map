@@ -1,0 +1,7 @@
+<map id="Touchpoint::getConnectionPoint" name="Touchpoint::getConnectionPoint">
+<area shape="rect" id="node1" title="Return outside wiring entry point (world coordinates)" alt="" coords="444,57,621,98"/>
+<area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#a45e5cdff2b089a3594c38021ef5d27a7" title="Add wiring geometry of a connection to the scene (tubes)" alt="" coords="204,5,396,32"/>
+<area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" title="Add wiring geometry of a connection to the scene (cubes)" alt="" coords="204,57,396,98"/>
+<area shape="rect" id="node5" href="$db/dbb/class_picking_interactor_style.html#a1620702107e2c2d0c0aefbd896098b0d" title="Overloaded method, invoked when right mouse button is pressed." alt="" coords="225,122,375,163"/>
+<area shape="rect" id="node3" href="$df/dfa/class_autowire_tool.html#a78b35a48395b5502f8c00b373592678b" title="Execute autowiring tool." alt="" coords="5,5,156,32"/>
+</map>

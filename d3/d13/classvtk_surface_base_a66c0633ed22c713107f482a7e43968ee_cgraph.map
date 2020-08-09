@@ -1,0 +1,4 @@
+<map id="vtkSurfaceBase::GetBoundaryEdge" name="vtkSurfaceBase::GetBoundaryEdge">
+<area shape="rect" id="node1" title="Returns a boundary edge in the ring of v1. If there is no boundary edge, any given edge is returned." alt="" coords="5,13,235,39"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="283,5,464,47"/>
+</map>

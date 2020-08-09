@@ -1,0 +1,4 @@
+<map id="SinglePassVoxelizer::setSampleDimensions" name="SinglePassVoxelizer::setSampleDimensions">
+<area shape="rect" id="node1" title="Set voxel grid dimensions as std::array." alt="" coords="5,5,167,47"/>
+<area shape="rect" id="node2" href="$d8/dc0/class_single_pass_voxelizer.html#a1f2ed962317ccd07a2013e3e611ec1d0" title="Set voxel grid dimensions." alt="" coords="215,5,376,47"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="VoxelOctree::subdivide" name="VoxelOctree::subdivide">
+<area shape="rect" id="node1" title="Subdivides the octree nodes further." alt="" coords="5,143,161,170"/>
+<area shape="rect" id="node2" href="$d2/de9/struct_voxel_octree_1_1_a_a_b_b.html#a5fb084e31d4f69230410273d8d6ab789" title="Return the width of the AABB." alt="" coords="512,5,657,47"/>
+<area shape="rect" id="node3" href="$d8/dcf/class_voxel_octree.html#af2cc14fcc3bd3679c8803e964cf08549" title=" " alt="" coords="209,143,447,170"/>
+<area shape="rect" id="node9" href="$d8/dcf/class_voxel_octree.html#a7d8d6764945dbc748598c9ce41350e77" title="Computes the distance from the leaf node to the mesh surface." alt="" coords="230,253,426,295"/>
+<area shape="rect" id="node4" href="$d2/de9/struct_voxel_octree_1_1_a_a_b_b.html#a38ea3197e089ada1c6db135d7c7a5e47" title="Return the center of the AABB." alt="" coords="512,253,657,295"/>
+<area shape="rect" id="node5" href="$d2/de9/struct_voxel_octree_1_1_a_a_b_b.html#a40af9474fe8675b1c3de9adc8ec96bf6" title="Return the depth of the AABB." alt="" coords="512,71,657,112"/>
+<area shape="rect" id="node6" href="$d2/de9/struct_voxel_octree_1_1_a_a_b_b.html#a311c8330e365856a736caaf573a29153" title="Return the height of the AABB." alt="" coords="512,136,657,177"/>
+<area shape="rect" id="node7" href="$d8/dcf/class_voxel_octree.html#a598b767292b3584d060f4f0b98c9d8a9" title="triangle box overlap based on the separating axis theorem Adapted from" alt="" coords="495,202,675,229"/>
+<area shape="rect" id="node8" href="$d8/dcf/class_voxel_octree.html#ac2411dfa387774d860bbbcb57d770591" title="plane box overlap based on the separating axis theorem Adapted from" alt="" coords="723,202,923,229"/>
+<area shape="rect" id="node10" href="$d8/dcf/class_voxel_octree.html#a371e633910dbf1fd372468b856fbe029" title="Computes the closest point from a position to a triangle." alt="" coords="498,319,671,360"/>
+<area shape="rect" id="node11" href="$d8/dcf/class_voxel_octree.html#a8501730a22c659ce06e598398f702a53" title=" " alt="" coords="749,326,897,353"/>
+</map>

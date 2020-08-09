@@ -1,0 +1,4 @@
+<map id="OctreeVoxelizer" name="OctreeVoxelizer">
+<area shape="rect" id="node1" title="Octree based voxelizer." alt="" coords="5,219,217,501"/>
+<area shape="rect" id="node2" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="25,5,198,171"/>
+</map>

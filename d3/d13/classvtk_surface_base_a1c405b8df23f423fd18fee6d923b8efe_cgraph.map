@@ -1,0 +1,7 @@
+<map id="vtkSurfaceBase::CheckStructure" name="vtkSurfaceBase::CheckStructure">
+<area shape="rect" id="node1" title="Checks the integrity of the structure. Returns true if the structure is OK." alt="" coords="5,56,220,83"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="268,5,488,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="296,56,460,83"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a2f903d435003385ebe7839c1f157db7f" title="returns 1 if Face is actually used to store a polygon (not deleted). Returns 0 otherwise" alt="" coords="278,107,478,133"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="536,49,717,90"/>
+</map>

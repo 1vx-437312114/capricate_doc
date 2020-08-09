@@ -1,0 +1,12 @@
+<map id="vtkSurfaceBase::AllocateEdgesAttributes" name="vtkSurfaceBase::AllocateEdgesAttributes">
+<area shape="rect" id="node1" title=" " alt="" coords="509,90,680,131"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a11007682a0218237052314749bf84427" title=" " alt="" coords="280,7,451,49"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#abb20d4428cd6182c950aff49ac550c29" title="Embeds a vtkPolyData into a vtkSurfaceBase object." alt="" coords="269,90,461,131"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#a2896a775bae1f75f46398279168a6c9e" title="Set memory allocation in the vtkSurfaceBase object for further Cells and points insertion (this is no..." alt="" coords="295,177,436,204"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a73172bd0d284295c511313a594af799f" title="adds an edge (v1,v2) to the vtkSurface, with possibly an adjacent face f1" alt="" coords="25,5,201,32"/>
+<area shape="rect" id="node5" href="$d1/dfa/classvtk_surface.html#a35760f7e4379a535a7338a3dba028b9f" title="Builds a 1 connected component mesh from the mesh in two steps: First: merge the points which are clo..." alt="" coords="13,56,213,83"/>
+<area shape="rect" id="node6" href="$d1/dfa/classvtk_surface.html#a242df182bc35f6b38c25de1b1582bc42" title="Creates the vtkSurface object by reading a mesh file." alt="" coords="22,107,205,133"/>
+<area shape="rect" id="node8" href="$d3/d13/classvtk_surface_base.html#a667824957faeecac1f36e8337931c3aa" title="Set memory allocation in the vtkSurfaceBase object, which is assumed to be as large as the *mesh vtkS..." alt="" coords="43,157,184,184"/>
+<area shape="rect" id="node9" href="$d1/dfa/classvtk_surface.html#ad35b4c37556f13f0deeb6bb9753f18af" title="returns a mesh which is a linear subdivision of this" alt="" coords="38,208,189,235"/>
+<area shape="rect" id="node10" href="$d3/d13/classvtk_surface_base.html#a5cad1634e4d48ad5e80189cddf3ad8f1" title="the constructor" alt="" coords="5,259,221,285"/>
+</map>

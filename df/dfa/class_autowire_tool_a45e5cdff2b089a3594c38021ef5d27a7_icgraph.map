@@ -1,0 +1,4 @@
+<map id="AutowireTool::addConnection" name="AutowireTool::addConnection">
+<area shape="rect" id="node1" title="Add wiring geometry of a connection to the scene (tubes)" alt="" coords="204,5,396,32"/>
+<area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#a78b35a48395b5502f8c00b373592678b" title="Execute autowiring tool." alt="" coords="5,5,156,32"/>
+</map>

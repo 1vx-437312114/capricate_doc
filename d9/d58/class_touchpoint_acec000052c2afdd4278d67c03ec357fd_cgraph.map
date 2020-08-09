@@ -1,0 +1,4 @@
+<map id="Touchpoint::unMarkNeighborhood" name="Touchpoint::unMarkNeighborhood">
+<area shape="rect" id="node1" title="Unmark the 26&#45;neighborhood of a single voxel grid cell as unoccupied." alt="" coords="5,5,221,32"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#a7249595ec0bd71c7348062e06fc32065" title="Mark a single voxel grid cell as unoccupied." alt="" coords="269,5,460,32"/>
+</map>

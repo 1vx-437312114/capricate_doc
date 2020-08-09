@@ -1,0 +1,4 @@
+<map id="vtkSurfaceBase::GetThirdPoint" name="vtkSurfaceBase::GetThirdPoint">
+<area shape="rect" id="node1" title="Returns the third Point of the face f1 (the two first Points are v1 and v2)" alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="227,13,447,39"/>
+</map>

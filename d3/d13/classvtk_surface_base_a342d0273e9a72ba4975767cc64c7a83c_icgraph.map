@@ -1,0 +1,13 @@
+<map id="vtkSurfaceBase::GetPointCoordinates" name="vtkSurfaceBase::GetPointCoordinates">
+<area shape="rect" id="node1" title="Returns the coordinates of Point." alt="" coords="751,242,925,283"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#abe33f0d274c3eb53ac3dcdfbffba8652" title="Returns the euclidian distance between the vertices V1 and V2." alt="" coords="485,41,703,82"/>
+<area shape="rect" id="node5" href="$d1/dfa/classvtk_surface.html#aeb1922c987d5fdcebe1b680d82db9087" title="Recusrsively splits the edges longer than Ratio*AverageLength." alt="" coords="5,81,189,108"/>
+<area shape="rect" id="node6" href="$d1/dfa/classvtk_surface.html#a9f85433b2736667c1bb747927e7361d2" title="Computes the normal of the given triangle." alt="" coords="493,157,695,184"/>
+<area shape="rect" id="node7" href="$d1/dfa/classvtk_surface.html#a3e3d4e050331aff21a0a3bc4fc243804" title="Computes the Triangles Areas." alt="" coords="511,209,677,250"/>
+<area shape="rect" id="node8" href="$d1/dfa/classvtk_surface.html#a5a6b69a3c3ab43f525215bbb92b89377" title="returns the normals of the mesh triangles" alt="" coords="511,274,677,315"/>
+<area shape="rect" id="node9" href="$d1/dfa/classvtk_surface.html#ac7e948e93dc12e4773321535197b9866" title="Computes the normal at a vertex (works only for triangular meshes)" alt="" coords="497,340,691,367"/>
+<area shape="rect" id="node10" href="$d1/dfa/classvtk_surface.html#a959092178ae4fa965d930257a29c380e" title=" " alt="" coords="511,391,677,433"/>
+<area shape="rect" id="node11" href="$d1/dfa/classvtk_surface.html#a3a42275949d2fd9818fb5209acc3c25b" title="rescale the points so that the maximum coordinates range is equal to 1" alt="" coords="489,457,699,484"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#a35760f7e4379a535a7338a3dba028b9f" title="Builds a 1 connected component mesh from the mesh in two steps: First: merge the points which are clo..." alt="" coords="237,5,437,32"/>
+<area shape="rect" id="node4" href="$d1/dfa/classvtk_surface.html#a953e87d3c04cb906a2ec336dd7040076" title="Computes the Mesh Edges Lengths in an array." alt="" coords="242,56,433,83"/>
+</map>

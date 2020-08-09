@@ -1,0 +1,13 @@
+<map id="Scene::removeConnector" name="Scene::removeConnector">
+<area shape="rect" id="node1" title="Remvoe a connector from the scene given its unique connector id." alt="" coords="5,203,176,229"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#a85820150b53ece4c635f7ca5ed189afa" title="Return the graphical representation (vtkActor) of the touchpoint." alt="" coords="241,5,384,32"/>
+<area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html#a1b683bc69ad347a1fe886aa3161e76b3" title="Return the graphical representation (vtkActor) of the outside wiring entry point." alt="" coords="224,57,401,98"/>
+<area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html#ab61727c9bb477bccca373f92a2b8bea4" title="Return the touchpoint number label text actor." alt="" coords="229,123,396,149"/>
+<area shape="rect" id="node5" href="$d9/d58/class_touchpoint.html#ae06d7b971e13790fab04d7f40b5b89ef" title="Set touchpoint actor." alt="" coords="241,173,384,200"/>
+<area shape="rect" id="node6" href="$d9/d58/class_touchpoint.html#af3e0979fc1385955c5aae51968555dd3" title="Set the actor of the connection point." alt="" coords="224,225,401,266"/>
+<area shape="rect" id="node7" href="$d9/d58/class_touchpoint.html#a20ea5d908fdf70e2698c5f86789e4742" title="Set touchpoint id to given id." alt="" coords="250,291,375,317"/>
+<area shape="rect" id="node8" href="$d9/d58/class_touchpoint.html#aa9274369fab341dc277036e07dbfc234" title="Set the polydata of the touchpoint." alt="" coords="230,341,395,368"/>
+<area shape="rect" id="node11" href="$d9/d58/class_touchpoint.html#a27645f8861d2ce10dc9bff4e72549539" title="Set text label touchpoint number actor." alt="" coords="229,392,396,419"/>
+<area shape="rect" id="node9" href="$d9/d58/class_touchpoint.html#abc86c4002a67fd423b649d597b2055d5" title="Creates the graphical representation (vtkActor) for a touchpoint geometry." alt="" coords="449,334,641,375"/>
+<area shape="rect" id="node10" href="$d9/d58/class_touchpoint.html#aabec59cfa02cddb2dab4420b3c056df0" title="Return color value for a given touchpoint type." alt="" coords="689,334,864,375"/>
+</map>

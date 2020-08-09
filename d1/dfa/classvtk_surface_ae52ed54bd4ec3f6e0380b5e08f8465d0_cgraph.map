@@ -1,0 +1,5 @@
+<map id="vtkSurface::GetConnectedComponents" name="vtkSurface::GetConnectedComponents">
+<area shape="rect" id="node1" title="Computes the connected components of the mesh." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a6745d1506755b95f1e2bb70337636055" title="Returns the List of Points adjacent to the point v1." alt="" coords="231,5,412,47"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="460,5,641,47"/>
+</map>

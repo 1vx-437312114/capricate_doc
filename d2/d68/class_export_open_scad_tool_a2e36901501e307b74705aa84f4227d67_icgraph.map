@@ -1,0 +1,6 @@
+<map id="ExportOpenScadTool::writeWiring" name="ExportOpenScadTool::writeWiring">
+<area shape="rect" id="node1" title="Export the wiring in the openscad format." alt="" coords="413,26,559,67"/>
+<area shape="rect" id="node2" href="$d2/d68/class_export_open_scad_tool.html#a71ef67a238fb9cd74563b65d77c1ea73" title=" " alt="" coords="5,26,151,67"/>
+<area shape="rect" id="node3" href="$d2/d68/class_export_open_scad_tool.html#a9c35cf64ece9ee328df6ebfd080c0689" title="Export the meshdifference between mesh and wiring in the openscad format." alt="" coords="209,26,355,67"/>
+<area shape="rect" id="node4" href="$d2/d68/class_export_open_scad_tool.html#adc9cf506ecd2ef6e33f37f2eb206da1a" title="Export the meshdifference between mesh and magnets in the openscad format." alt="" coords="199,91,365,132"/>
+</map>

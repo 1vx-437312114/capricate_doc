@@ -1,0 +1,8 @@
+<map id="Voxelizer" name="Voxelizer">
+<area shape="rect" id="node1" title="Base class for voxelizers." alt="" coords="544,5,717,171"/>
+<area shape="rect" id="node2" href="$da/dce/class_multi_pass_voxelizer.html" title="Multipass rasterization based robust voxelizer." alt="" coords="5,255,248,611"/>
+<area shape="rect" id="node3" href="$d5/d6e/class_octree_voxelizer.html" title="Octree based voxelizer." alt="" coords="273,292,485,575"/>
+<area shape="rect" id="node4" href="$dd/df8/class_robust_voxelizer.html" title="Robust voxelizer based on raycasting and majority voting." alt="" coords="509,219,752,648"/>
+<area shape="rect" id="node5" href="$d8/dc0/class_single_pass_voxelizer.html" title="Single pass rasterization based voxelizer." alt="" coords="776,307,949,560"/>
+<area shape="rect" id="node6" href="$d3/d01/class_surface_voxelizer.html" title="Mesh surface only voxelizer." alt="" coords="973,248,1147,619"/>
+</map>

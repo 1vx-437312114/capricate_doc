@@ -1,0 +1,6 @@
+<map id="VoxelOctree::rayBoxIntersection" name="VoxelOctree::rayBoxIntersection">
+<area shape="rect" id="node1" title="Plane box overlap based on the separating axis theorem." alt="" coords="644,13,855,39"/>
+<area shape="rect" id="node2" href="$d8/dcf/class_voxel_octree.html#a3cce2c34fe37d19f3c84130201a34260" title="Intersects a ray with the octree." alt="" coords="412,5,596,47"/>
+<area shape="rect" id="node3" href="$d8/dcf/class_voxel_octree.html#a6a6f83af743fde0840a023406c5d86d3" title="Computes the sign of the distance in the leaf node (if the voxel is inside or outside of the mesh sur..." alt="" coords="181,5,364,47"/>
+<area shape="rect" id="node4" href="$d8/dcf/class_voxel_octree.html#a916e75ddc4d7d02767e9c9a14a4e8ce6" title="Build the octree." alt="" coords="5,13,133,39"/>
+</map>

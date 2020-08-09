@@ -1,0 +1,5 @@
+<map id="vtkSurfaceBase::CleanVertex" name="vtkSurfaceBase::CleanVertex">
+<area shape="rect" id="node1" title="deletes the vertex if it is not connected uneffective if CleanVertices is set to 0" alt="" coords="5,31,200,57"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a49e78891f9e8280362f9a6919ec0aec1" title="Deletes the FREE vertex v1 free means not connected to any higher order element." alt="" coords="248,5,447,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a310ee566afcb88b7672ea6abf2d9f098" title="Returns the valence of the Point V1 i.e. its number of adjacent Points." alt="" coords="252,56,443,83"/>
+</map>

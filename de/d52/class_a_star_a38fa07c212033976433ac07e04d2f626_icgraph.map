@@ -1,0 +1,6 @@
+<map id="AStar::unmarkPath" name="AStar::unmarkPath">
+<area shape="rect" id="node1" title="Unmark a path (unlock)" alt="" coords="459,31,592,57"/>
+<area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#ac4f7efcdb1dc1b668afa7273d832b7eb" title="Remove all wiring connections." alt="" coords="204,31,411,57"/>
+<area shape="rect" id="node3" href="$df/dfa/class_autowire_tool.html#a78b35a48395b5502f8c00b373592678b" title="Execute autowiring tool." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a930afe6e270a14e16d88747ef371acf9" title="Undo wiring." alt="" coords="14,56,147,83"/>
+</map>

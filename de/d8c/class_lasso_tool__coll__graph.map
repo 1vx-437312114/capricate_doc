@@ -1,0 +1,26 @@
+<map id="LassoTool" name="LassoTool">
+<area shape="rect" id="node1" title="Tool for drawing arbitrary shaped touchpoints on a mesh." alt="" coords="647,3941,833,4151"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="681,3712,799,3892"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="361,2721,575,3649"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,2559,192,2637"/>
+<area shape="rect" id="node5" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="12,2221,185,2387"/>
+<area shape="rect" id="node6" title=" " alt="" coords="144,1825,304,1917"/>
+<area shape="rect" id="node10" href="$db/d46/class_touchpoint_registry.html" title="Manages all the touchpoints and connections in a scene." alt="" coords="267,2119,461,2489"/>
+<area shape="rect" id="node7" title=" " alt="" coords="99,1429,293,1507"/>
+<area shape="rect" id="node8" href="$d9/d58/class_touchpoint.html" title="Base class for representing various design elements which are embeded in mesh surface." alt="" coords="61,147,299,957"/>
+<area shape="rect" id="node13" href="$dd/d10/class_connection.html" title="Connection between a source touchpoint and a destination connector." alt="" coords="319,1035,499,1405"/>
+<area shape="rect" id="node9" title=" " alt="" coords="269,2552,451,2644"/>
+<area shape="rect" id="node11" title=" " alt="" coords="328,1825,488,1917"/>
+<area shape="rect" id="node12" title=" " alt="" coords="309,1538,507,1615"/>
+<area shape="rect" id="node14" title=" " alt="" coords="324,513,497,591"/>
+<area shape="rect" id="node15" href="$d3/d2c/struct_connection_indices.html" title="The ConnectionIndices struct contains the indices of the source touchpoint and destination connector ..." alt="" coords="521,506,652,598"/>
+<area shape="rect" id="node16" title=" " alt="" coords="476,2559,631,2637"/>
+<area shape="rect" id="node17" title=" " alt="" coords="655,2552,815,2644"/>
+<area shape="rect" id="node18" title=" " alt="" coords="635,2265,834,2343"/>
+<area shape="rect" id="node19" href="$d2/d00/class_component.html" title="3D&#45;Printing construction component which is not of type wiring, touchpoint or connector." alt="" coords="623,1700,846,2041"/>
+<area shape="rect" id="node20" title=" " alt="" coords="531,1538,685,1615"/>
+<area shape="rect" id="node21" title=" " alt="" coords="710,1531,911,1623"/>
+<area shape="rect" id="node22" href="$d3/dbe/struct_component_1_1_open_s_c_a_d_sub_component.html" title="OpenSCAD Code container for subcomponents." alt="" coords="669,1181,925,1259"/>
+<area shape="rect" id="node23" title="STL class." alt="" coords="851,513,931,591"/>
+<area shape="rect" id="node24" title="STL class." alt="" coords="827,5,954,97"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Utils::cellToPos" name="Utils::cellToPos">
+<area shape="rect" id="node1" title="Compute world coordinate equivalent of voxel grid integer index." alt="" coords="653,64,768,91"/>
+<area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#a45e5cdff2b089a3594c38021ef5d27a7" title="Add wiring geometry of a connection to the scene (tubes)" alt="" coords="413,5,605,32"/>
+<area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" title="Add wiring geometry of a connection to the scene (cubes)" alt="" coords="413,57,605,98"/>
+<area shape="rect" id="node5" href="$d2/d68/class_export_open_scad_tool.html#a2e36901501e307b74705aa84f4227d67" title="Export the wiring in the openscad format." alt="" coords="437,122,582,163"/>
+<area shape="rect" id="node3" href="$df/dfa/class_autowire_tool.html#a78b35a48395b5502f8c00b373592678b" title="Execute autowiring tool." alt="" coords="207,5,357,32"/>
+<area shape="rect" id="node6" href="$d2/d68/class_export_open_scad_tool.html#a71ef67a238fb9cd74563b65d77c1ea73" title=" " alt="" coords="5,122,151,163"/>
+<area shape="rect" id="node7" href="$d2/d68/class_export_open_scad_tool.html#a9c35cf64ece9ee328df6ebfd080c0689" title="Export the meshdifference between mesh and wiring in the openscad format." alt="" coords="209,122,355,163"/>
+<area shape="rect" id="node8" href="$d2/d68/class_export_open_scad_tool.html#adc9cf506ecd2ef6e33f37f2eb206da1a" title="Export the meshdifference between mesh and magnets in the openscad format." alt="" coords="199,187,365,229"/>
+</map>

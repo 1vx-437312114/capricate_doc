@@ -1,0 +1,6 @@
+<map id="LayoutAlgorithms::computePoleOfInaccessibility" name="LayoutAlgorithms::computePoleOfInaccessibility">
+<area shape="rect" id="node1" title="Computes the pole of inaccessibility (point which is farthest away from all mesh ground edges)." alt="" coords="5,23,187,65"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="235,5,406,32"/>
+<area shape="rect" id="node3" href="$d9/d6b/namespace_sampling.html#a6485f7ee5709973834120058ed6dc745" title="computes a hammersley two&#45;dimensional point" alt="" coords="235,56,407,83"/>
+<area shape="rect" id="node4" href="$d9/d6b/namespace_sampling.html#acf525e677ad04c36632c86a31132564a" title="computes the radical inverse (base for hammersley sampling)" alt="" coords="455,56,652,83"/>
+</map>

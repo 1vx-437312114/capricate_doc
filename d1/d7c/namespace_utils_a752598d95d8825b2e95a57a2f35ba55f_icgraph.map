@@ -1,0 +1,5 @@
+<map id="Utils::getMeshWorldCoordinateBounds" name="Utils::getMeshWorldCoordinateBounds">
+<area shape="rect" id="node1" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="483,5,685,47"/>
+<area shape="rect" id="node2" href="$d9/d4f/namespace_layout_algorithms.html#a53c2fbff4e31119750be8ef36e324d03" title="Computes the closest point on a mesh in relation to another point." alt="" coords="253,5,435,47"/>
+<area shape="rect" id="node3" href="$d4/d58/class_polyline_add_final_point_callback.html#aebf2f4ff9236a12c598205822c2949a2" title="Overwritten callback method, which is executed when the left mouse button is pressed for the first ti..." alt="" coords="5,5,205,47"/>
+</map>

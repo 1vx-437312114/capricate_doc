@@ -1,0 +1,10 @@
+<map id="vtkSurfaceBase::AddEdge" name="vtkSurfaceBase::AddEdge">
+<area shape="rect" id="node1" title="adds an edge (v1,v2) to the vtkSurface, with possibly an adjacent face f1" alt="" coords="5,111,181,138"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a11007682a0218237052314749bf84427" title=" " alt="" coords="237,5,408,47"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#afd79981b00b0a0acc2f0f56dc41031da" title=" " alt="" coords="237,71,408,112"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#a0031b6361753a6f7b7761760b4f95fec" title="inserts the edge e1 in the ring of v1" alt="" coords="229,136,416,177"/>
+<area shape="rect" id="node8" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="241,202,405,229"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a1bbae24f61b9e277316ff660697790be" title=" " alt="" coords="469,5,640,47"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#ac6bf9896f86fffac680b5983649d7fea" title=" " alt="" coords="469,85,640,127"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="464,180,645,221"/>
+</map>

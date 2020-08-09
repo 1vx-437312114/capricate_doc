@@ -1,0 +1,4 @@
+<map id="LayoutAlgorithms::computeClosestPointOnMesh" name="LayoutAlgorithms::computeClosestPointOnMesh">
+<area shape="rect" id="node1" title="Computes the closest point on a mesh in relation to another point." alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node2" href="$d1/d7c/namespace_utils.html#a752598d95d8825b2e95a57a2f35ba55f" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="235,5,437,47"/>
+</map>

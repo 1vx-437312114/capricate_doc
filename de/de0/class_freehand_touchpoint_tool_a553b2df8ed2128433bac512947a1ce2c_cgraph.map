@@ -1,0 +1,9 @@
+<map id="FreehandTouchpointTool::execute" name="FreehandTouchpointTool::execute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,168,166"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a90991eb2b230d4839cde43ee588af34f" title="Return the graphical representation (vtkActor) of the mesh." alt="" coords="229,5,377,32"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="218,56,389,83"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html#a8bf8e4b441886787dc82c2caa9b25884" title="Return the vtkRenderer of the scene." alt="" coords="234,107,373,133"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#a180c8577946667c192ae08462fab006a" title="Return the vtk render window of the application." alt="" coords="216,157,391,184"/>
+<area shape="rect" id="node6" href="$d9/d58/class_touchpoint.html#aabec59cfa02cddb2dab4420b3c056df0" title="Return color value for a given touchpoint type." alt="" coords="216,209,391,250"/>
+<area shape="rect" id="node7" href="$d6/db5/class_scene.html#a519eb93d7083d43d001a9f4285d98763" title="Set the actual contour widget." alt="" coords="217,275,389,301"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="VoxelImageVisualizer::getVoxelActor" name="VoxelImageVisualizer::getVoxelActor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,152,76"/>
+<area shape="rect" id="node2" href="$db/dae/class_voxel_image_visualizer.html#a381e70e9dba0cad1fddf946aa7f4a408" title="Compute scaling factor for visualization actor." alt="" coords="213,5,359,47"/>
+<area shape="rect" id="node3" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="200,71,372,98"/>
+</map>

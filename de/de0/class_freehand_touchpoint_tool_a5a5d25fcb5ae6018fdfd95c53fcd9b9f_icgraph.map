@@ -1,0 +1,8 @@
+<map id="FreehandTouchpointTool::setTouchpointDepth" name="FreehandTouchpointTool::setTouchpointDepth">
+<area shape="rect" id="node1" title="Set the penetration depth of the touchpoint." alt="" coords="689,71,852,112"/>
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a7a4870ffc9b56db8b4b5b8991493f557" title=" " alt="" coords="461,5,641,47"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a07971de2bcf8349b2fbf02fc5e76e318" title=" " alt="" coords="461,71,641,112"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#ae2f34d6070e32449a77fad805bd413ef" title=" " alt="" coords="461,136,641,177"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,71,413,112"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,78,185,105"/>
+</map>

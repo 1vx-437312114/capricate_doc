@@ -1,0 +1,6 @@
+<map id="ExportOpenScadTool::writeMagnets" name="ExportOpenScadTool::writeMagnets">
+<area shape="rect" id="node1" title="Export magnetic mesh objects in the openscad format." alt="" coords="5,23,151,65"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#aba225215a175a15a2a70e36623260717" title="Return a magnet from the scene, given its unique id." alt="" coords="232,5,360,32"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html#a1c12a8d990b55ebee10c44cabedbd6a2" title="Return the number of magnetic parts in the scene." alt="" coords="199,56,393,83"/>
+<area shape="rect" id="node3" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="441,5,516,32"/>
+</map>

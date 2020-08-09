@@ -1,0 +1,6 @@
+<map id="VoxelOctree::updateLeafNodeDistanceValue" name="VoxelOctree::updateLeafNodeDistanceValue">
+<area shape="rect" id="node1" title="Computes the distance from the leaf node to the mesh surface." alt="" coords="5,39,201,80"/>
+<area shape="rect" id="node2" href="$d8/dcf/class_voxel_octree.html#a371e633910dbf1fd372468b856fbe029" title="Computes the closest point from a position to a triangle." alt="" coords="249,5,423,47"/>
+<area shape="rect" id="node4" href="$d2/de9/struct_voxel_octree_1_1_a_a_b_b.html#a38ea3197e089ada1c6db135d7c7a5e47" title="Return the center of the AABB." alt="" coords="263,71,409,112"/>
+<area shape="rect" id="node3" href="$d8/dcf/class_voxel_octree.html#a8501730a22c659ce06e598398f702a53" title=" " alt="" coords="471,13,619,39"/>
+</map>

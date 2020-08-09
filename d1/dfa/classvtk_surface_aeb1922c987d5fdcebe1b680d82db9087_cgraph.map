@@ -1,0 +1,45 @@
+<map id="vtkSurface::SplitLongEdges" name="vtkSurface::SplitLongEdges">
+<area shape="rect" id="node1" title="Recusrsively splits the edges longer than Ratio*AverageLength." alt="" coords="5,871,189,898"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a0c1300b92e803904eddacbbc25a89c09" title="Adds a face (ve1,ve2,ve3) to the vtkSurfaceBase Object and returns its Id." alt="" coords="260,71,435,98"/>
+<area shape="rect" id="node9" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="1059,126,1269,153"/>
+<area shape="rect" id="node10" href="$d3/d13/classvtk_surface_base.html#a6d0fece7168e91590325097ee7a320a2" title="Returns v1 and v2 as the vertices bounding the edge." alt="" coords="1053,493,1275,519"/>
+<area shape="rect" id="node11" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="1082,291,1246,318"/>
+<area shape="rect" id="node14" href="$d3/d13/classvtk_surface_base.html#aceee5b078bbb14fd9c2ac54f2c043ced" title="adds a vertex with coordinates (x,y,z) to the vtkSurface and returns its Id" alt="" coords="256,754,439,781"/>
+<area shape="rect" id="node17" href="$d3/d13/classvtk_surface_base.html#aee0f64de68a21e569228534cfba3dc88" title="Reorders Cells description so that each cell is well oriented." alt="" coords="242,274,453,301"/>
+<area shape="rect" id="node19" href="$d1/dfa/classvtk_surface.html#a946489597d1e648f21c30393b379de25" title=" " alt="" coords="250,805,445,847"/>
+<area shape="rect" id="node20" href="$d1/dfa/classvtk_surface.html#acfcf9e454d6840105295808435c80f84" title=" " alt="" coords="244,871,451,898"/>
+<area shape="rect" id="node21" href="$d3/d13/classvtk_surface_base.html#aae9fbf8586bd128017ffb7a389651d9f" title="Deletes the face f1, possibly its adjacent edges and vertices if they are free and is CleanVertices a..." alt="" coords="252,391,443,418"/>
+<area shape="rect" id="node29" href="$d1/dfa/classvtk_surface.html#a48b40d040883d29bd6c3e7ac0310bc5b" title="Cancels the computation of the sharp vertices list." alt="" coords="241,922,453,949"/>
+<area shape="rect" id="node30" href="$d1/dfa/classvtk_surface.html#a5541a2f5ca3345d7fcb2d2e07f0cfb26" title=" " alt="" coords="255,973,439,1015"/>
+<area shape="rect" id="node31" href="$d1/dfa/classvtk_surface.html#ab6491210ec6530f5a3827e2e92c7aed7" title=" " alt="" coords="255,1039,439,1080"/>
+<area shape="rect" id="node32" href="$d1/dfa/classvtk_surface.html#a0a9d3c0bc50be0fd45d17d61417c1fba" title=" " alt="" coords="258,1104,437,1145"/>
+<area shape="rect" id="node33" href="$d3/d13/classvtk_surface_base.html#aec1f9a09bfacb7d5de80d3aeef8d5026" title="returns the value of CleanEdges. Default Value : 1" alt="" coords="258,1169,437,1211"/>
+<area shape="rect" id="node34" href="$d3/d13/classvtk_surface_base.html#a8744453282cd1f77c4dcda857c6aa4fe" title="returns the value of CleanVertices. Default Value : 1" alt="" coords="258,1235,437,1276"/>
+<area shape="rect" id="node35" href="$d1/dfa/classvtk_surface.html#a953e87d3c04cb906a2ec336dd7040076" title="Computes the Mesh Edges Lengths in an array." alt="" coords="252,602,443,629"/>
+<area shape="rect" id="node37" href="$d3/d13/classvtk_surface_base.html#a342d0273e9a72ba4975767cc64c7a83c" title="Returns the coordinates of Point." alt="" coords="801,653,975,695"/>
+<area shape="rect" id="node38" href="$d3/d13/classvtk_surface_base.html#a28ae550f7790720b715bf403d754f8b5" title="Returns the number of edges in the vtkSurfaceBase Object." alt="" coords="519,660,709,701"/>
+<area shape="rect" id="node39" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="237,1301,457,1327"/>
+<area shape="rect" id="node40" href="$d3/d13/classvtk_surface_base.html#a84dee48a0978ea3f736866161ece0bcf" title="Sets On/Off the ability to clean Edges. Default Value : 1." alt="" coords="259,1352,436,1393"/>
+<area shape="rect" id="node41" href="$d3/d13/classvtk_surface_base.html#a9effbdbf099f268bcdcef40a4779d03f" title="Sets On/Off the ability to clean vertices. Default Value : 1." alt="" coords="259,1417,436,1459"/>
+<area shape="rect" id="node42" href="$da/d7b/vtksurface_8cxx.html#a8ec4d424bb488743998af68a0c01ba6a" title=" " alt="" coords="320,1483,375,1510"/>
+<area shape="rect" id="node43" href="$da/d7b/vtksurface_8cxx.html#adb86a9e625fff03ab003ca5c6f45013d" title=" " alt="" coords="320,1534,375,1561"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#af60b7f39eb89fccc1256dc2bad3af80b" title="Adds a face (ve1,ve2,ve3) to the vtkSurfaceBase Object and returns its Id." alt="" coords="517,71,711,98"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a6e6f179eb028cec1da57d67a713e64b4" title="adds an edge (v1,v2) to the vtkSurface and returns its Id" alt="" coords="800,71,976,98"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a4028c02d912144539d372c64739f3046" title=" " alt="" coords="803,5,973,47"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#af6106de85da3d9bb09d35c8f31cbb191" title="the method which keeps the orientation of the faces consistent. This is called whenever a new face is..." alt="" coords="771,173,1005,215"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#a447cd5aee68a7db76285f963493d7560" title=" " alt="" coords="1079,5,1249,47"/>
+<area shape="rect" id="node8" href="$d5/d9c/vtksurfacebase_8cxx.html#a2e8c26ea64993c77629c368633da5ff0" title=" " alt="" coords="1106,179,1222,206"/>
+<area shape="rect" id="node13" href="$d3/d13/classvtk_surface_base.html#a9c77655b36b9fa47039e88d71f1be28a" title="Returns true if the edge is a Manifold one (2 adjacent polygons)" alt="" coords="1057,230,1271,257"/>
+<area shape="rect" id="node12" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="1331,331,1513,372"/>
+<area shape="rect" id="node15" href="$d3/d13/classvtk_surface_base.html#afd79981b00b0a0acc2f0f56dc41031da" title=" " alt="" coords="529,777,699,819"/>
+<area shape="rect" id="node16" href="$d3/d13/classvtk_surface_base.html#ac6bf9896f86fffac680b5983649d7fea" title=" " alt="" coords="803,777,973,819"/>
+<area shape="rect" id="node18" href="$d3/d13/classvtk_surface_base.html#a2f903d435003385ebe7839c1f157db7f" title="returns 1 if Face is actually used to store a polygon (not deleted). Returns 0 otherwise" alt="" coords="514,274,714,301"/>
+<area shape="rect" id="node22" href="$d3/d13/classvtk_surface_base.html#a75b276734fd326f5abdc5431659e566a" title="deletes the edge if it is adjacent to no polygon uneffective if CleanEdges is set to 0" alt="" coords="521,442,707,469"/>
+<area shape="rect" id="node28" href="$d3/d13/classvtk_surface_base.html#a8ff6bce196e2ef18c7360219e8c97877" title="removes Face from the ring of Edge" alt="" coords="519,325,709,367"/>
+<area shape="rect" id="node23" href="$d3/d13/classvtk_surface_base.html#a46f5c7e99dfcbc87899fa82ddec0a8cc" title="Deletes the free edge e1 and possibly its vertices if they are free." alt="" coords="793,442,983,469"/>
+<area shape="rect" id="node24" href="$d3/d13/classvtk_surface_base.html#aa880815b0dd0315f0b0716dc7b7f16b2" title="deletes the vertex if it is not connected uneffective if CleanVertices is set to 0" alt="" coords="1067,442,1261,469"/>
+<area shape="rect" id="node27" href="$d3/d13/classvtk_surface_base.html#ae63b7ea41f949bf8b801ba46b3828f2e" title="removes the edge e1 from the ring of v1" alt="" coords="1069,364,1259,405"/>
+<area shape="rect" id="node25" href="$d3/d13/classvtk_surface_base.html#a49e78891f9e8280362f9a6919ec0aec1" title="Deletes the FREE vertex v1 free means not connected to any higher order element." alt="" coords="1323,467,1521,494"/>
+<area shape="rect" id="node26" href="$d3/d13/classvtk_surface_base.html#a310ee566afcb88b7672ea6abf2d9f098" title="Returns the valence of the Point V1 i.e. its number of adjacent Points." alt="" coords="1327,417,1517,443"/>
+<area shape="rect" id="node36" href="$d1/dfa/classvtk_surface.html#abe33f0d274c3eb53ac3dcdfbffba8652" title="Returns the euclidian distance between the vertices V1 and V2." alt="" coords="505,595,723,636"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Scene::updateCuberilleActors" name="Scene::updateCuberilleActors">
+<area shape="rect" id="node1" title="Update the cuberille visualization after changes to the underlying voxel data." alt="" coords="5,166,200,193"/>
+<area shape="rect" id="node2" href="$db/dae/class_voxel_image_visualizer.html#a9d6ddcce68efaea01bfacaa932f27d9a" title="Return RGB color cube output visualization." alt="" coords="457,5,603,47"/>
+<area shape="rect" id="node5" href="$db/dae/class_voxel_image_visualizer.html#a279e821afcfbef7cb624c391eec3b7a4" title="Return visualization of the mesh interior only." alt="" coords="248,72,395,113"/>
+<area shape="rect" id="node7" href="$db/dae/class_voxel_image_visualizer.html#a00b60f629dcc3335bff26934e88b9bcb" title="Return the occupation map visualization (unoccupied = yellow, occupied = blue)" alt="" coords="453,136,607,177"/>
+<area shape="rect" id="node8" href="$db/dae/class_voxel_image_visualizer.html#a5f41640feebb9f49204b777abb09fec2" title="Return visualization with VOXEL_OUTSIDE = &quot;White&quot;, VOXEL_OCCUPIED = &quot;Red&quot;, VOXEL_SHELL = &quot;Yellow&quot;,..." alt="" coords="443,201,617,243"/>
+<area shape="rect" id="node9" href="$db/dae/class_voxel_image_visualizer.html#a15634f5a62fd0d71806741d1db033243" title="Set input data of the visualizer." alt="" coords="248,243,395,284"/>
+<area shape="rect" id="node10" href="$db/dae/class_voxel_image_visualizer.html#a65eec474a368555a6ba16c1f54e956db" title="Set output size of the visualization." alt="" coords="248,308,395,349"/>
+<area shape="rect" id="node3" href="$db/dae/class_voxel_image_visualizer.html#a381e70e9dba0cad1fddf946aa7f4a408" title="Compute scaling factor for visualization actor." alt="" coords="678,73,825,115"/>
+<area shape="rect" id="node4" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="665,141,837,167"/>
+<area shape="rect" id="node6" href="$db/dae/class_voxel_image_visualizer.html#a266b4be6343bb49d53b4af2c9e7df310" title=" " alt="" coords="457,71,603,112"/>
+</map>

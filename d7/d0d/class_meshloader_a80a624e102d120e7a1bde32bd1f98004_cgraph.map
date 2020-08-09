@@ -1,0 +1,4 @@
+<map id="Meshloader::loadSTLMeshFromQtResource" name="Meshloader::loadSTLMeshFromQtResource">
+<area shape="rect" id="node1" title="Load a mesh given its filename from a Qt resource." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$d7/d0d/class_meshloader.html#a4f336822f507e4952518c1a194e99744" title="Creates a scene object from the polydata." alt="" coords="260,13,468,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RandomOptimizer" name="RandomOptimizer">
+<area shape="rect" id="node1" title="Does not optimize at all (null) but instead connects the first touchpoint with the first connector an..." alt="" coords="17,219,192,355"/>
+<area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="5,5,204,171"/>
+</map>

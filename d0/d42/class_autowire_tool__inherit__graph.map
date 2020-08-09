@@ -1,0 +1,4 @@
+<map id="AutowireTool" name="AutowireTool">
+<area shape="rect" id="node1" title="Tool for wiring touchpoints with connectors." alt="" coords="5,263,260,560"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="73,5,192,215"/>
+</map>

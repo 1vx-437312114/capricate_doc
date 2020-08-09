@@ -1,0 +1,4 @@
+<map id="AStar::clearAllPaths" name="AStar::clearAllPaths">
+<area shape="rect" id="node1" title="Unmark all paths." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node2" href="$de/d52/class_a_star.html#aa76c29f42861c4f6fc7c328e4dbc7d83" title="Mark a path as locked so that it can not be used by another search." alt="" coords="193,5,312,32"/>
+</map>

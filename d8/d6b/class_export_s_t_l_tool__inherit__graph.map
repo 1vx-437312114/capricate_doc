@@ -1,0 +1,4 @@
+<map id="ExportSTLTool" name="ExportSTLTool">
+<area shape="rect" id="node1" title="Tool for exporting a wired mesh to the stl file format." alt="" coords="5,263,159,399"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="23,5,141,215"/>
+</map>

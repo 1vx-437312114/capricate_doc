@@ -1,0 +1,8 @@
+<map id="vtkSurfaceBase::CheckNormals" name="vtkSurfaceBase::CheckNormals">
+<area shape="rect" id="node1" title="Reorders Cells description so that each cell is well oriented." alt="" coords="528,89,739,116"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#abb20d4428cd6182c950aff49ac550c29" title="Embeds a vtkPolyData into a vtkSurfaceBase object." alt="" coords="271,23,463,65"/>
+<area shape="rect" id="node5" href="$d1/dfa/classvtk_surface.html#aeb1922c987d5fdcebe1b680d82db9087" title="Recusrsively splits the edges longer than Ratio*AverageLength." alt="" coords="275,89,459,116"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#aa396a785b13b7e7784d5ce5d1bdba2d9" title="switches the cells orientation (usefull when the mesh is displayed all black...)" alt="" coords="253,140,480,167"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#a35760f7e4379a535a7338a3dba028b9f" title="Builds a 1 connected component mesh from the mesh in two steps: First: merge the points which are clo..." alt="" coords="5,5,205,32"/>
+<area shape="rect" id="node4" href="$d1/dfa/classvtk_surface.html#a242df182bc35f6b38c25de1b1582bc42" title="Creates the vtkSurface object by reading a mesh file." alt="" coords="14,56,197,83"/>
+</map>

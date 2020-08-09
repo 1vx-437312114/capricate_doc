@@ -1,0 +1,6 @@
+<map id="vtkSurface::ComputeTrianglesStatistics" name="vtkSurface::ComputeTrianglesStatistics">
+<area shape="rect" id="node1" title="Computes the mesh minimal angle, average minimal angle, minimal triangle quality and average triangle..." alt="" coords="5,49,204,90"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="252,5,472,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a2f903d435003385ebe7839c1f157db7f" title="returns 1 if Face is actually used to store a polygon (not deleted). Returns 0 otherwise" alt="" coords="262,56,462,83"/>
+<area shape="rect" id="node4" href="$da/d7b/vtksurface_8cxx.html#a7dfabf648221e2ab9f1d4babc35dd051" title=" " alt="" coords="301,107,423,133"/>
+</map>

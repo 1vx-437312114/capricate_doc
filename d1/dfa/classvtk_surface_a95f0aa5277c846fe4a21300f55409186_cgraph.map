@@ -1,0 +1,20 @@
+<map id="vtkSurface::DisplayMeshProperties" name="vtkSurface::DisplayMeshProperties">
+<area shape="rect" id="node1" title="same as GetMeshProperties, but the properties are displayed on screen" alt="" coords="5,360,233,387"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#afe3aaa7de019acb523e75df87e6c9a19" title="copy to stream the connectivity and geometric properties of the mesh" alt="" coords="281,335,487,361"/>
+<area shape="rect" id="node18" href="$d1/d7c/namespace_utils.html#a4257878fa209bf3f05cf252a78974f88" title="Convert type T to std::string." alt="" coords="347,385,421,412"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#a5e49c2664a0fa9927b19a86d88f2d919" title="Computes the mesh minimal angle, average minimal angle, minimal triangle quality and average triangle..." alt="" coords="542,46,741,87"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a2f903d435003385ebe7839c1f157db7f" title="returns 1 if Face is actually used to store a polygon (not deleted). Returns 0 otherwise" alt="" coords="806,111,1006,137"/>
+<area shape="rect" id="node7" href="$d1/dfa/classvtk_surface.html#a946489597d1e648f21c30393b379de25" title=" " alt="" coords="544,163,739,205"/>
+<area shape="rect" id="node8" href="$d1/dfa/classvtk_surface.html#ae52ed54bd4ec3f6e0380b5e08f8465d0" title="Computes the connected components of the mesh." alt="" coords="553,229,730,270"/>
+<area shape="rect" id="node11" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="1064,385,1275,412"/>
+<area shape="rect" id="node12" href="$d3/d13/classvtk_surface_base.html#a28ae550f7790720b715bf403d754f8b5" title="Returns the number of edges in the vtkSurfaceBase Object." alt="" coords="546,359,737,401"/>
+<area shape="rect" id="node13" href="$d3/d13/classvtk_surface_base.html#a310ee566afcb88b7672ea6abf2d9f098" title="Returns the valence of the Point V1 i.e. its number of adjacent Points." alt="" coords="546,425,737,452"/>
+<area shape="rect" id="node14" href="$d3/d13/classvtk_surface_base.html#ada6cfad7e26b2cae144e98bd508ca9cb" title="Returns the entropy of the valences of the mesh." alt="" coords="546,294,737,335"/>
+<area shape="rect" id="node16" href="$d3/d13/classvtk_surface_base.html#aea03bdd23f1f32917a17935aa2233cc6" title="returns 1 if Edge is actually used to store an edge (not deleted). Returns 0 otherwise" alt="" coords="541,527,742,553"/>
+<area shape="rect" id="node17" href="$d3/d13/classvtk_surface_base.html#a9c77655b36b9fa47039e88d71f1be28a" title="Returns true if the edge is a Manifold one (2 adjacent polygons)" alt="" coords="535,577,748,604"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="796,5,1016,32"/>
+<area shape="rect" id="node6" href="$da/d7b/vtksurface_8cxx.html#a7dfabf648221e2ab9f1d4babc35dd051" title=" " alt="" coords="845,56,967,83"/>
+<area shape="rect" id="node9" href="$d3/d13/classvtk_surface_base.html#a6745d1506755b95f1e2bb70337636055" title="Returns the List of Points adjacent to the point v1." alt="" coords="815,229,997,270"/>
+<area shape="rect" id="node10" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="1079,262,1260,303"/>
+<area shape="rect" id="node15" href="$d3/d13/classvtk_surface_base.html#abd694015b1a8fca265c35937c9c02b2b" title="Returns the list of faces adjacent to the point v1." alt="" coords="815,294,997,335"/>
+</map>

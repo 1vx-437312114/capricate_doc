@@ -1,0 +1,3 @@
+<map id="GridNode" name="GridNode">
+<area shape="rect" id="node1" title="Grid node for the A* search algorithm." alt="" coords="5,5,167,391"/>
+</map>

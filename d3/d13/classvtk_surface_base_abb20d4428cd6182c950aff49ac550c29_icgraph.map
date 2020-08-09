@@ -1,0 +1,5 @@
+<map id="vtkSurfaceBase::CreateFromPolyData" name="vtkSurfaceBase::CreateFromPolyData">
+<area shape="rect" id="node1" title="Embeds a vtkPolyData into a vtkSurfaceBase object." alt="" coords="253,23,445,65"/>
+<area shape="rect" id="node2" href="$d1/dfa/classvtk_surface.html#a35760f7e4379a535a7338a3dba028b9f" title="Builds a 1 connected component mesh from the mesh in two steps: First: merge the points which are clo..." alt="" coords="5,5,205,32"/>
+<area shape="rect" id="node3" href="$d1/dfa/classvtk_surface.html#a242df182bc35f6b38c25de1b1582bc42" title="Creates the vtkSurface object by reading a mesh file." alt="" coords="14,56,197,83"/>
+</map>

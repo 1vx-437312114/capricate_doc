@@ -1,0 +1,13 @@
+<map id="Touchpoint::getWorldCoordinateBounds" name="Touchpoint::getWorldCoordinateBounds">
+<area shape="rect" id="node1" title="Return the bounds of the touchpoint in world coordinates." alt="" coords="943,43,1149,84"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#a3208637bddd13900ad6b1b0704e63cc1" title="Return the bounds of the touchpoint in world coordinates vtk style." alt="" coords="688,9,895,51"/>
+<area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html#a1b82f162b238396efeae6b9369430a87" title="Mark voxel grid cells occupied / unoccupied by the touchpoint geometry." alt="" coords="699,75,884,116"/>
+<area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html#afbb2470ea0d67a12a29eb3d6bd958f01" title="Mark voxel grid cells as occupied by the touchpoint geometry." alt="" coords="445,55,633,82"/>
+<area shape="rect" id="node6" href="$d9/d58/class_touchpoint.html#a550348f9d05c347b5186b6531d583a11" title="Mark voxel grid cells as unoccupied by the touchpoint geometry." alt="" coords="437,107,640,134"/>
+<area shape="rect" id="node5" href="$db/dbb/class_picking_interactor_style.html#a1620702107e2c2d0c0aefbd896098b0d" title="Overloaded method, invoked when right mouse button is pressed." alt="" coords="227,45,378,87"/>
+<area shape="rect" id="node7" href="$d6/db5/class_scene.html#af1128c48ccb6999066aa1d935075cb23" title="Remove a touchpoint from the scene given its unique touchpoint id." alt="" coords="216,111,389,138"/>
+<area shape="rect" id="node8" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="15,5,158,47"/>
+<area shape="rect" id="node9" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="9,71,164,112"/>
+<area shape="rect" id="node10" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="5,136,168,177"/>
+<area shape="rect" id="node11" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="28,202,145,229"/>
+</map>

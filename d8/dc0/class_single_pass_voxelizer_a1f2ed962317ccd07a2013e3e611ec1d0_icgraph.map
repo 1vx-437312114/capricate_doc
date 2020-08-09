@@ -1,0 +1,6 @@
+<map id="SinglePassVoxelizer::setSampleDimensions" name="SinglePassVoxelizer::setSampleDimensions">
+<area shape="rect" id="node1" title="Set voxel grid dimensions." alt="" coords="424,35,585,76"/>
+<area shape="rect" id="node2" href="$d8/dc0/class_single_pass_voxelizer.html#a339e15fe29d1eba990044a15c0d0de19" title="Set voxel grid dimensions as array." alt="" coords="215,5,376,47"/>
+<area shape="rect" id="node3" href="$d9/dd1/class_mesh_subtractor.html#ac7f4a729498501d6703614b0555931e6" title=" " alt="" coords="215,71,376,98"/>
+<area shape="rect" id="node4" href="$dd/d00/class_export_s_t_l_tool.html#a218420198ac8fef5b9f9a8acc889307d" title=" " alt="" coords="5,71,167,98"/>
+</map>

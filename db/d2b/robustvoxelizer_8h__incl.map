@@ -1,0 +1,52 @@
+<map id="robustvoxelizer.h" name="robustvoxelizer.h">
+<area shape="rect" id="node1" title="Octree based voxelizer." alt="" coords="1372,5,1493,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="1908,155,1980,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="262,80,317,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="341,80,401,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="23,155,92,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="476,80,535,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2005,155,2070,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2095,155,2146,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="116,155,175,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2170,155,2209,181"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2732,155,2794,181"/>
+<area shape="rect" id="node12" title=" " alt="" coords="199,155,258,181"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2063,244,2151,271"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1738,155,1884,181"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1074,155,1183,181"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1207,155,1327,181"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1351,155,1479,181"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1504,155,1601,181"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1626,155,1714,181"/>
+<area shape="rect" id="node20" title=" " alt="" coords="282,155,391,181"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1470,80,1565,107"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2176,244,2302,271"/>
+<area shape="rect" id="node23" title=" " alt="" coords="933,244,1038,271"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2818,155,2966,181"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1742,80,1896,107"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1920,80,2115,107"/>
+<area shape="rect" id="node27" title=" " alt="" coords="415,155,524,181"/>
+<area shape="rect" id="node28" title=" " alt="" coords="549,155,673,181"/>
+<area shape="rect" id="node29" title=" " alt="" coords="654,244,768,271"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2350,80,2477,107"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2501,80,2678,107"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2702,80,2896,107"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2990,155,3101,181"/>
+<area shape="rect" id="node34" href="$dd/db0/cgal__defs_8h.html" title="CGAL specific definitions." alt="" coords="3230,155,3349,181"/>
+<area shape="rect" id="node47" href="$d5/d9c/voxelizer_8h.html" title="Base class for voxelizers." alt="" coords="749,155,897,181"/>
+<area shape="rect" id="node48" href="$d3/da6/surfacevoxelizer_8h.html" title="Mesh surface only voxelizer." alt="" coords="864,80,1054,107"/>
+<area shape="rect" id="node49" href="$d2/d6f/constants_8h.html" title="Application / Algorithm specific global constants." alt="" coords="2336,155,2454,181"/>
+<area shape="rect" id="node50" href="$d5/d60/utils_8h.html" title="Various utility algorithms needed by various parts of the application." alt="" coords="2190,80,2275,107"/>
+<area shape="rect" id="node35" title=" " alt="" coords="2327,244,2500,271"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2524,244,2663,271"/>
+<area shape="rect" id="node37" title=" " alt="" coords="2688,244,2833,271"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2858,237,3004,278"/>
+<area shape="rect" id="node39" title=" " alt="" coords="3028,229,3191,285"/>
+<area shape="rect" id="node40" title=" " alt="" coords="3215,244,3367,271"/>
+<area shape="rect" id="node41" title=" " alt="" coords="3391,244,3548,271"/>
+<area shape="rect" id="node42" title=" " alt="" coords="3572,244,3751,271"/>
+<area shape="rect" id="node43" title=" " alt="" coords="3775,237,4012,278"/>
+<area shape="rect" id="node44" title=" " alt="" coords="4036,229,4199,285"/>
+<area shape="rect" id="node45" title=" " alt="" coords="4223,237,4442,278"/>
+<area shape="rect" id="node46" title=" " alt="" coords="4466,237,4684,278"/>
+</map>

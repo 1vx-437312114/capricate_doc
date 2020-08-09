@@ -1,0 +1,6 @@
+<map id="VoxelOctree::VoxelOctree" name="VoxelOctree::VoxelOctree">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,177,61"/>
+<area shape="rect" id="node2" href="$d9/d6b/namespace_sampling.html#a6485f7ee5709973834120058ed6dc745" title="computes a hammersley two&#45;dimensional point" alt="" coords="230,5,402,32"/>
+<area shape="rect" id="node4" href="$d9/d6b/namespace_sampling.html#ab0601986bf331112c328213e4eb566c4" title="maps a two&#45;dimensional point on a sphere surface" alt="" coords="225,57,407,98"/>
+<area shape="rect" id="node3" href="$d9/d6b/namespace_sampling.html#acf525e677ad04c36632c86a31132564a" title="computes the radical inverse (base for hammersley sampling)" alt="" coords="455,5,652,32"/>
+</map>

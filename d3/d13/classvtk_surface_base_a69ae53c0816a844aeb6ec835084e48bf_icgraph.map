@@ -1,0 +1,6 @@
+<map id="vtkSurfaceBase::SetFace" name="vtkSurfaceBase::SetFace">
+<area shape="rect" id="node1" title="Replaces the definition of f1 by the face formed by v1,v2 and v3." alt="" coords="493,31,665,57"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a3605512219637518eaa534c82f974a79" title="Bisects Edge by creating a new vertex at its midpoints and two new faces." alt="" coords="255,5,445,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#abc24e58144c7a215d84afa33a6864439" title="Flips the edge. If the flip was performed, return &#45;1. Otherwise, the edge already existing is returne..." alt="" coords="263,56,437,83"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a8c1c05d41fedc99401dd39995d8e5c97" title="Flips the edge. If the resulting edge already exists, it is flipped (an so on). Returns &#45;1 in case of..." alt="" coords="5,56,207,83"/>
+</map>

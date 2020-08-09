@@ -1,0 +1,4 @@
+<map id="vtkSurface::WriteInventor" name="vtkSurface::WriteInventor">
+<area shape="rect" id="node1" title="Writes the mesh to a .iv file." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="224,5,444,32"/>
+</map>

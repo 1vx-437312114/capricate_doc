@@ -1,0 +1,4 @@
+<map id="Scene::getVoxelgridBounds" name="Scene::getVoxelgridBounds">
+<area shape="rect" id="node1" title="Return the bounds of the voxel grid." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a0799bb0687ffe3a97e0523a4e700ef2d" title="Return the occupation map visualization." alt="" coords="236,5,443,32"/>
+</map>

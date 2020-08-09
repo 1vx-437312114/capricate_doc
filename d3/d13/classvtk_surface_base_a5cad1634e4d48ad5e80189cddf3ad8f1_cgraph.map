@@ -1,0 +1,8 @@
+<map id="vtkSurfaceBase::vtkSurfaceBase" name="vtkSurfaceBase::vtkSurfaceBase">
+<area shape="rect" id="node1" title="the constructor" alt="" coords="5,103,221,130"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a2896a775bae1f75f46398279168a6c9e" title="Set memory allocation in the vtkSurfaceBase object for further Cells and points insertion (this is no..." alt="" coords="310,78,451,105"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#ae49fc9162c27c180cc7374e010ce101b" title="Call this function if you want the surface to be oriented." alt="" coords="269,129,492,155"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a1bbae24f61b9e277316ff660697790be" title=" " alt="" coords="540,5,711,47"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a447cd5aee68a7db76285f963493d7560" title=" " alt="" coords="540,71,711,112"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#ac6bf9896f86fffac680b5983649d7fea" title=" " alt="" coords="540,136,711,177"/>
+</map>

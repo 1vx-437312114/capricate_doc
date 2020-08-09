@@ -1,0 +1,5 @@
+<map id="Touchpoint::Touchpoint" name="Touchpoint::Touchpoint">
+<area shape="rect" id="node1" title="Constructs a touchpoint from given polydata." alt="" coords="5,13,161,39"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#abc86c4002a67fd423b649d597b2055d5" title="Creates the graphical representation (vtkActor) for a touchpoint geometry." alt="" coords="209,5,401,47"/>
+<area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html#aabec59cfa02cddb2dab4420b3c056df0" title="Return color value for a given touchpoint type." alt="" coords="449,5,624,47"/>
+</map>

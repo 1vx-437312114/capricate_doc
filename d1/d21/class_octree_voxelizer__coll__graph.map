@@ -1,0 +1,11 @@
+<map id="OctreeVoxelizer" name="OctreeVoxelizer">
+<area shape="rect" id="node1" title="Octree based voxelizer." alt="" coords="440,1167,652,1420"/>
+<area shape="rect" id="node2" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="247,939,421,1104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="445,983,647,1060"/>
+<area shape="rect" id="node4" href="$d8/dcf/class_voxel_octree.html" title="Octree for voxelization." alt="" coords="360,403,577,876"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,248,180,325"/>
+<area shape="rect" id="node6" href="$d2/de9/struct_voxel_octree_1_1_a_a_b_b.html" title=" " alt="" coords="192,5,337,171"/>
+<area shape="rect" id="node7" href="$d6/dfc/class_voxel_octree_1_1_voxel_octree_node.html" title="Represents a node of the octree." alt="" coords="367,233,570,340"/>
+<area shape="rect" id="node8" href="$d2/de9/struct_voxel_octree_1_1_a_a_b_b.html" title=" " alt="" coords="396,5,541,171"/>
+<area shape="rect" id="node9" title=" " alt="" coords="676,248,853,325"/>
+</map>

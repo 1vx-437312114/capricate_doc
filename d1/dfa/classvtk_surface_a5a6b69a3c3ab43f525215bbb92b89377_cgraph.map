@@ -1,0 +1,5 @@
+<map id="vtkSurface::GetTrianglesNormals" name="vtkSurface::GetTrianglesNormals">
+<area shape="rect" id="node1" title="returns the normals of the mesh triangles" alt="" coords="5,27,172,69"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="220,5,440,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a342d0273e9a72ba4975767cc64c7a83c" title="Returns the coordinates of Point." alt="" coords="243,57,417,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AStar::cost" name="AStar::cost">
+<area shape="rect" id="node1" title="Return the cost of traversing the voxel." alt="" coords="5,31,93,57"/>
+<area shape="rect" id="node2" href="$de/d52/class_a_star.html#afca90a393cbdf6550cb2a3c5249bac66" title="Compute 3D integer coordinate index from 1D linearized index." alt="" coords="141,5,255,32"/>
+<area shape="rect" id="node3" href="$de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="158,56,238,83"/>
+</map>

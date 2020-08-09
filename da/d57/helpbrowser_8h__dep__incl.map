@@ -1,0 +1,7 @@
+<map id="helpbrowser.h" name="helpbrowser.h">
+<area shape="rect" id="node1" title="Helpbrowser for application manual." alt="" coords="79,5,182,32"/>
+<area shape="rect" id="node2" href="$d3/d4c/helpbrowser_8cpp.html" title=" " alt="" coords="5,80,123,107"/>
+<area shape="rect" id="node3" href="$d9/d53/mainwindow_8h.html" title="Qt MainWindow of the application." alt="" coords="147,80,251,107"/>
+<area shape="rect" id="node4" href="$d8/dd9/mainwindow_8cpp.html" title=" " alt="" coords="79,155,198,181"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="221,155,296,181"/>
+</map>

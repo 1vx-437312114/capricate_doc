@@ -1,0 +1,13 @@
+<map id="vtkSurfaceBase::DeleteEdgeInRing" name="vtkSurfaceBase::DeleteEdgeInRing">
+<area shape="rect" id="node1" title="removes the edge e1 from the ring of v1" alt="" coords="993,125,1184,166"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a3605512219637518eaa534c82f974a79" title="Bisects Edge by creating a new vertex at its midpoints and two new faces." alt="" coords="755,5,945,32"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a16e3b6b8174063a24d61f9e20e71aaf1" title="Changes one vertex of a given face." alt="" coords="260,41,457,82"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a46f5c7e99dfcbc87899fa82ddec0a8cc" title="Deletes the free edge e1 and possibly its vertices if they are free." alt="" coords="755,132,945,159"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#a343111e4b8b0103bf1f5d6d29fc41c18" title="Merge the two input vertices v1 and v2." alt="" coords="5,157,212,184"/>
+<area shape="rect" id="node10" href="$d3/d13/classvtk_surface_base.html#abc24e58144c7a215d84afa33a6864439" title="Flips the edge. If the flip was performed, return &#45;1. Otherwise, the edge already existing is returne..." alt="" coords="763,259,937,285"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a75b276734fd326f5abdc5431659e566a" title="deletes the edge if it is adjacent to no polygon uneffective if CleanEdges is set to 0" alt="" coords="513,107,699,133"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#aae9fbf8586bd128017ffb7a389651d9f" title="Deletes the face f1, possibly its adjacent edges and vertices if they are free and is CleanVertices a..." alt="" coords="263,107,454,133"/>
+<area shape="rect" id="node8" href="$d1/dfa/classvtk_surface.html#aeb1922c987d5fdcebe1b680d82db9087" title="Recusrsively splits the edges longer than Ratio*AverageLength." alt="" coords="17,107,201,133"/>
+<area shape="rect" id="node9" href="$d1/dfa/classvtk_surface.html#a8871f6a866295a51c983283a4ccc0a9d" title="subdivide the mesh (in place)" alt="" coords="11,56,206,83"/>
+<area shape="rect" id="node11" href="$d3/d13/classvtk_surface_base.html#a8c1c05d41fedc99401dd39995d8e5c97" title="Flips the edge. If the resulting edge already exists, it is flipped (an so on). Returns &#45;1 in case of..." alt="" coords="505,259,707,285"/>
+</map>

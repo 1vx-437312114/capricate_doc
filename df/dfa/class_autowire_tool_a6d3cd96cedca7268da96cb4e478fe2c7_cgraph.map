@@ -1,0 +1,6 @@
+<map id="AutowireTool::markWireOccupation" name="AutowireTool::markWireOccupation">
+<area shape="rect" id="node1" title="Mark voxel grid cells which are occupied by the wiring." alt="" coords="5,56,232,83"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a64cb0dcdcb57a45fe485fb3489c112c4" title="Return if the 26&#45;neighborhood voxels of a connection path are locked too." alt="" coords="280,5,484,32"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="309,56,455,83"/>
+<area shape="rect" id="node4" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="345,107,419,133"/>
+</map>

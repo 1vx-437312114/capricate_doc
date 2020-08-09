@@ -1,0 +1,6 @@
+<map id="vtkSurfaceBase::GetValenceTab" name="vtkSurfaceBase::GetValenceTab">
+<area shape="rect" id="node1" title="writes a text file containing an histogram of the vertices valence distribution" alt="" coords="5,35,216,61"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#abd694015b1a8fca265c35937c9c02b2b" title="Returns the list of faces adjacent to the point v1." alt="" coords="264,27,445,69"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="493,5,704,32"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="508,57,689,98"/>
+</map>

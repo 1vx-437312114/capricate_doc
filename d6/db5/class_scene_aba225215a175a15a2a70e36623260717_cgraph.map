@@ -1,0 +1,4 @@
+<map id="Scene::getMagnet" name="Scene::getMagnet">
+<area shape="rect" id="node1" title="Return a magnet from the scene, given its unique id." alt="" coords="5,5,133,32"/>
+<area shape="rect" id="node2" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="181,5,256,32"/>
+</map>

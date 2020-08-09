@@ -1,0 +1,14 @@
+<map id="vtkSurfaceBase::FlipEdgeSure" name="vtkSurfaceBase::FlipEdgeSure">
+<area shape="rect" id="node1" title="Flips the edge. If the resulting edge already exists, it is flipped (an so on). Returns &#45;1 in case of..." alt="" coords="5,202,207,229"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#abc24e58144c7a215d84afa33a6864439" title="Flips the edge. If the flip was performed, return &#45;1. Otherwise, the edge already existing is returne..." alt="" coords="255,202,429,229"/>
+<area shape="rect" id="node3" href="$d3/d13/classvtk_surface_base.html#ae63b7ea41f949bf8b801ba46b3828f2e" title="removes the edge e1 from the ring of v1" alt="" coords="493,5,683,47"/>
+<area shape="rect" id="node5" href="$d3/d13/classvtk_surface_base.html#a1f8125584169cbf9a07b85a83d90d3da" title="Returns f1 and f2 as the faces adjacent to the edge." alt="" coords="483,71,693,98"/>
+<area shape="rect" id="node6" href="$d3/d13/classvtk_surface_base.html#a6d0fece7168e91590325097ee7a320a2" title="Returns v1 and v2 as the vertices bounding the edge." alt="" coords="477,122,699,149"/>
+<area shape="rect" id="node7" href="$d3/d13/classvtk_surface_base.html#aa9651bd726d7c374c30f33dc67707136" title="Returns the vertices v1, v2 and v3 bounding the face." alt="" coords="747,326,967,353"/>
+<area shape="rect" id="node8" href="$d3/d13/classvtk_surface_base.html#a6c3a0d390ca15d995c91db45c81fcea8" title="Returns the third Point of the face f1 (the two first Points are v1 and v2)" alt="" coords="501,289,675,331"/>
+<area shape="rect" id="node9" href="$d3/d13/classvtk_surface_base.html#a0031b6361753a6f7b7761760b4f95fec" title="inserts the edge e1 in the ring of v1" alt="" coords="495,224,681,265"/>
+<area shape="rect" id="node11" href="$d3/d13/classvtk_surface_base.html#acf6e6f74c51e5a7fb7339d79017d215e" title="Returns the Id of the edge (v1,v2)." alt="" coords="506,173,670,199"/>
+<area shape="rect" id="node12" href="$d3/d13/classvtk_surface_base.html#a69ae53c0816a844aeb6ec835084e48bf" title="Replaces the definition of f1 by the face formed by v1,v2 and v3." alt="" coords="502,406,674,433"/>
+<area shape="rect" id="node4" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="766,163,947,204"/>
+<area shape="rect" id="node10" href="$d3/d13/classvtk_surface_base.html#ac6bf9896f86fffac680b5983649d7fea" title=" " alt="" coords="771,228,942,269"/>
+</map>

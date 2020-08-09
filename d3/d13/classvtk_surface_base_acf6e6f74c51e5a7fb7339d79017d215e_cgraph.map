@@ -1,0 +1,4 @@
+<map id="vtkSurfaceBase::IsEdge" name="vtkSurfaceBase::IsEdge">
+<area shape="rect" id="node1" title="Returns the Id of the edge (v1,v2)." alt="" coords="5,13,169,39"/>
+<area shape="rect" id="node2" href="$d3/d13/classvtk_surface_base.html#a10d9a9c6daefe1c004e27eba5d464738" title="Returns the list of edges adjacent to the point v1." alt="" coords="217,5,399,47"/>
+</map>

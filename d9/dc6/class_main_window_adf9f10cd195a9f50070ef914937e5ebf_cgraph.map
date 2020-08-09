@@ -1,0 +1,5 @@
+<map id="MainWindow::registerTools" name="MainWindow::registerTools">
+<area shape="rect" id="node1" title="Register all touchpoint tools in the tool registry." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$d4/d4d/class_tool_registry.html#a6ddfc6ea3a96bd8d7357d35a88fa7294" title="Add a tool to the registry." alt="" coords="232,5,380,32"/>
+<area shape="rect" id="node3" href="$da/db7/class_tool.html#a570fe2898f55b0bc2691b4fd2c039224" title="Return the name of the tool." alt="" coords="428,5,559,32"/>
+</map>

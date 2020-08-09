@@ -1,0 +1,52 @@
+<map id="voxelimagecombiner.h" name="voxelimagecombiner.h">
+<area shape="rect" id="node1" title="Class for &quot;combining&quot; two voxel images." alt="" coords="844,5,996,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="9,80,69,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="2195,468,2322,495"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1248,468,1363,495"/>
+<area shape="rect" id="node5" title=" " alt="" coords="195,237,304,263"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3107,80,3216,107"/>
+<area shape="rect" id="node7" href="$d5/d60/utils_8h.html" title="Various utility algorithms needed by various parts of the application." alt="" coords="1655,80,1713,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="527,155,577,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="601,155,663,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="687,155,726,181"/>
+<area shape="rect" id="node11" title=" " alt="" coords="751,155,823,181"/>
+<area shape="rect" id="node12" title=" " alt="" coords="847,155,913,181"/>
+<area shape="rect" id="node13" title=" " alt="" coords="937,155,991,181"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1016,155,1069,181"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1147,468,1224,495"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1883,468,1994,495"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1784,155,1867,181"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1517,468,1665,495"/>
+<area shape="rect" id="node19" title=" " alt="" coords="93,468,221,495"/>
+<area shape="rect" id="node20" title=" " alt="" coords="3161,468,3311,495"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1891,155,1979,181"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2059,543,2147,569"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2662,468,2807,495"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2832,468,2941,495"/>
+<area shape="rect" id="node25" title=" " alt="" coords="3016,468,3136,495"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2003,155,2181,181"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2205,155,2309,181"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1387,468,1493,495"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1024,468,1107,495"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2018,468,2171,495"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2334,155,2431,181"/>
+<area shape="rect" id="node32" href="$de/d3a/vtksurface_8h.html" title=" " alt="" coords="1094,155,1229,181"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2203,237,2376,263"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2400,237,2539,263"/>
+<area shape="rect" id="node42" title=" " alt="" coords="2563,237,2709,263"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2733,229,2880,271"/>
+<area shape="rect" id="node44" href="$dd/db0/cgal__defs_8h.html" title="CGAL specific definitions." alt="" coords="2659,155,2778,181"/>
+<area shape="rect" id="node45" href="$d1/da8/sampling_8h.html" title="Various algorithms (random, quasi monte carlo) for generating sample points." alt="" coords="3019,393,3133,420"/>
+<area shape="rect" id="node46" href="$d2/d6f/constants_8h.html" title="Application / Algorithm specific global constants." alt="" coords="1689,468,1807,495"/>
+<area shape="rect" id="node47" href="$d6/d5e/tool_8h.html" title="Base class for tools." alt="" coords="1395,155,1482,181"/>
+<area shape="rect" id="node48" href="$db/d83/scene_8h.html" title="The scene object is a &quot;glue object&quot; which holds scene specific informations." alt="" coords="1305,237,1402,263"/>
+<area shape="rect" id="node49" href="$d8/d54/touchpointregistry_8h.html" title="The TouchpointRegistry manages all touchpoints which are registered / added to the application." alt="" coords="1086,319,1250,345"/>
+<area shape="rect" id="node50" href="$da/dca/touchpoint_8h.html" title="The touchpoint object is the central design object which holds all touchpoint specific informations." alt="" coords="1695,393,1817,420"/>
+<area shape="rect" id="node33" title=" " alt="" coords="600,237,669,263"/>
+<area shape="rect" id="node34" title=" " alt="" coords="693,237,789,263"/>
+<area shape="rect" id="node35" title=" " alt="" coords="813,237,933,263"/>
+<area shape="rect" id="node36" title=" " alt="" coords="957,237,1080,263"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1104,237,1179,263"/>
+<area shape="rect" id="node38" title=" " alt="" coords="328,237,440,263"/>
+<area shape="rect" id="node39" title=" " alt="" coords="465,237,575,263"/>
+</map>

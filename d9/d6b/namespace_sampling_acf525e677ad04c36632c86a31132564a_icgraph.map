@@ -1,0 +1,10 @@
+<map id="Sampling::RadicalInverseVdC" name="Sampling::RadicalInverseVdC">
+<area shape="rect" id="node1" title="computes the radical inverse (base for hammersley sampling)" alt="" coords="736,143,933,170"/>
+<area shape="rect" id="node2" href="$d9/d6b/namespace_sampling.html#a6485f7ee5709973834120058ed6dc745" title="computes a hammersley two&#45;dimensional point" alt="" coords="516,143,688,170"/>
+<area shape="rect" id="node3" href="$d9/d4f/namespace_layout_algorithms.html#a0dd279f7ae7f35e3850f4a90b198faae" title="Computes the pole of inaccessibility (point which is farthest away from all mesh ground edges)." alt="" coords="272,71,453,112"/>
+<area shape="rect" id="node7" href="$d0/d9c/class_mesh_sampler.html#a13959e3407c6565147a814657c86311d" title=" " alt="" coords="257,136,468,177"/>
+<area shape="rect" id="node8" href="$d8/dcf/class_voxel_octree.html#a99930e4b102b967a2ef160a3e48b75b4" title=" " alt="" coords="277,202,449,229"/>
+<area shape="rect" id="node4" href="$d1/da7/class_place_ground_plane8_connectors_tool.html#ac6f514739682b173fadccf10f5bc9aab" title=" " alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node5" href="$dc/db2/class_place_ground_plane4_connectors_tool.html#a7ae289774f2b51d2daba1215effc4311" title=" " alt="" coords="5,71,209,112"/>
+<area shape="rect" id="node6" href="$d9/d00/class_p_s_interface_tool.html#aa26bf20d4e597f64df960e4c1a5c3a69" title=" " alt="" coords="23,137,192,163"/>
+</map>

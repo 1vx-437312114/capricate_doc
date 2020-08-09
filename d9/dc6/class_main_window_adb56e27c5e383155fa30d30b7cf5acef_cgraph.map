@@ -1,0 +1,7 @@
+<map id="MainWindow::slotExportVoxelgridMesh" name="MainWindow::slotExportVoxelgridMesh">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,255,105"/>
+<area shape="rect" id="node2" href="$db/dae/class_voxel_image_visualizer.html#a0876df19a1eb477cfbd3e7e84c18c5af" title="Return foreground voxel grid cells as vtkPolyData." alt="" coords="303,5,449,47"/>
+<area shape="rect" id="node4" href="$db/dae/class_voxel_image_visualizer.html#a15634f5a62fd0d71806741d1db033243" title="Set input data of the visualizer." alt="" coords="303,71,449,112"/>
+<area shape="rect" id="node5" href="$db/dae/class_voxel_image_visualizer.html#a65eec474a368555a6ba16c1f54e956db" title="Set output size of the visualization." alt="" coords="303,136,449,177"/>
+<area shape="rect" id="node3" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="497,13,669,39"/>
+</map>

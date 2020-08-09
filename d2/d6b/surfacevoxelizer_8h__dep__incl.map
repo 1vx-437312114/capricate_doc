@@ -1,0 +1,19 @@
+<map id="surfacevoxelizer.h" name="surfacevoxelizer.h">
+<area shape="rect" id="node1" title="Mesh surface only voxelizer." alt="" coords="539,5,667,32"/>
+<area shape="rect" id="node2" href="$d9/d53/mainwindow_8h.html" title="Qt MainWindow of the application." alt="" coords="368,304,472,331"/>
+<area shape="rect" id="node5" href="$d1/db7/meshsubtractor_8h.html" title=" " alt="" coords="880,155,1003,181"/>
+<area shape="rect" id="node9" href="$db/def/multipassvoxelizer_8h.html" title="Multipass rasterization based robust voxelizer." alt="" coords="297,80,439,107"/>
+<area shape="rect" id="node11" href="$d4/dd0/octreevoxelizer_8h.html" title="Octree based voxelizer." alt="" coords="50,80,171,107"/>
+<area shape="rect" id="node13" href="$d1/d24/robustvoxelizer_8h.html" title="Octree based voxelizer." alt="" coords="463,80,585,107"/>
+<area shape="rect" id="node15" href="$d4/dcb/singlepassvoxelizer_8h.html" title="Single pass rasterization based voxelizer." alt="" coords="609,80,756,107"/>
+<area shape="rect" id="node17" href="$dc/d62/surfacevoxelizer_8cpp.html" title=" " alt="" coords="831,80,974,107"/>
+<area shape="rect" id="node3" href="$d8/dd9/mainwindow_8cpp.html" title=" " alt="" coords="301,379,419,405"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="443,379,517,405"/>
+<area shape="rect" id="node6" href="$db/dcb/exportstltool_8h.html" title="Tool for exporting a wired mesh to the stl file format." alt="" coords="889,229,993,256"/>
+<area shape="rect" id="node8" href="$d3/d7e/meshsubtractor_8cpp.html" title=" " alt="" coords="727,229,865,256"/>
+<area shape="rect" id="node7" href="$de/d8b/exportstltool_8cpp.html" title=" " alt="" coords="882,304,1001,331"/>
+<area shape="rect" id="node10" href="$dc/d4e/multipassvoxelizer_8cpp.html" title=" " alt="" coords="203,155,357,181"/>
+<area shape="rect" id="node12" href="$d9/df3/octreevoxelizer_8cpp.html" title=" " alt="" coords="43,155,178,181"/>
+<area shape="rect" id="node14" href="$d1/d5a/robustvoxelizer_8cpp.html" title=" " alt="" coords="483,155,618,181"/>
+<area shape="rect" id="node16" href="$dd/d13/singlepassvoxelizer_8cpp.html" title=" " alt="" coords="694,155,855,181"/>
+</map>
