@@ -12,7 +12,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="Optimizes the wirelength of a path by using the great deluge algorithm.">
+<g id="a_node1"><a xlink:title="Optimizes the total wirelength of all connections by using the great deluge algorithm.">
 <polygon fill="#bfbfbf" stroke="black" points="396,-0.5 396,-189.5 524,-189.5 524,-0.5 396,-0.5"/>
 <text text-anchor="middle" x="460" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">GreatDelugeOptimizer</text>
 <polyline fill="none" stroke="black" points="396,-170.5 524,-170.5 "/>

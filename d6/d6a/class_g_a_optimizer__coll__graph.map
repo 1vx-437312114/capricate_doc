@@ -1,5 +1,5 @@
 <map id="GAOptimizer" name="GAOptimizer">
-<area shape="rect" id="node1" title="Optimizes the wirelength of a path by using a genetic algorithm." alt="" coords="521,4648,716,5136"/>
+<area shape="rect" id="node1" title="Optimizes the total wirelength of all connections by using a genetic algorithm." alt="" coords="521,4648,716,5136"/>
 <area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="395,4244,594,4395"/>
 <area shape="rect" id="node3" title=" " alt="" coords="38,1647,234,1724"/>
 <area shape="rect" id="node4" href="$d9/d6b/struct_connection_info.html" title="The ConnectionInfo struct contains the indices of the source and destination touchpoint." alt="" coords="36,1181,183,1259"/>

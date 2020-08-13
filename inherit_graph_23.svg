@@ -36,7 +36,7 @@
 <!-- Node2 -->
 <g id="node3" class="node">
 <title>Node2</title>
-<g id="a_node3"><a xlink:href="dc/d6d/class_g_a_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by using a genetic algorithm.">
+<g id="a_node3"><a xlink:href="dc/d6d/class_g_a_optimizer.html" target="_top" xlink:title="Optimizes the total wirelength of all connections by using a genetic algorithm.">
 <polygon fill="white" stroke="black" points="131,-266.5 131,-285.5 204,-285.5 204,-266.5 131,-266.5"/>
 <text text-anchor="middle" x="167.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00">GAOptimizer</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Node3 -->
 <g id="node4" class="node">
 <title>Node3</title>
-<g id="a_node4"><a xlink:href="de/d17/class_great_deluge_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by using the great deluge algorithm.">
+<g id="a_node4"><a xlink:href="de/d17/class_great_deluge_optimizer.html" target="_top" xlink:title="Optimizes the total wirelength of all connections by using the great deluge algorithm.">
 <polygon fill="white" stroke="black" points="111,-228.5 111,-247.5 224,-247.5 224,-228.5 111,-228.5"/>
 <text text-anchor="middle" x="167.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00">GreatDelugeOptimizer</text>
 </a>

@@ -1,4 +1,4 @@
 <map id="GreatDelugeOptimizer" name="GreatDelugeOptimizer">
-<area shape="rect" id="node1" title="Optimizes the wirelength of a path by using the great deluge algorithm." alt="" coords="19,219,190,487"/>
+<area shape="rect" id="node1" title="Optimizes the total wirelength of all connections by using the great deluge algorithm." alt="" coords="19,219,190,487"/>
 <area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="5,5,204,171"/>
 </map>
