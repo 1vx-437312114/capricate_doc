@@ -1,6 +1,6 @@
 <map id="AStar::reset" name="AStar::reset">
 <area shape="rect" id="node1" title="Reset grid." alt="" coords="5,5,97,32"/>
-<area shape="rect" id="node2" href="$de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" title=" " alt="" coords="145,5,261,32"/>
-<area shape="rect" id="node3" href="$de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" title=" " alt="" coords="309,5,413,32"/>
+<area shape="rect" id="node2" href="$de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" title="Resets the 3D voxel grid to it&#39;s default values." alt="" coords="145,5,261,32"/>
+<area shape="rect" id="node3" href="$de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" title="Initializes the 3D voxel grid." alt="" coords="309,5,413,32"/>
 <area shape="rect" id="node4" href="$de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="461,5,541,32"/>
 </map>

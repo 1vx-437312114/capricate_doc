@@ -1,5 +1,5 @@
 <map id="AStar::markPath" name="AStar::markPath">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,124,57"/>
+<area shape="rect" id="node1" title="Set the voxels (and if the flag markneighborhood is true it&#39;s neighors) defined by the voxel index pa..." alt="" coords="5,31,124,57"/>
 <area shape="rect" id="node2" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="172,5,317,32"/>
 <area shape="rect" id="node3" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="207,56,282,83"/>
 </map>

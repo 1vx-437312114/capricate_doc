@@ -12,7 +12,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Initializes the 3D voxel grid.">
 <polygon fill="#bfbfbf" stroke="black" points="1137,-188.5 1137,-207.5 1215,-207.5 1215,-188.5 1137,-188.5"/>
 <text text-anchor="middle" x="1176" y="-195.5" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::initGrid</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="../../de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="../../de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" target="_top" xlink:title="Resets the 3D voxel grid to it&#39;s default values.">
 <polygon fill="white" stroke="black" points="1014,-169.5 1014,-188.5 1101,-188.5 1101,-169.5 1014,-169.5"/>
 <text text-anchor="middle" x="1057.5" y="-176.5" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::resetGrid</text>
 </a>

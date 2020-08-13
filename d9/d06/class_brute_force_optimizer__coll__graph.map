@@ -1,5 +1,5 @@
 <map id="BruteForceOptimizer" name="BruteForceOptimizer">
-<area shape="rect" id="node1" title="Optimizes the wirelength of a path by exhaustive search by trying every possibility." alt="" coords="38,3960,201,4052"/>
+<area shape="rect" id="node1" title="Optimizes the total wirelength of all connections by exhaustive search." alt="" coords="38,3960,201,4052"/>
 <area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="20,3760,219,3911"/>
 <area shape="rect" id="node3" title=" " alt="" coords="5,1647,201,1724"/>
 <area shape="rect" id="node4" href="$d9/d6b/struct_connection_info.html" title="The ConnectionInfo struct contains the indices of the source and destination touchpoint." alt="" coords="43,1181,190,1259"/>

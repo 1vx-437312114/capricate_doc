@@ -1,5 +1,5 @@
 <map id="RandomOptimizer" name="RandomOptimizer">
-<area shape="rect" id="node1" title="Does not optimize at all (null) but instead connects the first touchpoint with the first connector an..." alt="" coords="32,3960,207,4096"/>
+<area shape="rect" id="node1" title="The RandomOptimizer generates random connections in the hope to find a good one by pure luck." alt="" coords="32,3960,207,4096"/>
 <area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="20,3760,219,3911"/>
 <area shape="rect" id="node3" title=" " alt="" coords="5,1647,201,1724"/>
 <area shape="rect" id="node4" href="$d9/d6b/struct_connection_info.html" title="The ConnectionInfo struct contains the indices of the source and destination touchpoint." alt="" coords="43,1181,190,1259"/>

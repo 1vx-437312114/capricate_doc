@@ -1,5 +1,5 @@
 <map id="AStar::resetGrid" name="AStar::resetGrid">
-<area shape="rect" id="node1" title=" " alt="" coords="1357,238,1473,265"/>
+<area shape="rect" id="node1" title="Resets the 3D voxel grid to it&#39;s default values." alt="" coords="1357,238,1473,265"/>
 <area shape="rect" id="node2" href="$de/d52/class_a_star.html#a67f440fb4e77fad8d273ef848e9703c1" title="Reset grid." alt="" coords="1217,238,1309,265"/>
 <area shape="rect" id="node3" href="$d9/d02/class_optimizer.html#a4f2470e3a7450a12d4daa5df86d50ce8" title="computes the total wire length of a wiring" alt="" coords="979,165,1169,207"/>
 <area shape="rect" id="node17" href="$da/d4f/class_brute_force_optimizer.html#aa2a4ae05bdd60786dee2cd865a15185e" title=" " alt="" coords="1003,231,1145,272"/>

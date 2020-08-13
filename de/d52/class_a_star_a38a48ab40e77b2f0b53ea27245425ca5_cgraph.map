@@ -1,6 +1,6 @@
 <map id="AStar::init" name="AStar::init">
 <area shape="rect" id="node1" title="Initializes A* grid nodes." alt="" coords="5,31,85,57"/>
 <area shape="rect" id="node2" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="133,5,279,32"/>
-<area shape="rect" id="node3" href="$de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" title=" " alt="" coords="154,56,258,83"/>
+<area shape="rect" id="node3" href="$de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" title="Initializes the 3D voxel grid." alt="" coords="154,56,258,83"/>
 <area shape="rect" id="node4" href="$de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="327,56,407,83"/>
 </map>

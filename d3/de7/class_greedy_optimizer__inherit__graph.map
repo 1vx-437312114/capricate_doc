@@ -1,4 +1,4 @@
 <map id="GreedyOptimizer" name="GreedyOptimizer">
-<area shape="rect" id="node1" title="Optimizes the wirelength of a path by using the nearest neighbor (greedy) algorithm." alt="" coords="35,219,175,311"/>
+<area shape="rect" id="node1" title="Optimizes the total wirelength of all connections by using the nearest neighbor (greedy) algorithm." alt="" coords="35,219,175,311"/>
 <area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="5,5,204,171"/>
 </map>

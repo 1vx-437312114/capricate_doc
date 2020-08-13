@@ -12,7 +12,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="Does not optimize at all (null) but instead connects the first touchpoint with the first connector an...">
+<g id="a_node1"><a xlink:title="The RandomOptimizer generates random connections in the hope to find a good one by pure luck.">
 <polygon fill="#bfbfbf" stroke="black" points="20,-0.5 20,-101.5 151,-101.5 151,-0.5 20,-0.5"/>
 <text text-anchor="middle" x="85.5" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">RandomOptimizer</text>
 <polyline fill="none" stroke="black" points="20,-82.5 151,-82.5 "/>

@@ -1,4 +1,4 @@
 <map id="HillClimbingOptimizer" name="HillClimbingOptimizer">
-<area shape="rect" id="node1" title="Optimizes the wirelength of a path by using the hill climbing algorithm." alt="" coords="6,219,203,472"/>
+<area shape="rect" id="node1" title="Optimizes the total wirelength of all connections by using the hill climbing algorithm." alt="" coords="6,219,203,472"/>
 <area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="5,5,204,171"/>
 </map>

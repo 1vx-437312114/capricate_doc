@@ -162,7 +162,7 @@
 <!-- Node19 -->
 <g id="node19" class="node">
 <title>Node19</title>
-<g id="a_node19"><a xlink:href="../../de/d52/class_a_star.html#a23dc71dd589a135db676975917279d06" target="_top" xlink:title=" ">
+<g id="a_node19"><a xlink:href="../../de/d52/class_a_star.html#a23dc71dd589a135db676975917279d06" target="_top" xlink:title="Set the voxels defined through the voxel index path vector to value.">
 <polygon fill="white" stroke="black" points="770.5,-114.5 770.5,-133.5 859.5,-133.5 859.5,-114.5 770.5,-114.5"/>
 <text text-anchor="middle" x="815" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::markPath</text>
 </a>

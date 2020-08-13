@@ -177,7 +177,7 @@
 <!-- Node18 -->
 <g id="node18" class="node">
 <title>Node18</title>
-<g id="a_node18"><a xlink:href="../../de/d52/class_a_star.html#a4ee3f1b1a85636d572f95e2ede87a3bf" target="_top" xlink:title=" ">
+<g id="a_node18"><a xlink:href="../../de/d52/class_a_star.html#a4ee3f1b1a85636d572f95e2ede87a3bf" target="_top" xlink:title="Set the voxels (and if the flag markneighborhood is true it&#39;s neighors) defined by the voxel index pa...">
 <polygon fill="white" stroke="black" points="552.5,-274 552.5,-293 641.5,-293 641.5,-274 552.5,-274"/>
 <text text-anchor="middle" x="597" y="-281" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::markPath</text>
 </a>

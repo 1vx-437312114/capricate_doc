@@ -7,6 +7,6 @@
 <area shape="rect" id="node8" href="$de/d52/class_a_star.html#a67f440fb4e77fad8d273ef848e9703c1" title="Reset grid." alt="" coords="196,259,288,285"/>
 <area shape="rect" id="node6" href="$de/d52/class_a_star.html#abfc996c3525f7063745d948b15d0dda5" title="Check if index vector pos is inside the voxel grid." alt="" coords="349,259,477,285"/>
 <area shape="rect" id="node7" href="$de/d52/class_a_star.html#a13631a64978b59ffeda2e5bd6235a35f" title="Check if index vector pos is not locked." alt="" coords="525,208,652,235"/>
-<area shape="rect" id="node9" href="$de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" title=" " alt="" coords="355,309,471,336"/>
-<area shape="rect" id="node10" href="$de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" title=" " alt="" coords="537,284,641,311"/>
+<area shape="rect" id="node9" href="$de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" title="Resets the 3D voxel grid to it&#39;s default values." alt="" coords="355,309,471,336"/>
+<area shape="rect" id="node10" href="$de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" title="Initializes the 3D voxel grid." alt="" coords="537,284,641,311"/>
 </map>

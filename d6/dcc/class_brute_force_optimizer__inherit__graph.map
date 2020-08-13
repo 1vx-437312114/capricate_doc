@@ -1,4 +1,4 @@
 <map id="BruteForceOptimizer" name="BruteForceOptimizer">
-<area shape="rect" id="node1" title="Optimizes the wirelength of a path by exhaustive search by trying every possibility." alt="" coords="23,219,186,311"/>
+<area shape="rect" id="node1" title="Optimizes the total wirelength of all connections by exhaustive search." alt="" coords="23,219,186,311"/>
 <area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="5,5,204,171"/>
 </map>

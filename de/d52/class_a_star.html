@@ -83,7 +83,8 @@ $(function() {
 <div class="dynheader">
 Collaboration diagram for AStar:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d9/de5/class_a_star__coll__graph.svg" width="1199" height="4558"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d9/de5/class_a_star__coll__graph.svg" width="1199" height="4543"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
@@ -149,14 +150,16 @@ Private Member Functions</h2></td></tr>
 <tr class="memdesc:a3d259f327b7c6966a4b3bc77c3a1c02b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Search a path in the voxelgrid using the A* algorithm with the preset heuristic.  <a href="../../de/d52/class_a_star.html#a3d259f327b7c6966a4b3bc77c3a1c02b">More...</a><br /></td></tr>
 <tr class="separator:a3d259f327b7c6966a4b3bc77c3a1c02b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aadbff393646adec069b3264bed4edc9f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f">initGrid</a> ()</td></tr>
+<tr class="memdesc:aadbff393646adec069b3264bed4edc9f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes the 3D voxel grid.  <a href="../../de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f">More...</a><br /></td></tr>
 <tr class="separator:aadbff393646adec069b3264bed4edc9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af8f32d428d15af1c33dc9f77929299ca"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca">resetGrid</a> ()</td></tr>
+<tr class="memdesc:af8f32d428d15af1c33dc9f77929299ca"><td class="mdescLeft">&#160;</td><td class="mdescRight">Resets the 3D voxel grid to it's default values.  <a href="../../de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca">More...</a><br /></td></tr>
 <tr class="separator:af8f32d428d15af1c33dc9f77929299ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5a065b2f270e0b957a0701f9b36503b4"><td class="memItemLeft" align="right" valign="top">std::vector&lt; vtkVector3i &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d52/class_a_star.html#a5a065b2f270e0b957a0701f9b36503b4">reconstructPath</a> (const vtkVector3i &amp;start, const vtkVector3i &amp;goal)</td></tr>
-<tr class="separator:a5a065b2f270e0b957a0701f9b36503b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a23dc71dd589a135db676975917279d06"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d52/class_a_star.html#a23dc71dd589a135db676975917279d06">markPath</a> (const std::vector&lt; vtkVector3i &gt; &amp;path, const uint8_t value)</td></tr>
+<tr class="memdesc:a23dc71dd589a135db676975917279d06"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the voxels defined through the voxel index path vector to value.  <a href="../../de/d52/class_a_star.html#a23dc71dd589a135db676975917279d06">More...</a><br /></td></tr>
 <tr class="separator:a23dc71dd589a135db676975917279d06"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4ee3f1b1a85636d572f95e2ede87a3bf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d52/class_a_star.html#a4ee3f1b1a85636d572f95e2ede87a3bf">markPath</a> (const std::vector&lt; vtkVector3i &gt; &amp;path, const uint8_t value, bool markNeighborhood)</td></tr>
+<tr class="memdesc:a4ee3f1b1a85636d572f95e2ede87a3bf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the voxels (and if the flag markneighborhood is true it's neighors) defined by the voxel index path vector to value.  <a href="../../de/d52/class_a_star.html#a4ee3f1b1a85636d572f95e2ede87a3bf">More...</a><br /></td></tr>
 <tr class="separator:a4ee3f1b1a85636d572f95e2ede87a3bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abfc996c3525f7063745d948b15d0dda5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d52/class_a_star.html#abfc996c3525f7063745d948b15d0dda5">isInBounds</a> (vtkVector3i pos) const</td></tr>
 <tr class="memdesc:abfc996c3525f7063745d948b15d0dda5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check if index vector pos is inside the voxel grid.  <a href="../../de/d52/class_a_star.html#abfc996c3525f7063745d948b15d0dda5">More...</a><br /></td></tr>
@@ -308,7 +311,8 @@ Static Private Attributes</h2></td></tr>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a68113f6c893688205f6b189aca7ba061_cgraph.svg" width="556" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a68113f6c893688205f6b189aca7ba061_cgraph.svg" width="556" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>
@@ -360,8 +364,7 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a29f560899446dc99d6f157e4997650d7_icgraph.svg" width="1363" height="366"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a29f560899446dc99d6f157e4997650d7_icgraph.svg" width="1363" height="366"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -392,7 +395,7 @@ Here is the caller graph for this function:</div>
 
 <p>Compute 3D integer coordinate index from 1D linearized index. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d56/astar_8h_source.html#l00528">528</a> of file <a class="el" href="../../d8/d56/astar_8h_source.html">astar.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d56/astar_8h_source.html#l00527">527</a> of file <a class="el" href="../../d8/d56/astar_8h_source.html">astar.h</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -467,7 +470,7 @@ Here is the caller graph for this function:</div>
 
 <p>Compute 1D linearized index from 3D-coodinate index. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d56/astar_8h_source.html#l00522">522</a> of file <a class="el" href="../../d8/d56/astar_8h_source.html">astar.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d56/astar_8h_source.html#l00521">521</a> of file <a class="el" href="../../d8/d56/astar_8h_source.html">astar.h</a>.</p>
 
 </div>
 </div>
@@ -513,7 +516,7 @@ Here is the caller graph for this function:</div>
 
 <p>Compute 1D linearized index from 3D-coodinate index. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d56/astar_8h_source.html#l00516">516</a> of file <a class="el" href="../../d8/d56/astar_8h_source.html">astar.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d56/astar_8h_source.html#l00515">515</a> of file <a class="el" href="../../d8/d56/astar_8h_source.html">astar.h</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -555,13 +558,13 @@ Here is the caller graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a38a48ab40e77b2f0b53ea27245425ca5_cgraph.svg" width="412" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a38a48ab40e77b2f0b53ea27245425ca5_cgraph.svg" width="412" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a38a48ab40e77b2f0b53ea27245425ca5_icgraph.svg" width="332" height="351"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a38a48ab40e77b2f0b53ea27245425ca5_icgraph.svg" width="332" height="351"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -589,11 +592,14 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Initializes the 3D voxel grid. </p>
+
 <p class="definition">Definition at line <a class="el" href="../../d9/df3/astar_8cpp_source.html#l00074">74</a> of file <a class="el" href="../../d9/df3/astar_8cpp_source.html">astar.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_aadbff393646adec069b3264bed4edc9f_cgraph.svg" width="243" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_aadbff393646adec069b3264bed4edc9f_cgraph.svg" width="243" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -741,11 +747,14 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Set the voxels defined through the voxel index path vector to value. </p>
+
 <p class="definition">Definition at line <a class="el" href="../../d9/df3/astar_8cpp_source.html#l00149">149</a> of file <a class="el" href="../../d9/df3/astar_8cpp_source.html">astar.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a23dc71dd589a135db676975917279d06_cgraph.svg" width="382" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a23dc71dd589a135db676975917279d06_cgraph.svg" width="382" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>
@@ -790,11 +799,14 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Set the voxels (and if the flag markneighborhood is true it's neighors) defined by the voxel index path vector to value. </p>
+
 <p class="definition">Definition at line <a class="el" href="../../d9/df3/astar_8cpp_source.html#l00155">155</a> of file <a class="el" href="../../d9/df3/astar_8cpp_source.html">astar.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a4ee3f1b1a85636d572f95e2ede87a3bf_cgraph.svg" width="323" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a4ee3f1b1a85636d572f95e2ede87a3bf_cgraph.svg" width="323" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>
@@ -839,42 +851,6 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="a5a065b2f270e0b957a0701f9b36503b4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5a065b2f270e0b957a0701f9b36503b4">&#9670;&nbsp;</a></span>reconstructPath()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::vector&lt;vtkVector3i&gt; AStar::reconstructPath </td>
-          <td>(</td>
-          <td class="paramtype">const vtkVector3i &amp;&#160;</td>
-          <td class="paramname"><em>start</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const vtkVector3i &amp;&#160;</td>
-          <td class="paramname"><em>goal</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a67f440fb4e77fad8d273ef848e9703c1"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a67f440fb4e77fad8d273ef848e9703c1">&#9670;&nbsp;</a></span>reset()</h2>
 
@@ -896,13 +872,13 @@ Here is the caller graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a67f440fb4e77fad8d273ef848e9703c1_cgraph.svg" width="547" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a67f440fb4e77fad8d273ef848e9703c1_cgraph.svg" width="547" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a67f440fb4e77fad8d273ef848e9703c1_icgraph.svg" width="1315" height="366"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a67f440fb4e77fad8d273ef848e9703c1_icgraph.svg" width="1315" height="366"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -930,11 +906,14 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Resets the 3D voxel grid to it's default values. </p>
+
 <p class="definition">Definition at line <a class="el" href="../../d9/df3/astar_8cpp_source.html#l00092">92</a> of file <a class="el" href="../../d9/df3/astar_8cpp_source.html">astar.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_af8f32d428d15af1c33dc9f77929299ca_cgraph.svg" width="407" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_af8f32d428d15af1c33dc9f77929299ca_cgraph.svg" width="407" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -986,8 +965,7 @@ Here is the caller graph for this function:</div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a0d1fd50821c4cd7bbd8a87bd9fcf5dd3_icgraph.svg" width="1352" height="823"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a0d1fd50821c4cd7bbd8a87bd9fcf5dd3_icgraph.svg" width="1352" height="823"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -1055,7 +1033,8 @@ template&lt;typename H &gt; </div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a3d259f327b7c6966a4b3bc77c3a1c02b_cgraph.svg" width="786" height="342"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d52/class_a_star_a3d259f327b7c6966a4b3bc77c3a1c02b_cgraph.svg" width="786" height="342"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>

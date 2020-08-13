@@ -1,7 +1,7 @@
 <map id="AStar::initGrid" name="AStar::initGrid">
-<area shape="rect" id="node1" title=" " alt="" coords="1521,185,1625,211"/>
+<area shape="rect" id="node1" title="Initializes the 3D voxel grid." alt="" coords="1521,185,1625,211"/>
 <area shape="rect" id="node2" href="$de/d52/class_a_star.html#a38a48ab40e77b2f0b53ea27245425ca5" title="Initializes A* grid nodes." alt="" coords="794,122,874,149"/>
-<area shape="rect" id="node9" href="$de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" title=" " alt="" coords="1357,210,1473,237"/>
+<area shape="rect" id="node9" href="$de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" title="Resets the 3D voxel grid to it&#39;s default values." alt="" coords="1357,210,1473,237"/>
 <area shape="rect" id="node3" href="$de/d52/class_a_star.html#a68113f6c893688205f6b189aca7ba061" title="Construct an A* object." alt="" coords="526,71,622,98"/>
 <area shape="rect" id="node4" href="$d0/da8/class_threshold_accepting_optimizer.html#a6dead9a1dffa1d54cb9cc59e80655fb7" title=" " alt="" coords="477,5,671,47"/>
 <area shape="rect" id="node5" href="$de/d17/class_great_deluge_optimizer.html#ad0e859eaa1e24d3ba184cb0641972427" title=" " alt="" coords="499,239,649,280"/>

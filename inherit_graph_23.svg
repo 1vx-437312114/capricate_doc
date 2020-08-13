@@ -21,7 +21,7 @@
 <!-- Node1 -->
 <g id="node2" class="node">
 <title>Node1</title>
-<g id="a_node2"><a xlink:href="da/d4f/class_brute_force_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by exhaustive search by trying every possibility.">
+<g id="a_node2"><a xlink:href="da/d4f/class_brute_force_optimizer.html" target="_top" xlink:title="Optimizes the total wirelength of all connections by exhaustive search.">
 <polygon fill="white" stroke="black" points="114,-304.5 114,-323.5 221,-323.5 221,-304.5 114,-304.5"/>
 <text text-anchor="middle" x="167.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00">BruteForceOptimizer</text>
 </a>
@@ -66,7 +66,7 @@
 <!-- Node4 -->
 <g id="node5" class="node">
 <title>Node4</title>
-<g id="a_node5"><a xlink:href="da/d20/class_greedy_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by using the nearest neighbor (greedy) algorithm.">
+<g id="a_node5"><a xlink:href="da/d20/class_greedy_optimizer.html" target="_top" xlink:title="Optimizes the total wirelength of all connections by using the nearest neighbor (greedy) algorithm.">
 <polygon fill="white" stroke="black" points="122.5,-190.5 122.5,-209.5 212.5,-209.5 212.5,-190.5 122.5,-190.5"/>
 <text text-anchor="middle" x="167.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">GreedyOptimizer</text>
 </a>
@@ -81,7 +81,7 @@
 <!-- Node5 -->
 <g id="node6" class="node">
 <title>Node5</title>
-<g id="a_node6"><a xlink:href="d1/d15/class_hill_climbing_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by using the hill climbing algorithm.">
+<g id="a_node6"><a xlink:href="d1/d15/class_hill_climbing_optimizer.html" target="_top" xlink:title="Optimizes the total wirelength of all connections by using the hill climbing algorithm.">
 <polygon fill="white" stroke="black" points="112,-152.5 112,-171.5 223,-171.5 223,-152.5 112,-152.5"/>
 <text text-anchor="middle" x="167.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00">HillClimbingOptimizer</text>
 </a>
@@ -111,7 +111,7 @@
 <!-- Node7 -->
 <g id="node8" class="node">
 <title>Node7</title>
-<g id="a_node8"><a xlink:href="d2/d35/class_random_optimizer.html" target="_top" xlink:title="Does not optimize at all (null) but instead connects the first touchpoint with the first connector an...">
+<g id="a_node8"><a xlink:href="d2/d35/class_random_optimizer.html" target="_top" xlink:title="The RandomOptimizer generates random connections in the hope to find a good one by pure luck.">
 <polygon fill="white" stroke="black" points="120,-76.5 120,-95.5 215,-95.5 215,-76.5 120,-76.5"/>
 <text text-anchor="middle" x="167.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">RandomOptimizer</text>
 </a>
@@ -126,7 +126,7 @@
 <!-- Node8 -->
 <g id="node9" class="node">
 <title>Node8</title>
-<g id="a_node9"><a xlink:href="d0/d53/class_simulated_annealing_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by using the simulated annealing optimizer.">
+<g id="a_node9"><a xlink:href="d0/d53/class_simulated_annealing_optimizer.html" target="_top" xlink:title="Optimizes the total wirelength of all connections by using the simulated annealing optimizer.">
 <polygon fill="white" stroke="black" points="95,-38.5 95,-57.5 240,-57.5 240,-38.5 95,-38.5"/>
 <text text-anchor="middle" x="167.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">SimulatedAnnealingOptimizer</text>
 </a>
@@ -141,7 +141,7 @@
 <!-- Node9 -->
 <g id="node10" class="node">
 <title>Node9</title>
-<g id="a_node10"><a xlink:href="d0/da8/class_threshold_accepting_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by using the threshold acceptance algorithm.">
+<g id="a_node10"><a xlink:href="d0/da8/class_threshold_accepting_optimizer.html" target="_top" xlink:title="Optimizes total wirelength of all connections by using the threshold acceptance algorithm.">
 <polygon fill="white" stroke="black" points="95,-0.5 95,-19.5 240,-19.5 240,-0.5 95,-0.5"/>
 <text text-anchor="middle" x="167.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">ThresholdAcceptingOptimizer</text>
 </a>

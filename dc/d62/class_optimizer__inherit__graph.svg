@@ -31,7 +31,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../da/d4f/class_brute_force_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by exhaustive search by trying every possibility.">
+<g id="a_node2"><a xlink:href="../../da/d4f/class_brute_force_optimizer.html" target="_top" xlink:title="Optimizes the total wirelength of all connections by exhaustive search.">
 <polygon fill="white" stroke="black" points="0,-154.5 0,-222.5 122,-222.5 122,-154.5 0,-154.5"/>
 <text text-anchor="middle" x="61" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">BruteForceOptimizer</text>
 <polyline fill="none" stroke="black" points="0,-203.5 122,-203.5 "/>
@@ -131,7 +131,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="../../da/d20/class_greedy_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by using the nearest neighbor (greedy) algorithm.">
+<g id="a_node5"><a xlink:href="../../da/d20/class_greedy_optimizer.html" target="_top" xlink:title="Optimizes the total wirelength of all connections by using the nearest neighbor (greedy) algorithm.">
 <polygon fill="white" stroke="black" points="450.5,-154.5 450.5,-222.5 555.5,-222.5 555.5,-154.5 450.5,-154.5"/>
 <text text-anchor="middle" x="503" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">GreedyOptimizer</text>
 <polyline fill="none" stroke="black" points="450.5,-203.5 555.5,-203.5 "/>
@@ -151,7 +151,7 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="../../d1/d15/class_hill_climbing_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by using the hill climbing algorithm.">
+<g id="a_node6"><a xlink:href="../../d1/d15/class_hill_climbing_optimizer.html" target="_top" xlink:title="Optimizes the total wirelength of all connections by using the hill climbing algorithm.">
 <polygon fill="white" stroke="black" points="574,-94 574,-283 722,-283 722,-94 574,-94"/>
 <text text-anchor="middle" x="648" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">HillClimbingOptimizer</text>
 <polyline fill="none" stroke="black" points="574,-264 722,-264 "/>
@@ -202,7 +202,7 @@
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="../../d2/d35/class_random_optimizer.html" target="_top" xlink:title="Does not optimize at all (null) but instead connects the first touchpoint with the first connector an...">
+<g id="a_node8"><a xlink:href="../../d2/d35/class_random_optimizer.html" target="_top" xlink:title="The RandomOptimizer generates random connections in the hope to find a good one by pure luck.">
 <polygon fill="white" stroke="black" points="849.5,-138 849.5,-239 980.5,-239 980.5,-138 849.5,-138"/>
 <text text-anchor="middle" x="915" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">RandomOptimizer</text>
 <polyline fill="none" stroke="black" points="849.5,-220 980.5,-220 "/>
@@ -225,7 +225,7 @@
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="../../d0/d53/class_simulated_annealing_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by using the simulated annealing optimizer.">
+<g id="a_node9"><a xlink:href="../../d0/d53/class_simulated_annealing_optimizer.html" target="_top" xlink:title="Optimizes the total wirelength of all connections by using the simulated annealing optimizer.">
 <polygon fill="white" stroke="black" points="999,-105 999,-272 1159,-272 1159,-105 999,-105"/>
 <text text-anchor="middle" x="1079" y="-260" font-family="Helvetica,sans-Serif" font-size="10.00">SimulatedAnnealingOptimizer</text>
 <polyline fill="none" stroke="black" points="999,-253 1159,-253 "/>
@@ -254,7 +254,7 @@
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="../../d0/da8/class_threshold_accepting_optimizer.html" target="_top" xlink:title="Optimizes the wirelength of a path by using the threshold acceptance algorithm.">
+<g id="a_node10"><a xlink:href="../../d0/da8/class_threshold_accepting_optimizer.html" target="_top" xlink:title="Optimizes total wirelength of all connections by using the threshold acceptance algorithm.">
 <polygon fill="white" stroke="black" points="1177.5,-88.5 1177.5,-288.5 1336.5,-288.5 1336.5,-88.5 1177.5,-88.5"/>
 <text text-anchor="middle" x="1257" y="-276.5" font-family="Helvetica,sans-Serif" font-size="10.00">ThresholdAcceptingOptimizer</text>
 <polyline fill="none" stroke="black" points="1177.5,-269.5 1336.5,-269.5 "/>

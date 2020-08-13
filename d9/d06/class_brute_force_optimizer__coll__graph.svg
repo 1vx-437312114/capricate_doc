@@ -12,7 +12,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="Optimizes the wirelength of a path by exhaustive search by trying every possibility.">
+<g id="a_node1"><a xlink:title="Optimizes the total wirelength of all connections by exhaustive search.">
 <polygon fill="#bfbfbf" stroke="black" points="24.5,-0.5 24.5,-68.5 146.5,-68.5 146.5,-0.5 24.5,-0.5"/>
 <text text-anchor="middle" x="85.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">BruteForceOptimizer</text>
 <polyline fill="none" stroke="black" points="24.5,-49.5 146.5,-49.5 "/>

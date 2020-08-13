@@ -147,7 +147,7 @@
 <!-- Node18 -->
 <g id="node18" class="node">
 <title>Node18</title>
-<g id="a_node18"><a xlink:href="../../de/d52/class_a_star.html#a23dc71dd589a135db676975917279d06" target="_top" xlink:title=" ">
+<g id="a_node18"><a xlink:href="../../de/d52/class_a_star.html#a23dc71dd589a135db676975917279d06" target="_top" xlink:title="Set the voxels defined through the voxel index path vector to value.">
 <polygon fill="white" stroke="black" points="945.5,-171.5 945.5,-190.5 1034.5,-190.5 1034.5,-171.5 945.5,-171.5"/>
 <text text-anchor="middle" x="990" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::markPath</text>
 </a>

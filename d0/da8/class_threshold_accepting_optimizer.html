@@ -73,19 +73,21 @@ $(function() {
 </div><!--header-->
 <div class="contents">
 
-<p>Optimizes the wirelength of a path by using the threshold acceptance algorithm.  
+<p>Optimizes total wirelength of all connections by using the threshold acceptance algorithm.  
  <a href="../../d0/da8/class_threshold_accepting_optimizer.html#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="../../d1/d60/thresholdacceptingoptimizer_8h_source.html">thresholdacceptingoptimizer.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for ThresholdAcceptingOptimizer:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../dc/db4/class_threshold_accepting_optimizer__inherit__graph.svg" width="223" height="492"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../dc/db4/class_threshold_accepting_optimizer__inherit__graph.svg" width="223" height="492"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <div class="dynheader">
 Collaboration diagram for ThresholdAcceptingOptimizer:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../db/d72/class_threshold_accepting_optimizer__coll__graph.svg" width="1191" height="4922"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../db/d72/class_threshold_accepting_optimizer__coll__graph.svg" width="1191" height="4907"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -166,7 +168,7 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:a6b23773fa293ed9419f65d3309f77dda inherit pro_attribs_class_optimizer"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Optimizes the wirelength of a path by using the threshold acceptance algorithm. </p>
+<div class="textblock"><p>Optimizes total wirelength of all connections by using the threshold acceptance algorithm. </p>
 <p>Threshold Accepting is a local search method similiar to Hill Climbing and Simulated Annealing. A local search method starts with a random solution and then explores its neighbourhood in the solution space by moving (usually randomly) from its current position to a neighborhood, accepting a new solution if and only if it improves the objective function. It can therefore get stuck in local minima / maxima. Threshold accepting overcomes this problem by also allowing uphill-moves / downhill-move, that it also accepts new solutions which lead to higher objective function values. But deteriorations are only accepted if they are not worse than a particular threshold. Over time, the threshold decreases to zero, thus Threshold Accepting turns into a classical hill climbing algorithm. </p>
 
 <p class="definition">Definition at line <a class="el" href="../../d1/d60/thresholdacceptingoptimizer_8h_source.html#l00038">38</a> of file <a class="el" href="../../d1/d60/thresholdacceptingoptimizer_8h_source.html">thresholdacceptingoptimizer.h</a>.</p>
@@ -401,8 +403,7 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d0/da8/class_threshold_accepting_optimizer_a06e883e1e27741109d637d3dabc79a03_icgraph.svg" width="446" height="52"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d0/da8/class_threshold_accepting_optimizer_a06e883e1e27741109d637d3dabc79a03_icgraph.svg" width="446" height="52"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>

@@ -256,7 +256,7 @@
 <!-- Node36 -->
 <g id="node36" class="node">
 <title>Node36</title>
-<g id="a_node36"><a xlink:href="../../de/d52/class_a_star.html#a4ee3f1b1a85636d572f95e2ede87a3bf" target="_top" xlink:title=" ">
+<g id="a_node36"><a xlink:href="../../de/d52/class_a_star.html#a4ee3f1b1a85636d572f95e2ede87a3bf" target="_top" xlink:title="Set the voxels (and if the flag markneighborhood is true it&#39;s neighors) defined by the voxel index pa...">
 <polygon fill="white" stroke="black" points="781.5,-324 781.5,-343 870.5,-343 870.5,-324 781.5,-324"/>
 <text text-anchor="middle" x="826" y="-331" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::markPath</text>
 </a>

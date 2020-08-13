@@ -51,7 +51,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="../../de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" target="_top" xlink:title="Initializes the 3D voxel grid.">
 <polygon fill="white" stroke="black" points="219.5,-0.5 219.5,-19.5 297.5,-19.5 297.5,-0.5 219.5,-0.5"/>
 <text text-anchor="middle" x="258.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::initGrid</text>
 </a>

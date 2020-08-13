@@ -416,7 +416,7 @@
 <!-- Node21 -->
 <g id="node21" class="node">
 <title>Node21</title>
-<g id="a_node21"><a xlink:href="../../de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" target="_top" xlink:title=" ">
+<g id="a_node21"><a xlink:href="../../de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" target="_top" xlink:title="Resets the 3D voxel grid to it&#39;s default values.">
 <polygon fill="white" stroke="black" points="1122,-276.89 1122,-295.89 1209,-295.89 1209,-276.89 1122,-276.89"/>
 <text text-anchor="middle" x="1165.5" y="-283.89" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::resetGrid</text>
 </a>
@@ -431,7 +431,7 @@
 <!-- Node22 -->
 <g id="node22" class="node">
 <title>Node22</title>
-<g id="a_node22"><a xlink:href="../../de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" target="_top" xlink:title=" ">
+<g id="a_node22"><a xlink:href="../../de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" target="_top" xlink:title="Initializes the 3D voxel grid.">
 <polygon fill="white" stroke="black" points="1246,-149.89 1246,-168.89 1324,-168.89 1324,-149.89 1246,-149.89"/>
 <text text-anchor="middle" x="1285" y="-156.89" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::initGrid</text>
 </a>

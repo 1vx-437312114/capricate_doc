@@ -10,7 +10,7 @@
 <area shape="rect" id="node12" href="$d6/db5/class_scene.html#aba225215a175a15a2a70e36623260717" title="Return a magnet from the scene, given its unique id." alt="" coords="737,655,865,681"/>
 <area shape="rect" id="node16" href="$d2/d00/class_component.html#a21e09e2fc60a1cc671098e99213315aa" title="Return a (openscad) subcomponent." alt="" coords="700,487,903,513"/>
 <area shape="rect" id="node17" href="$db/d46/class_touchpoint_registry.html#ad166efb05c8c40a8e3ca0dabf4a70cfe" title="Return a touchpoint given its index position." alt="" coords="734,538,869,579"/>
-<area shape="rect" id="node18" href="$de/d52/class_a_star.html#a4ee3f1b1a85636d572f95e2ede87a3bf" title=" " alt="" coords="742,604,861,631"/>
+<area shape="rect" id="node18" href="$de/d52/class_a_star.html#a4ee3f1b1a85636d572f95e2ede87a3bf" title="Set the voxels (and if the flag markneighborhood is true it&#39;s neighors) defined by the voxel index pa..." alt="" coords="742,604,861,631"/>
 <area shape="rect" id="node19" href="$d9/d58/class_touchpoint.html#a1b82f162b238396efeae6b9369430a87" title="Mark voxel grid cells occupied / unoccupied by the touchpoint geometry." alt="" coords="709,706,894,747"/>
 <area shape="rect" id="node28" href="$df/dfa/class_autowire_tool.html#a6d3cd96cedca7268da96cb4e478fe2c7" title="Mark voxel grid cells which are occupied by the wiring." alt="" coords="688,436,915,463"/>
 <area shape="rect" id="node29" href="$d5/d6e/class_octree_voxelizer.html#ac4d2a8be8056f86ed42f32e73866b808" title=" " alt="" coords="715,823,887,865"/>
