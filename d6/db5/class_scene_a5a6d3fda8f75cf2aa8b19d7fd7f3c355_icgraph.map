@@ -1,0 +1,6 @@
+<map id="Scene::getVoxelizeResolution" name="Scene::getVoxelizeResolution">
+<area shape="rect" id="node1" title="Return the voxelization resolution." alt="" coords="471,46,667,73"/>
+<area shape="rect" id="node2" href="$d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022" title="Computes the nearest voxel index to a given index point which is inside of the mesh boundaries." alt="" coords="204,5,423,47"/>
+<area shape="rect" id="node4" href="$d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee" title="Checks if a given index point is part of the voxels which lie inside the meshs boundaries." alt="" coords="220,71,407,112"/>
+<area shape="rect" id="node3" href="$db/dbb/class_picking_interactor_style.html#a22c8515240e36efd282409c27faf0e52" title="Overloaded method, invoked when left mouse button is pressed." alt="" coords="5,39,156,80"/>
+</map>

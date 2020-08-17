@@ -1,10 +1,10 @@
 <map id="ToolRegistry" name="ToolRegistry">
-<area shape="rect" id="node1" title="Manages the various tools of the application." alt="" coords="551,4264,665,4385"/>
-<area shape="rect" id="node2" title=" " alt="" coords="489,4095,636,4201"/>
-<area shape="rect" id="node3" title=" " alt="" coords="660,4102,820,4194"/>
-<area shape="rect" id="node4" title=" " alt="" coords="663,3955,817,4032"/>
-<area shape="rect" id="node5" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="681,3712,799,3892"/>
-<area shape="rect" id="node6" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="361,2721,575,3649"/>
+<area shape="rect" id="node1" title="Manages the various tools of the application." alt="" coords="551,4279,665,4400"/>
+<area shape="rect" id="node2" title=" " alt="" coords="489,4109,636,4216"/>
+<area shape="rect" id="node3" title=" " alt="" coords="660,4117,820,4209"/>
+<area shape="rect" id="node4" title=" " alt="" coords="663,3969,817,4047"/>
+<area shape="rect" id="node5" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="681,3727,799,3907"/>
+<area shape="rect" id="node6" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="361,2721,575,3664"/>
 <area shape="rect" id="node7" title=" " alt="" coords="5,2559,192,2637"/>
 <area shape="rect" id="node8" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="12,2221,185,2387"/>
 <area shape="rect" id="node9" title=" " alt="" coords="144,1825,304,1917"/>

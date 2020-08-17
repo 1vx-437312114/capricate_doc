@@ -11,23 +11,25 @@
 <area shape="rect" id="node15" href="$d9/d58/class_touchpoint.html#af3e0979fc1385955c5aae51968555dd3" title="Set the actor of the connection point." alt="" coords="215,524,392,565"/>
 <area shape="rect" id="node16" href="$d9/d58/class_touchpoint.html#a5a4ea272e98b33d3cacc0c7ffce3a96f" title="Set the geometry (vtkPolyData) of the connection point polydata." alt="" coords="215,589,392,631"/>
 <area shape="rect" id="node17" href="$db/dbb/class_picking_interactor_style.html#afdf64f66ae105b3123ca523b6f3d468d" title="Set interactor mode to TRACKBALL_MODE." alt="" coords="228,655,379,696"/>
-<area shape="rect" id="node18" href="$d6/db5/class_scene.html#aaff4c55f5c640ec8a12b62c5b6c11865" title="Update the touchpoint / connector number text labels." alt="" coords="231,723,375,750"/>
+<area shape="rect" id="node18" href="$d6/db5/class_scene.html#aaff4c55f5c640ec8a12b62c5b6c11865" title="Update the touchpoint / connector number text labels." alt="" coords="231,734,375,761"/>
 <area shape="rect" id="node23" href="$d6/db5/class_scene.html#a415555bc0037489b1a9421747c318746" title="Update the occupation map visualization after changes to the underlying voxel data." alt="" coords="205,356,402,397"/>
-<area shape="rect" id="node8" href="$d6/db5/class_scene.html#a0799bb0687ffe3a97e0523a4e700ef2d" title="Return the occupation map visualization." alt="" coords="451,185,658,211"/>
-<area shape="rect" id="node10" href="$d9/d58/class_touchpoint.html#a1b82f162b238396efeae6b9369430a87" title="Mark voxel grid cells occupied / unoccupied by the touchpoint geometry." alt="" coords="462,613,647,655"/>
-<area shape="rect" id="node11" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="757,562,863,589"/>
-<area shape="rect" id="node12" href="$d9/d58/class_touchpoint.html#a465057d2b000f7fc374d594fb8b80ce6" title="Return the bounds of the touchpoint in world coordinates." alt="" coords="707,613,913,655"/>
-<area shape="rect" id="node13" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="773,679,847,706"/>
-<area shape="rect" id="node19" href="$d9/d58/class_touchpoint.html#ab61727c9bb477bccca373f92a2b8bea4" title="Return the touchpoint number label text actor." alt="" coords="471,679,638,706"/>
-<area shape="rect" id="node20" href="$d6/db5/class_scene.html#ae4bdf05105a36057e86693a0f60afbd3" title="Hide the touchpoint / connector text labels." alt="" coords="477,730,632,757"/>
-<area shape="rect" id="node22" href="$d6/db5/class_scene.html#aa9d387019f7a7456bdd8af2b21723387" title="Show the touchpoint / connector number text labels." alt="" coords="474,781,635,807"/>
-<area shape="rect" id="node21" href="$d6/db5/class_scene.html#a8a1b015f159dd9ba883ae601464f6c28" title="Set if the touchpoint / connector number labels are visible." alt="" coords="711,755,909,782"/>
-<area shape="rect" id="node24" href="$d6/db5/class_scene.html#aa52192763d5339a0e7803abe296220c9" title="Return the cuberille visualization of the voxel grid data." alt="" coords="471,235,638,262"/>
-<area shape="rect" id="node25" href="$d6/db5/class_scene.html#a7009d25646e9f3a07482091ed2d62e52" title="Return the inner and outer voxels visualization of the voxel grid data." alt="" coords="451,287,659,328"/>
-<area shape="rect" id="node26" href="$d6/db5/class_scene.html#a04c9e871c5edc15ca00d736a9cb6c0d0" title="Return the interior voxels only visualization of the voxel grid data." alt="" coords="473,352,637,393"/>
-<area shape="rect" id="node27" href="$db/dae/class_voxel_image_visualizer.html#a00b60f629dcc3335bff26934e88b9bcb" title="Return the occupation map visualization (unoccupied = yellow, occupied = blue)" alt="" coords="478,417,631,459"/>
-<area shape="rect" id="node30" href="$db/dae/class_voxel_image_visualizer.html#a15634f5a62fd0d71806741d1db033243" title="Set input data of the visualizer." alt="" coords="481,483,628,524"/>
-<area shape="rect" id="node31" href="$db/dae/class_voxel_image_visualizer.html#a65eec474a368555a6ba16c1f54e956db" title="Set output size of the visualization." alt="" coords="481,548,628,589"/>
-<area shape="rect" id="node28" href="$db/dae/class_voxel_image_visualizer.html#a381e70e9dba0cad1fddf946aa7f4a408" title="Compute scaling factor for visualization actor." alt="" coords="737,388,883,429"/>
-<area shape="rect" id="node29" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="724,454,896,481"/>
+<area shape="rect" id="node8" href="$d6/db5/class_scene.html#a0799bb0687ffe3a97e0523a4e700ef2d" title="Return the occupation map visualization." alt="" coords="451,110,658,137"/>
+<area shape="rect" id="node10" href="$d9/d58/class_touchpoint.html#a1b82f162b238396efeae6b9369430a87" title="Mark voxel grid cells occupied / unoccupied by the touchpoint geometry." alt="" coords="462,643,647,684"/>
+<area shape="rect" id="node11" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="757,591,863,618"/>
+<area shape="rect" id="node12" href="$d9/d58/class_touchpoint.html#a465057d2b000f7fc374d594fb8b80ce6" title="Return the bounds of the touchpoint in world coordinates." alt="" coords="707,643,913,684"/>
+<area shape="rect" id="node13" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="773,709,847,735"/>
+<area shape="rect" id="node19" href="$d9/d58/class_touchpoint.html#ab61727c9bb477bccca373f92a2b8bea4" title="Return the touchpoint number label text actor." alt="" coords="471,709,638,735"/>
+<area shape="rect" id="node20" href="$d6/db5/class_scene.html#ae4bdf05105a36057e86693a0f60afbd3" title="Hide the touchpoint / connector text labels." alt="" coords="477,759,632,786"/>
+<area shape="rect" id="node22" href="$d6/db5/class_scene.html#aa9d387019f7a7456bdd8af2b21723387" title="Show the touchpoint / connector number text labels." alt="" coords="474,810,635,837"/>
+<area shape="rect" id="node21" href="$d6/db5/class_scene.html#a8a1b015f159dd9ba883ae601464f6c28" title="Set if the touchpoint / connector number labels are visible." alt="" coords="711,785,909,811"/>
+<area shape="rect" id="node24" href="$d6/db5/class_scene.html#aa52192763d5339a0e7803abe296220c9" title="Return the cuberille visualization of the voxel grid data." alt="" coords="471,161,638,187"/>
+<area shape="rect" id="node25" href="$d6/db5/class_scene.html#a7009d25646e9f3a07482091ed2d62e52" title="Return the inner and outer voxels visualization of the voxel grid data." alt="" coords="451,212,659,253"/>
+<area shape="rect" id="node26" href="$d6/db5/class_scene.html#a04c9e871c5edc15ca00d736a9cb6c0d0" title="Return the interior voxels only visualization of the voxel grid data." alt="" coords="473,277,637,319"/>
+<area shape="rect" id="node27" href="$db/dae/class_voxel_image_visualizer.html#a00b60f629dcc3335bff26934e88b9bcb" title="Return the occupation map visualization (unoccupied = yellow, occupied = blue)" alt="" coords="478,343,631,384"/>
+<area shape="rect" id="node30" href="$d6/db5/class_scene.html#acc5e8dbc84b359afaa7d4ab9b9ef265a" title="Return the working plane actor of the scene." alt="" coords="465,409,644,435"/>
+<area shape="rect" id="node31" href="$db/dae/class_voxel_image_visualizer.html#a15634f5a62fd0d71806741d1db033243" title="Set input data of the visualizer." alt="" coords="481,460,628,501"/>
+<area shape="rect" id="node32" href="$d6/db5/class_scene.html#a36de0362da7ee73ded780390f80caaaa" title="Set the look at vector of the camera." alt="" coords="491,526,618,553"/>
+<area shape="rect" id="node33" href="$db/dae/class_voxel_image_visualizer.html#a65eec474a368555a6ba16c1f54e956db" title="Set output size of the visualization." alt="" coords="481,577,628,619"/>
+<area shape="rect" id="node28" href="$db/dae/class_voxel_image_visualizer.html#a381e70e9dba0cad1fddf946aa7f4a408" title="Compute scaling factor for visualization actor." alt="" coords="737,313,883,355"/>
+<area shape="rect" id="node29" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="724,379,896,406"/>
 </map>

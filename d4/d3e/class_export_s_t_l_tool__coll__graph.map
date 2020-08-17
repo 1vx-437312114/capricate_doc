@@ -1,7 +1,7 @@
 <map id="ExportSTLTool" name="ExportSTLTool">
-<area shape="rect" id="node1" title="Tool for exporting a wired mesh to the stl file format." alt="" coords="1117,3941,1270,4077"/>
-<area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="1086,3712,1205,3892"/>
-<area shape="rect" id="node3" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="590,2721,805,3649"/>
+<area shape="rect" id="node1" title="Tool for exporting a wired mesh to the stl file format." alt="" coords="1117,3956,1270,4092"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="1086,3727,1205,3907"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="590,2721,805,3664"/>
 <area shape="rect" id="node4" title=" " alt="" coords="720,2559,907,2637"/>
 <area shape="rect" id="node5" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="713,2221,887,2387"/>
 <area shape="rect" id="node6" title=" " alt="" coords="424,1825,584,1917"/>

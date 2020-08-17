@@ -406,118 +406,111 @@ $(function() {
 <div class="line"><a name="l00333"></a><span class="lineno">  333</span>&#160;    uint8_t* voxelImageData = <span class="keyword">static_cast&lt;</span>uint8_t*<span class="keyword">&gt;</span>(this-&gt;<a class="code" href="../../de/d52/class_a_star.html#af15f04ea5e2702fa0dedeaf710faaf01">voxelImage</a>-&gt;GetScalarPointer());</div>
 <div class="line"><a name="l00334"></a><span class="lineno">  334</span>&#160;    uint8_t value = voxelImageData[<a class="code" href="../../de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b">idx</a>(x, y, z)];</div>
 <div class="line"><a name="l00335"></a><span class="lineno">  335</span>&#160; </div>
-<div class="line"><a name="l00336"></a><span class="lineno">  336</span>&#160;    <span class="keywordflow">if</span>(value == <a class="code" href="../../d2/d6e/namespace_constants.html#afc0bbe7f0ed1995cc7564294be0dc5c8">Constants::VOXEL_OUTSIDE</a>)</div>
-<div class="line"><a name="l00337"></a><span class="lineno">  337</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00338"></a><span class="lineno">  338</span>&#160;    <span class="keywordflow">else</span></div>
-<div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160;    <span class="keywordflow">if</span>(value == <a class="code" href="../../d2/d6e/namespace_constants.html#a04ffd07008556c05d52f5b50ff2800f4">Constants::VOXEL_OCCUPIED</a>)</div>
-<div class="line"><a name="l00340"></a><span class="lineno">  340</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160;    <span class="keywordflow">else</span></div>
-<div class="line"><a name="l00342"></a><span class="lineno">  342</span>&#160;    <span class="keywordflow">if</span>(value == <a class="code" href="../../d2/d6e/namespace_constants.html#a4125679df2238b5d9c943f59252626da">Constants::VOXEL_SHELL</a>)</div>
-<div class="line"><a name="l00343"></a><span class="lineno">  343</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00344"></a><span class="lineno">  344</span>&#160;    <span class="keywordflow">else</span></div>
-<div class="line"><a name="l00345"></a><span class="lineno">  345</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a name="l00346"></a><span class="lineno">  346</span>&#160;}</div>
-<div class="line"><a name="l00347"></a><span class="lineno">  347</span>&#160; </div>
-<div class="line"><a name="l00348"></a><span class="lineno">  348</span>&#160; </div>
-<div class="line"><a name="l00349"></a><span class="lineno"><a class="line" href="../../de/d52/class_a_star.html#a7db84752520b860d018730cdd1d40f42">  349</a></span>&#160;std::vector&lt;std::int32_t&gt; <a class="code" href="../../de/d52/class_a_star.html#a7db84752520b860d018730cdd1d40f42">AStar::neighbors</a>(std::int32_t nodeIndex)<span class="keyword"> const</span></div>
-<div class="line"><a name="l00350"></a><span class="lineno">  350</span>&#160;<span class="keyword"></span>{</div>
-<div class="line"><a name="l00351"></a><span class="lineno">  351</span>&#160;    <span class="keyword">auto</span> index = this-&gt;<a class="code" href="../../de/d52/class_a_star.html#afca90a393cbdf6550cb2a3c5249bac66">coordIdx</a>(nodeIndex);</div>
-<div class="line"><a name="l00352"></a><span class="lineno">  352</span>&#160; </div>
-<div class="line"><a name="l00353"></a><span class="lineno">  353</span>&#160;    <span class="keywordtype">int</span> x = index.GetX();</div>
-<div class="line"><a name="l00354"></a><span class="lineno">  354</span>&#160;    <span class="keywordtype">int</span> y = index.GetY();</div>
-<div class="line"><a name="l00355"></a><span class="lineno">  355</span>&#160;    <span class="keywordtype">int</span> z = index.GetZ();</div>
-<div class="line"><a name="l00356"></a><span class="lineno">  356</span>&#160; </div>
-<div class="line"><a name="l00357"></a><span class="lineno">  357</span>&#160;    <span class="comment">/*</span></div>
-<div class="line"><a name="l00358"></a><span class="lineno">  358</span>&#160;<span class="comment">           +--------+</span></div>
-<div class="line"><a name="l00359"></a><span class="lineno">  359</span>&#160;<span class="comment">          /        /|</span></div>
-<div class="line"><a name="l00360"></a><span class="lineno">  360</span>&#160;<span class="comment">         /        / |</span></div>
-<div class="line"><a name="l00361"></a><span class="lineno">  361</span>&#160;<span class="comment">        +--------+  |</span></div>
-<div class="line"><a name="l00362"></a><span class="lineno">  362</span>&#160;<span class="comment">        |        |  |</span></div>
-<div class="line"><a name="l00363"></a><span class="lineno">  363</span>&#160;<span class="comment">     y  |        |  +</span></div>
-<div class="line"><a name="l00364"></a><span class="lineno">  364</span>&#160;<span class="comment">        |        | /</span></div>
-<div class="line"><a name="l00365"></a><span class="lineno">  365</span>&#160;<span class="comment">        |        |/  z</span></div>
-<div class="line"><a name="l00366"></a><span class="lineno">  366</span>&#160;<span class="comment">        +--------+</span></div>
-<div class="line"><a name="l00367"></a><span class="lineno">  367</span>&#160;<span class="comment">            x</span></div>
-<div class="line"><a name="l00368"></a><span class="lineno">  368</span>&#160;<span class="comment">    */</span></div>
-<div class="line"><a name="l00369"></a><span class="lineno">  369</span>&#160; </div>
+<div class="line"><a name="l00336"></a><span class="lineno">  336</span>&#160;    <span class="keywordflow">if</span>(value == <a class="code" href="../../d2/d6e/namespace_constants.html#ab0a9fccbbe603faf580ae3b1ea6bd66f">Constants::VOXEL_INSIDE</a>)</div>
+<div class="line"><a name="l00337"></a><span class="lineno">  337</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00338"></a><span class="lineno">  338</span>&#160; </div>
+<div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00340"></a><span class="lineno">  340</span>&#160;}</div>
+<div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160; </div>
+<div class="line"><a name="l00342"></a><span class="lineno">  342</span>&#160; </div>
+<div class="line"><a name="l00343"></a><span class="lineno"><a class="line" href="../../de/d52/class_a_star.html#a7db84752520b860d018730cdd1d40f42">  343</a></span>&#160;std::vector&lt;std::int32_t&gt; <a class="code" href="../../de/d52/class_a_star.html#a7db84752520b860d018730cdd1d40f42">AStar::neighbors</a>(std::int32_t nodeIndex)<span class="keyword"> const</span></div>
+<div class="line"><a name="l00344"></a><span class="lineno">  344</span>&#160;<span class="keyword"></span>{</div>
+<div class="line"><a name="l00345"></a><span class="lineno">  345</span>&#160;    <span class="keyword">auto</span> index = this-&gt;<a class="code" href="../../de/d52/class_a_star.html#afca90a393cbdf6550cb2a3c5249bac66">coordIdx</a>(nodeIndex);</div>
+<div class="line"><a name="l00346"></a><span class="lineno">  346</span>&#160; </div>
+<div class="line"><a name="l00347"></a><span class="lineno">  347</span>&#160;    <span class="keywordtype">int</span> x = index.GetX();</div>
+<div class="line"><a name="l00348"></a><span class="lineno">  348</span>&#160;    <span class="keywordtype">int</span> y = index.GetY();</div>
+<div class="line"><a name="l00349"></a><span class="lineno">  349</span>&#160;    <span class="keywordtype">int</span> z = index.GetZ();</div>
+<div class="line"><a name="l00350"></a><span class="lineno">  350</span>&#160; </div>
+<div class="line"><a name="l00351"></a><span class="lineno">  351</span>&#160;    <span class="comment">/*</span></div>
+<div class="line"><a name="l00352"></a><span class="lineno">  352</span>&#160;<span class="comment">           +--------+</span></div>
+<div class="line"><a name="l00353"></a><span class="lineno">  353</span>&#160;<span class="comment">          /        /|</span></div>
+<div class="line"><a name="l00354"></a><span class="lineno">  354</span>&#160;<span class="comment">         /        / |</span></div>
+<div class="line"><a name="l00355"></a><span class="lineno">  355</span>&#160;<span class="comment">        +--------+  |</span></div>
+<div class="line"><a name="l00356"></a><span class="lineno">  356</span>&#160;<span class="comment">        |        |  |</span></div>
+<div class="line"><a name="l00357"></a><span class="lineno">  357</span>&#160;<span class="comment">     y  |        |  +</span></div>
+<div class="line"><a name="l00358"></a><span class="lineno">  358</span>&#160;<span class="comment">        |        | /</span></div>
+<div class="line"><a name="l00359"></a><span class="lineno">  359</span>&#160;<span class="comment">        |        |/  z</span></div>
+<div class="line"><a name="l00360"></a><span class="lineno">  360</span>&#160;<span class="comment">        +--------+</span></div>
+<div class="line"><a name="l00361"></a><span class="lineno">  361</span>&#160;<span class="comment">            x</span></div>
+<div class="line"><a name="l00362"></a><span class="lineno">  362</span>&#160;<span class="comment">    */</span></div>
+<div class="line"><a name="l00363"></a><span class="lineno">  363</span>&#160; </div>
+<div class="line"><a name="l00364"></a><span class="lineno">  364</span>&#160; </div>
+<div class="line"><a name="l00365"></a><span class="lineno">  365</span>&#160;   <span class="keyword">const</span> vtkVector3i directions[26] = {</div>
+<div class="line"><a name="l00366"></a><span class="lineno">  366</span>&#160;                                            <span class="comment">// faces</span></div>
+<div class="line"><a name="l00367"></a><span class="lineno">  367</span>&#160;                                            {x + 1, y + 0, z + 0},</div>
+<div class="line"><a name="l00368"></a><span class="lineno">  368</span>&#160;                                            {x + 0, y + 1, z + 0},</div>
+<div class="line"><a name="l00369"></a><span class="lineno">  369</span>&#160;                                            {x + 0, y + 0, z + 1},</div>
 <div class="line"><a name="l00370"></a><span class="lineno">  370</span>&#160; </div>
-<div class="line"><a name="l00371"></a><span class="lineno">  371</span>&#160;   <span class="keyword">const</span> vtkVector3i directions[26] = {</div>
-<div class="line"><a name="l00372"></a><span class="lineno">  372</span>&#160;                                            <span class="comment">// faces</span></div>
-<div class="line"><a name="l00373"></a><span class="lineno">  373</span>&#160;                                            {x + 1, y + 0, z + 0},</div>
-<div class="line"><a name="l00374"></a><span class="lineno">  374</span>&#160;                                            {x + 0, y + 1, z + 0},</div>
-<div class="line"><a name="l00375"></a><span class="lineno">  375</span>&#160;                                            {x + 0, y + 0, z + 1},</div>
-<div class="line"><a name="l00376"></a><span class="lineno">  376</span>&#160; </div>
-<div class="line"><a name="l00377"></a><span class="lineno">  377</span>&#160;                                            {x - 1, y + 0, z + 0},</div>
-<div class="line"><a name="l00378"></a><span class="lineno">  378</span>&#160;                                            {x + 0, y - 1, z + 0},</div>
-<div class="line"><a name="l00379"></a><span class="lineno">  379</span>&#160;                                            {x + 0, y + 0, z - 1},</div>
+<div class="line"><a name="l00371"></a><span class="lineno">  371</span>&#160;                                            {x - 1, y + 0, z + 0},</div>
+<div class="line"><a name="l00372"></a><span class="lineno">  372</span>&#160;                                            {x + 0, y - 1, z + 0},</div>
+<div class="line"><a name="l00373"></a><span class="lineno">  373</span>&#160;                                            {x + 0, y + 0, z - 1},</div>
+<div class="line"><a name="l00374"></a><span class="lineno">  374</span>&#160; </div>
+<div class="line"><a name="l00375"></a><span class="lineno">  375</span>&#160;                                            <span class="comment">// edges</span></div>
+<div class="line"><a name="l00376"></a><span class="lineno">  376</span>&#160;                                            { x + 1, y + 1, z + 0 },</div>
+<div class="line"><a name="l00377"></a><span class="lineno">  377</span>&#160;                                            { x + 1, y - 1, z + 0 },</div>
+<div class="line"><a name="l00378"></a><span class="lineno">  378</span>&#160;                                            { x - 1, y - 1, z + 0 },</div>
+<div class="line"><a name="l00379"></a><span class="lineno">  379</span>&#160;                                            { x - 1, y + 1, z + 0 },</div>
 <div class="line"><a name="l00380"></a><span class="lineno">  380</span>&#160; </div>
-<div class="line"><a name="l00381"></a><span class="lineno">  381</span>&#160;                                            <span class="comment">// edges</span></div>
-<div class="line"><a name="l00382"></a><span class="lineno">  382</span>&#160;                                            { x + 1, y + 1, z + 0 },</div>
-<div class="line"><a name="l00383"></a><span class="lineno">  383</span>&#160;                                            { x + 1, y - 1, z + 0 },</div>
-<div class="line"><a name="l00384"></a><span class="lineno">  384</span>&#160;                                            { x - 1, y - 1, z + 0 },</div>
-<div class="line"><a name="l00385"></a><span class="lineno">  385</span>&#160;                                            { x - 1, y + 1, z + 0 },</div>
-<div class="line"><a name="l00386"></a><span class="lineno">  386</span>&#160; </div>
-<div class="line"><a name="l00387"></a><span class="lineno">  387</span>&#160;                                            { x + 1, y + 0, z + 1 },</div>
-<div class="line"><a name="l00388"></a><span class="lineno">  388</span>&#160;                                            { x + 1, y + 0, z - 1 },</div>
-<div class="line"><a name="l00389"></a><span class="lineno">  389</span>&#160;                                            { x - 1, y + 0, z - 1 },</div>
-<div class="line"><a name="l00390"></a><span class="lineno">  390</span>&#160;                                            { x - 1, y + 0, z - 1 },</div>
-<div class="line"><a name="l00391"></a><span class="lineno">  391</span>&#160; </div>
-<div class="line"><a name="l00392"></a><span class="lineno">  392</span>&#160;                                            { x + 0, y + 1, z + 1 },</div>
-<div class="line"><a name="l00393"></a><span class="lineno">  393</span>&#160;                                            { x + 0, y + 1, z - 1 },</div>
-<div class="line"><a name="l00394"></a><span class="lineno">  394</span>&#160;                                            { x + 0, y - 1, z - 1 },</div>
-<div class="line"><a name="l00395"></a><span class="lineno">  395</span>&#160;                                            { x + 0, y - 1, z + 1 },</div>
-<div class="line"><a name="l00396"></a><span class="lineno">  396</span>&#160; </div>
-<div class="line"><a name="l00397"></a><span class="lineno">  397</span>&#160;                                            <span class="comment">// corners</span></div>
-<div class="line"><a name="l00398"></a><span class="lineno">  398</span>&#160;                                            { x + 1, y + 1, z + 1 },</div>
-<div class="line"><a name="l00399"></a><span class="lineno">  399</span>&#160;                                            { x + 1, y + 1, z - 1 },</div>
-<div class="line"><a name="l00400"></a><span class="lineno">  400</span>&#160;                                            { x + 1, y - 1, z + 1 },</div>
-<div class="line"><a name="l00401"></a><span class="lineno">  401</span>&#160;                                            { x + 1, y - 1, z - 1 },</div>
-<div class="line"><a name="l00402"></a><span class="lineno">  402</span>&#160;                                            { x - 1, y + 1, z + 1 },</div>
-<div class="line"><a name="l00403"></a><span class="lineno">  403</span>&#160;                                            { x - 1, y + 1, z - 1 },</div>
-<div class="line"><a name="l00404"></a><span class="lineno">  404</span>&#160;                                            { x - 1, y - 1, z + 1 },</div>
-<div class="line"><a name="l00405"></a><span class="lineno">  405</span>&#160;                                            { x - 1, y - 1, z - 1 } };</div>
-<div class="line"><a name="l00406"></a><span class="lineno">  406</span>&#160; </div>
+<div class="line"><a name="l00381"></a><span class="lineno">  381</span>&#160;                                            { x + 1, y + 0, z + 1 },</div>
+<div class="line"><a name="l00382"></a><span class="lineno">  382</span>&#160;                                            { x + 1, y + 0, z - 1 },</div>
+<div class="line"><a name="l00383"></a><span class="lineno">  383</span>&#160;                                            { x - 1, y + 0, z - 1 },</div>
+<div class="line"><a name="l00384"></a><span class="lineno">  384</span>&#160;                                            { x - 1, y + 0, z - 1 },</div>
+<div class="line"><a name="l00385"></a><span class="lineno">  385</span>&#160; </div>
+<div class="line"><a name="l00386"></a><span class="lineno">  386</span>&#160;                                            { x + 0, y + 1, z + 1 },</div>
+<div class="line"><a name="l00387"></a><span class="lineno">  387</span>&#160;                                            { x + 0, y + 1, z - 1 },</div>
+<div class="line"><a name="l00388"></a><span class="lineno">  388</span>&#160;                                            { x + 0, y - 1, z - 1 },</div>
+<div class="line"><a name="l00389"></a><span class="lineno">  389</span>&#160;                                            { x + 0, y - 1, z + 1 },</div>
+<div class="line"><a name="l00390"></a><span class="lineno">  390</span>&#160; </div>
+<div class="line"><a name="l00391"></a><span class="lineno">  391</span>&#160;                                            <span class="comment">// corners</span></div>
+<div class="line"><a name="l00392"></a><span class="lineno">  392</span>&#160;                                            { x + 1, y + 1, z + 1 },</div>
+<div class="line"><a name="l00393"></a><span class="lineno">  393</span>&#160;                                            { x + 1, y + 1, z - 1 },</div>
+<div class="line"><a name="l00394"></a><span class="lineno">  394</span>&#160;                                            { x + 1, y - 1, z + 1 },</div>
+<div class="line"><a name="l00395"></a><span class="lineno">  395</span>&#160;                                            { x + 1, y - 1, z - 1 },</div>
+<div class="line"><a name="l00396"></a><span class="lineno">  396</span>&#160;                                            { x - 1, y + 1, z + 1 },</div>
+<div class="line"><a name="l00397"></a><span class="lineno">  397</span>&#160;                                            { x - 1, y + 1, z - 1 },</div>
+<div class="line"><a name="l00398"></a><span class="lineno">  398</span>&#160;                                            { x - 1, y - 1, z + 1 },</div>
+<div class="line"><a name="l00399"></a><span class="lineno">  399</span>&#160;                                            { x - 1, y - 1, z - 1 } };</div>
+<div class="line"><a name="l00400"></a><span class="lineno">  400</span>&#160; </div>
+<div class="line"><a name="l00401"></a><span class="lineno">  401</span>&#160; </div>
+<div class="line"><a name="l00402"></a><span class="lineno">  402</span>&#160;    std::vector&lt;std::int32_t&gt; results;</div>
+<div class="line"><a name="l00403"></a><span class="lineno">  403</span>&#160; </div>
+<div class="line"><a name="l00404"></a><span class="lineno">  404</span>&#160;    <span class="keywordflow">for</span>(<span class="keywordtype">size_t</span> i = 0; i &lt; this-&gt;<a class="code" href="../../de/d52/class_a_star.html#a52c87eabb7ad1278dcd034a7d12085c2">numNeighbors</a>; i++)</div>
+<div class="line"><a name="l00405"></a><span class="lineno">  405</span>&#160;    {</div>
+<div class="line"><a name="l00406"></a><span class="lineno">  406</span>&#160;        <span class="keyword">auto</span> neighborIndex = directions[i];</div>
 <div class="line"><a name="l00407"></a><span class="lineno">  407</span>&#160; </div>
-<div class="line"><a name="l00408"></a><span class="lineno">  408</span>&#160;    std::vector&lt;std::int32_t&gt; results;</div>
-<div class="line"><a name="l00409"></a><span class="lineno">  409</span>&#160; </div>
-<div class="line"><a name="l00410"></a><span class="lineno">  410</span>&#160;    <span class="keywordflow">for</span>(<span class="keywordtype">size_t</span> i = 0; i &lt; this-&gt;<a class="code" href="../../de/d52/class_a_star.html#a52c87eabb7ad1278dcd034a7d12085c2">numNeighbors</a>; i++)</div>
-<div class="line"><a name="l00411"></a><span class="lineno">  411</span>&#160;    {</div>
-<div class="line"><a name="l00412"></a><span class="lineno">  412</span>&#160;        <span class="keyword">auto</span> neighborIndex = directions[i];</div>
-<div class="line"><a name="l00413"></a><span class="lineno">  413</span>&#160; </div>
-<div class="line"><a name="l00414"></a><span class="lineno">  414</span>&#160;        <span class="keywordflow">if</span> (<a class="code" href="../../de/d52/class_a_star.html#abfc996c3525f7063745d948b15d0dda5">isInBounds</a>(neighborIndex) &amp;&amp; <a class="code" href="../../de/d52/class_a_star.html#a13631a64978b59ffeda2e5bd6235a35f">isPassable</a>(neighborIndex))</div>
-<div class="line"><a name="l00415"></a><span class="lineno">  415</span>&#160;        {</div>
-<div class="line"><a name="l00416"></a><span class="lineno">  416</span>&#160;            std::int32_t neighbor = this-&gt;<a class="code" href="../../de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b">idx</a>(neighborIndex);</div>
-<div class="line"><a name="l00417"></a><span class="lineno">  417</span>&#160;            results.push_back(neighbor);</div>
-<div class="line"><a name="l00418"></a><span class="lineno">  418</span>&#160;        }</div>
-<div class="line"><a name="l00419"></a><span class="lineno">  419</span>&#160;    }</div>
-<div class="line"><a name="l00420"></a><span class="lineno">  420</span>&#160; </div>
-<div class="line"><a name="l00421"></a><span class="lineno">  421</span>&#160;    <span class="keywordflow">return</span> results;</div>
-<div class="line"><a name="l00422"></a><span class="lineno">  422</span>&#160;}</div>
+<div class="line"><a name="l00408"></a><span class="lineno">  408</span>&#160;        <span class="comment">// can be written shorter (C++ short circuit evaluation) as</span></div>
+<div class="line"><a name="l00409"></a><span class="lineno">  409</span>&#160;        <span class="comment">// if(isInBounds(neighborIndex) &amp;&amp; isPassable(neighborIndex))</span></div>
+<div class="line"><a name="l00410"></a><span class="lineno">  410</span>&#160;        <span class="keywordflow">if</span> (<a class="code" href="../../de/d52/class_a_star.html#abfc996c3525f7063745d948b15d0dda5">isInBounds</a>(neighborIndex))</div>
+<div class="line"><a name="l00411"></a><span class="lineno">  411</span>&#160;        {</div>
+<div class="line"><a name="l00412"></a><span class="lineno">  412</span>&#160;            <span class="keywordflow">if</span>(<a class="code" href="../../de/d52/class_a_star.html#a13631a64978b59ffeda2e5bd6235a35f">isPassable</a>(neighborIndex))</div>
+<div class="line"><a name="l00413"></a><span class="lineno">  413</span>&#160;            {</div>
+<div class="line"><a name="l00414"></a><span class="lineno">  414</span>&#160;                std::int32_t neighbor = this-&gt;<a class="code" href="../../de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b">idx</a>(neighborIndex);</div>
+<div class="line"><a name="l00415"></a><span class="lineno">  415</span>&#160;                results.push_back(neighbor);</div>
+<div class="line"><a name="l00416"></a><span class="lineno">  416</span>&#160;            }</div>
+<div class="line"><a name="l00417"></a><span class="lineno">  417</span>&#160;        }</div>
+<div class="line"><a name="l00418"></a><span class="lineno">  418</span>&#160;    }</div>
+<div class="line"><a name="l00419"></a><span class="lineno">  419</span>&#160; </div>
+<div class="line"><a name="l00420"></a><span class="lineno">  420</span>&#160;    <span class="keywordflow">return</span> results;</div>
+<div class="line"><a name="l00421"></a><span class="lineno">  421</span>&#160;}</div>
+<div class="line"><a name="l00422"></a><span class="lineno">  422</span>&#160; </div>
 <div class="line"><a name="l00423"></a><span class="lineno">  423</span>&#160; </div>
-<div class="line"><a name="l00424"></a><span class="lineno">  424</span>&#160; </div>
-<div class="line"><a name="l00425"></a><span class="lineno"><a class="line" href="../../de/d52/class_a_star.html#a5450c01e578edaa89de3d3b8a22b0706">  425</a></span>&#160;<span class="keywordtype">int</span> <a class="code" href="../../de/d52/class_a_star.html#a5450c01e578edaa89de3d3b8a22b0706">AStar::cost</a>(std::int32_t index)<span class="keyword"> const</span></div>
-<div class="line"><a name="l00426"></a><span class="lineno">  426</span>&#160;<span class="keyword"></span>{</div>
-<div class="line"><a name="l00427"></a><span class="lineno">  427</span>&#160;    vtkVector3i nodeIndex = this-&gt;<a class="code" href="../../de/d52/class_a_star.html#afca90a393cbdf6550cb2a3c5249bac66">coordIdx</a>(index);</div>
-<div class="line"><a name="l00428"></a><span class="lineno">  428</span>&#160; </div>
-<div class="line"><a name="l00429"></a><span class="lineno">  429</span>&#160;    <span class="keywordtype">int</span> x = nodeIndex.GetX();</div>
-<div class="line"><a name="l00430"></a><span class="lineno">  430</span>&#160;    <span class="keywordtype">int</span> y = nodeIndex.GetY();</div>
-<div class="line"><a name="l00431"></a><span class="lineno">  431</span>&#160;    <span class="keywordtype">int</span> z = nodeIndex.GetZ();</div>
-<div class="line"><a name="l00432"></a><span class="lineno">  432</span>&#160; </div>
-<div class="line"><a name="l00433"></a><span class="lineno">  433</span>&#160;    uint8_t* voxelImageData = <span class="keyword">static_cast&lt;</span>uint8_t*<span class="keyword">&gt;</span>(this-&gt;<a class="code" href="../../de/d52/class_a_star.html#af15f04ea5e2702fa0dedeaf710faaf01">voxelImage</a>-&gt;GetScalarPointer());</div>
-<div class="line"><a name="l00434"></a><span class="lineno">  434</span>&#160;    uint8_t value = voxelImageData[this-&gt;<a class="code" href="../../de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b">idx</a>(x, y, z)];</div>
-<div class="line"><a name="l00435"></a><span class="lineno">  435</span>&#160; </div>
-<div class="line"><a name="l00436"></a><span class="lineno">  436</span>&#160;    <span class="keywordflow">if</span> (value == <a class="code" href="../../d2/d6e/namespace_constants.html#afc0bbe7f0ed1995cc7564294be0dc5c8">Constants::VOXEL_OUTSIDE</a>)</div>
-<div class="line"><a name="l00437"></a><span class="lineno">  437</span>&#160;        <span class="keywordflow">return</span> std::numeric_limits&lt;int&gt;::max();</div>
-<div class="line"><a name="l00438"></a><span class="lineno">  438</span>&#160;    <span class="keywordflow">else</span></div>
-<div class="line"><a name="l00439"></a><span class="lineno">  439</span>&#160;    <span class="keywordflow">if</span> (value == <a class="code" href="../../d2/d6e/namespace_constants.html#a04ffd07008556c05d52f5b50ff2800f4">Constants::VOXEL_OCCUPIED</a>)</div>
-<div class="line"><a name="l00440"></a><span class="lineno">  440</span>&#160;        <span class="keywordflow">return</span> std::numeric_limits&lt;int&gt;::max();</div>
-<div class="line"><a name="l00441"></a><span class="lineno">  441</span>&#160;    <span class="keywordflow">else</span></div>
-<div class="line"><a name="l00442"></a><span class="lineno">  442</span>&#160;    <span class="keywordflow">if</span> (value == <a class="code" href="../../d2/d6e/namespace_constants.html#a4125679df2238b5d9c943f59252626da">Constants::VOXEL_SHELL</a>)</div>
-<div class="line"><a name="l00443"></a><span class="lineno">  443</span>&#160;        <span class="keywordflow">return</span> std::numeric_limits&lt;int&gt;::max();</div>
-<div class="line"><a name="l00444"></a><span class="lineno">  444</span>&#160;    <span class="keywordflow">else</span></div>
-<div class="line"><a name="l00445"></a><span class="lineno">  445</span>&#160;    <span class="keywordflow">return</span> 1;</div>
-<div class="line"><a name="l00446"></a><span class="lineno">  446</span>&#160;}</div>
-<div class="line"><a name="l00447"></a><span class="lineno">  447</span>&#160; </div>
+<div class="line"><a name="l00424"></a><span class="lineno"><a class="line" href="../../de/d52/class_a_star.html#a5450c01e578edaa89de3d3b8a22b0706">  424</a></span>&#160;<span class="keywordtype">int</span> <a class="code" href="../../de/d52/class_a_star.html#a5450c01e578edaa89de3d3b8a22b0706">AStar::cost</a>(std::int32_t index)<span class="keyword"> const</span></div>
+<div class="line"><a name="l00425"></a><span class="lineno">  425</span>&#160;<span class="keyword"></span>{</div>
+<div class="line"><a name="l00426"></a><span class="lineno">  426</span>&#160;    vtkVector3i nodeIndex = this-&gt;<a class="code" href="../../de/d52/class_a_star.html#afca90a393cbdf6550cb2a3c5249bac66">coordIdx</a>(index);</div>
+<div class="line"><a name="l00427"></a><span class="lineno">  427</span>&#160; </div>
+<div class="line"><a name="l00428"></a><span class="lineno">  428</span>&#160;    <span class="keywordtype">int</span> x = nodeIndex.GetX();</div>
+<div class="line"><a name="l00429"></a><span class="lineno">  429</span>&#160;    <span class="keywordtype">int</span> y = nodeIndex.GetY();</div>
+<div class="line"><a name="l00430"></a><span class="lineno">  430</span>&#160;    <span class="keywordtype">int</span> z = nodeIndex.GetZ();</div>
+<div class="line"><a name="l00431"></a><span class="lineno">  431</span>&#160; </div>
+<div class="line"><a name="l00432"></a><span class="lineno">  432</span>&#160;    uint8_t* voxelImageData = <span class="keyword">static_cast&lt;</span>uint8_t*<span class="keyword">&gt;</span>(this-&gt;<a class="code" href="../../de/d52/class_a_star.html#af15f04ea5e2702fa0dedeaf710faaf01">voxelImage</a>-&gt;GetScalarPointer());</div>
+<div class="line"><a name="l00433"></a><span class="lineno">  433</span>&#160;    uint8_t value = voxelImageData[this-&gt;<a class="code" href="../../de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b">idx</a>(x, y, z)];</div>
+<div class="line"><a name="l00434"></a><span class="lineno">  434</span>&#160; </div>
+<div class="line"><a name="l00435"></a><span class="lineno">  435</span>&#160;    <span class="keywordflow">if</span> (value == <a class="code" href="../../d2/d6e/namespace_constants.html#ab0a9fccbbe603faf580ae3b1ea6bd66f">Constants::VOXEL_INSIDE</a>)</div>
+<div class="line"><a name="l00436"></a><span class="lineno">  436</span>&#160;        <span class="keywordflow">return</span> 1;</div>
+<div class="line"><a name="l00437"></a><span class="lineno">  437</span>&#160; </div>
+<div class="line"><a name="l00438"></a><span class="lineno">  438</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="../../de/d52/class_a_star.html#a81602976f05e0d1ab0013ee7454b3fdf">AStar::INF</a>;</div>
+<div class="line"><a name="l00439"></a><span class="lineno">  439</span>&#160;}</div>
+<div class="line"><a name="l00440"></a><span class="lineno">  440</span>&#160; </div>
 </div><!-- fragment --></div><!-- contents -->
 <div class="ttc" id="aclass_a_star_html_af8f32d428d15af1c33dc9f77929299ca"><div class="ttname"><a href="../../de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca">AStar::resetGrid</a></div><div class="ttdeci">void resetGrid()</div><div class="ttdoc">Resets the 3D voxel grid to it's default values.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00092">astar.cpp:92</a></div></div>
 <div class="ttc" id="aclass_a_star_html_aa76c29f42861c4f6fc7c328e4dbc7d83"><div class="ttname"><a href="../../de/d52/class_a_star.html#aa76c29f42861c4f6fc7c328e4dbc7d83">AStar::markPath</a></div><div class="ttdeci">void markPath(const std::vector&lt; vtkVector3i &gt; &amp;path)</div><div class="ttdoc">Mark a path as locked so that it can not be used by another search.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00131">astar.cpp:131</a></div></div>
@@ -525,9 +518,10 @@ $(function() {
 <div class="ttc" id="astruct_diagonal_distance_heuristic_html"><div class="ttname"><a href="../../d0/d22/struct_diagonal_distance_heuristic.html">DiagonalDistanceHeuristic</a></div><div class="ttdoc">3D-octile distance heuristic functor</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d56/astar_8h_source.html#l00106">astar.h:107</a></div></div>
 <div class="ttc" id="anamespace_constants_html_a65c855972ece549f08f5ecde5e360146"><div class="ttname"><a href="../../d2/d6e/namespace_constants.html#a65c855972ece549f08f5ecde5e360146">Constants::voxelNeighborhood</a></div><div class="ttdeci">static const vtkVector3i voxelNeighborhood[26]</div><div class="ttdoc">grid indices for 26-voxel neighborhood</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d6f/constants_8h_source.html#l00043">constants.h:43</a></div></div>
 <div class="ttc" id="aclass_a_star_html_a13631a64978b59ffeda2e5bd6235a35f"><div class="ttname"><a href="../../de/d52/class_a_star.html#a13631a64978b59ffeda2e5bd6235a35f">AStar::isPassable</a></div><div class="ttdeci">bool isPassable(vtkVector3i pos) const</div><div class="ttdoc">Check if index vector pos is not locked.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00324">astar.cpp:324</a></div></div>
-<div class="ttc" id="aclass_a_star_html_a7db84752520b860d018730cdd1d40f42"><div class="ttname"><a href="../../de/d52/class_a_star.html#a7db84752520b860d018730cdd1d40f42">AStar::neighbors</a></div><div class="ttdeci">std::vector&lt; std::int32_t &gt; neighbors(std::int32_t nodeIndex) const</div><div class="ttdoc">Return neighbor voxels of voxel with nodeIndex.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00349">astar.cpp:349</a></div></div>
-<div class="ttc" id="aclass_scene_html_a64cb0dcdcb57a45fe485fb3489c112c4"><div class="ttname"><a href="../../d6/db5/class_scene.html#a64cb0dcdcb57a45fe485fb3489c112c4">Scene::getLockNeighborVoxels</a></div><div class="ttdeci">bool getLockNeighborVoxels() const</div><div class="ttdoc">Return if the 26-neighborhood voxels of a connection path are locked too.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d33/scene_8cpp_source.html#l00387">scene.cpp:387</a></div></div>
-<div class="ttc" id="aclass_scene_html_a7e5ee53ea01ef113afaaf4b7c10accf3"><div class="ttname"><a href="../../d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3">Scene::getVoxelData</a></div><div class="ttdeci">vtkSmartPointer&lt; vtkImageData &gt; getVoxelData() const</div><div class="ttdoc">Return the voxel grid image data.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d33/scene_8cpp_source.html#l00155">scene.cpp:155</a></div></div>
+<div class="ttc" id="aclass_a_star_html_a7db84752520b860d018730cdd1d40f42"><div class="ttname"><a href="../../de/d52/class_a_star.html#a7db84752520b860d018730cdd1d40f42">AStar::neighbors</a></div><div class="ttdeci">std::vector&lt; std::int32_t &gt; neighbors(std::int32_t nodeIndex) const</div><div class="ttdoc">Return neighbor voxels of voxel with nodeIndex.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00343">astar.cpp:343</a></div></div>
+<div class="ttc" id="aclass_a_star_html_a81602976f05e0d1ab0013ee7454b3fdf"><div class="ttname"><a href="../../de/d52/class_a_star.html#a81602976f05e0d1ab0013ee7454b3fdf">AStar::INF</a></div><div class="ttdeci">static constexpr int INF</div><div class="ttdoc">'Infinity' value</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d56/astar_8h_source.html#l00418">astar.h:418</a></div></div>
+<div class="ttc" id="aclass_scene_html_a64cb0dcdcb57a45fe485fb3489c112c4"><div class="ttname"><a href="../../d6/db5/class_scene.html#a64cb0dcdcb57a45fe485fb3489c112c4">Scene::getLockNeighborVoxels</a></div><div class="ttdeci">bool getLockNeighborVoxels() const</div><div class="ttdoc">Return if the 26-neighborhood voxels of a connection path are locked too.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d33/scene_8cpp_source.html#l00388">scene.cpp:388</a></div></div>
+<div class="ttc" id="aclass_scene_html_a7e5ee53ea01ef113afaaf4b7c10accf3"><div class="ttname"><a href="../../d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3">Scene::getVoxelData</a></div><div class="ttdeci">vtkSmartPointer&lt; vtkImageData &gt; getVoxelData() const</div><div class="ttdoc">Return the voxel grid image data.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d33/scene_8cpp_source.html#l00156">scene.cpp:156</a></div></div>
 <div class="ttc" id="astruct_priority_node_html"><div class="ttname"><a href="../../d2/d61/struct_priority_node.html">PriorityNode</a></div><div class="ttdoc">Comparator class for nodes to be used in a priority queue.</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d56/astar_8h_source.html#l00173">astar.h:174</a></div></div>
 <div class="ttc" id="aclass_a_star_html_abc66e4863cf4c15f616098e60469e50b"><div class="ttname"><a href="../../de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b">AStar::idx</a></div><div class="ttdeci">size_t idx(int x, int y, int z) const</div><div class="ttdoc">Compute 1D linearized index from 3D-coodinate index.</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d56/astar_8h_source.html#l00515">astar.h:515</a></div></div>
 <div class="ttc" id="aclass_a_star_html_aadbff393646adec069b3264bed4edc9f"><div class="ttname"><a href="../../de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f">AStar::initGrid</a></div><div class="ttdeci">void initGrid()</div><div class="ttdoc">Initializes the 3D voxel grid.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00074">astar.cpp:74</a></div></div>
@@ -542,7 +536,7 @@ $(function() {
 <div class="ttc" id="aclass_a_star_html_ae2be34af25b31f5cdd4bdb3ad22fb2f9"><div class="ttname"><a href="../../de/d52/class_a_star.html#ae2be34af25b31f5cdd4bdb3ad22fb2f9">AStar::setUseEuclideanDistanceHeuristic</a></div><div class="ttdeci">void setUseEuclideanDistanceHeuristic()</div><div class="ttdoc">Set use Euclidean distance heuristic.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00067">astar.cpp:67</a></div></div>
 <div class="ttc" id="aclass_scene_html"><div class="ttname"><a href="../../d6/db5/class_scene.html">Scene</a></div><div class="ttdoc">Holds all scene specific objects and settings.</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d83/scene_8h_source.html#l00059">scene.h:60</a></div></div>
 <div class="ttc" id="astruct_euclidean_distance_heuristic_html"><div class="ttname"><a href="../../d7/dd8/struct_euclidean_distance_heuristic.html">EuclideanDistanceHeuristic</a></div><div class="ttdoc">Euclidean heuristic functor.</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d56/astar_8h_source.html#l00141">astar.h:142</a></div></div>
-<div class="ttc" id="aclass_a_star_html_a5450c01e578edaa89de3d3b8a22b0706"><div class="ttname"><a href="../../de/d52/class_a_star.html#a5450c01e578edaa89de3d3b8a22b0706">AStar::cost</a></div><div class="ttdeci">int cost(std::int32_t index) const</div><div class="ttdoc">Return the cost of traversing the voxel.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00425">astar.cpp:425</a></div></div>
+<div class="ttc" id="aclass_a_star_html_a5450c01e578edaa89de3d3b8a22b0706"><div class="ttname"><a href="../../de/d52/class_a_star.html#a5450c01e578edaa89de3d3b8a22b0706">AStar::cost</a></div><div class="ttdeci">int cost(std::int32_t index) const</div><div class="ttdoc">Return the cost of traversing the voxel.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00424">astar.cpp:424</a></div></div>
 <div class="ttc" id="aclass_a_star_html_a81f11872041af2b7dfae14c788baefb6"><div class="ttname"><a href="../../de/d52/class_a_star.html#a81f11872041af2b7dfae14c788baefb6">AStar::scene</a></div><div class="ttdeci">Scene * scene</div><div class="ttdoc">Pointer to scene object.</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d56/astar_8h_source.html#l00422">astar.h:422</a></div></div>
 <div class="ttc" id="aastar_8h_html_a554214df8553767352a91f3eb15b50cba1edfa114070a90bb762993ab47712d68"><div class="ttname"><a href="../../d8/d56/astar_8h.html#a554214df8553767352a91f3eb15b50cba1edfa114070a90bb762993ab47712d68">AStarDistanceHeuristic::euclidean</a></div><div class="ttdeci">@ euclidean</div></div>
 <div class="ttc" id="anamespace_utils_html_a606fb1eb5072ca20f56293fa71bd8578"><div class="ttname"><a href="../../d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578">Utils::idx</a></div><div class="ttdeci">int idx(int x, int y, int z, int resolution[3])</div><div class="ttdoc">Compute 1D linearized index from 3D-coodinate index.</div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d60/utils_8h_source.html#l00093">utils.h:93</a></div></div>
@@ -553,7 +547,6 @@ $(function() {
 <div class="ttc" id="aclass_a_star_html_ad246668465621db8818bbe3511fa4ae7"><div class="ttname"><a href="../../de/d52/class_a_star.html#ad246668465621db8818bbe3511fa4ae7">AStar::~AStar</a></div><div class="ttdeci">~AStar()</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00015">astar.cpp:15</a></div></div>
 <div class="ttc" id="aastar_8h_html_a554214df8553767352a91f3eb15b50cb"><div class="ttname"><a href="../../d8/d56/astar_8h.html#a554214df8553767352a91f3eb15b50cb">AStarDistanceHeuristic</a></div><div class="ttdeci">AStarDistanceHeuristic</div><div class="ttdoc">A* distance heuristic enumeration.</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d56/astar_8h_source.html#l00164">astar.h:164</a></div></div>
 <div class="ttc" id="aclass_a_star_html_a5eee99f5d161992685e925a1761674bf"><div class="ttname"><a href="../../de/d52/class_a_star.html#a5eee99f5d161992685e925a1761674bf">AStar::startIndex</a></div><div class="ttdeci">vtkVector3i startIndex</div><div class="ttdoc">A* search start node index.</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d56/astar_8h_source.html#l00430">astar.h:430</a></div></div>
-<div class="ttc" id="anamespace_constants_html_a4125679df2238b5d9c943f59252626da"><div class="ttname"><a href="../../d2/d6e/namespace_constants.html#a4125679df2238b5d9c943f59252626da">Constants::VOXEL_SHELL</a></div><div class="ttdeci">static constexpr uint8_t VOXEL_SHELL</div><div class="ttdoc">Grid value for voxels which lie on the mesh surface.</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d6f/constants_8h_source.html#l00038">constants.h:38</a></div></div>
 <div class="ttc" id="aclass_a_star_html_a53efbbbc186b13d1246133127db33714"><div class="ttname"><a href="../../de/d52/class_a_star.html#a53efbbbc186b13d1246133127db33714">AStar::PriorityQueue</a></div><div class="ttdeci">boost::heap::pairing_heap&lt; PriorityNode &gt; PriorityQueue</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d56/astar_8h_source.html#l00414">astar.h:414</a></div></div>
 <div class="ttc" id="aastar_8h_html_a554214df8553767352a91f3eb15b50cba6750aea347ac766af296266711a6171b"><div class="ttname"><a href="../../d8/d56/astar_8h.html#a554214df8553767352a91f3eb15b50cba6750aea347ac766af296266711a6171b">AStarDistanceHeuristic::manhattan</a></div><div class="ttdeci">@ manhattan</div></div>
 <div class="ttc" id="aclass_a_star_html_a67f440fb4e77fad8d273ef848e9703c1"><div class="ttname"><a href="../../de/d52/class_a_star.html#a67f440fb4e77fad8d273ef848e9703c1">AStar::reset</a></div><div class="ttdeci">void reset()</div><div class="ttdoc">Reset grid.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00195">astar.cpp:195</a></div></div>
@@ -566,7 +559,6 @@ $(function() {
 <div class="ttc" id="aastar_8h_html"><div class="ttname"><a href="../../d8/d56/astar_8h.html">astar.h</a></div><div class="ttdoc">Implementation of the A* search algorithm.</div></div>
 <div class="ttc" id="aclass_a_star_html_abfc996c3525f7063745d948b15d0dda5"><div class="ttname"><a href="../../de/d52/class_a_star.html#abfc996c3525f7063745d948b15d0dda5">AStar::isInBounds</a></div><div class="ttdeci">bool isInBounds(vtkVector3i pos) const</div><div class="ttdoc">Check if index vector pos is inside the voxel grid.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/df3/astar_8cpp_source.html#l00312">astar.cpp:312</a></div></div>
 <div class="ttc" id="anamespace_constants_html_a04ffd07008556c05d52f5b50ff2800f4"><div class="ttname"><a href="../../d2/d6e/namespace_constants.html#a04ffd07008556c05d52f5b50ff2800f4">Constants::VOXEL_OCCUPIED</a></div><div class="ttdeci">static constexpr uint8_t VOXEL_OCCUPIED</div><div class="ttdoc">Grid value for voxels which are occupied by the wiring.</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d6f/constants_8h_source.html#l00037">constants.h:37</a></div></div>
-<div class="ttc" id="anamespace_constants_html_afc0bbe7f0ed1995cc7564294be0dc5c8"><div class="ttname"><a href="../../d2/d6e/namespace_constants.html#afc0bbe7f0ed1995cc7564294be0dc5c8">Constants::VOXEL_OUTSIDE</a></div><div class="ttdeci">static constexpr uint8_t VOXEL_OUTSIDE</div><div class="ttdoc">Grid value for voxels which lie outside of the mesh.</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d6f/constants_8h_source.html#l00036">constants.h:36</a></div></div>
 <div class="ttc" id="aclass_a_star_html_a22c0f24780e7a0e6023b134cc4ab6333"><div class="ttname"><a href="../../de/d52/class_a_star.html#a22c0f24780e7a0e6023b134cc4ab6333">AStar::resolution</a></div><div class="ttdeci">int resolution[3]</div><div class="ttdoc">Voxel grid resolution.</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d56/astar_8h_source.html#l00424">astar.h:424</a></div></div>
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

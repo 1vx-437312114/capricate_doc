@@ -1,0 +1,6 @@
+<map id="LayoutAlgorithms::isVoxelIndexInsideMeshBoundaries" name="LayoutAlgorithms::isVoxelIndexInsideMeshBoundaries">
+<area shape="rect" id="node1" title="Checks if a given index point is part of the voxels which lie inside the meshs boundaries." alt="" coords="5,49,192,90"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="265,5,411,32"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#a5a6d3fda8f75cf2aa8b19d7fd7f3c355" title="Return the voxelization resolution." alt="" coords="240,56,436,83"/>
+<area shape="rect" id="node4" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="301,107,375,133"/>
+</map>

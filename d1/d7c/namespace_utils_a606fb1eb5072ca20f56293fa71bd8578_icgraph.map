@@ -1,34 +1,37 @@
 <map id="Utils::idx" name="Utils::idx">
-<area shape="rect" id="node1" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="963,487,1037,513"/>
-<area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#a45e5cdff2b089a3594c38021ef5d27a7" title="Add wiring geometry of a connection to the scene (tubes)" alt="" coords="443,345,635,372"/>
+<area shape="rect" id="node1" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="963,565,1037,592"/>
+<area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#a45e5cdff2b089a3594c38021ef5d27a7" title="Add wiring geometry of a connection to the scene (tubes)" alt="" coords="443,592,635,619"/>
 <area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" title="Add wiring geometry of a connection to the scene (cubes)" alt="" coords="705,57,897,98"/>
-<area shape="rect" id="node5" href="$d0/d9c/class_mesh_sampler.html#a13959e3407c6565147a814657c86311d" title=" " alt="" coords="696,122,907,163"/>
-<area shape="rect" id="node6" href="$d0/d9c/class_mesh_sampler.html#a763898864ad49b1d1dc84deafaf01b6b" title=" " alt="" coords="696,187,907,229"/>
-<area shape="rect" id="node7" href="$d6/db5/class_scene.html#a9d34f7a775d90ec0edfec76112024eb2" title="Return the component with a given id." alt="" coords="725,5,877,32"/>
-<area shape="rect" id="node10" href="$db/d46/class_touchpoint_registry.html#adef26ec306c768fb8d8e5b385353105b" title="Return a connection given its index position." alt="" coords="734,305,869,346"/>
-<area shape="rect" id="node11" href="$db/d46/class_touchpoint_registry.html#af0a8e034c51ebd0a05d72583b65e802d" title="Return a connector given its index position." alt="" coords="734,370,869,411"/>
-<area shape="rect" id="node12" href="$d6/db5/class_scene.html#aba225215a175a15a2a70e36623260717" title="Return a magnet from the scene, given its unique id." alt="" coords="737,655,865,681"/>
-<area shape="rect" id="node16" href="$d2/d00/class_component.html#a21e09e2fc60a1cc671098e99213315aa" title="Return a (openscad) subcomponent." alt="" coords="700,487,903,513"/>
-<area shape="rect" id="node17" href="$db/d46/class_touchpoint_registry.html#ad166efb05c8c40a8e3ca0dabf4a70cfe" title="Return a touchpoint given its index position." alt="" coords="734,538,869,579"/>
-<area shape="rect" id="node18" href="$de/d52/class_a_star.html#a4ee3f1b1a85636d572f95e2ede87a3bf" title="Set the voxels (and if the flag markneighborhood is true it&#39;s neighors) defined by the voxel index pa..." alt="" coords="742,604,861,631"/>
-<area shape="rect" id="node19" href="$d9/d58/class_touchpoint.html#a1b82f162b238396efeae6b9369430a87" title="Mark voxel grid cells occupied / unoccupied by the touchpoint geometry." alt="" coords="709,706,894,747"/>
-<area shape="rect" id="node28" href="$df/dfa/class_autowire_tool.html#a6d3cd96cedca7268da96cb4e478fe2c7" title="Mark voxel grid cells which are occupied by the wiring." alt="" coords="688,436,915,463"/>
-<area shape="rect" id="node29" href="$d5/d6e/class_octree_voxelizer.html#ac4d2a8be8056f86ed42f32e73866b808" title=" " alt="" coords="715,823,887,865"/>
-<area shape="rect" id="node30" href="$d5/d6e/class_octree_voxelizer.html#a6587bb79f04277bd15705d408f2a013d" title="Execute voxelization algorithm." alt="" coords="458,827,619,853"/>
-<area shape="rect" id="node31" href="$d0/dd7/class_voxelimage_compactor.html#a854df2b3456d18f9e0f223de22c0e1b9" title=" " alt="" coords="725,889,878,930"/>
-<area shape="rect" id="node32" href="$d8/d7b/class_voxelimage_combiner.html#a42d0d7c0af4c98bb15406efe2a961b0e" title=" " alt="" coords="729,954,874,995"/>
-<area shape="rect" id="node3" href="$df/dfa/class_autowire_tool.html#a78b35a48395b5502f8c00b373592678b" title="Execute autowiring tool." alt="" coords="227,345,378,372"/>
-<area shape="rect" id="node8" href="$d2/d68/class_export_open_scad_tool.html#a4c767d720bf495a05ee200deae713329" title="Export additional 3d&#45;printing build components in the openscad format." alt="" coords="230,94,375,135"/>
-<area shape="rect" id="node9" href="$d2/d68/class_export_open_scad_tool.html#a71ef67a238fb9cd74563b65d77c1ea73" title=" " alt="" coords="14,405,159,446"/>
-<area shape="rect" id="node13" href="$dd/d00/class_export_s_t_l_tool.html#a218420198ac8fef5b9f9a8acc889307d" title=" " alt="" coords="458,655,619,681"/>
-<area shape="rect" id="node14" href="$d2/d68/class_export_open_scad_tool.html#adfa47b51eeeefb3f8c8bb890266acc8c" title="Export magnetic mesh objects in the openscad format." alt="" coords="466,463,611,505"/>
-<area shape="rect" id="node15" href="$d2/d68/class_export_open_scad_tool.html#adc9cf506ecd2ef6e33f37f2eb206da1a" title="Export the meshdifference between mesh and magnets in the openscad format." alt="" coords="219,463,386,505"/>
-<area shape="rect" id="node20" href="$d9/d58/class_touchpoint.html#afbb2470ea0d67a12a29eb3d6bd958f01" title="Mark voxel grid cells as occupied by the touchpoint geometry." alt="" coords="445,764,633,791"/>
-<area shape="rect" id="node22" href="$d9/d58/class_touchpoint.html#a550348f9d05c347b5186b6531d583a11" title="Mark voxel grid cells as unoccupied by the touchpoint geometry." alt="" coords="437,709,640,736"/>
-<area shape="rect" id="node21" href="$db/dbb/class_picking_interactor_style.html#a1620702107e2c2d0c0aefbd896098b0d" title="Overloaded method, invoked when right mouse button is pressed." alt="" coords="227,758,378,799"/>
-<area shape="rect" id="node23" href="$d6/db5/class_scene.html#af1128c48ccb6999066aa1d935075cb23" title="Remove a touchpoint from the scene given its unique touchpoint id." alt="" coords="216,707,389,733"/>
-<area shape="rect" id="node24" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="15,666,158,707"/>
-<area shape="rect" id="node25" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="9,731,164,773"/>
-<area shape="rect" id="node26" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="5,797,168,838"/>
-<area shape="rect" id="node27" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="28,615,145,641"/>
+<area shape="rect" id="node5" href="$d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022" title="Computes the nearest voxel index to a given index point which is inside of the mesh boundaries." alt="" coords="692,122,911,163"/>
+<area shape="rect" id="node7" href="$d0/d9c/class_mesh_sampler.html#a13959e3407c6565147a814657c86311d" title=" " alt="" coords="696,187,907,229"/>
+<area shape="rect" id="node8" href="$d0/d9c/class_mesh_sampler.html#a763898864ad49b1d1dc84deafaf01b6b" title=" " alt="" coords="696,253,907,294"/>
+<area shape="rect" id="node9" href="$d6/db5/class_scene.html#a9d34f7a775d90ec0edfec76112024eb2" title="Return the component with a given id." alt="" coords="725,5,877,32"/>
+<area shape="rect" id="node12" href="$db/d46/class_touchpoint_registry.html#adef26ec306c768fb8d8e5b385353105b" title="Return a connection given its index position." alt="" coords="734,383,869,425"/>
+<area shape="rect" id="node13" href="$db/d46/class_touchpoint_registry.html#af0a8e034c51ebd0a05d72583b65e802d" title="Return a connector given its index position." alt="" coords="734,449,869,490"/>
+<area shape="rect" id="node14" href="$d6/db5/class_scene.html#aba225215a175a15a2a70e36623260717" title="Return a magnet from the scene, given its unique id." alt="" coords="737,784,865,811"/>
+<area shape="rect" id="node18" href="$d2/d00/class_component.html#a21e09e2fc60a1cc671098e99213315aa" title="Return a (openscad) subcomponent." alt="" coords="700,565,903,592"/>
+<area shape="rect" id="node19" href="$db/d46/class_touchpoint_registry.html#ad166efb05c8c40a8e3ca0dabf4a70cfe" title="Return a touchpoint given its index position." alt="" coords="734,617,869,658"/>
+<area shape="rect" id="node20" href="$d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee" title="Checks if a given index point is part of the voxels which lie inside the meshs boundaries." alt="" coords="708,318,895,359"/>
+<area shape="rect" id="node21" href="$de/d52/class_a_star.html#a4ee3f1b1a85636d572f95e2ede87a3bf" title="Set the voxels (and if the flag markneighborhood is true it&#39;s neighors) defined by the voxel index pa..." alt="" coords="742,733,861,760"/>
+<area shape="rect" id="node22" href="$d9/d58/class_touchpoint.html#a1b82f162b238396efeae6b9369430a87" title="Mark voxel grid cells occupied / unoccupied by the touchpoint geometry." alt="" coords="709,835,894,877"/>
+<area shape="rect" id="node31" href="$df/dfa/class_autowire_tool.html#a6d3cd96cedca7268da96cb4e478fe2c7" title="Mark voxel grid cells which are occupied by the wiring." alt="" coords="688,683,915,709"/>
+<area shape="rect" id="node32" href="$d5/d6e/class_octree_voxelizer.html#ac4d2a8be8056f86ed42f32e73866b808" title=" " alt="" coords="715,953,887,994"/>
+<area shape="rect" id="node33" href="$d5/d6e/class_octree_voxelizer.html#a6587bb79f04277bd15705d408f2a013d" title="Execute voxelization algorithm." alt="" coords="458,956,619,983"/>
+<area shape="rect" id="node34" href="$d0/dd7/class_voxelimage_compactor.html#a854df2b3456d18f9e0f223de22c0e1b9" title=" " alt="" coords="725,1018,878,1059"/>
+<area shape="rect" id="node35" href="$d8/d7b/class_voxelimage_combiner.html#a42d0d7c0af4c98bb15406efe2a961b0e" title=" " alt="" coords="729,1083,874,1125"/>
+<area shape="rect" id="node3" href="$df/dfa/class_autowire_tool.html#a78b35a48395b5502f8c00b373592678b" title="Execute autowiring tool." alt="" coords="227,592,378,619"/>
+<area shape="rect" id="node6" href="$db/dbb/class_picking_interactor_style.html#a22c8515240e36efd282409c27faf0e52" title="Overloaded method, invoked when left mouse button is pressed." alt="" coords="463,253,614,294"/>
+<area shape="rect" id="node10" href="$d2/d68/class_export_open_scad_tool.html#a4c767d720bf495a05ee200deae713329" title="Export additional 3d&#45;printing build components in the openscad format." alt="" coords="230,327,375,369"/>
+<area shape="rect" id="node11" href="$d2/d68/class_export_open_scad_tool.html#a71ef67a238fb9cd74563b65d77c1ea73" title=" " alt="" coords="14,711,159,753"/>
+<area shape="rect" id="node15" href="$dd/d00/class_export_s_t_l_tool.html#a218420198ac8fef5b9f9a8acc889307d" title=" " alt="" coords="458,723,619,749"/>
+<area shape="rect" id="node16" href="$d2/d68/class_export_open_scad_tool.html#adfa47b51eeeefb3f8c8bb890266acc8c" title="Export magnetic mesh objects in the openscad format." alt="" coords="466,774,611,815"/>
+<area shape="rect" id="node17" href="$d2/d68/class_export_open_scad_tool.html#adc9cf506ecd2ef6e33f37f2eb206da1a" title="Export the meshdifference between mesh and magnets in the openscad format." alt="" coords="219,770,386,811"/>
+<area shape="rect" id="node23" href="$d9/d58/class_touchpoint.html#afbb2470ea0d67a12a29eb3d6bd958f01" title="Mark voxel grid cells as occupied by the touchpoint geometry." alt="" coords="445,843,633,869"/>
+<area shape="rect" id="node25" href="$d9/d58/class_touchpoint.html#a550348f9d05c347b5186b6531d583a11" title="Mark voxel grid cells as unoccupied by the touchpoint geometry." alt="" coords="437,897,640,924"/>
+<area shape="rect" id="node24" href="$db/dbb/class_picking_interactor_style.html#a1620702107e2c2d0c0aefbd896098b0d" title="Overloaded method, invoked when right mouse button is pressed." alt="" coords="227,835,378,877"/>
+<area shape="rect" id="node26" href="$d6/db5/class_scene.html#af1128c48ccb6999066aa1d935075cb23" title="Remove a touchpoint from the scene given its unique touchpoint id." alt="" coords="216,901,389,928"/>
+<area shape="rect" id="node27" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="15,861,158,902"/>
+<area shape="rect" id="node28" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="9,926,164,967"/>
+<area shape="rect" id="node29" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="5,991,168,1033"/>
+<area shape="rect" id="node30" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="28,809,145,836"/>
 </map>

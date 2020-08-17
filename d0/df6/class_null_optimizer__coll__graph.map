@@ -1,12 +1,12 @@
 <map id="NullOptimizer" name="NullOptimizer">
-<area shape="rect" id="node1" title="Does not optimize at all (null) but instead connects the first touchpoint with the first connector an..." alt="" coords="59,3960,180,4052"/>
-<area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="20,3760,219,3911"/>
+<area shape="rect" id="node1" title="Does not optimize at all (null) but instead connects the first touchpoint with the first connector an..." alt="" coords="59,3975,180,4067"/>
+<area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="20,3775,219,3925"/>
 <area shape="rect" id="node3" title=" " alt="" coords="5,1647,201,1724"/>
 <area shape="rect" id="node4" href="$d9/d6b/struct_connection_info.html" title="The ConnectionInfo struct contains the indices of the source and destination touchpoint." alt="" coords="43,1181,190,1259"/>
 <area shape="rect" id="node5" title=" " alt="" coords="257,513,430,591"/>
 <area shape="rect" id="node17" href="$dd/d10/class_connection.html" title="Connection between a source touchpoint and a destination connector." alt="" coords="313,1035,493,1405"/>
 <area shape="rect" id="node6" href="$d3/d2c/struct_connection_indices.html" title="The ConnectionIndices struct contains the indices of the source touchpoint and destination connector ..." alt="" coords="79,506,210,598"/>
-<area shape="rect" id="node7" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="395,2769,609,3697"/>
+<area shape="rect" id="node7" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="395,2769,609,3712"/>
 <area shape="rect" id="node8" title=" " alt="" coords="522,2607,709,2685"/>
 <area shape="rect" id="node9" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="529,2269,702,2435"/>
 <area shape="rect" id="node10" title=" " alt="" coords="507,1873,667,1965"/>

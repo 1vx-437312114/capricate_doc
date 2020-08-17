@@ -1,0 +1,6 @@
+<map id="LayoutAlgorithms::computeNearestPointInsideInnerVoxelGrid" name="LayoutAlgorithms::computeNearestPointInsideInnerVoxelGrid">
+<area shape="rect" id="node1" title="Computes the nearest voxel index to a given index point which is inside of the mesh boundaries." alt="" coords="5,49,224,90"/>
+<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="297,5,443,32"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#a5a6d3fda8f75cf2aa8b19d7fd7f3c355" title="Return the voxelization resolution." alt="" coords="272,56,468,83"/>
+<area shape="rect" id="node4" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="333,107,407,133"/>
+</map>

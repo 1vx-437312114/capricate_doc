@@ -1,10 +1,10 @@
 <map id="PickingInteractorStyle" name="PickingInteractorStyle">
-<area shape="rect" id="node1" title="Interactor style for placing sphere shaped (or other fixed geometry) touchpoints tool." alt="" coords="135,3712,308,3965"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,3139,184,3231"/>
+<area shape="rect" id="node1" title="Interactor style for placing sphere shaped (or other fixed geometry) touchpoints tool." alt="" coords="135,3727,308,3980"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,3147,184,3239"/>
 <area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html" title="Base class for representing various design elements which are embeded in mesh surface." alt="" coords="178,147,417,957"/>
 <area shape="rect" id="node8" title=" " alt="" coords="241,1429,436,1507"/>
 <area shape="rect" id="node13" href="$dd/d10/class_connection.html" title="Connection between a source touchpoint and a destination connector." alt="" coords="438,1035,618,1405"/>
-<area shape="rect" id="node4" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="437,2721,651,3649"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="437,2721,651,3664"/>
 <area shape="rect" id="node5" title=" " alt="" coords="571,2559,757,2637"/>
 <area shape="rect" id="node6" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="580,2221,753,2387"/>
 <area shape="rect" id="node7" title=" " alt="" coords="259,1825,419,1917"/>

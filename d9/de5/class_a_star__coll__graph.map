@@ -1,8 +1,8 @@
 <map id="AStar" name="AStar">
-<area shape="rect" id="node1" title="Implementation of the A* search algorithm." alt="" coords="156,4005,411,4537"/>
-<area shape="rect" id="node2" title=" " alt="" coords="95,3440,258,3517"/>
+<area shape="rect" id="node1" title="Implementation of the A* search algorithm." alt="" coords="156,4020,411,4552"/>
+<area shape="rect" id="node2" title=" " alt="" coords="95,3447,258,3525"/>
 <area shape="rect" id="node3" href="$d3/df3/class_grid_node.html" title="Grid node for the A* search algorithm." alt="" coords="5,2552,167,2937"/>
-<area shape="rect" id="node4" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="372,3015,587,3943"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="372,3015,587,3957"/>
 <area shape="rect" id="node5" title=" " alt="" coords="191,2706,378,2783"/>
 <area shape="rect" id="node6" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="198,2221,371,2387"/>
 <area shape="rect" id="node7" title=" " alt="" coords="335,1825,495,1917"/>

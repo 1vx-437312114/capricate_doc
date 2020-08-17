@@ -1,12 +1,15 @@
 <map id="LayoutAlgorithms::computeConnectionPointSphere" name="LayoutAlgorithms::computeConnectionPointSphere">
-<area shape="rect" id="node1" title="Computes a wiring entry point in world coordinates for a sphere shaped touchpoint geometry." alt="" coords="708,201,889,243"/>
-<area shape="rect" id="node2" href="$db/dbb/class_picking_interactor_style.html#a22c8515240e36efd282409c27faf0e52" title="Overloaded method, invoked when left mouse button is pressed." alt="" coords="485,5,636,47"/>
-<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a46bb2fea8ddeab75e15a223c291116b6" title=" " alt="" coords="461,71,660,112"/>
-<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#affed0fab82fd390e2762933c6dca9124" title=" " alt="" coords="461,136,660,177"/>
-<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#adfdb8fcb8685844e8ce11bfb41b83b7d" title=" " alt="" coords="461,201,660,243"/>
-<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a5283a0d7aeeafd409c69b272053f3986" title=" " alt="" coords="461,267,660,308"/>
-<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a0c92ca2d04a79a1580c2e8e136b82682" title=" " alt="" coords="461,332,660,373"/>
-<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a86cd359f80311725589d0861dd7a9851" title=" " alt="" coords="461,397,660,439"/>
-<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,235,413,276"/>
-<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,242,185,269"/>
+<area shape="rect" id="node1" title="Computes a wiring entry point in world coordinates for a sphere shaped touchpoint geometry." alt="" coords="717,300,899,341"/>
+<area shape="rect" id="node2" href="$da/dcb/class_freehand_add_final_point_callback.html#a4a889b08c802e7e81598b8dd8b5e3dad" title="Overwritten callback method, which is executed when the left mouse button is pressed." alt="" coords="461,5,669,47"/>
+<area shape="rect" id="node3" href="$d4/d58/class_polyline_add_final_point_callback.html#aebf2f4ff9236a12c598205822c2949a2" title="Overwritten callback method, which is executed when the left mouse button is pressed for the first ti..." alt="" coords="465,71,665,112"/>
+<area shape="rect" id="node4" href="$db/dbb/class_picking_interactor_style.html#a22c8515240e36efd282409c27faf0e52" title="Overloaded method, invoked when left mouse button is pressed." alt="" coords="490,136,641,177"/>
+<area shape="rect" id="node5" href="$d1/db5/class_lasso_interactor_style.html#a711994cec6c74643d2bc161ba73daacd" title="Overwritten method, which is executed when the left mouse button is released." alt="" coords="494,201,637,243"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a46bb2fea8ddeab75e15a223c291116b6" title=" " alt="" coords="466,267,665,308"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#affed0fab82fd390e2762933c6dca9124" title=" " alt="" coords="466,332,665,373"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#adfdb8fcb8685844e8ce11bfb41b83b7d" title=" " alt="" coords="466,397,665,439"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a5283a0d7aeeafd409c69b272053f3986" title=" " alt="" coords="466,463,665,504"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a0c92ca2d04a79a1580c2e8e136b82682" title=" " alt="" coords="466,528,665,569"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a86cd359f80311725589d0861dd7a9851" title=" " alt="" coords="466,593,665,635"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,431,413,472"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,438,185,465"/>
 </map>

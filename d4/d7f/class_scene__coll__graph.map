@@ -1,5 +1,5 @@
 <map id="Scene" name="Scene">
-<area shape="rect" id="node1" title="Holds all scene specific objects and settings." alt="" coords="251,2721,466,3649"/>
+<area shape="rect" id="node1" title="Holds all scene specific objects and settings." alt="" coords="251,2721,466,3664"/>
 <area shape="rect" id="node2" title=" " alt="" coords="5,2559,192,2637"/>
 <area shape="rect" id="node3" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="12,2221,185,2387"/>
 <area shape="rect" id="node4" title=" " alt="" coords="149,1825,309,1917"/>

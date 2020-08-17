@@ -1,8 +1,8 @@
 <map id="AutowireTool" name="AutowireTool">
-<area shape="rect" id="node1" title="Tool for wiring touchpoints with connectors." alt="" coords="511,4143,766,4425"/>
-<area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="653,3760,771,3940"/>
-<area shape="rect" id="node3" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="514,2769,729,3697"/>
-<area shape="rect" id="node26" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="430,3775,629,3925"/>
+<area shape="rect" id="node1" title="Tool for wiring touchpoints with connectors." alt="" coords="511,4157,766,4440"/>
+<area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="653,3775,771,3955"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="514,2769,729,3712"/>
+<area shape="rect" id="node26" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="430,3789,629,3940"/>
 <area shape="rect" id="node4" title=" " alt="" coords="907,2607,1093,2685"/>
 <area shape="rect" id="node5" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="917,2269,1091,2435"/>
 <area shape="rect" id="node6" title=" " alt="" coords="427,1873,587,1965"/>
@@ -25,6 +25,6 @@
 <area shape="rect" id="node22" href="$d3/dbe/struct_component_1_1_open_s_c_a_d_sub_component.html" title="OpenSCAD Code container for subcomponents." alt="" coords="837,1181,1093,1259"/>
 <area shape="rect" id="node23" title="STL class." alt="" coords="1029,513,1109,591"/>
 <area shape="rect" id="node24" title="STL class." alt="" coords="1006,5,1133,97"/>
-<area shape="rect" id="node25" title=" " alt="" coords="473,4003,661,4080"/>
+<area shape="rect" id="node25" title=" " alt="" coords="473,4017,661,4095"/>
 <area shape="rect" id="node27" title=" " alt="" coords="71,1647,267,1724"/>
 </map>

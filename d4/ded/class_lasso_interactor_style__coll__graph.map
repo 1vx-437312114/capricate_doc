@@ -1,7 +1,7 @@
 <map id="LassoInteractorStyle" name="LassoInteractorStyle">
-<area shape="rect" id="node1" title="Interactor style for lasso tool." alt="" coords="61,3712,232,4024"/>
-<area shape="rect" id="node2" title=" " alt="" coords="24,3147,227,3224"/>
-<area shape="rect" id="node3" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="251,2721,466,3649"/>
+<area shape="rect" id="node1" title="Interactor style for lasso tool." alt="" coords="61,3727,232,4039"/>
+<area shape="rect" id="node2" title=" " alt="" coords="24,3154,227,3231"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="251,2721,466,3664"/>
 <area shape="rect" id="node4" title=" " alt="" coords="5,2559,192,2637"/>
 <area shape="rect" id="node5" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="12,2221,185,2387"/>
 <area shape="rect" id="node6" title=" " alt="" coords="149,1825,309,1917"/>
