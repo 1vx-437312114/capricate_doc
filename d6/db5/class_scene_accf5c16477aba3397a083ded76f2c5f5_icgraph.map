@@ -1,7 +1,7 @@
 <map id="Scene::getMeshPolyData" name="Scene::getMeshPolyData">
 <area shape="rect" id="node1" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="969,616,1140,643"/>
 <area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#a45e5cdff2b089a3594c38021ef5d27a7" title="Add wiring geometry of a connection to the scene (tubes)" alt="" coords="723,5,915,32"/>
-<area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" title="Add wiring geometry of a connection to the scene (cubes)" alt="" coords="723,57,915,98"/>
+<area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" title="Add wiring geometry of a connection to the scene (cubes) (For debugging)" alt="" coords="723,57,915,98"/>
 <area shape="rect" id="node5" href="$d1/da7/class_place_ground_plane8_connectors_tool.html#aaf1c46eccc1ea15dec8c7669c8a97a47" title="Add connector to touchpoint registry." alt="" coords="717,122,921,163"/>
 <area shape="rect" id="node6" href="$d1/da7/class_place_ground_plane8_connectors_tool.html#ac6f514739682b173fadccf10f5bc9aab" title=" " alt="" coords="463,181,667,222"/>
 <area shape="rect" id="node7" href="$dc/db2/class_place_ground_plane4_connectors_tool.html#a07d60110c5f9b56bf016c68d879f6d80" title="Add connector to touchpoint registry." alt="" coords="717,239,921,281"/>

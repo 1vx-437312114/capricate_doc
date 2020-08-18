@@ -2,7 +2,7 @@
 <area shape="rect" id="node1" title="Return the touchpoint registry of the scene." alt="" coords="1268,626,1465,653"/>
 <area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#a45e5cdff2b089a3594c38021ef5d27a7" title="Add wiring geometry of a connection to the scene (tubes)" alt="" coords="1009,58,1201,85"/>
 <area shape="rect" id="node3" href="$df/dfa/class_autowire_tool.html#a78b35a48395b5502f8c00b373592678b" title="Execute autowiring tool." alt="" coords="764,58,915,85"/>
-<area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" title="Add wiring geometry of a connection to the scene (cubes)" alt="" coords="1009,110,1201,151"/>
+<area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" title="Add wiring geometry of a connection to the scene (cubes) (For debugging)" alt="" coords="1009,110,1201,151"/>
 <area shape="rect" id="node5" href="$d9/d02/class_optimizer.html#a005ef2bdea59b2a3ac0fa22978add36a" title="Add optimized connections to the touchpoint registry." alt="" coords="749,576,929,602"/>
 <area shape="rect" id="node6" href="$da/d4f/class_brute_force_optimizer.html#aa2a4ae05bdd60786dee2cd865a15185e" title=" " alt="" coords="503,263,645,304"/>
 <area shape="rect" id="node7" href="$d2/d35/class_random_optimizer.html#aa5ce0ce1fb926e31ed56452870a2b9d7" title=" " alt="" coords="482,372,666,398"/>

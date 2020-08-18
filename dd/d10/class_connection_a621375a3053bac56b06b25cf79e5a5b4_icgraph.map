@@ -1,7 +1,7 @@
 <map id="Connection::getPath" name="Connection::getPath">
 <area shape="rect" id="node1" title="Return the connection path as a vector of 3d voxel grid indices." alt="" coords="459,64,600,91"/>
 <area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#a45e5cdff2b089a3594c38021ef5d27a7" title="Add wiring geometry of a connection to the scene (tubes)" alt="" coords="211,5,403,32"/>
-<area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" title="Add wiring geometry of a connection to the scene (cubes)" alt="" coords="211,57,403,98"/>
+<area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" title="Add wiring geometry of a connection to the scene (cubes) (For debugging)" alt="" coords="211,57,403,98"/>
 <area shape="rect" id="node5" href="$df/dfa/class_autowire_tool.html#ac4f7efcdb1dc1b668afa7273d832b7eb" title="Remove all wiring connections." alt="" coords="204,123,411,149"/>
 <area shape="rect" id="node3" href="$df/dfa/class_autowire_tool.html#a78b35a48395b5502f8c00b373592678b" title="Execute autowiring tool." alt="" coords="5,39,156,65"/>
 <area shape="rect" id="node6" href="$df/dfa/class_autowire_tool.html#a930afe6e270a14e16d88747ef371acf9" title="Undo wiring." alt="" coords="14,123,147,149"/>

@@ -1,6 +1,9 @@
 <map id="Scene::getVoxelizeResolution" name="Scene::getVoxelizeResolution">
-<area shape="rect" id="node1" title="Return the voxelization resolution." alt="" coords="471,46,667,73"/>
-<area shape="rect" id="node2" href="$d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022" title="Computes the nearest voxel index to a given index point which is inside of the mesh boundaries." alt="" coords="204,5,423,47"/>
-<area shape="rect" id="node4" href="$d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee" title="Checks if a given index point is part of the voxels which lie inside the meshs boundaries." alt="" coords="220,71,407,112"/>
-<area shape="rect" id="node3" href="$db/dbb/class_picking_interactor_style.html#a22c8515240e36efd282409c27faf0e52" title="Overloaded method, invoked when left mouse button is pressed." alt="" coords="5,39,156,80"/>
+<area shape="rect" id="node1" title="Return the voxelization resolution." alt="" coords="528,111,724,138"/>
+<area shape="rect" id="node2" href="$d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022" title="Computes the nearest voxel index to a given index point which is inside of the mesh boundaries." alt="" coords="261,71,480,112"/>
+<area shape="rect" id="node7" href="$d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee" title="Checks if a given index point is part of the voxels which lie inside the meshs boundaries." alt="" coords="277,136,464,177"/>
+<area shape="rect" id="node3" href="$da/dcb/class_freehand_add_final_point_callback.html#a4a889b08c802e7e81598b8dd8b5e3dad" title="Overwritten callback method, which is executed when the left mouse button is pressed." alt="" coords="5,136,213,177"/>
+<area shape="rect" id="node4" href="$d4/d58/class_polyline_add_final_point_callback.html#aebf2f4ff9236a12c598205822c2949a2" title="Overwritten callback method, which is executed when the left mouse button is pressed for the first ti..." alt="" coords="9,201,209,243"/>
+<area shape="rect" id="node5" href="$db/dbb/class_picking_interactor_style.html#a22c8515240e36efd282409c27faf0e52" title="Overloaded method, invoked when left mouse button is pressed." alt="" coords="34,5,185,47"/>
+<area shape="rect" id="node6" href="$d1/db5/class_lasso_interactor_style.html#a711994cec6c74643d2bc161ba73daacd" title="Overwritten method, which is executed when the left mouse button is released." alt="" coords="38,71,181,112"/>
 </map>

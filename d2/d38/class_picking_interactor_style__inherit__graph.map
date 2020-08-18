@@ -1,4 +1,4 @@
 <map id="PickingInteractorStyle" name="PickingInteractorStyle">
-<area shape="rect" id="node1" title="Interactor style for placing sphere shaped (or other fixed geometry) touchpoints tool." alt="" coords="8,145,181,428"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,184,97"/>
+<area shape="rect" id="node1" title="Interactor style for placing sphere shaped (or other fixed geometry) touchpoints tool." alt="" coords="5,145,185,472"/>
+<area shape="rect" id="node2" title=" " alt="" coords="6,5,185,97"/>
 </map>

@@ -51,7 +51,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" target="_top" xlink:title="Add wiring geometry of a connection to the scene (cubes)">
+<g id="a_node4"><a xlink:href="../../df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" target="_top" xlink:title="Add wiring geometry of a connection to the scene (cubes) (For debugging)">
 <polygon fill="white" stroke="black" points="195,-732.5 195,-762.5 339,-762.5 339,-732.5 195,-732.5"/>
 <text text-anchor="start" x="203" y="-750.5" font-family="Helvetica,sans-Serif" font-size="10.00">AutowireTool::addConnection</text>
 <text text-anchor="middle" x="267" y="-739.5" font-family="Helvetica,sans-Serif" font-size="10.00">Cubes</text>

@@ -1,11 +1,11 @@
 <map id="TouchpointRegistry" name="TouchpointRegistry">
-<area shape="rect" id="node1" title="Manages all the touchpoints and connections in a scene." alt="" coords="89,1699,283,2069"/>
-<area shape="rect" id="node2" title=" " alt="" coords="69,1428,229,1520"/>
-<area shape="rect" id="node3" title=" " alt="" coords="39,1040,234,1117"/>
-<area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html" title="Base class for representing various design elements which are embeded in mesh surface." alt="" coords="5,5,244,816"/>
-<area shape="rect" id="node7" href="$dd/d10/class_connection.html" title="Connection between a source touchpoint and a destination connector." alt="" coords="263,893,443,1264"/>
-<area shape="rect" id="node5" title=" " alt="" coords="266,1544,426,1636"/>
-<area shape="rect" id="node6" title=" " alt="" coords="251,1327,449,1404"/>
-<area shape="rect" id="node8" title=" " alt="" coords="269,372,442,449"/>
-<area shape="rect" id="node9" href="$d3/d2c/struct_connection_indices.html" title="The ConnectionIndices struct contains the indices of the source touchpoint and destination connector ..." alt="" coords="466,365,597,457"/>
+<area shape="rect" id="node1" title="Manages all the touchpoints and connections in a scene." alt="" coords="89,1713,283,2084"/>
+<area shape="rect" id="node2" title=" " alt="" coords="69,1443,229,1535"/>
+<area shape="rect" id="node3" title=" " alt="" coords="39,1055,234,1132"/>
+<area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html" title="Base class for representing various design elements which are embeded in mesh surface." alt="" coords="5,5,244,831"/>
+<area shape="rect" id="node7" href="$dd/d10/class_connection.html" title="Connection between a source touchpoint and a destination connector." alt="" coords="263,908,443,1279"/>
+<area shape="rect" id="node5" title=" " alt="" coords="266,1559,426,1651"/>
+<area shape="rect" id="node6" title=" " alt="" coords="251,1341,449,1419"/>
+<area shape="rect" id="node8" title=" " alt="" coords="269,379,442,457"/>
+<area shape="rect" id="node9" href="$d3/d2c/struct_connection_indices.html" title="The ConnectionIndices struct contains the indices of the source touchpoint and destination connector ..." alt="" coords="466,372,597,464"/>
 </map>

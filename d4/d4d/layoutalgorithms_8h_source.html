@@ -116,99 +116,100 @@ $(function() {
 <div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;<span class="preprocessor">#include &lt;vtkStaticCellLocator.h&gt;</span></div>
 <div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;<span class="preprocessor">#include &lt;vtkGenericCell.h&gt;</span></div>
 <div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;<span class="preprocessor">#include &lt;vtkKdTreePointLocator.h&gt;</span></div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160; </div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../de/d3a/vtksurface_8h.html">vtkext/vtksurface.h</a>&gt;</span></div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160; </div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;<span class="preprocessor">#include &lt;CGAL/Simple_cartesian.h&gt;</span></div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;<span class="preprocessor">#include &lt;CGAL/AABB_tree.h&gt;</span></div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="preprocessor">#include &lt;CGAL/AABB_traits.h&gt;</span></div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="preprocessor">#include &lt;CGAL/AABB_triangle_primitive.h&gt;</span></div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160; </div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d1/da8/sampling_8h.html">utils/sampling.h</a>&quot;</span></div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d5/d60/utils_8h.html">utils/utils.h</a>&quot;</span></div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d2/d6f/constants_8h.html">core/constants.h</a>&quot;</span></div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d6/d5e/tool_8h.html">tools/tool.h</a>&quot;</span></div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../da/dca/touchpoint_8h.html">core/touchpoint.h</a>&quot;</span></div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d8/d54/touchpointregistry_8h.html">core/touchpointregistry.h</a>&quot;</span></div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../db/d83/scene_8h.html">core/scene.h</a>&quot;</span></div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160; </div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;<span class="comment"></span> </div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;<span class="comment">/** @brief Contains algorithms for computing placement positions for components */</span></div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;<span class="keyword">namespace </span><a class="code" href="../../d9/d4f/namespace_layout_algorithms.html">LayoutAlgorithms</a></div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;{<span class="comment"></span></div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;<span class="comment">    /**</span></div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;<span class="comment">     *  @brief Computes a wiring entry point in world coordinates for a touchpoint geometry.</span></div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;<span class="comment">     *</span></div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;<span class="comment">     *  @param scene            Pointer to scene object</span></div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;<span class="comment">     *  @param touchpoint       Touchpoint for which a wiring entry point should be computed</span></div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;<span class="comment">     *  @param placementPoint   Midpoint (in world coordinates) of the touchpoint placement position</span></div>
-<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;<span class="comment">     *  @return     Wiring entry point (connection point) in world coordinate</span></div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;<span class="comment">     */</span></div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    vtkVector3d <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#aa987a43d71a910d093953d6b92764d7f">computeConnectionPoint</a>(<a class="code" href="../../d6/db5/class_scene.html">Scene</a>* scene, <a class="code" href="../../d9/d58/class_touchpoint.html">Touchpoint</a>* touchpoint, vtkVector3d placementPoint);</div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160; </div>
-<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;<span class="comment"></span> </div>
-<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;<span class="comment">    /**</span></div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;<span class="comment">     *  @brief Computes a wiring entry point in world coordinates for a sphere shaped touchpoint geometry.</span></div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;<span class="comment">     *</span></div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;<span class="comment">     *  @param scene            Pointer to scene object</span></div>
-<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;<span class="comment">     *  @param touchpoint       Touchpoint for which a wiring entry point should be computed</span></div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;<span class="comment">     *  @param placementPoint   Midpoint (in world coordinates) of the touchpoint placement position</span></div>
-<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;<span class="comment">     *  @return     Wiring entry point (connection point) in world coordinate</span></div>
-<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;<span class="comment">     */</span></div>
-<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;    vtkVector3d <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#ad165a81c391eaa466ebce1da720ee6b5">computeConnectionPointSphere</a>(<a class="code" href="../../d6/db5/class_scene.html">Scene</a>* scene, <a class="code" href="../../d9/d58/class_touchpoint.html">Touchpoint</a>* touchpoint, vtkVector3d placementPoint);</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160; </div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;<span class="comment"></span> </div>
-<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;<span class="comment">    /**</span></div>
-<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;<span class="comment">     *  @brief Computes the pole of inaccessibility (point which is farthest away from all mesh ground edges).</span></div>
-<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;<span class="comment">     *</span></div>
-<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;<span class="comment">     *  @param[in]  scene           Pointer to scene object</span></div>
-<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;<span class="comment">     *  @param[out] pole            The pole of inaccessibility</span></div>
-<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;<span class="comment">     *  @param[out] maxDistanceSq   The maximum distance to the edges squared</span></div>
-<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;<span class="comment">     *  @return     true if point found, false if not</span></div>
-<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;<span class="comment">     */</span></div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#a0dd279f7ae7f35e3850f4a90b198faae">computePoleOfInaccessibility</a>(<a class="code" href="../../d6/db5/class_scene.html">Scene</a>* scene, vtkVector3d&amp; pole, <span class="keywordtype">double</span>&amp; maxDistanceSq);</div>
-<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160; </div>
-<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;<span class="comment"></span> </div>
-<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;<span class="comment">    /**</span></div>
-<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;<span class="comment">     *  @brief Computes the centroid of a mesh.</span></div>
-<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;<span class="comment">     *</span></div>
-<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;<span class="comment">     *  @param polyData vtkSmartPointer to polyData</span></div>
-<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;<span class="comment">     *  @return         Mesh centroid</span></div>
-<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;<span class="comment">     */</span></div>
-<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;    vtkVector3d <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#aae4ebdc0f57fa0634aa6456db51023e2">computePolygonCentroid</a>(vtkSmartPointer&lt;vtkPolyData&gt; polyData);</div>
-<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160; </div>
-<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;<span class="comment"></span> </div>
-<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;<span class="comment">    /**</span></div>
-<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;<span class="comment">     *  @brief Computes the closest point on a mesh in relation to another point</span></div>
-<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;<span class="comment">     *</span></div>
-<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;<span class="comment">     *  @param meshPolyData Mesh polydata</span></div>
-<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;<span class="comment">     *  @param point        Point to which the closest point on the mesh should be computed</span></div>
-<div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;<span class="comment">     *  @return             The closest point</span></div>
-<div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;<span class="comment">     */</span></div>
-<div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160;    vtkVector3d <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#a53c2fbff4e31119750be8ef36e324d03">computeClosestPointOnMesh</a>(vtkSmartPointer&lt;vtkPolyData&gt; meshPolyData, vtkVector3d point);</div>
-<div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160; </div>
-<div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;<span class="comment"></span> </div>
-<div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;<span class="comment">    /**</span></div>
-<div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;<span class="comment">     *  @brief Computes the nearest voxel index to a given index point which is inside of the mesh boundaries</span></div>
-<div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;<span class="comment">     *</span></div>
-<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;<span class="comment">     *  @param scene        Pointer to the scene object</span></div>
-<div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;<span class="comment">     *  @param indexPoint   Point to which the closest point on the mesh should be computed</span></div>
-<div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;<span class="comment">     *  @return             The closest point</span></div>
-<div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;<span class="comment">     */</span></div>
-<div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;    vtkVector3i <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022">computeNearestPointInsideInnerVoxelGrid</a>(<a class="code" href="../../d6/db5/class_scene.html">Scene</a>* scene, <span class="keyword">const</span> vtkVector3i&amp; indexPoint);</div>
-<div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160; </div>
-<div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;<span class="comment"></span> </div>
-<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;<span class="comment">    /// @brief Checks if a given index point is part of the voxels which lie inside the meshs boundaries.</span></div>
-<div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;<span class="comment">    ///</span></div>
-<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;<span class="comment">    /// @param scene Pointer to the scene object</span></div>
-<div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;<span class="comment">    /// @param point Point to be checked</span></div>
-<div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;<span class="comment">    ///</span></div>
-<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;<span class="comment"></span>    <span class="keywordtype">bool</span> <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee">isVoxelIndexInsideMeshBoundaries</a>(<a class="code" href="../../d6/db5/class_scene.html">Scene</a>* scene, vtkVector3i point);</div>
-<div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;}</div>
-<div class="line"><a name="l00135"></a><span class="lineno">  135</span>&#160; </div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;<span class="preprocessor">#include &lt;vtkSelectEnclosedPoints.h&gt;</span></div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160; </div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="../../de/d3a/vtksurface_8h.html">vtkext/vtksurface.h</a>&gt;</span></div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160; </div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;<span class="preprocessor">#include &lt;CGAL/Simple_cartesian.h&gt;</span></div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="preprocessor">#include &lt;CGAL/AABB_tree.h&gt;</span></div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="preprocessor">#include &lt;CGAL/AABB_traits.h&gt;</span></div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="preprocessor">#include &lt;CGAL/AABB_triangle_primitive.h&gt;</span></div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160; </div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d1/da8/sampling_8h.html">utils/sampling.h</a>&quot;</span></div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d5/d60/utils_8h.html">utils/utils.h</a>&quot;</span></div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d2/d6f/constants_8h.html">core/constants.h</a>&quot;</span></div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d6/d5e/tool_8h.html">tools/tool.h</a>&quot;</span></div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../da/dca/touchpoint_8h.html">core/touchpoint.h</a>&quot;</span></div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../d8/d54/touchpointregistry_8h.html">core/touchpointregistry.h</a>&quot;</span></div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="../../db/d83/scene_8h.html">core/scene.h</a>&quot;</span></div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160; </div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;<span class="comment"></span> </div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;<span class="comment">/** @brief Contains algorithms for computing placement positions for components */</span></div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;<span class="keyword">namespace </span><a class="code" href="../../d9/d4f/namespace_layout_algorithms.html">LayoutAlgorithms</a></div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;{<span class="comment"></span></div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;<span class="comment">    /**</span></div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;<span class="comment">     *  @brief Computes a wiring entry point in world coordinates for a touchpoint geometry.</span></div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;<span class="comment">     *</span></div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;<span class="comment">     *  @param scene            Pointer to scene object</span></div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;<span class="comment">     *  @param touchpoint       Touchpoint for which a wiring entry point should be computed</span></div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;<span class="comment">     *  @param placementPoint   Midpoint (in world coordinates) of the touchpoint placement position</span></div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;<span class="comment">     *  @return     Wiring entry point (connection point) in world coordinate</span></div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;<span class="comment">     */</span></div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;    vtkVector3d <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#aa987a43d71a910d093953d6b92764d7f">computeConnectionPoint</a>(<a class="code" href="../../d6/db5/class_scene.html">Scene</a>* scene, <a class="code" href="../../d9/d58/class_touchpoint.html">Touchpoint</a>* touchpoint, vtkVector3d placementPoint);</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160; </div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;<span class="comment"></span> </div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;<span class="comment">    /**</span></div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;<span class="comment">     *  @brief Computes a wiring entry point in world coordinates for a sphere shaped touchpoint geometry.</span></div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;<span class="comment">     *</span></div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;<span class="comment">     *  @param scene            Pointer to scene object</span></div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;<span class="comment">     *  @param touchpoint       Touchpoint for which a wiring entry point should be computed</span></div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;<span class="comment">     *  @param placementPoint   Midpoint (in world coordinates) of the touchpoint placement position</span></div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;<span class="comment">     *  @return     Wiring entry point (connection point) in world coordinate</span></div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;<span class="comment">     */</span></div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    vtkVector3d <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#ad165a81c391eaa466ebce1da720ee6b5">computeConnectionPointSphere</a>(<a class="code" href="../../d6/db5/class_scene.html">Scene</a>* scene, <a class="code" href="../../d9/d58/class_touchpoint.html">Touchpoint</a>* touchpoint, vtkVector3d placementPoint);</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160; </div>
+<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;<span class="comment"></span> </div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;<span class="comment">    /**</span></div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;<span class="comment">     *  @brief Computes the pole of inaccessibility (point which is farthest away from all mesh ground edges).</span></div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;<span class="comment">     *</span></div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;<span class="comment">     *  @param[in]  scene           Pointer to scene object</span></div>
+<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;<span class="comment">     *  @param[out] pole            The pole of inaccessibility</span></div>
+<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;<span class="comment">     *  @param[out] maxDistanceSq   The maximum distance to the edges squared</span></div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;<span class="comment">     *  @return     true if point found, false if not</span></div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;<span class="comment">     */</span></div>
+<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#a0dd279f7ae7f35e3850f4a90b198faae">computePoleOfInaccessibility</a>(<a class="code" href="../../d6/db5/class_scene.html">Scene</a>* scene, vtkVector3d&amp; pole, <span class="keywordtype">double</span>&amp; maxDistanceSq);</div>
+<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160; </div>
+<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;<span class="comment"></span> </div>
+<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;<span class="comment">    /**</span></div>
+<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;<span class="comment">     *  @brief Computes the centroid of a mesh.</span></div>
+<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;<span class="comment">     *</span></div>
+<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;<span class="comment">     *  @param polyData vtkSmartPointer to polyData</span></div>
+<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;<span class="comment">     *  @return         Mesh centroid</span></div>
+<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;<span class="comment">     */</span></div>
+<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;    vtkVector3d <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#aae4ebdc0f57fa0634aa6456db51023e2">computePolygonCentroid</a>(vtkSmartPointer&lt;vtkPolyData&gt; polyData);</div>
+<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160; </div>
+<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;<span class="comment"></span> </div>
+<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;<span class="comment">    /**</span></div>
+<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;<span class="comment">     *  @brief Computes the closest point on a mesh in relation to another point</span></div>
+<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;<span class="comment">     *</span></div>
+<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;<span class="comment">     *  @param meshPolyData Mesh polydata</span></div>
+<div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;<span class="comment">     *  @param point        Point to which the closest point on the mesh should be computed</span></div>
+<div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;<span class="comment">     *  @return             The closest point</span></div>
+<div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160;<span class="comment">     */</span></div>
+<div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;    vtkVector3d <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#a53c2fbff4e31119750be8ef36e324d03">computeClosestPointOnMesh</a>(vtkSmartPointer&lt;vtkPolyData&gt; meshPolyData, vtkVector3d point);</div>
+<div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160; </div>
+<div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;<span class="comment"></span> </div>
+<div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;<span class="comment">    /**</span></div>
+<div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;<span class="comment">     *  @brief Computes the nearest voxel index to a given index point which is inside of the mesh boundaries</span></div>
+<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;<span class="comment">     *</span></div>
+<div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;<span class="comment">     *  @param scene        Pointer to the scene object</span></div>
+<div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;<span class="comment">     *  @param indexPoint   Point to which the closest point on the mesh should be computed</span></div>
+<div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;<span class="comment">     *  @return             The closest point</span></div>
+<div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;<span class="comment">     */</span></div>
+<div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;    vtkVector3i <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022">computeNearestPointInsideInnerVoxelGrid</a>(<a class="code" href="../../d6/db5/class_scene.html">Scene</a>* scene, <span class="keyword">const</span> vtkVector3i&amp; indexPoint);</div>
+<div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160; </div>
+<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;<span class="comment"></span> </div>
+<div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;<span class="comment">    /// @brief Checks if a given index point is part of the voxels which lie inside the meshs boundaries.</span></div>
+<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;<span class="comment">    ///</span></div>
+<div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;<span class="comment">    /// @param scene Pointer to the scene object</span></div>
+<div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;<span class="comment">    /// @param point Point to be checked</span></div>
+<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;<span class="comment">    ///</span></div>
+<div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;<span class="comment"></span>    <span class="keywordtype">bool</span> <a class="code" href="../../d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee">isVoxelIndexInsideMeshBoundaries</a>(<a class="code" href="../../d6/db5/class_scene.html">Scene</a>* scene, vtkVector3i point);</div>
+<div class="line"><a name="l00135"></a><span class="lineno">  135</span>&#160;}</div>
 <div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160; </div>
-<div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160;<span class="preprocessor">#endif</span></div>
-<div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160; </div>
+<div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160; </div>
+<div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160; </div>
 </div><!-- fragment --></div><!-- contents -->
 <div class="ttc" id="asampling_8h_html"><div class="ttname"><a href="../../d1/da8/sampling_8h.html">sampling.h</a></div><div class="ttdoc">Various algorithms (random, quasi monte carlo) for generating sample points.</div></div>
 <div class="ttc" id="anamespace_layout_algorithms_html_a53c2fbff4e31119750be8ef36e324d03"><div class="ttname"><a href="../../d9/d4f/namespace_layout_algorithms.html#a53c2fbff4e31119750be8ef36e324d03">LayoutAlgorithms::computeClosestPointOnMesh</a></div><div class="ttdeci">vtkVector3d computeClosestPointOnMesh(vtkSmartPointer&lt; vtkPolyData &gt; meshPolyData, vtkVector3d point)</div><div class="ttdoc">Computes the closest point on a mesh in relation to another point.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d26/layoutalgorithms_8cpp_source.html#l01063">layoutalgorithms.cpp:1063</a></div></div>
@@ -222,9 +223,9 @@ $(function() {
 <div class="ttc" id="atouchpoint_8h_html"><div class="ttname"><a href="../../da/dca/touchpoint_8h.html">touchpoint.h</a></div><div class="ttdoc">The touchpoint object is the central design object which holds all touchpoint specific informations.</div></div>
 <div class="ttc" id="aconstants_8h_html"><div class="ttname"><a href="../../d2/d6f/constants_8h.html">constants.h</a></div><div class="ttdoc">Application / Algorithm specific global constants.</div></div>
 <div class="ttc" id="avtksurface_8h_html"><div class="ttname"><a href="../../de/d3a/vtksurface_8h.html">vtksurface.h</a></div></div>
-<div class="ttc" id="anamespace_layout_algorithms_html_ae4a370e6ad78fdf1fa1d775a135339ee"><div class="ttname"><a href="../../d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee">LayoutAlgorithms::isVoxelIndexInsideMeshBoundaries</a></div><div class="ttdeci">bool isVoxelIndexInsideMeshBoundaries(Scene *scene, vtkVector3i point)</div><div class="ttdoc">Checks if a given index point is part of the voxels which lie inside the meshs boundaries.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d26/layoutalgorithms_8cpp_source.html#l01171">layoutalgorithms.cpp:1171</a></div></div>
+<div class="ttc" id="anamespace_layout_algorithms_html_ae4a370e6ad78fdf1fa1d775a135339ee"><div class="ttname"><a href="../../d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee">LayoutAlgorithms::isVoxelIndexInsideMeshBoundaries</a></div><div class="ttdeci">bool isVoxelIndexInsideMeshBoundaries(Scene *scene, vtkVector3i point)</div><div class="ttdoc">Checks if a given index point is part of the voxels which lie inside the meshs boundaries.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d26/layoutalgorithms_8cpp_source.html#l01195">layoutalgorithms.cpp:1195</a></div></div>
 <div class="ttc" id="anamespace_layout_algorithms_html_aae4ebdc0f57fa0634aa6456db51023e2"><div class="ttname"><a href="../../d9/d4f/namespace_layout_algorithms.html#aae4ebdc0f57fa0634aa6456db51023e2">LayoutAlgorithms::computePolygonCentroid</a></div><div class="ttdeci">vtkVector3d computePolygonCentroid(vtkSmartPointer&lt; vtkPolyData &gt; polyData)</div><div class="ttdoc">Computes the centroid of a mesh.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d26/layoutalgorithms_8cpp_source.html#l00998">layoutalgorithms.cpp:998</a></div></div>
-<div class="ttc" id="anamespace_layout_algorithms_html_a548f7aef3389c05aa79965eabf21a022"><div class="ttname"><a href="../../d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022">LayoutAlgorithms::computeNearestPointInsideInnerVoxelGrid</a></div><div class="ttdeci">vtkVector3i computeNearestPointInsideInnerVoxelGrid(Scene *scene, const vtkVector3i &amp;indexPoint)</div><div class="ttdoc">Computes the nearest voxel index to a given index point which is inside of the mesh boundaries.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d26/layoutalgorithms_8cpp_source.html#l01136">layoutalgorithms.cpp:1136</a></div></div>
+<div class="ttc" id="anamespace_layout_algorithms_html_a548f7aef3389c05aa79965eabf21a022"><div class="ttname"><a href="../../d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022">LayoutAlgorithms::computeNearestPointInsideInnerVoxelGrid</a></div><div class="ttdeci">vtkVector3i computeNearestPointInsideInnerVoxelGrid(Scene *scene, const vtkVector3i &amp;indexPoint)</div><div class="ttdoc">Computes the nearest voxel index to a given index point which is inside of the mesh boundaries.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d26/layoutalgorithms_8cpp_source.html#l01160">layoutalgorithms.cpp:1160</a></div></div>
 <div class="ttc" id="anamespace_layout_algorithms_html_ad165a81c391eaa466ebce1da720ee6b5"><div class="ttname"><a href="../../d9/d4f/namespace_layout_algorithms.html#ad165a81c391eaa466ebce1da720ee6b5">LayoutAlgorithms::computeConnectionPointSphere</a></div><div class="ttdeci">vtkVector3d computeConnectionPointSphere(Scene *scene, Touchpoint *touchpoint, vtkVector3d placementPoint)</div><div class="ttdoc">Computes a wiring entry point in world coordinates for a sphere shaped touchpoint geometry.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d26/layoutalgorithms_8cpp_source.html#l00106">layoutalgorithms.cpp:106</a></div></div>
 <div class="ttc" id="aclass_touchpoint_html"><div class="ttname"><a href="../../d9/d58/class_touchpoint.html">Touchpoint</a></div><div class="ttdoc">Base class for representing various design elements which are embeded in mesh surface.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/dca/touchpoint_8h_source.html#l00060">touchpoint.h:61</a></div></div>
 <div class="ttc" id="anamespace_layout_algorithms_html_aa987a43d71a910d093953d6b92764d7f"><div class="ttname"><a href="../../d9/d4f/namespace_layout_algorithms.html#aa987a43d71a910d093953d6b92764d7f">LayoutAlgorithms::computeConnectionPoint</a></div><div class="ttdeci">vtkVector3d computeConnectionPoint(Scene *scene, Touchpoint *touchpoint, vtkVector3d placementPoint)</div><div class="ttdoc">Computes a wiring entry point in world coordinates for a touchpoint geometry.</div><div class="ttdef"><b>Definition:</b> <a href="../../da/d26/layoutalgorithms_8cpp_source.html#l00006">layoutalgorithms.cpp:6</a></div></div>

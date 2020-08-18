@@ -2,7 +2,7 @@
 <area shape="rect" id="node1" title="Return the vtkRenderer of the scene." alt="" coords="513,560,652,587"/>
 <area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#a45e5cdff2b089a3594c38021ef5d27a7" title="Add wiring geometry of a connection to the scene (tubes)" alt="" coords="265,56,457,83"/>
 <area shape="rect" id="node3" href="$df/dfa/class_autowire_tool.html#a78b35a48395b5502f8c00b373592678b" title="Execute autowiring tool." alt="" coords="32,56,183,83"/>
-<area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" title="Add wiring geometry of a connection to the scene (cubes)" alt="" coords="265,209,457,250"/>
+<area shape="rect" id="node4" href="$df/dfa/class_autowire_tool.html#a68dc0be6807c61b742a319c4f1509a0f" title="Add wiring geometry of a connection to the scene (cubes) (For debugging)" alt="" coords="265,209,457,250"/>
 <area shape="rect" id="node5" href="$d1/da7/class_place_ground_plane8_connectors_tool.html#aaf1c46eccc1ea15dec8c7669c8a97a47" title="Add connector to touchpoint registry." alt="" coords="259,326,463,367"/>
 <area shape="rect" id="node6" href="$d1/da7/class_place_ground_plane8_connectors_tool.html#ac6f514739682b173fadccf10f5bc9aab" title=" " alt="" coords="5,297,209,338"/>
 <area shape="rect" id="node7" href="$dc/db2/class_place_ground_plane4_connectors_tool.html#a07d60110c5f9b56bf016c68d879f6d80" title="Add connector to touchpoint registry." alt="" coords="259,443,463,485"/>

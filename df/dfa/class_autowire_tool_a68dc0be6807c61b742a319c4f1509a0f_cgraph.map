@@ -1,19 +1,21 @@
 <map id="AutowireTool::addConnectionCubes" name="AutowireTool::addConnectionCubes">
-<area shape="rect" id="node1" title="Add wiring geometry of a connection to the scene (cubes)" alt="" coords="5,409,197,450"/>
+<area shape="rect" id="node1" title="Add wiring geometry of a connection to the scene (cubes) (For debugging)" alt="" coords="5,459,197,501"/>
 <area shape="rect" id="node2" href="$d1/d7c/namespace_utils.html#adfd018a6efe0bd54e0e8344ecc1fe208" title="Compute world coordinate equivalent of voxel grid integer index." alt="" coords="295,5,410,32"/>
 <area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html#a85820150b53ece4c635f7ca5ed189afa" title="Return the graphical representation (vtkActor) of the touchpoint." alt="" coords="281,56,424,83"/>
 <area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html#ad2583d5312abcd383e7b12c841668a19" title="Return outside wiring entry point (world coordinates)" alt="" coords="264,107,441,149"/>
 <area shape="rect" id="node5" href="$d9/d58/class_touchpoint.html#a30cdb1f0de39cf4ffe2d23c3c750d331" title="Return outside wiring entry point (grid coordinates)" alt="" coords="264,173,441,214"/>
 <area shape="rect" id="node6" href="$dd/d10/class_connection.html#ab0ec3e9eeabc5e25b8dfcdd47cda182b" title="Return the pointer to the destination connector." alt="" coords="263,239,443,265"/>
-<area shape="rect" id="node7" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="267,289,438,316"/>
-<area shape="rect" id="node8" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="265,340,440,367"/>
-<area shape="rect" id="node9" href="$dd/d10/class_connection.html#a621375a3053bac56b06b25cf79e5a5b4" title="Return the connection path as a vector of 3d voxel grid indices." alt="" coords="282,391,423,417"/>
-<area shape="rect" id="node10" href="$d6/db5/class_scene.html#a8bf8e4b441886787dc82c2caa9b25884" title="Return the vtkRenderer of the scene." alt="" coords="283,441,422,468"/>
-<area shape="rect" id="node11" href="$dd/d10/class_connection.html#a2994130b16d96ca737bf5f988996449e" title="Return the pointer to the source touchpoint." alt="" coords="275,492,430,519"/>
-<area shape="rect" id="node12" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="254,543,451,569"/>
-<area shape="rect" id="node13" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="508,619,653,645"/>
-<area shape="rect" id="node14" href="$d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" title="Return dimensions of the voxel data." alt="" coords="245,644,460,671"/>
-<area shape="rect" id="node15" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="315,695,390,721"/>
-<area shape="rect" id="node16" href="$dd/d10/class_connection.html#a24be5fb6fd21b1b0bbc9853b8075f9f4" title="Set the graphical representation (vtkActor) of the connection geometry." alt="" coords="263,746,443,787"/>
-<area shape="rect" id="node17" href="$dd/d10/class_connection.html#aa53698bb689af2a64f852309c6dbf6c8" title="Set the geometry (vtkPolyData) of the connection." alt="" coords="263,811,443,853"/>
+<area shape="rect" id="node7" href="$d9/d58/class_touchpoint.html#a25425137e60d6d5f21d597e8f6632eed" title="Return the interior wiring connection position (world coordinates)" alt="" coords="253,289,452,316"/>
+<area shape="rect" id="node8" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="267,340,438,367"/>
+<area shape="rect" id="node9" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="265,391,440,417"/>
+<area shape="rect" id="node10" href="$dd/d10/class_connection.html#a621375a3053bac56b06b25cf79e5a5b4" title="Return the connection path as a vector of 3d voxel grid indices." alt="" coords="282,441,423,468"/>
+<area shape="rect" id="node11" href="$d6/db5/class_scene.html#a8bf8e4b441886787dc82c2caa9b25884" title="Return the vtkRenderer of the scene." alt="" coords="283,492,422,519"/>
+<area shape="rect" id="node12" href="$dd/d10/class_connection.html#a2994130b16d96ca737bf5f988996449e" title="Return the pointer to the source touchpoint." alt="" coords="275,543,430,569"/>
+<area shape="rect" id="node13" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="254,593,451,620"/>
+<area shape="rect" id="node14" href="$d9/d58/class_touchpoint.html#a2ffa73d162c4ede0fd78bf6da2107cd8" title="Return if touchpoint uses a separate connection point." alt="" coords="252,645,453,686"/>
+<area shape="rect" id="node15" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="508,736,653,763"/>
+<area shape="rect" id="node16" href="$d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" title="Return dimensions of the voxel data." alt="" coords="245,761,460,788"/>
+<area shape="rect" id="node17" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="315,812,390,839"/>
+<area shape="rect" id="node18" href="$dd/d10/class_connection.html#a24be5fb6fd21b1b0bbc9853b8075f9f4" title="Set the graphical representation (vtkActor) of the connection geometry." alt="" coords="263,863,443,905"/>
+<area shape="rect" id="node19" href="$dd/d10/class_connection.html#aa53698bb689af2a64f852309c6dbf6c8" title="Set the geometry (vtkPolyData) of the connection." alt="" coords="263,929,443,970"/>
 </map>
