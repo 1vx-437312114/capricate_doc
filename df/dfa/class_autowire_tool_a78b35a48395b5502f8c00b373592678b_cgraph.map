@@ -1,32 +1,32 @@
 <map id="AutowireTool::execute" name="AutowireTool::execute">
-<area shape="rect" id="node1" title="Execute autowiring tool." alt="" coords="5,627,156,653"/>
+<area shape="rect" id="node1" title="Execute autowiring tool." alt="" coords="5,777,156,804"/>
 <area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html#a45e5cdff2b089a3594c38021ef5d27a7" title="Add wiring geometry of a connection to the scene (tubes)" alt="" coords="211,517,403,544"/>
-<area shape="rect" id="node11" href="$d6/db5/class_scene.html#a8bf8e4b441886787dc82c2caa9b25884" title="Return the vtkRenderer of the scene." alt="" coords="503,208,641,235"/>
-<area shape="rect" id="node13" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="473,928,671,955"/>
-<area shape="rect" id="node23" href="$df/dfa/class_autowire_tool.html#ac4f7efcdb1dc1b668afa7273d832b7eb" title="Remove all wiring connections." alt="" coords="204,987,411,1013"/>
-<area shape="rect" id="node3" href="$d1/d7c/namespace_utils.html#adfd018a6efe0bd54e0e8344ecc1fe208" title="Compute world coordinate equivalent of voxel grid integer index." alt="" coords="515,259,629,285"/>
-<area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html#ad2583d5312abcd383e7b12c841668a19" title="Return outside wiring entry point (world coordinates)" alt="" coords="483,310,661,351"/>
-<area shape="rect" id="node5" href="$d9/d58/class_touchpoint.html#a30cdb1f0de39cf4ffe2d23c3c750d331" title="Return outside wiring entry point (grid coordinates)" alt="" coords="483,375,661,417"/>
-<area shape="rect" id="node6" href="$dd/d10/class_connection.html#ab0ec3e9eeabc5e25b8dfcdd47cda182b" title="Return the pointer to the destination connector." alt="" coords="482,441,662,468"/>
-<area shape="rect" id="node7" href="$d9/d58/class_touchpoint.html#a25425137e60d6d5f21d597e8f6632eed" title="Return the interior wiring connection position (world coordinates)" alt="" coords="473,492,671,519"/>
-<area shape="rect" id="node8" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="487,543,657,569"/>
-<area shape="rect" id="node9" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="485,593,659,620"/>
-<area shape="rect" id="node10" href="$dd/d10/class_connection.html#a621375a3053bac56b06b25cf79e5a5b4" title="Return the connection path as a vector of 3d voxel grid indices." alt="" coords="501,877,643,904"/>
-<area shape="rect" id="node12" href="$dd/d10/class_connection.html#a2994130b16d96ca737bf5f988996449e" title="Return the pointer to the source touchpoint." alt="" coords="495,644,649,671"/>
-<area shape="rect" id="node14" href="$d9/d58/class_touchpoint.html#a2ffa73d162c4ede0fd78bf6da2107cd8" title="Return if touchpoint uses a separate connection point." alt="" coords="471,695,673,737"/>
-<area shape="rect" id="node15" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="763,56,908,83"/>
-<area shape="rect" id="node16" href="$d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" title="Return dimensions of the voxel data." alt="" coords="465,5,679,32"/>
-<area shape="rect" id="node17" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="798,157,873,184"/>
+<area shape="rect" id="node8" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="487,5,657,32"/>
+<area shape="rect" id="node11" href="$d6/db5/class_scene.html#a8bf8e4b441886787dc82c2caa9b25884" title="Return the vtkRenderer of the scene." alt="" coords="503,777,641,804"/>
+<area shape="rect" id="node13" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="473,828,671,855"/>
+<area shape="rect" id="node23" href="$df/dfa/class_autowire_tool.html#ac4f7efcdb1dc1b668afa7273d832b7eb" title="Remove all wiring connections." alt="" coords="204,988,411,1015"/>
+<area shape="rect" id="node3" href="$d1/d7c/namespace_utils.html#adfd018a6efe0bd54e0e8344ecc1fe208" title="Compute world coordinate equivalent of voxel grid integer index." alt="" coords="515,208,629,235"/>
+<area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html#ad2583d5312abcd383e7b12c841668a19" title="Return outside wiring entry point (world coordinates)" alt="" coords="483,259,661,301"/>
+<area shape="rect" id="node5" href="$d9/d58/class_touchpoint.html#a30cdb1f0de39cf4ffe2d23c3c750d331" title="Return outside wiring entry point (grid coordinates)" alt="" coords="483,325,661,366"/>
+<area shape="rect" id="node6" href="$dd/d10/class_connection.html#ab0ec3e9eeabc5e25b8dfcdd47cda182b" title="Return the pointer to the destination connector." alt="" coords="482,391,662,417"/>
+<area shape="rect" id="node7" href="$d9/d58/class_touchpoint.html#a25425137e60d6d5f21d597e8f6632eed" title="Return the interior wiring connection position (world coordinates)" alt="" coords="473,441,671,468"/>
+<area shape="rect" id="node9" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="485,492,659,519"/>
+<area shape="rect" id="node10" href="$dd/d10/class_connection.html#a621375a3053bac56b06b25cf79e5a5b4" title="Return the connection path as a vector of 3d voxel grid indices." alt="" coords="501,929,643,956"/>
+<area shape="rect" id="node12" href="$dd/d10/class_connection.html#a2994130b16d96ca737bf5f988996449e" title="Return the pointer to the source touchpoint." alt="" coords="495,543,649,569"/>
+<area shape="rect" id="node14" href="$d9/d58/class_touchpoint.html#a2ffa73d162c4ede0fd78bf6da2107cd8" title="Return if touchpoint uses a separate connection point." alt="" coords="471,594,673,635"/>
+<area shape="rect" id="node15" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="763,157,908,184"/>
+<area shape="rect" id="node16" href="$d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" title="Return dimensions of the voxel data." alt="" coords="465,157,679,184"/>
+<area shape="rect" id="node17" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="798,56,873,83"/>
 <area shape="rect" id="node18" href="$df/dfa/class_autowire_tool.html#a6d3cd96cedca7268da96cb4e478fe2c7" title="Mark voxel grid cells which are occupied by the wiring." alt="" coords="459,107,685,133"/>
-<area shape="rect" id="node20" href="$dd/d10/class_connection.html#a24be5fb6fd21b1b0bbc9853b8075f9f4" title="Set the graphical representation (vtkActor) of the connection geometry." alt="" coords="482,979,662,1021"/>
-<area shape="rect" id="node21" href="$dd/d10/class_connection.html#aa53698bb689af2a64f852309c6dbf6c8" title="Set the geometry (vtkPolyData) of the connection." alt="" coords="482,761,662,802"/>
-<area shape="rect" id="node22" href="$dd/d10/class_connection.html#ae15a2ee585ad551838dbedc5bf71e22a" title="Set the graphical line representation object (vtkActor)" alt="" coords="487,827,657,853"/>
+<area shape="rect" id="node20" href="$dd/d10/class_connection.html#a24be5fb6fd21b1b0bbc9853b8075f9f4" title="Set the graphical representation (vtkActor) of the connection geometry." alt="" coords="482,711,662,753"/>
+<area shape="rect" id="node21" href="$dd/d10/class_connection.html#aa53698bb689af2a64f852309c6dbf6c8" title="Set the geometry (vtkPolyData) of the connection." alt="" coords="482,981,662,1022"/>
+<area shape="rect" id="node22" href="$dd/d10/class_connection.html#ae15a2ee585ad551838dbedc5bf71e22a" title="Set the graphical line representation object (vtkActor)" alt="" coords="487,879,657,905"/>
 <area shape="rect" id="node19" href="$d6/db5/class_scene.html#a64cb0dcdcb57a45fe485fb3489c112c4" title="Return if the 26&#45;neighborhood voxels of a connection path are locked too." alt="" coords="733,107,937,133"/>
-<area shape="rect" id="node24" href="$dd/d10/class_connection.html#a96ce1fa7643d6de71dd728e0d9c2ead0" title="Return the graphical representation (vtkActor) of the connection geometry." alt="" coords="482,1299,662,1341"/>
-<area shape="rect" id="node25" href="$dd/d10/class_connection.html#a6dfa62a677e8a374e02559892853b4d9" title="Return the graphical line representation object (vtkActor) of the connection." alt="" coords="487,1045,657,1072"/>
-<area shape="rect" id="node26" href="$dd/d10/class_connection.html#a5269756a5f3eabbc5ee96df7d53ac992" title="Return the value of the markNeighborhood flag." alt="" coords="459,1096,685,1123"/>
-<area shape="rect" id="node27" href="$dd/d10/class_connection.html#ab326c063ff3ad8a7261e2893dbe01bb1" title="Set the pointer to the destination connector." alt="" coords="482,1147,662,1173"/>
-<area shape="rect" id="node28" href="$dd/d10/class_connection.html#a6ffa49b4f1ad929605b3562b6c8951b2" title="Set the pointer to the source touchpoint." alt="" coords="495,1197,649,1224"/>
-<area shape="rect" id="node29" href="$de/d52/class_a_star.html#a38fa07c212033976433ac07e04d2f626" title="Unmark a path (unlock)" alt="" coords="505,1248,639,1275"/>
-<area shape="rect" id="node30" href="$de/d52/class_a_star.html#aa76c29f42861c4f6fc7c328e4dbc7d83" title="Mark a path as locked so that it can not be used by another search." alt="" coords="776,1248,895,1275"/>
+<area shape="rect" id="node24" href="$dd/d10/class_connection.html#a96ce1fa7643d6de71dd728e0d9c2ead0" title="Return the graphical representation (vtkActor) of the connection geometry." alt="" coords="482,1301,662,1342"/>
+<area shape="rect" id="node25" href="$dd/d10/class_connection.html#a6dfa62a677e8a374e02559892853b4d9" title="Return the graphical line representation object (vtkActor) of the connection." alt="" coords="487,1047,657,1073"/>
+<area shape="rect" id="node26" href="$dd/d10/class_connection.html#a5269756a5f3eabbc5ee96df7d53ac992" title="Return the value of the markNeighborhood flag." alt="" coords="459,1097,685,1124"/>
+<area shape="rect" id="node27" href="$dd/d10/class_connection.html#ab326c063ff3ad8a7261e2893dbe01bb1" title="Set the pointer to the destination connector." alt="" coords="482,1148,662,1175"/>
+<area shape="rect" id="node28" href="$dd/d10/class_connection.html#a6ffa49b4f1ad929605b3562b6c8951b2" title="Set the pointer to the source touchpoint." alt="" coords="495,1199,649,1225"/>
+<area shape="rect" id="node29" href="$de/d52/class_a_star.html#a38fa07c212033976433ac07e04d2f626" title="Unmark a path (unlock)" alt="" coords="505,1249,639,1276"/>
+<area shape="rect" id="node30" href="$de/d52/class_a_star.html#aa76c29f42861c4f6fc7c328e4dbc7d83" title="Mark a path as locked so that it can not be used by another search." alt="" coords="776,1249,895,1276"/>
 </map>

@@ -1,8 +1,11 @@
 <map id="PolylineTouchpointTool::setSurfaceOverlap" name="PolylineTouchpointTool::setSurfaceOverlap">
-<area shape="rect" id="node1" title="Set the offset above the surface of the touchpoint." alt="" coords="681,71,836,112"/>
+<area shape="rect" id="node1" title="Set the offset above the surface of the touchpoint." alt="" coords="681,169,836,211"/>
 <area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a46a1a75ffe60c12200ebd0567a768159" title=" " alt="" coords="461,5,633,47"/>
 <area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a296ec689da73b2de6698e7e383622371" title=" " alt="" coords="461,71,633,112"/>
 <area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a4eab8fa78334db2aa0c712056789b19f" title=" " alt="" coords="461,136,633,177"/>
-<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,71,413,112"/>
-<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,78,185,105"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a95108f2db71d273570141e858e06fedf" title=" " alt="" coords="461,201,633,243"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a9e953ac64d60717f52c897ac515f2256" title=" " alt="" coords="461,267,633,308"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#ab143394637a8a4e70114f9cb087d4330" title=" " alt="" coords="461,332,633,373"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,169,413,211"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,177,185,203"/>
 </map>

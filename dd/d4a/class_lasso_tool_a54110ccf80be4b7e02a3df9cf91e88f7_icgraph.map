@@ -1,8 +1,11 @@
 <map id="LassoTool::setTouchpointDepth" name="LassoTool::setTouchpointDepth">
-<area shape="rect" id="node1" title="Set the penetration depth of the touchpoint." alt="" coords="757,49,928,90"/>
+<area shape="rect" id="node1" title="Set the penetration depth of the touchpoint." alt="" coords="757,129,928,170"/>
 <area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a2faae5bc0aeb2b1678fc404e6824bb22" title=" " alt="" coords="463,5,708,32"/>
 <area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#afc1f42fae7a3264cad5527106dd694cc" title=" " alt="" coords="471,56,699,83"/>
 <area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#aa8469086fa2aa2924362cd671ded0b55" title=" " alt="" coords="461,107,709,133"/>
-<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,49,413,90"/>
-<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,56,185,83"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a20ef250191a31125483f86c590d2f4d6" title=" " alt="" coords="479,158,691,199"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a9a66abb824e5b709401bfd058743c5e1" title=" " alt="" coords="479,223,691,265"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a0ceaeb11c80a42c59358913ee6903d35" title=" " alt="" coords="479,289,691,330"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,129,413,170"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,136,185,163"/>
 </map>

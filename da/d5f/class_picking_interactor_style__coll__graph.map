@@ -1,5 +1,5 @@
 <map id="PickingInteractorStyle" name="PickingInteractorStyle">
-<area shape="rect" id="node1" title="Interactor style for placing sphere shaped (or other fixed geometry) touchpoints tool." alt="" coords="131,3741,311,4039"/>
+<area shape="rect" id="node1" title="Interactor style for placing sphere shaped (or other fixed geometry) touchpoints tool." alt="" coords="131,3741,311,4024"/>
 <area shape="rect" id="node2" title=" " alt="" coords="5,3161,184,3253"/>
 <area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html" title="Base class for representing various design elements which are embeded in mesh surface." alt="" coords="178,147,417,972"/>
 <area shape="rect" id="node8" title=" " alt="" coords="241,1444,436,1521"/>

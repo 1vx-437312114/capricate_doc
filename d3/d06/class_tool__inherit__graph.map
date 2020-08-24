@@ -1,13 +1,13 @@
 <map id="Tool" name="Tool">
-<area shape="rect" id="node1" title="Base class for tools." alt="" coords="1020,5,1139,215"/>
+<area shape="rect" id="node1" title="Base class for tools." alt="" coords="1023,5,1141,215"/>
 <area shape="rect" id="node2" href="$df/dfa/class_autowire_tool.html" title="Tool for wiring touchpoints with connectors." alt="" coords="5,263,260,560"/>
 <area shape="rect" id="node3" href="$d2/d68/class_export_open_scad_tool.html" title="Tool for exporting a wired mesh to the openscad format." alt="" coords="284,299,459,523"/>
 <area shape="rect" id="node4" href="$dd/d00/class_export_s_t_l_tool.html" title="Tool for exporting a wired mesh to the stl file format." alt="" coords="483,343,636,479"/>
-<area shape="rect" id="node5" href="$de/de0/class_freehand_touchpoint_tool.html" title="Tool for drawing arbitrary shaped touchpoints on a mesh." alt="" coords="660,299,843,523"/>
-<area shape="rect" id="node6" href="$dd/d4a/class_lasso_tool.html" title="Tool for drawing arbitrary shaped touchpoints on a mesh." alt="" coords="867,307,1052,516"/>
-<area shape="rect" id="node7" href="$dc/db2/class_place_ground_plane4_connectors_tool.html" title="Tool for automatically place connector ground plane with 4 connectors for sensor board." alt="" coords="1077,336,1325,487"/>
-<area shape="rect" id="node8" href="$d1/da7/class_place_ground_plane8_connectors_tool.html" title="Tool for automatically place connector ground plane with 8 connectors for sensor board." alt="" coords="1349,336,1597,487"/>
-<area shape="rect" id="node9" href="$d1/d4e/class_place_touchpoint_tool.html" title="Tool for placing sphere shaped touchpoints on a mesh surface." alt="" coords="1621,299,1801,523"/>
-<area shape="rect" id="node10" href="$de/dd7/class_polyline_touchpoint_tool.html" title="Tool for drawing polygon shaped touchpoints on a mesh." alt="" coords="1825,299,2000,523"/>
-<area shape="rect" id="node11" href="$d9/d00/class_p_s_interface_tool.html" title="Tool for automatically place a groundplate with electrical connections and magnets." alt="" coords="2025,299,2201,523"/>
+<area shape="rect" id="node5" href="$de/de0/class_freehand_touchpoint_tool.html" title="Tool for drawing arbitrary shaped touchpoints on a mesh." alt="" coords="660,277,845,545"/>
+<area shape="rect" id="node6" href="$dd/d4a/class_lasso_tool.html" title="Tool for drawing arbitrary shaped touchpoints on a mesh." alt="" coords="869,285,1055,538"/>
+<area shape="rect" id="node7" href="$dc/db2/class_place_ground_plane4_connectors_tool.html" title="Tool for automatically place connector ground plane with 4 connectors for sensor board." alt="" coords="1079,336,1327,487"/>
+<area shape="rect" id="node8" href="$d1/da7/class_place_ground_plane8_connectors_tool.html" title="Tool for automatically place connector ground plane with 8 connectors for sensor board." alt="" coords="1351,336,1599,487"/>
+<area shape="rect" id="node9" href="$d1/d4e/class_place_touchpoint_tool.html" title="Tool for placing sphere shaped touchpoints on a mesh surface." alt="" coords="1624,299,1804,523"/>
+<area shape="rect" id="node10" href="$de/dd7/class_polyline_touchpoint_tool.html" title="Tool for drawing polygon shaped touchpoints on a mesh." alt="" coords="1828,277,2013,545"/>
+<area shape="rect" id="node11" href="$d9/d00/class_p_s_interface_tool.html" title="Tool for automatically place a groundplate with electrical connections and magnets." alt="" coords="2038,299,2214,523"/>
 </map>

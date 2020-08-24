@@ -80,12 +80,13 @@ $(function() {
 <div class="dynheader">
 Inheritance diagram for FreehandAddFinalPointCallback:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/dbf/class_freehand_add_final_point_callback__inherit__graph.svg" width="239" height="375"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/dbf/class_freehand_add_final_point_callback__inherit__graph.svg" width="239" height="419"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <div class="dynheader">
 Collaboration diagram for FreehandAddFinalPointCallback:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/da4/class_freehand_add_final_point_callback__coll__graph.svg" width="1012" height="3971"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/da4/class_freehand_add_final_point_callback__coll__graph.svg" width="1012" height="4015"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <table class="memberdecls">
@@ -109,6 +110,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a425aa702638b7646debe0d316af64e44"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcb/class_freehand_add_final_point_callback.html#a425aa702638b7646debe0d316af64e44">setTouchpointDepth</a> (double depth)</td></tr>
 <tr class="memdesc:a425aa702638b7646debe0d316af64e44"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the penetration depth of the touchpoint.  <a href="../../da/dcb/class_freehand_add_final_point_callback.html#a425aa702638b7646debe0d316af64e44">More...</a><br /></td></tr>
 <tr class="separator:a425aa702638b7646debe0d316af64e44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a239e46a01d1daeafd25f87294d791682"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcb/class_freehand_add_final_point_callback.html#a239e46a01d1daeafd25f87294d791682">setRectangularTouchpointBounds</a> (bool value)</td></tr>
+<tr class="memdesc:a239e46a01d1daeafd25f87294d791682"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set if touchpoint inner surfaces are trimmed to get rectangular bounds.  <a href="../../da/dcb/class_freehand_add_final_point_callback.html#a239e46a01d1daeafd25f87294d791682">More...</a><br /></td></tr>
+<tr class="separator:a239e46a01d1daeafd25f87294d791682"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0ffc238109911ccc72e4a0037b734c75"><td class="memItemLeft" align="right" valign="top">uintptr_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcb/class_freehand_add_final_point_callback.html#a0ffc238109911ccc72e4a0037b734c75">getTouchpointID</a> ()</td></tr>
 <tr class="memdesc:a0ffc238109911ccc72e4a0037b734c75"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the unique touchpoint id.  <a href="../../da/dcb/class_freehand_add_final_point_callback.html#a0ffc238109911ccc72e4a0037b734c75">More...</a><br /></td></tr>
 <tr class="separator:a0ffc238109911ccc72e4a0037b734c75"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -136,6 +140,9 @@ Private Attributes</h2></td></tr>
 <tr class="memitem:aab8ce30f3d4ed17a9ee018bb78c8b960"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcb/class_freehand_add_final_point_callback.html#aab8ce30f3d4ed17a9ee018bb78c8b960">touchpointDepth</a> = 15</td></tr>
 <tr class="memdesc:aab8ce30f3d4ed17a9ee018bb78c8b960"><td class="mdescLeft">&#160;</td><td class="mdescRight">Depth of touchpoint inside the mesh surface.  <a href="../../da/dcb/class_freehand_add_final_point_callback.html#aab8ce30f3d4ed17a9ee018bb78c8b960">More...</a><br /></td></tr>
 <tr class="separator:aab8ce30f3d4ed17a9ee018bb78c8b960"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac38bd23ec6de1466ec622ad950557c1f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcb/class_freehand_add_final_point_callback.html#ac38bd23ec6de1466ec622ad950557c1f">trimExtrusion</a> = false</td></tr>
+<tr class="memdesc:ac38bd23ec6de1466ec622ad950557c1f"><td class="mdescLeft">&#160;</td><td class="mdescRight">If true, trim touchpoint inner surface to get rectangular boundaries.  <a href="../../da/dcb/class_freehand_add_final_point_callback.html#ac38bd23ec6de1466ec622ad950557c1f">More...</a><br /></td></tr>
+<tr class="separator:ac38bd23ec6de1466ec622ad950557c1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Callback for the freehand touchpoint generation tool. </p>
@@ -169,11 +176,12 @@ Private Attributes</h2></td></tr>
 
 <p>Empty constructor returned by the factory method. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html#l00137">137</a> of file <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html">freehandaddfinalpointcallback.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html#l00138">138</a> of file <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html">freehandaddfinalpointcallback.h</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../da/dcb/class_freehand_add_final_point_callback_adac73bcdc2325f3f1dcdef67dfd5b2c7_icgraph.svg" width="518" height="52"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../da/dcb/class_freehand_add_final_point_callback_adac73bcdc2325f3f1dcdef67dfd5b2c7_icgraph.svg" width="518" height="52"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>
@@ -248,7 +256,7 @@ Here is the call graph for this function:</div>
 
 <p>Return the unique touchpoint id. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html#l00787">787</a> of file <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html">freehandaddfinalpointcallback.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html#l00805">805</a> of file <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html">freehandaddfinalpointcallback.cpp</a>.</p>
 
 </div>
 </div>
@@ -277,12 +285,35 @@ Here is the call graph for this function:</div>
 
 <p>Factory method for creating the callback object. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html#l00130">130</a> of file <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html">freehandaddfinalpointcallback.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html#l00131">131</a> of file <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html">freehandaddfinalpointcallback.h</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../da/dcb/class_freehand_add_final_point_callback_a97120882baa4e7cb35c0a047cf3990f3_cgraph.svg" width="518" height="52"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../da/dcb/class_freehand_add_final_point_callback_a97120882baa4e7cb35c0a047cf3990f3_cgraph.svg" width="518" height="52"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
+</div>
+
+</div>
+</div>
+<a id="a239e46a01d1daeafd25f87294d791682"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a239e46a01d1daeafd25f87294d791682">&#9670;&nbsp;</a></span>setRectangularTouchpointBounds()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void FreehandAddFinalPointCallback::setRectangularTouchpointBounds </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>value</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set if touchpoint inner surfaces are trimmed to get rectangular bounds. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html#l00799">799</a> of file <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html">freehandaddfinalpointcallback.cpp</a>.</p>
 
 </div>
 </div>
@@ -304,7 +335,7 @@ Here is the call graph for this function:</div>
 
 <p>Set the scene pointer, needed for adding the touchpoint to the scene. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html#l00763">763</a> of file <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html">freehandaddfinalpointcallback.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html#l00775">775</a> of file <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html">freehandaddfinalpointcallback.cpp</a>.</p>
 
 </div>
 </div>
@@ -326,7 +357,7 @@ Here is the call graph for this function:</div>
 
 <p>Set the offset above the surface of the touchpoint. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html#l00775">775</a> of file <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html">freehandaddfinalpointcallback.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html#l00787">787</a> of file <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html">freehandaddfinalpointcallback.cpp</a>.</p>
 
 </div>
 </div>
@@ -348,7 +379,7 @@ Here is the call graph for this function:</div>
 
 <p>Set the penetration depth of the touchpoint. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html#l00781">781</a> of file <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html">freehandaddfinalpointcallback.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html#l00793">793</a> of file <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html">freehandaddfinalpointcallback.cpp</a>.</p>
 
 </div>
 </div>
@@ -370,7 +401,7 @@ Here is the call graph for this function:</div>
 
 <p>Set the type of the created touchpoint. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html#l00769">769</a> of file <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html">freehandaddfinalpointcallback.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html#l00781">781</a> of file <a class="el" href="../../dd/d24/freehandaddfinalpointcallback_8cpp_source.html">freehandaddfinalpointcallback.cpp</a>.</p>
 
 </div>
 </div>
@@ -502,6 +533,32 @@ Here is the call graph for this function:</div>
 <p>Type of created touchpoint (atm.: touchpoint, connector, magnet) </p>
 
 <p class="definition">Definition at line <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html#l00123">123</a> of file <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html">freehandaddfinalpointcallback.h</a>.</p>
+
+</div>
+</div>
+<a id="ac38bd23ec6de1466ec622ad950557c1f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac38bd23ec6de1466ec622ad950557c1f">&#9670;&nbsp;</a></span>trimExtrusion</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool FreehandAddFinalPointCallback::trimExtrusion = false</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>If true, trim touchpoint inner surface to get rectangular boundaries. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html#l00126">126</a> of file <a class="el" href="../../d1/d51/freehandaddfinalpointcallback_8h_source.html">freehandaddfinalpointcallback.h</a>.</p>
 
 </div>
 </div>

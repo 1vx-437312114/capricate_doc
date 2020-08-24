@@ -1,4 +1,4 @@
 <map id="LassoTool" name="LassoTool">
-<area shape="rect" id="node1" title="Tool for drawing arbitrary shaped touchpoints on a mesh." alt="" coords="5,263,191,472"/>
+<area shape="rect" id="node1" title="Tool for drawing arbitrary shaped touchpoints on a mesh." alt="" coords="5,263,191,516"/>
 <area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="39,5,157,215"/>
 </map>

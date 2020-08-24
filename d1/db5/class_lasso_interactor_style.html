@@ -83,12 +83,13 @@ $(function() {
 <div class="dynheader">
 Inheritance diagram for LassoInteractorStyle:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/daa/class_lasso_interactor_style__inherit__graph.svg" width="214" height="463"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/daa/class_lasso_interactor_style__inherit__graph.svg" width="214" height="507"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <div class="dynheader">
 Collaboration diagram for LassoInteractorStyle:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d4/ded/class_lasso_interactor_style__coll__graph.svg" width="1012" height="4059"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d4/ded/class_lasso_interactor_style__coll__graph.svg" width="1012" height="4103"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <table class="memberdecls">
@@ -121,6 +122,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a37126f6def207f581cf98cdeedd5092d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/db5/class_lasso_interactor_style.html#a37126f6def207f581cf98cdeedd5092d">SetTouchpointDepth</a> (double depth)</td></tr>
 <tr class="memdesc:a37126f6def207f581cf98cdeedd5092d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the penetration depth of the touchpoint.  <a href="../../d1/db5/class_lasso_interactor_style.html#a37126f6def207f581cf98cdeedd5092d">More...</a><br /></td></tr>
 <tr class="separator:a37126f6def207f581cf98cdeedd5092d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0dfc036a8d86405400ccdbb99165d897"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/db5/class_lasso_interactor_style.html#a0dfc036a8d86405400ccdbb99165d897">setRectangularTouchpointBounds</a> (bool value)</td></tr>
+<tr class="memdesc:a0dfc036a8d86405400ccdbb99165d897"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set if touchpoint inner surfaces are trimmed to get rectangular bounds.  <a href="../../d1/db5/class_lasso_interactor_style.html#a0dfc036a8d86405400ccdbb99165d897">More...</a><br /></td></tr>
+<tr class="separator:a0dfc036a8d86405400ccdbb99165d897"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5f27eed08143bf61004bd391a97cc87e"><td class="memItemLeft" align="right" valign="top">uintptr_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/db5/class_lasso_interactor_style.html#a5f27eed08143bf61004bd391a97cc87e">getTouchpointID</a> ()</td></tr>
 <tr class="memdesc:a5f27eed08143bf61004bd391a97cc87e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the unique touchpoint id.  <a href="../../d1/db5/class_lasso_interactor_style.html#a5f27eed08143bf61004bd391a97cc87e">More...</a><br /></td></tr>
 <tr class="separator:a5f27eed08143bf61004bd391a97cc87e"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -162,6 +166,9 @@ Private Attributes</h2></td></tr>
 <tr class="memitem:a92d6e138616aa19a3597aeba7d311181"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/db5/class_lasso_interactor_style.html#a92d6e138616aa19a3597aeba7d311181">touchpointDepth</a> = 15</td></tr>
 <tr class="memdesc:a92d6e138616aa19a3597aeba7d311181"><td class="mdescLeft">&#160;</td><td class="mdescRight">Depth of touchpoint inside the mesh surface.  <a href="../../d1/db5/class_lasso_interactor_style.html#a92d6e138616aa19a3597aeba7d311181">More...</a><br /></td></tr>
 <tr class="separator:a92d6e138616aa19a3597aeba7d311181"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39779f8b8ce39c8da9aae84eb5470abd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/db5/class_lasso_interactor_style.html#a39779f8b8ce39c8da9aae84eb5470abd">trimExtrusion</a> = false</td></tr>
+<tr class="memdesc:a39779f8b8ce39c8da9aae84eb5470abd"><td class="mdescLeft">&#160;</td><td class="mdescRight">If true, trim touchpoint inner surface to get rectangular boundaries.  <a href="../../d1/db5/class_lasso_interactor_style.html#a39779f8b8ce39c8da9aae84eb5470abd">More...</a><br /></td></tr>
+<tr class="separator:a39779f8b8ce39c8da9aae84eb5470abd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Interactor style for lasso tool. </p>
@@ -182,7 +189,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html#l00192">192</a> of file <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html">lassointeractorstyle.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html#l00193">193</a> of file <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html">lassointeractorstyle.h</a>.</p>
 
 </div>
 </div>
@@ -212,7 +219,7 @@ Private Attributes</h2></td></tr>
 
 <p>Empty constructor returned by the factory method. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html#l00195">195</a> of file <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html">lassointeractorstyle.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html#l00196">196</a> of file <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html">lassointeractorstyle.h</a>.</p>
 
 </div>
 </div>
@@ -259,7 +266,7 @@ Private Attributes</h2></td></tr>
 
 <p>Return the unique touchpoint id. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html#l00507">507</a> of file <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html">lassointeractorstyle.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html#l00528">528</a> of file <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html">lassointeractorstyle.cpp</a>.</p>
 
 </div>
 </div>
@@ -445,6 +452,28 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
+<a id="a0dfc036a8d86405400ccdbb99165d897"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0dfc036a8d86405400ccdbb99165d897">&#9670;&nbsp;</a></span>setRectangularTouchpointBounds()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void LassoInteractorStyle::setRectangularTouchpointBounds </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>value</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set if touchpoint inner surfaces are trimmed to get rectangular bounds. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html#l00522">522</a> of file <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html">lassointeractorstyle.cpp</a>.</p>
+
+</div>
+</div>
 <a id="aaf7c8ce97cc147e7bdda0c5d3f3c1312"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aaf7c8ce97cc147e7bdda0c5d3f3c1312">&#9670;&nbsp;</a></span>SetScene()</h2>
 
@@ -463,7 +492,7 @@ Here is the call graph for this function:</div>
 
 <p>Set the scene pointer, needed for adding the touchpoint to the scene. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html#l00483">483</a> of file <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html">lassointeractorstyle.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html#l00498">498</a> of file <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html">lassointeractorstyle.cpp</a>.</p>
 
 </div>
 </div>
@@ -485,7 +514,7 @@ Here is the call graph for this function:</div>
 
 <p>Set the offset above the surface of the touchpoint. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html#l00495">495</a> of file <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html">lassointeractorstyle.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html#l00510">510</a> of file <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html">lassointeractorstyle.cpp</a>.</p>
 
 </div>
 </div>
@@ -507,7 +536,7 @@ Here is the call graph for this function:</div>
 
 <p>Set the penetration depth of the touchpoint. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html#l00501">501</a> of file <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html">lassointeractorstyle.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html#l00516">516</a> of file <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html">lassointeractorstyle.cpp</a>.</p>
 
 </div>
 </div>
@@ -529,7 +558,7 @@ Here is the call graph for this function:</div>
 
 <p>Set the type of the created touchpoint. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html#l00489">489</a> of file <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html">lassointeractorstyle.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html#l00504">504</a> of file <a class="el" href="../../d7/d0f/lassointeractorstyle_8cpp_source.html">lassointeractorstyle.cpp</a>.</p>
 
 </div>
 </div>
@@ -661,6 +690,32 @@ Here is the call graph for this function:</div>
 <p>Type of created touchpoint (atm.: touchpoint, connector, magnet) </p>
 
 <p class="definition">Definition at line <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html#l00184">184</a> of file <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html">lassointeractorstyle.h</a>.</p>
+
+</div>
+</div>
+<a id="a39779f8b8ce39c8da9aae84eb5470abd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a39779f8b8ce39c8da9aae84eb5470abd">&#9670;&nbsp;</a></span>trimExtrusion</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool LassoInteractorStyle::trimExtrusion = false</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>If true, trim touchpoint inner surface to get rectangular boundaries. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html#l00187">187</a> of file <a class="el" href="../../df/df7/lassointeractorstyle_8h_source.html">lassointeractorstyle.h</a>.</p>
 
 </div>
 </div>

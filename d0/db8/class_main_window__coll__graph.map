@@ -1,35 +1,39 @@
 <map id="MainWindow" name="MainWindow">
-<area shape="rect" id="node1" title="Qt MainWindow of the application." alt="" coords="675,5229,893,6025"/>
-<area shape="rect" id="node2" title=" " alt="" coords="396,4723,503,4800"/>
-<area shape="rect" id="node3" href="$d4/d4d/class_tool_registry.html" title="Manages the various tools of the application." alt="" coords="592,4701,707,4822"/>
-<area shape="rect" id="node4" title=" " alt="" coords="608,4187,755,4293"/>
-<area shape="rect" id="node5" title=" " alt="" coords="779,4194,939,4286"/>
-<area shape="rect" id="node6" title=" " alt="" coords="792,4047,947,4124"/>
-<area shape="rect" id="node7" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="894,3741,1013,3921"/>
-<area shape="rect" id="node8" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="433,2736,647,3679"/>
-<area shape="rect" id="node31" title=" " alt="" coords="455,3945,625,4023"/>
-<area shape="rect" id="node9" title=" " alt="" coords="568,2574,755,2651"/>
-<area shape="rect" id="node10" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="568,2236,741,2401"/>
-<area shape="rect" id="node11" title=" " alt="" coords="397,1839,557,1931"/>
-<area shape="rect" id="node15" href="$db/d46/class_touchpoint_registry.html" title="Manages all the touchpoints and connections in a scene." alt="" coords="150,2133,343,2504"/>
-<area shape="rect" id="node12" title=" " alt="" coords="380,1444,575,1521"/>
-<area shape="rect" id="node13" href="$d9/d58/class_touchpoint.html" title="Base class for representing various design elements which are embeded in mesh surface." alt="" coords="358,147,597,972"/>
-<area shape="rect" id="node18" href="$dd/d10/class_connection.html" title="Connection between a source touchpoint and a destination connector." alt="" coords="157,1049,337,1420"/>
-<area shape="rect" id="node14" title=" " alt="" coords="131,2567,314,2659"/>
-<area shape="rect" id="node16" title=" " alt="" coords="167,1839,327,1931"/>
-<area shape="rect" id="node17" title=" " alt="" coords="147,1553,346,1630"/>
-<area shape="rect" id="node19" title=" " alt="" coords="160,521,333,598"/>
-<area shape="rect" id="node20" href="$d3/d2c/struct_connection_indices.html" title="The ConnectionIndices struct contains the indices of the source touchpoint and destination connector ..." alt="" coords="5,513,136,605"/>
-<area shape="rect" id="node21" title=" " alt="" coords="339,2574,493,2651"/>
-<area shape="rect" id="node22" title=" " alt="" coords="781,2567,941,2659"/>
-<area shape="rect" id="node23" title=" " alt="" coords="766,2280,965,2357"/>
-<area shape="rect" id="node24" href="$d2/d00/class_component.html" title="3D&#45;Printing construction component which is not of type wiring, touchpoint or connector." alt="" coords="743,1715,966,2056"/>
-<area shape="rect" id="node25" title=" " alt="" coords="575,1553,729,1630"/>
-<area shape="rect" id="node26" title=" " alt="" coords="754,1545,955,1637"/>
-<area shape="rect" id="node27" href="$d3/dbe/struct_component_1_1_open_s_c_a_d_sub_component.html" title="OpenSCAD Code container for subcomponents." alt="" coords="713,1196,969,1273"/>
-<area shape="rect" id="node28" title="STL class." alt="" coords="896,521,976,598"/>
-<area shape="rect" id="node29" title="STL class." alt="" coords="873,5,999,97"/>
-<area shape="rect" id="node30" href="$dc/d79/struct_application_settings.html" title="Application specific settings (preferences) which are saved in the application ini file." alt="" coords="731,4451,949,5071"/>
-<area shape="rect" id="node32" href="$d3/d5f/class_preferences_dialog.html" title="Preferences dialog window of the application.." alt="" coords="1024,4356,1267,5167"/>
-<area shape="rect" id="node33" title=" " alt="" coords="1111,4201,1180,4279"/>
+<area shape="rect" id="node1" title="Qt MainWindow of the application." alt="" coords="799,6183,1016,6964"/>
+<area shape="rect" id="node2" title=" " alt="" coords="425,5676,531,5753"/>
+<area shape="rect" id="node3" href="$d4/d4d/class_tool_registry.html" title="Manages the various tools of the application." alt="" coords="659,5654,774,5775"/>
+<area shape="rect" id="node4" title=" " alt="" coords="821,4913,967,5019"/>
+<area shape="rect" id="node5" title=" " alt="" coords="637,4920,797,5012"/>
+<area shape="rect" id="node6" title=" " alt="" coords="775,4296,930,4373"/>
+<area shape="rect" id="node7" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="895,3741,1013,3921"/>
+<area shape="rect" id="node8" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="461,2736,676,3679"/>
+<area shape="rect" id="node33" title=" " alt="" coords="484,3945,653,4023"/>
+<area shape="rect" id="node9" title=" " alt="" coords="778,2574,965,2651"/>
+<area shape="rect" id="node10" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="791,2236,965,2401"/>
+<area shape="rect" id="node11" title=" " alt="" coords="87,1839,247,1931"/>
+<area shape="rect" id="node15" href="$db/d46/class_touchpoint_registry.html" title="Manages all the touchpoints and connections in a scene." alt="" coords="205,2133,399,2504"/>
+<area shape="rect" id="node12" title=" " alt="" coords="35,1444,230,1521"/>
+<area shape="rect" id="node13" href="$d9/d58/class_touchpoint.html" title="Base class for representing various design elements which are embeded in mesh surface." alt="" coords="5,147,244,972"/>
+<area shape="rect" id="node18" href="$dd/d10/class_connection.html" title="Connection between a source touchpoint and a destination connector." alt="" coords="265,1049,445,1420"/>
+<area shape="rect" id="node14" title=" " alt="" coords="208,2567,391,2659"/>
+<area shape="rect" id="node16" title=" " alt="" coords="273,1839,433,1931"/>
+<area shape="rect" id="node17" title=" " alt="" coords="256,1553,455,1630"/>
+<area shape="rect" id="node19" title=" " alt="" coords="269,521,442,598"/>
+<area shape="rect" id="node20" href="$d3/d2c/struct_connection_indices.html" title="The ConnectionIndices struct contains the indices of the source touchpoint and destination connector ..." alt="" coords="466,513,597,605"/>
+<area shape="rect" id="node21" title=" " alt="" coords="415,2574,570,2651"/>
+<area shape="rect" id="node22" title=" " alt="" coords="594,2567,754,2659"/>
+<area shape="rect" id="node23" title=" " alt="" coords="568,2280,767,2357"/>
+<area shape="rect" id="node24" href="$d2/d00/class_component.html" title="3D&#45;Printing construction component which is not of type wiring, touchpoint or connector." alt="" coords="568,1715,791,2056"/>
+<area shape="rect" id="node25" title=" " alt="" coords="805,1553,959,1630"/>
+<area shape="rect" id="node26" title=" " alt="" coords="579,1545,780,1637"/>
+<area shape="rect" id="node27" href="$d3/dbe/struct_component_1_1_open_s_c_a_d_sub_component.html" title="OpenSCAD Code container for subcomponents." alt="" coords="625,1196,881,1273"/>
+<area shape="rect" id="node28" title="STL class." alt="" coords="870,521,950,598"/>
+<area shape="rect" id="node29" title="STL class." alt="" coords="847,5,973,97"/>
+<area shape="rect" id="node30" href="$dc/d79/struct_application_settings.html" title="Application specific settings (preferences) which are saved in the application ini file." alt="" coords="798,5405,1017,6025"/>
+<area shape="rect" id="node31" href="$d4/d4a/class_ui_1_1_main_window.html" title=" " alt="" coords="1041,5676,1160,5753"/>
+<area shape="rect" id="node32" href="$df/dd7/class_ui___main_window.html" title=" " alt="" coords="991,4685,1210,5247"/>
+<area shape="rect" id="node34" href="$d3/d5f/class_preferences_dialog.html" title="Preferences dialog window of the application.." alt="" coords="1295,5309,1538,6120"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1507,4927,1577,5005"/>
+<area shape="rect" id="node36" href="$d2/db6/class_ui_1_1_preferences_dialog.html" title=" " alt="" coords="1332,4927,1483,5005"/>
+<area shape="rect" id="node37" href="$d0/dc0/class_ui___preferences_dialog.html" title=" " alt="" coords="1305,4047,1510,4623"/>
 </map>

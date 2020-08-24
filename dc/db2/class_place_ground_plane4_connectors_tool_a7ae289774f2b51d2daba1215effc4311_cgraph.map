@@ -1,33 +1,22 @@
 <map id="PlaceGroundPlane4ConnectorsTool::execute" name="PlaceGroundPlane4ConnectorsTool::execute">
-<area shape="rect" id="node1" title=" " alt="" coords="5,327,209,369"/>
-<area shape="rect" id="node2" href="$dc/db2/class_place_ground_plane4_connectors_tool.html#a07d60110c5f9b56bf016c68d879f6d80" title="Add connector to touchpoint registry." alt="" coords="257,222,461,263"/>
-<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="528,56,699,83"/>
-<area shape="rect" id="node5" href="$d6/db5/class_scene.html#a8bf8e4b441886787dc82c2caa9b25884" title="Return the vtkRenderer of the scene." alt="" coords="544,309,683,336"/>
-<area shape="rect" id="node7" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="541,360,686,387"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,275,209,317"/>
+<area shape="rect" id="node2" href="$dc/db2/class_place_ground_plane4_connectors_tool.html#a07d60110c5f9b56bf016c68d879f6d80" title="Add connector to touchpoint registry." alt="" coords="257,214,461,255"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="523,56,693,83"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#a8bf8e4b441886787dc82c2caa9b25884" title="Return the vtkRenderer of the scene." alt="" coords="539,309,677,336"/>
+<area shape="rect" id="node7" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="535,360,681,387"/>
 <area shape="rect" id="node12" href="$d9/d4f/namespace_layout_algorithms.html#a0dd279f7ae7f35e3850f4a90b198faae" title="Computes the pole of inaccessibility (point which is farthest away from all mesh ground edges)." alt="" coords="269,49,450,90"/>
-<area shape="rect" id="node15" href="$d6/db5/class_scene.html#a23f165e14554a10c3975122ae9831fe6" title="Set the ground plate actor." alt="" coords="265,651,453,693"/>
-<area shape="rect" id="node16" href="$d6/db5/class_scene.html#aaff4c55f5c640ec8a12b62c5b6c11865" title="Update the touchpoint / connector number text labels." alt="" coords="287,969,431,996"/>
-<area shape="rect" id="node21" href="$d6/db5/class_scene.html#a415555bc0037489b1a9421747c318746" title="Update the occupation map visualization after changes to the underlying voxel data." alt="" coords="261,586,458,627"/>
-<area shape="rect" id="node4" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="526,107,701,133"/>
-<area shape="rect" id="node6" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="515,157,712,184"/>
-<area shape="rect" id="node8" href="$d6/db5/class_scene.html#a7caf30a70e69430d5e4ac93d6828a649" title="Return the bounds of the voxel grid." alt="" coords="522,259,705,285"/>
-<area shape="rect" id="node10" href="$d1/d7c/namespace_utils.html#a4b6c4a605143b128db1c74f39d0277ef" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="556,208,671,235"/>
-<area shape="rect" id="node9" href="$d6/db5/class_scene.html#a0799bb0687ffe3a97e0523a4e700ef2d" title="Return the occupation map visualization." alt="" coords="765,335,972,361"/>
-<area shape="rect" id="node11" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="815,208,922,235"/>
-<area shape="rect" id="node13" href="$d9/d6b/namespace_sampling.html#a6485f7ee5709973834120058ed6dc745" title="computes a hammersley two&#45;dimensional point" alt="" coords="527,5,699,32"/>
-<area shape="rect" id="node14" href="$d9/d6b/namespace_sampling.html#acf525e677ad04c36632c86a31132564a" title="computes the radical inverse (base for hammersley sampling)" alt="" coords="770,5,967,32"/>
-<area shape="rect" id="node17" href="$d9/d58/class_touchpoint.html#ab61727c9bb477bccca373f92a2b8bea4" title="Return the touchpoint number label text actor." alt="" coords="530,944,697,971"/>
-<area shape="rect" id="node18" href="$d6/db5/class_scene.html#ae4bdf05105a36057e86693a0f60afbd3" title="Hide the touchpoint / connector text labels." alt="" coords="536,995,691,1021"/>
-<area shape="rect" id="node20" href="$d6/db5/class_scene.html#aa9d387019f7a7456bdd8af2b21723387" title="Show the touchpoint / connector number text labels." alt="" coords="533,1045,694,1072"/>
-<area shape="rect" id="node19" href="$d6/db5/class_scene.html#a8a1b015f159dd9ba883ae601464f6c28" title="Set if the touchpoint / connector number labels are visible." alt="" coords="770,1020,967,1047"/>
-<area shape="rect" id="node22" href="$d6/db5/class_scene.html#aa52192763d5339a0e7803abe296220c9" title="Return the cuberille visualization of the voxel grid data." alt="" coords="530,761,697,788"/>
-<area shape="rect" id="node23" href="$d6/db5/class_scene.html#a7009d25646e9f3a07482091ed2d62e52" title="Return the inner and outer voxels visualization of the voxel grid data." alt="" coords="509,813,717,854"/>
-<area shape="rect" id="node24" href="$d6/db5/class_scene.html#a04c9e871c5edc15ca00d736a9cb6c0d0" title="Return the interior voxels only visualization of the voxel grid data." alt="" coords="531,878,695,919"/>
-<area shape="rect" id="node25" href="$db/dae/class_voxel_image_visualizer.html#a00b60f629dcc3335bff26934e88b9bcb" title="Return the occupation map visualization (unoccupied = yellow, occupied = blue)" alt="" coords="537,462,690,503"/>
-<area shape="rect" id="node28" href="$d6/db5/class_scene.html#acc5e8dbc84b359afaa7d4ab9b9ef265a" title="Return the working plane actor of the scene." alt="" coords="524,593,703,620"/>
-<area shape="rect" id="node29" href="$db/dae/class_voxel_image_visualizer.html#a15634f5a62fd0d71806741d1db033243" title="Set input data of the visualizer." alt="" coords="540,645,687,686"/>
-<area shape="rect" id="node30" href="$d6/db5/class_scene.html#a36de0362da7ee73ded780390f80caaaa" title="Set the look at vector of the camera." alt="" coords="550,711,677,737"/>
-<area shape="rect" id="node31" href="$db/dae/class_voxel_image_visualizer.html#a65eec474a368555a6ba16c1f54e956db" title="Set output size of the visualization." alt="" coords="540,527,687,569"/>
-<area shape="rect" id="node26" href="$db/dae/class_voxel_image_visualizer.html#a381e70e9dba0cad1fddf946aa7f4a408" title="Compute scaling factor for visualization actor." alt="" coords="795,491,942,533"/>
-<area shape="rect" id="node27" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="783,440,955,467"/>
+<area shape="rect" id="node15" href="$d6/db5/class_scene.html#a23f165e14554a10c3975122ae9831fe6" title="Set the ground plate actor." alt="" coords="265,385,453,426"/>
+<area shape="rect" id="node16" href="$d6/db5/class_scene.html#aaff4c55f5c640ec8a12b62c5b6c11865" title="Update the touchpoint / connector number text labels." alt="" coords="287,457,431,484"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="521,157,695,184"/>
+<area shape="rect" id="node6" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="509,208,707,235"/>
+<area shape="rect" id="node8" href="$d6/db5/class_scene.html#a7caf30a70e69430d5e4ac93d6828a649" title="Return the bounds of the voxel grid." alt="" coords="517,259,699,285"/>
+<area shape="rect" id="node10" href="$d1/d7c/namespace_utils.html#a4b6c4a605143b128db1c74f39d0277ef" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="551,107,665,133"/>
+<area shape="rect" id="node9" href="$d6/db5/class_scene.html#a0799bb0687ffe3a97e0523a4e700ef2d" title="Return the occupation map visualization." alt="" coords="755,259,961,285"/>
+<area shape="rect" id="node11" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="805,107,911,133"/>
+<area shape="rect" id="node13" href="$d9/d6b/namespace_sampling.html#a6485f7ee5709973834120058ed6dc745" title="computes a hammersley two&#45;dimensional point" alt="" coords="522,5,694,32"/>
+<area shape="rect" id="node14" href="$d9/d6b/namespace_sampling.html#acf525e677ad04c36632c86a31132564a" title="computes the radical inverse (base for hammersley sampling)" alt="" coords="759,5,957,32"/>
+<area shape="rect" id="node17" href="$d9/d58/class_touchpoint.html#ab61727c9bb477bccca373f92a2b8bea4" title="Return the touchpoint number label text actor." alt="" coords="525,411,691,437"/>
+<area shape="rect" id="node18" href="$d6/db5/class_scene.html#ae4bdf05105a36057e86693a0f60afbd3" title="Hide the touchpoint / connector text labels." alt="" coords="531,512,685,539"/>
+<area shape="rect" id="node20" href="$d6/db5/class_scene.html#aa9d387019f7a7456bdd8af2b21723387" title="Show the touchpoint / connector number text labels." alt="" coords="527,461,689,488"/>
+<area shape="rect" id="node19" href="$d6/db5/class_scene.html#a8a1b015f159dd9ba883ae601464f6c28" title="Set if the touchpoint / connector number labels are visible." alt="" coords="759,487,957,513"/>
 </map>

@@ -1,0 +1,11 @@
+<map id="FreehandTouchpointTool::setRectangularTouchpointBounds" name="FreehandTouchpointTool::setRectangularTouchpointBounds">
+<area shape="rect" id="node1" title="Set if touchpoint inner surfaces are trimmed to get rectangular bounds." alt="" coords="689,169,915,211"/>
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a7a4870ffc9b56db8b4b5b8991493f557" title=" " alt="" coords="461,5,641,47"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a07971de2bcf8349b2fbf02fc5e76e318" title=" " alt="" coords="461,71,641,112"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#ae2f34d6070e32449a77fad805bd413ef" title=" " alt="" coords="461,136,641,177"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#af107a331cb72e10681be0be537f6951a" title=" " alt="" coords="461,201,641,243"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a850009cd1eedf3a75e82a6d8a60db73d" title=" " alt="" coords="461,267,641,308"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#ae70865c890585255f83157d0226ac4b3" title=" " alt="" coords="461,332,641,373"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,169,413,211"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,177,185,203"/>
+</map>

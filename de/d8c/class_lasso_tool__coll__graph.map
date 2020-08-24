@@ -1,5 +1,5 @@
 <map id="LassoTool" name="LassoTool">
-<area shape="rect" id="node1" title="Tool for drawing arbitrary shaped touchpoints on a mesh." alt="" coords="647,3971,833,4180"/>
+<area shape="rect" id="node1" title="Tool for drawing arbitrary shaped touchpoints on a mesh." alt="" coords="647,3971,833,4224"/>
 <area shape="rect" id="node2" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="681,3741,799,3921"/>
 <area shape="rect" id="node3" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="361,2736,575,3679"/>
 <area shape="rect" id="node4" title=" " alt="" coords="5,2574,192,2651"/>

@@ -1,5 +1,5 @@
 <map id="Tool::execute" name="Tool::execute">
-<area shape="rect" id="node1" title=" " alt="" coords="757,456,857,483"/>
+<area shape="rect" id="node1" title=" " alt="" coords="757,732,857,759"/>
 <area shape="rect" id="node2" href="$d5/d26/class_tool_execution_wait_thread.html#ab4973a53e7f47fff0f139e2a942a56ca" title=" " alt="" coords="487,5,683,32"/>
 <area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#ad8baa7cde41db728bd73adc6216df43d" title=" " alt="" coords="497,56,674,83"/>
 <area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#afbaa1bf4c13d3e4de8d3eba9757ba6a9" title=" " alt="" coords="487,107,683,133"/>
@@ -7,16 +7,25 @@
 <area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a7a4870ffc9b56db8b4b5b8991493f557" title=" " alt="" coords="495,209,675,250"/>
 <area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a07971de2bcf8349b2fbf02fc5e76e318" title=" " alt="" coords="495,274,675,315"/>
 <area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#ae2f34d6070e32449a77fad805bd413ef" title=" " alt="" coords="495,339,675,381"/>
-<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a2faae5bc0aeb2b1678fc404e6824bb22" title=" " alt="" coords="463,405,708,432"/>
-<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#afc1f42fae7a3264cad5527106dd694cc" title=" " alt="" coords="471,456,699,483"/>
-<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#aa8469086fa2aa2924362cd671ded0b55" title=" " alt="" coords="461,507,709,533"/>
-<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#af4ab1da78fca68d021608f548aa3010c" title=" " alt="" coords="476,557,695,584"/>
-<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a123c802574270d5e2aacf276bafa5216" title=" " alt="" coords="484,608,687,635"/>
-<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#a5b224e6f36ad99ab661c67a114ca298e" title=" " alt="" coords="474,659,697,685"/>
-<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a46a1a75ffe60c12200ebd0567a768159" title=" " alt="" coords="499,710,671,751"/>
-<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a296ec689da73b2de6698e7e383622371" title=" " alt="" coords="499,775,671,817"/>
-<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a4eab8fa78334db2aa0c712056789b19f" title=" " alt="" coords="499,841,671,882"/>
-<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#aa0de90b823eb0761571f740ecbec0fd2" title=" " alt="" coords="476,907,695,933"/>
-<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,474,413,515"/>
-<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,481,185,508"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#af107a331cb72e10681be0be537f6951a" title=" " alt="" coords="495,405,675,446"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a850009cd1eedf3a75e82a6d8a60db73d" title=" " alt="" coords="495,470,675,511"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#ae70865c890585255f83157d0226ac4b3" title=" " alt="" coords="495,535,675,577"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a2faae5bc0aeb2b1678fc404e6824bb22" title=" " alt="" coords="463,601,708,628"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#afc1f42fae7a3264cad5527106dd694cc" title=" " alt="" coords="471,652,699,679"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#aa8469086fa2aa2924362cd671ded0b55" title=" " alt="" coords="461,703,709,729"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a20ef250191a31125483f86c590d2f4d6" title=" " alt="" coords="479,754,691,795"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a9a66abb824e5b709401bfd058743c5e1" title=" " alt="" coords="479,819,691,861"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a0ceaeb11c80a42c59358913ee6903d35" title=" " alt="" coords="479,885,691,926"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#af4ab1da78fca68d021608f548aa3010c" title=" " alt="" coords="476,951,695,977"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a123c802574270d5e2aacf276bafa5216" title=" " alt="" coords="484,1001,687,1028"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a5b224e6f36ad99ab661c67a114ca298e" title=" " alt="" coords="474,1052,697,1079"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#a46a1a75ffe60c12200ebd0567a768159" title=" " alt="" coords="499,1103,671,1145"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a296ec689da73b2de6698e7e383622371" title=" " alt="" coords="499,1169,671,1210"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a4eab8fa78334db2aa0c712056789b19f" title=" " alt="" coords="499,1234,671,1275"/>
+<area shape="rect" id="node26" href="$d9/dc6/class_main_window.html#a95108f2db71d273570141e858e06fedf" title=" " alt="" coords="499,1299,671,1341"/>
+<area shape="rect" id="node27" href="$d9/dc6/class_main_window.html#a9e953ac64d60717f52c897ac515f2256" title=" " alt="" coords="499,1365,671,1406"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#ab143394637a8a4e70114f9cb087d4330" title=" " alt="" coords="499,1430,671,1471"/>
+<area shape="rect" id="node29" href="$d9/dc6/class_main_window.html#aa0de90b823eb0761571f740ecbec0fd2" title=" " alt="" coords="476,1496,695,1523"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,754,413,795"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,761,185,788"/>
 </map>
