@@ -1,0 +1,5 @@
+<map id="T_MESH::Basic_TMesh::unlinkTriangleNoManifold" name="T_MESH::Basic_TMesh::unlinkTriangleNoManifold">
+<area shape="rect" id="node1" title="Unlinks a triangle from the mesh. O(1)." alt="" coords="5,23,181,65"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a7dc1e391013579708d070b01478d3159" title="TRUE iff edge is isolated (i.e., both the two incident triangles are NULL)." alt="" coords="245,5,424,32"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a96d7a013a37e724352108c9fac25bbf5" title="Replace incident triangle &#39;a&#39; with &#39;b&#39; and return TRUE. If &#39;a&#39; is not incident to the edge return FAL..." alt="" coords="229,56,440,83"/>
+</map>

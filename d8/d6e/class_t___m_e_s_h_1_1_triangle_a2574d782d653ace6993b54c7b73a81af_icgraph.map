@@ -1,0 +1,27 @@
+<map id="T_MESH::Triangle::isExactlyDegenerate" name="T_MESH::Triangle::isExactlyDegenerate">
+<area shape="rect" id="node1" title="Degeneracy check using exact predicates. Return TRUE iff triangle has zero area." alt="" coords="1608,178,1800,220"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a1270b60eec84c1f939d405d9ade1a94e" title="Iteratively call strongDegeneracyRemoval and strongIntersectionRemoval to produce an eventually clean..." alt="" coords="917,84,1081,125"/>
+<area shape="rect" id="node20" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0d3d258b609de824682434525a2eeb13" title="Looks for zero&#45;area triangles and resolve them by splits and collapses." alt="" coords="1366,113,1559,154"/>
+<area shape="rect" id="node22" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ae68a594aa67b93af92c5a6f57296f32d" title="Unlinks the vertex if it is either Flat() or DoubleFlat()." alt="" coords="1373,178,1553,220"/>
+<area shape="rect" id="node24" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0d6037f1cb9166537f576f93bb38fea3" title="Removes overlapping triangles and return their number." alt="" coords="1365,244,1560,285"/>
+<area shape="rect" id="node25" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a6c419b3b7ebd44fca9fdc7a048ff7b52" title="Retriangulates the vertex neghborhood based on heuristics." alt="" coords="1381,309,1545,350"/>
+<area shape="rect" id="node3" href="$d2/d68/class_export_open_scad_tool.html#a6e48e9b58a764bc8032b1fbc4082603d" title=" " alt="" coords="716,25,861,66"/>
+<area shape="rect" id="node8" href="$dd/d00/class_export_s_t_l_tool.html#a82d1e11c365c1ed2adf6d831b7f6014f" title=" " alt="" coords="708,91,869,118"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a15f9fa9fe71b50669ecf5f5a3a1ce90e" title="Import STL / OBJ mesh into the scene." alt="" coords="708,298,869,324"/>
+<area shape="rect" id="node4" href="$d2/d68/class_export_open_scad_tool.html#a2e36901501e307b74705aa84f4227d67" title="Export the wiring in the openscad format." alt="" coords="488,25,633,66"/>
+<area shape="rect" id="node5" href="$d2/d68/class_export_open_scad_tool.html#a71ef67a238fb9cd74563b65d77c1ea73" title=" " alt="" coords="23,25,168,66"/>
+<area shape="rect" id="node6" href="$d2/d68/class_export_open_scad_tool.html#a9c35cf64ece9ee328df6ebfd080c0689" title="Export the meshdifference between mesh and wiring in the openscad format." alt="" coords="251,25,396,66"/>
+<area shape="rect" id="node7" href="$d2/d68/class_export_open_scad_tool.html#adc9cf506ecd2ef6e33f37f2eb206da1a" title="Export the meshdifference between mesh and magnets in the openscad format." alt="" coords="240,90,407,132"/>
+<area shape="rect" id="node9" href="$dd/d00/class_export_s_t_l_tool.html#a218420198ac8fef5b9f9a8acc889307d" title=" " alt="" coords="480,91,641,118"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a6e3c9bc26115fb1b1664607e58716641" title=" " alt="" coords="463,142,658,168"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a46bb2fea8ddeab75e15a223c291116b6" title=" " alt="" coords="461,193,660,234"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#affed0fab82fd390e2762933c6dca9124" title=" " alt="" coords="461,258,660,300"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#adfdb8fcb8685844e8ce11bfb41b83b7d" title=" " alt="" coords="461,324,660,365"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a5283a0d7aeeafd409c69b272053f3986" title=" " alt="" coords="461,389,660,430"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a0c92ca2d04a79a1580c2e8e136b82682" title=" " alt="" coords="461,454,660,496"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a86cd359f80311725589d0861dd7a9851" title=" " alt="" coords="461,520,660,561"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,324,413,365"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,331,185,358"/>
+<area shape="rect" id="node21" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#af160de0b4a939ef2cb93279f67e6dd34" title="Calls &#39;removeDegenerateTriangles()&#39; and, if some degeneracies remain, removes them and fills the resu..." alt="" coords="1129,113,1317,154"/>
+<area shape="rect" id="node23" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa754eda7f26bb3d770882fcf625c83c3" title="Removes all the vertices that can be deleted without changing the geometric realization...." alt="" coords="1132,178,1315,220"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="T_MESH::graphEdge::oppositeNode" name="T_MESH::graphEdge::oppositeNode">
+<area shape="rect" id="node1" title="Returns the node oppsite to &#39;n&#39;. O(1)." alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node2" href="$d7/dd6/class_t___m_e_s_h_1_1graph_edge.html#aa8b05153be3116a1dff9a3daad7741be" title="Edge collapse. O(degree of neighbors)." alt="" coords="5,5,160,47"/>
+</map>

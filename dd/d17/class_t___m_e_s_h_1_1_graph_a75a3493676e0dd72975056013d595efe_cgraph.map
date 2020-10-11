@@ -1,0 +1,8 @@
+<map id="T_MESH::Graph::unlinkNode" name="T_MESH::Graph::unlinkNode">
+<area shape="rect" id="node1" title="Removes a node and updates the graph connectivity accordingly." alt="" coords="5,35,197,61"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a9701d1b3769b92b7d2a7ed6da895a863" title="Deletes and removes the first node. Returns its data. &#160;&#160;O(1)." alt="" coords="258,5,423,32"/>
+<area shape="rect" id="node4" href="$dd/d17/class_t___m_e_s_h_1_1_graph.html#a9e18d0427961140b357931a19fd3c482" title="Unlinks the edge and updates the graph connectivity accordingly." alt="" coords="245,60,436,87"/>
+<area shape="rect" id="node3" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#aec091d7c66b66c92fe56f06f41f448f4" title="Deletes and removes the node &#39;n&#39; from the list. &#160;&#160;O(1)." alt="" coords="719,60,897,87"/>
+<area shape="rect" id="node5" href="$d7/dd6/class_t___m_e_s_h_1_1graph_edge.html#aae4c21b57d7d5183a080aa753a213e72" title="Makes this edge as &#39;unlinked&#39; from the graph. O(1)." alt="" coords="500,53,655,94"/>
+<area shape="rect" id="node6" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a9b21af68dacaaf9a95e2a33ee5941e54" title="Inserts a new node storing &#39;d&#39; right after &#39;n&#39;. &#160;&#160;O(1)." alt="" coords="484,119,671,145"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="T_MESH::TMesh::logToFileAndExit" name="T_MESH::TMesh::logToFileAndExit">
+<area shape="rect" id="node1" title="Formats a message headed with date/time/filename, appends it to &quot;tmesh.log&quot;, and exits with error." alt="" coords="5,64,189,105"/>
+<area shape="rect" id="node2" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#ac762fed5bf05b1ca862d3f2bf6424a30" title="Appends a line to the file &quot;tmesh.log&quot;." alt="" coords="237,5,444,47"/>
+<area shape="rect" id="node3" href="$de/df9/namespace_t___m_e_s_h.html#a2fcbae89886cd1c9748771743a1272dd" title=" " alt="" coords="250,71,431,98"/>
+<area shape="rect" id="node4" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a365cdce7948e9459b819b2357b05cb72" title=" " alt="" coords="261,122,420,149"/>
+</map>

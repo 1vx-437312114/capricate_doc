@@ -1,0 +1,12 @@
+<map id="T_MESH::Triangle::inSphere" name="T_MESH::Triangle::inSphere">
+<area shape="rect" id="node1" title="TRUE iff &#39;p&#39; is inside the triangle&#39;s bounding sphere." alt="" coords="5,183,195,209"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a44ef71206a6f8ad884390c6fb2dd0cef" title="Return the center of the triangle&#39;s bounding sphere." alt="" coords="257,125,448,166"/>
+<area shape="rect" id="node9" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a91e129190fdfb3a70c287f77ec9c7851" title="Squared distance from &#39;*b&#39;." alt="" coords="243,212,463,239"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#ae1c9ad3e2e9ab1030158dfae5bdb1a94" title="Return the edge&#39;s mid&#45;point." alt="" coords="519,5,709,32"/>
+<area shape="rect" id="node4" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a0c342e891a2bee0206e007f840e85343" title="Returns the solution of the linear system Ax = d, where A is a 3x3 matrix whose rows are row1,..." alt="" coords="515,56,713,83"/>
+<area shape="rect" id="node5" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#aa7b9f783f2e4339083f46d25d3eecf68" title="First vertex." alt="" coords="538,107,690,133"/>
+<area shape="rect" id="node7" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a1bf6a231440a3c73a931c1cfccfee574" title="Second vertex." alt="" coords="538,157,690,184"/>
+<area shape="rect" id="node8" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0c4c2a2ba6b0c975aa3d260f00785e8f" title="Third vertex." alt="" coords="538,208,690,235"/>
+<area shape="rect" id="node6" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a560eca8895471f987bd3228b13c40052" title="Vertex shared with edge &#39;b&#39;. NULL if this and &#39;b&#39; do not share any vertex." alt="" coords="765,157,975,184"/>
+<area shape="rect" id="node10" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a9772b28d248a5198f2421bd510f263ba" title="Squared distance from origin." alt="" coords="511,259,717,285"/>
+</map>

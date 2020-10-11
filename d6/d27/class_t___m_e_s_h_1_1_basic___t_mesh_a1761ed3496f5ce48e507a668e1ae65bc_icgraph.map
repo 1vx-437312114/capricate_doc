@@ -1,0 +1,4 @@
+<map id="T_MESH::Basic_TMesh::isSelectionSimple" name="T_MESH::Basic_TMesh::isSelectionSimple">
+<area shape="rect" id="node1" title="TRUE iff the set of selected triangles in &#39;l&#39; is simply connected. O(l&#45;&gt;numels())." alt="" coords="247,5,411,47"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a11e0d5c044e95b01e3cc8beb77c60f8f" title="Re&#45;triangulates the currently selected region using a Delaunay&#45;like approach. O(SlogS)." alt="" coords="5,5,199,47"/>
+</map>

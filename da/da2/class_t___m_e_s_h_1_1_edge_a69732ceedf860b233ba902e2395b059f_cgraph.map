@@ -1,0 +1,18 @@
+<map id="T_MESH::Edge::delaunayMinAngle" name="T_MESH::Edge::delaunayMinAngle">
+<area shape="rect" id="node1" title="Return the minimum among the six angles of the two incident triangles.2PI if on boundary." alt="" coords="5,183,200,225"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a571efd48d91c2b1cb1ec13d31f1dd7bf" title="Angle at vertex &#39;v&#39;. Return &#45;1 if &#39;v&#39; is not a vertex of the triangle." alt="" coords="257,103,446,129"/>
+<area shape="rect" id="node9" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a13a726e51e116322d99f74c81fcbdd72" title="Euclidean length of the edge." alt="" coords="273,27,430,53"/>
+<area shape="rect" id="node11" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a7233b095134d4402e88e988a225d65e5" title="Edge next to &#39;e&#39; in the ordering or the triangle. NULL if &#39;e&#39; is not an edge of the triangle." alt="" coords="255,220,448,247"/>
+<area shape="rect" id="node12" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a5332cb4780fa56bdd9e95b250defc82c" title="Triangle&#39;s vertex opposite to &#39;e&#39;. NULL if &#39;e&#39; is not an edge of the triangle." alt="" coords="258,154,445,195"/>
+<area shape="rect" id="node13" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#ae0d141fae436f3a96a8012288546ad49" title="Edge preceeding &#39;e&#39; in the ordering or the triangle. NULL if &#39;e&#39; is not an edge of the triangle." alt="" coords="255,271,448,297"/>
+<area shape="rect" id="node14" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a3daee959b7b2c13f21e69e4243438dc4" title="Squared length of the edge." alt="" coords="248,321,455,348"/>
+<area shape="rect" id="node3" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a7d19f5b5b98c1999de03da56eab91478" title=" " alt="" coords="526,56,699,83"/>
+<area shape="rect" id="node5" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#aa7b9f783f2e4339083f46d25d3eecf68" title="First vertex." alt="" coords="537,107,689,133"/>
+<area shape="rect" id="node7" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a1bf6a231440a3c73a931c1cfccfee574" title="Second vertex." alt="" coords="537,157,689,184"/>
+<area shape="rect" id="node8" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0c4c2a2ba6b0c975aa3d260f00785e8f" title="Third vertex." alt="" coords="537,208,689,235"/>
+<area shape="rect" id="node4" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a61ce9f22ddfe41f036566d4a2f920ac4" title="Distance from origin." alt="" coords="797,31,954,57"/>
+<area shape="rect" id="node6" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a560eca8895471f987bd3228b13c40052" title="Vertex shared with edge &#39;b&#39;. NULL if this and &#39;b&#39; do not share any vertex." alt="" coords="771,157,980,184"/>
+<area shape="rect" id="node10" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a8261009d0497d23fdb28ac451f70cc64" title="Distance from &#39;b&#39;." alt="" coords="527,5,698,32"/>
+<area shape="rect" id="node15" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a91e129190fdfb3a70c287f77ec9c7851" title="Squared distance from &#39;*b&#39;." alt="" coords="503,321,723,348"/>
+<area shape="rect" id="node16" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a9772b28d248a5198f2421bd510f263ba" title="Squared distance from origin." alt="" coords="772,321,979,348"/>
+</map>

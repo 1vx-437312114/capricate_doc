@@ -1,0 +1,4 @@
+<map id="T_MESH::Basic_TMesh::createSubMeshFromSelection" name="T_MESH::Basic_TMesh::createSubMeshFromSelection">
+<area shape="rect" id="node1" title="Creates a new Basic_TMesh out of an existing selection containing &#39;t0&#39;. O(output)." alt="" coords="217,5,423,47"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a414e3ca5cfc7a3ab7a29a269f92ca7fb" title="This method removes one connected component from the mesh and creates a separate new mesh out of it." alt="" coords="5,5,169,47"/>
+</map>

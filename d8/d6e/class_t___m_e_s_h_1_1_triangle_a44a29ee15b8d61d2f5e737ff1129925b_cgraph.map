@@ -1,0 +1,7 @@
+<map id="T_MESH::Triangle::leftTriangle" name="T_MESH::Triangle::leftTriangle">
+<area shape="rect" id="node1" title="Triangle adjacent to the previous edge of &#39;e&#39;. NULL if &#39;e&#39; is not an edge of the triangle." alt="" coords="5,56,208,83"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#ad0c49113ef7f52e4a86959eaafc7baf9" title="First adjacent triangle. NULL if boundary." alt="" coords="256,5,405,32"/>
+<area shape="rect" id="node4" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a2511453b48f8c042e7aac67da3fff129" title="Second adjacent triangle. NULL if boundary." alt="" coords="256,56,405,83"/>
+<area shape="rect" id="node5" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a4383009f2e92ec1445cfdee5c3fa14e4" title="Third adjacent triangle. NULL if boundary." alt="" coords="256,107,405,133"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a295cf6f1ac996ea5e760c2bbd590c513" title="Incident triangle opposite to &#39;t&#39;. NULL if &#39;t&#39; is not incident to the edge." alt="" coords="453,56,671,83"/>
+</map>

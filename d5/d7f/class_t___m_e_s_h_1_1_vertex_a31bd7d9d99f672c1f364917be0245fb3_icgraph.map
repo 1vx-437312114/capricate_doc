@@ -1,0 +1,5 @@
+<map id="T_MESH::Vertex::isDoubleFlat" name="T_MESH::Vertex::isDoubleFlat">
+<area shape="rect" id="node1" title="TRUE iff vertex neighborhood is made of either two flat halfdisks or one flat halfdisk on a rectiline..." alt="" coords="464,13,667,39"/>
+<area shape="rect" id="node2" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ae68a594aa67b93af92c5a6f57296f32d" title="Unlinks the vertex if it is either Flat() or DoubleFlat()." alt="" coords="236,5,416,47"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa754eda7f26bb3d770882fcf625c83c3" title="Removes all the vertices that can be deleted without changing the geometric realization...." alt="" coords="5,5,188,47"/>
+</map>

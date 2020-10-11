@@ -1,5 +1,5 @@
 <map id="GreedyOptimizer" name="GreedyOptimizer">
-<area shape="rect" id="node1" title="Optimizes the total wirelength of all connections by using the nearest neighbor (greedy) algorithm." alt="" coords="49,3989,189,4081"/>
+<area shape="rect" id="node1" title=")" alt="" coords="49,3989,189,4081"/>
 <area shape="rect" id="node2" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="20,3789,219,3940"/>
 <area shape="rect" id="node3" title=" " alt="" coords="5,1661,201,1739"/>
 <area shape="rect" id="node4" href="$d9/d6b/struct_connection_info.html" title="The ConnectionInfo struct contains the indices of the source and destination touchpoint." alt="" coords="43,1196,190,1273"/>

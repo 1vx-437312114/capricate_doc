@@ -1,0 +1,5 @@
+<map id="T_MESH::graphEdge::isUnlinked" name="T_MESH::graphEdge::isUnlinked">
+<area shape="rect" id="node1" title="Returns TRUE if this edge does not connect points. O(1)." alt="" coords="267,39,421,80"/>
+<area shape="rect" id="node2" href="$d7/dd6/class_t___m_e_s_h_1_1graph_edge.html#aa8b05153be3116a1dff9a3daad7741be" title="Edge collapse. O(degree of neighbors)." alt="" coords="35,5,189,47"/>
+<area shape="rect" id="node3" href="$dd/d17/class_t___m_e_s_h_1_1_graph.html#a3cff3de1ad1bc1aad910463a7cba08d8" title="Eliminates isolated nodes and unlinked edges from the lists." alt="" coords="5,71,219,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="T_MESH::Edge::getNormal" name="T_MESH::Edge::getNormal">
+<area shape="rect" id="node1" title="Return the normal at the edge as the average of the normals of the two incident triangles." alt="" coords="5,157,188,184"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a8691b38a70ff623515691c89945ddd64" title="Return a normal vector with direction (v1&#45;v2) cross (v2&#45;v3). If triangle is degenerate return a null ..." alt="" coords="236,107,435,133"/>
+<area shape="rect" id="node3" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a61ce9f22ddfe41f036566d4a2f920ac4" title="Distance from origin." alt="" coords="483,157,641,184"/>
+<area shape="rect" id="node8" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#aad687fb125896ea8a6c53fd5d4035f10" title="Divides the vector by its length. If isNull() the application exits with an error." alt="" coords="246,208,425,235"/>
+<area shape="rect" id="node4" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#aa7b9f783f2e4339083f46d25d3eecf68" title="First vertex." alt="" coords="486,5,638,32"/>
+<area shape="rect" id="node6" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a1bf6a231440a3c73a931c1cfccfee574" title="Second vertex." alt="" coords="486,56,638,83"/>
+<area shape="rect" id="node7" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0c4c2a2ba6b0c975aa3d260f00785e8f" title="Third vertex." alt="" coords="486,107,638,133"/>
+<area shape="rect" id="node5" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a560eca8895471f987bd3228b13c40052" title="Vertex shared with edge &#39;b&#39;. NULL if this and &#39;b&#39; do not share any vertex." alt="" coords="689,56,899,83"/>
+<area shape="rect" id="node9" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a365cdce7948e9459b819b2357b05cb72" title=" " alt="" coords="483,208,641,235"/>
+</map>

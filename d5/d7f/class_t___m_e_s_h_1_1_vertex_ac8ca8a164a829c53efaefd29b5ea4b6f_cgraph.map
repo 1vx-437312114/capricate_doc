@@ -1,0 +1,8 @@
+<map id="T_MESH::Vertex::nextOnBoundary" name="T_MESH::Vertex::nextOnBoundary">
+<area shape="rect" id="node1" title="Returns the vertex following this one on the boundary." alt="" coords="5,81,232,108"/>
+<area shape="rect" id="node2" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a312b5886ae431004c537b8a2a7f6672f" title="Returns the edge following this vertex on the boundary." alt="" coords="280,56,519,83"/>
+<area shape="rect" id="node6" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aef981891343c94489f00b060bd654b6c" title="Vertex opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="571,107,779,133"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a96830b6d677fab318268f287682ad151" title="Triangle on the left of the edge when looking from &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="582,5,769,32"/>
+<area shape="rect" id="node4" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a77cc688b97fd6501b5dca8385fce4137" title="Triangle&#39;s edge opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the triangle." alt="" coords="567,56,784,83"/>
+<area shape="rect" id="node5" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a7d7329ff24b7b6eb2eceee39711dd650" title="TRUE iff &#39;v&#39; is an end&#45;point of the edge." alt="" coords="832,56,1012,83"/>
+</map>

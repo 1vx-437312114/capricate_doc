@@ -1,0 +1,27 @@
+<map id="T_MESH::Basic_TMesh::pinch" name="T_MESH::Basic_TMesh::pinch">
+<area shape="rect" id="node1" title=" " alt="" coords="5,546,169,587"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af3baa55cf02bd943635012a489d6c33a" title="Gets the first node, NULL if empty. &#160;&#160;O(1)." alt="" coords="226,5,367,32"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a0f2457674237bd05c42d68b023502742" title="TRUE iff edge is on the boundary (i.e., one of the two incident triangles is NULL)." alt="" coords="427,107,631,133"/>
+<area shape="rect" id="node4" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aed9d1da514f6ac91b35c2f61e4009447" title="Merge with another boundary edge." alt="" coords="217,309,376,336"/>
+<area shape="rect" id="node7" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aef981891343c94489f00b060bd654b6c" title="Vertex opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="922,191,1130,217"/>
+<area shape="rect" id="node8" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a66b49df1416ddcee6be0e1abe3aadda9" title="List of incident edges." alt="" coords="703,427,849,453"/>
+<area shape="rect" id="node12" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af0e61026072f65c9ba882df526acfd2e" title="Gets the number of elements. &#160;&#160;O(1)." alt="" coords="949,579,1103,605"/>
+<area shape="rect" id="node22" href="$da/d53/class_t___m_e_s_h_1_1_node.html#ae661edb2148691ba90cfe14d73d2545b" title="Returns the next node in the list, possibly NULL." alt="" coords="223,680,371,707"/>
+<area shape="rect" id="node23" href="$da/d53/class_t___m_e_s_h_1_1_node.html#aed5d13bba326f240b2058b5a2a28c3c3" title="Returns the previous node in the list, possibly NULL." alt="" coords="223,731,371,757"/>
+<area shape="rect" id="node24" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a9b21af68dacaaf9a95e2a33ee5941e54" title="Inserts a new node storing &#39;d&#39; right after &#39;n&#39;. &#160;&#160;O(1)." alt="" coords="683,629,869,656"/>
+<area shape="rect" id="node25" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a700222ddbd4160a36795249926752f79" title="Gets the last node, NULL if empty. &#160;&#160;O(1)." alt="" coords="231,781,362,808"/>
+<area shape="rect" id="node5" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a5cfa58598dda499ca47c6963ef75ea87" title="If the edge is on boundary return its only incident triangle. NULL otherwise." alt="" coords="432,411,627,453"/>
+<area shape="rect" id="node6" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#af74a29c7daa03825b0156bfe7f64052a" title="Returns the edge connecting this vertex to &#39;v&#39;. NULL if such an edge does not exist." alt="" coords="441,259,618,285"/>
+<area shape="rect" id="node18" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#af39c3a5336412941b0be565b5b3da35c" title="Invert the edge&#39;s orientation." alt="" coords="452,208,607,235"/>
+<area shape="rect" id="node20" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a4c2d4262f06232e3a7cd1a8bd1a0298b" title="Replace edge &#39;a&#39; with edge &#39;b&#39; in the triangle and return TRUE. If &#39;a&#39; is not an edge of the triangle..." alt="" coords="424,309,635,336"/>
+<area shape="rect" id="node21" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a4ebfc7836cd37fa28b41e972511377f6" title="Replace vertex &#39;a&#39; with vertex &#39;b&#39; in the edge and return TRUE. If &#39;a&#39; is not a vertex of the edge re..." alt="" coords="429,360,630,387"/>
+<area shape="rect" id="node9" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#ae601a7e17364ce83f74ffcb6c64971ca" title="Appends a new node storing &#39;d&#39; to the head. &#160;&#160;O(1)." alt="" coords="933,376,1119,403"/>
+<area shape="rect" id="node10" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a1b14a2838ee3745d5fb413f9e7ecc214" title="Appends a new node storing &#39;d&#39; to the tail. &#160;&#160;O(1)." alt="" coords="939,427,1113,453"/>
+<area shape="rect" id="node11" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a96830b6d677fab318268f287682ad151" title="Triangle on the left of the edge when looking from &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="933,477,1119,504"/>
+<area shape="rect" id="node13" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a77cc688b97fd6501b5dca8385fce4137" title="Triangle&#39;s edge opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the triangle." alt="" coords="917,275,1135,301"/>
+<area shape="rect" id="node15" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a9701d1b3769b92b7d2a7ed6da895a863" title="Deletes and removes the first node. Returns its data. &#160;&#160;O(1)." alt="" coords="943,528,1109,555"/>
+<area shape="rect" id="node17" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aa9788a51d590116555c8a062e253a197" title="Triangle on the right of the edge when looking from &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="929,325,1123,352"/>
+<area shape="rect" id="node14" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a7d7329ff24b7b6eb2eceee39711dd650" title="TRUE iff &#39;v&#39; is an end&#45;point of the edge." alt="" coords="1183,275,1363,301"/>
+<area shape="rect" id="node16" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#aec091d7c66b66c92fe56f06f41f448f4" title="Deletes and removes the node &#39;n&#39; from the list. &#160;&#160;O(1)." alt="" coords="1183,579,1362,605"/>
+<area shape="rect" id="node19" href="$de/df9/namespace_t___m_e_s_h.html#a450b61a3a6c19cbbaf693a1a84c6d616" title=" " alt="" coords="711,208,841,235"/>
+</map>

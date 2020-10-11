@@ -1,4 +1,4 @@
 <map id="IGLMeshBooleanOperationFilter" name="IGLMeshBooleanOperationFilter">
-<area shape="rect" id="node1" title="Filter for boolean operations on polygon meshes using the igl library." alt="" coords="5,263,232,399"/>
-<area shape="rect" id="node2" href="$d4/dcd/class_mesh_boolean_operation_filter.html" title="Base class for boolean operations on polygon meshes filters." alt="" coords="11,5,226,215"/>
+<area shape="rect" id="node1" title="Filter for boolean operations on polygon meshes using the igl library." alt="" coords="5,307,232,443"/>
+<area shape="rect" id="node2" href="$d4/dcd/class_mesh_boolean_operation_filter.html" title="Base class for boolean operations on polygon meshes filters." alt="" coords="11,5,226,259"/>
 </map>

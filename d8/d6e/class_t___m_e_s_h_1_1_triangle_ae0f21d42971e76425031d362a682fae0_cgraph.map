@@ -1,0 +1,6 @@
+<map id="T_MESH::Triangle::checkAdjNor" name="T_MESH::Triangle::checkAdjNor">
+<area shape="rect" id="node1" title="TRUE if the oriantation is consistent with the one of &#39;t&#39; OR if this and &#39;t&#39; do not share any edge." alt="" coords="5,56,219,83"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#ae2ae6f00e3b381ed333317bf8fb5953d" title="If this triangle shares an edge with &#39;b&#39;, then such an edge is returned. NULL otherwise." alt="" coords="267,5,485,32"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a560eca8895471f987bd3228b13c40052" title="Vertex shared with edge &#39;b&#39;. NULL if this and &#39;b&#39; do not share any vertex." alt="" coords="271,56,481,83"/>
+<area shape="rect" id="node4" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a7233b095134d4402e88e988a225d65e5" title="Edge next to &#39;e&#39; in the ordering or the triangle. NULL if &#39;e&#39; is not an edge of the triangle." alt="" coords="279,107,473,133"/>
+</map>

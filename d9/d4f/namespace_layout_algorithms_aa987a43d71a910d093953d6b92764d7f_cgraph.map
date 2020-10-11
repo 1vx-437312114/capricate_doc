@@ -1,4 +1,5 @@
 <map id="LayoutAlgorithms::computeConnectionPoint" name="LayoutAlgorithms::computeConnectionPoint">
-<area shape="rect" id="node1" title="Computes a wiring entry point in world coordinates for a touchpoint geometry." alt="" coords="5,5,187,47"/>
-<area shape="rect" id="node2" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="235,13,405,39"/>
+<area shape="rect" id="node1" title="Computes a wiring entry point in world coordinates for a touchpoint geometry." alt="" coords="5,23,187,65"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#ae51e750ddb4737270a4d88494dcc21d9" title="Return the bounds of the touchpoint as array object (in object coordinates)" alt="" coords="243,5,397,32"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="235,56,405,83"/>
 </map>

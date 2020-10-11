@@ -1,0 +1,4 @@
+<map id="T_MESH::Vertex::removeIfRedundant" name="T_MESH::Vertex::removeIfRedundant">
+<area shape="rect" id="node1" title="Unlinks the vertex if it is either Flat() or DoubleFlat()." alt="" coords="236,5,416,47"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa754eda7f26bb3d770882fcf625c83c3" title="Removes all the vertices that can be deleted without changing the geometric realization...." alt="" coords="5,5,188,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="T_MESH::Point::normalize" name="T_MESH::Point::normalize">
+<area shape="rect" id="node1" title="Divides the vector by its length. If isNull() the application exits with an error." alt="" coords="5,31,184,57"/>
+<area shape="rect" id="node2" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a365cdce7948e9459b819b2357b05cb72" title=" " alt="" coords="232,5,391,32"/>
+<area shape="rect" id="node3" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a61ce9f22ddfe41f036566d4a2f920ac4" title="Distance from origin." alt="" coords="233,56,390,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="T_MESH::Basic_TMesh::init" name="T_MESH::Basic_TMesh::init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,122,169,163"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a1b14a2838ee3745d5fb413f9e7ecc214" title="Appends a new node storing &#39;d&#39; to the tail. &#160;&#160;O(1)." alt="" coords="217,5,392,32"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a20469173793123e3dd41269a48602ba2" title="AMF_ADD 1.1&gt;" alt="" coords="223,57,387,98"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a1fda4e2b03b24abb8784e3a1c6fb49e7" title="AMF_ADD 1.1&gt;" alt="" coords="223,122,387,163"/>
+<area shape="rect" id="node5" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a8cbf313f4e9cab9dab1b026b45dd1c8e" title="AMF_ADD 1.1&gt;" alt="" coords="223,187,387,229"/>
+<area shape="rect" id="node6" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af0e61026072f65c9ba882df526acfd2e" title="Gets the number of elements. &#160;&#160;O(1)." alt="" coords="227,253,382,280"/>
+</map>

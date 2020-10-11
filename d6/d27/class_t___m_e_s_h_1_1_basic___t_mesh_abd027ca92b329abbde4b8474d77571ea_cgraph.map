@@ -1,0 +1,6 @@
+<map id="T_MESH::Basic_TMesh::CreateEdge" name="T_MESH::Basic_TMesh::CreateEdge">
+<area shape="rect" id="node1" title="Creates an Edge connecting two existing mesh Extended vertices." alt="" coords="5,57,169,98"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#ae601a7e17364ce83f74ffcb6c64971ca" title="Appends a new node storing &#39;d&#39; to the head. &#160;&#160;O(1)." alt="" coords="228,5,415,32"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a20469173793123e3dd41269a48602ba2" title="AMF_ADD 1.1&gt;" alt="" coords="239,57,403,98"/>
+<area shape="rect" id="node4" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aef981891343c94489f00b060bd654b6c" title="Vertex opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="217,123,425,149"/>
+</map>

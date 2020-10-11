@@ -1,11 +1,10 @@
 <map id="MainWindow::MainWindow" name="MainWindow::MainWindow">
-<area shape="rect" id="node1" title=" " alt="" coords="5,3011,185,3038"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,2961,185,2987"/>
 <area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a31a84d76013d226265d5c4f86d90de14" title="Read the configuration settings from a file." alt="" coords="233,1436,440,1477"/>
 <area shape="rect" id="node41" href="$d9/dc6/class_main_window.html#adf9f10cd195a9f50070ef914937e5ebf" title="Register all touchpoint tools in the tool registry." alt="" coords="247,2855,426,2882"/>
 <area shape="rect" id="node43" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="247,2953,427,2995"/>
-<area shape="rect" id="node45" href="$d9/dc6/class_main_window.html#a9b4b1ec94ad0c252298db72eb6cf6d6d" title="Refresh the screen after changes to the scene." alt="" coords="767,2961,940,2987"/>
-<area shape="rect" id="node49" href="$df/dd7/class_ui___main_window.html#acf4a0872c4c77d8f43a2ec66ed849b58" title=" " alt="" coords="251,3113,422,3139"/>
-<area shape="rect" id="node50" href="$d9/dc6/class_main_window.html#a38d997e7b12c87ed17998472bd516f64" title="Set up the vtk specific parts for rendering." alt="" coords="255,3163,418,3190"/>
+<area shape="rect" id="node45" href="$d9/dc6/class_main_window.html#a9b4b1ec94ad0c252298db72eb6cf6d6d" title="Refresh the screen after changes to the scene." alt="" coords="767,2994,940,3021"/>
+<area shape="rect" id="node50" href="$d9/dc6/class_main_window.html#a38d997e7b12c87ed17998472bd516f64" title="Set up the vtk specific parts for rendering." alt="" coords="255,3179,418,3206"/>
 <area shape="rect" id="node3" href="$d3/d5f/class_preferences_dialog.html#af8496829636857ad780b02664b5d56c4" title=" " alt="" coords="504,5,703,47"/>
 <area shape="rect" id="node4" href="$d3/d5f/class_preferences_dialog.html#ab12dc7d41e5b118782ca37ff359d1d17" title=" " alt="" coords="506,71,701,112"/>
 <area shape="rect" id="node5" href="$d3/d5f/class_preferences_dialog.html#a33b331efa7ac6984d20e9abbf7f132a3" title=" " alt="" coords="499,137,707,193"/>
@@ -49,4 +48,5 @@
 <area shape="rect" id="node46" href="$d9/dc6/class_main_window.html#a7c328b5a130932e4288843ee0d5f96df" title=" " alt="" coords="523,2910,683,2937"/>
 <area shape="rect" id="node47" href="$d9/dc6/class_main_window.html#abcf565f1c32128afdccbae7ad383195f" title=" " alt="" coords="516,2961,691,2987"/>
 <area shape="rect" id="node48" href="$d9/dc6/class_main_window.html#ad8baa7cde41db728bd73adc6216df43d" title=" " alt="" coords="515,3011,692,3038"/>
+<area shape="rect" id="node49" href="$d9/dc6/class_main_window.html#a996f240e65639f9c49ccb93d42695e3a" title=" " alt="" coords="512,3063,695,3104"/>
 </map>

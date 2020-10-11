@@ -1,0 +1,6 @@
+<map id="T_MESH::Triangle::getCircleCenter" name="T_MESH::Triangle::getCircleCenter">
+<area shape="rect" id="node1" title="Return the center of the triangle&#39;s bounding sphere." alt="" coords="667,5,857,47"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a84e2fb5b05161c766eec8b282b52678e" title="TRUE iff &#39;p&#39; is inside the triangle&#39;s bounding sphere." alt="" coords="429,13,619,39"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a29762ed91857184c1d155cdaa9350562" title=" " alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#affae34779bd3e7f044e4cd2f038950e9" title="Creates a triangulation of the hole based on the assumption that it is flat." alt="" coords="5,5,169,47"/>
+</map>

@@ -241,8 +241,8 @@
 <title>Node6&#45;&gt;Node10</title>
 <path fill="none" stroke="#404040" d="M152.44,-1686.95C170.76,-1652.73 200.68,-1596.87 229.4,-1543.26"/>
 <polygon fill="none" stroke="#404040" points="229.45,-1543.16 228.76,-1535.98 235.12,-1532.58 235.81,-1539.76 229.45,-1543.16"/>
-<text text-anchor="middle" x="250.23" y="-1567" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;touchpoints</text>
-<text text-anchor="middle" x="250.23" y="-1556" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;connectors</text>
+<text text-anchor="middle" x="249.23" y="-1567" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;connectors</text>
+<text text-anchor="middle" x="249.23" y="-1556" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;touchpoints</text>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
@@ -666,49 +666,49 @@
 <g id="node23" class="node">
 <title>Node23</title>
 <g id="a_node23"><a xlink:title="STL class.">
-<polygon fill="white" stroke="#bfbfbf" points="688.73,-2687 688.73,-2744 748.73,-2744 748.73,-2687 688.73,-2687"/>
-<text text-anchor="middle" x="718.73" y="-2732" font-family="Helvetica,sans-Serif" font-size="10.00">std::string</text>
-<polyline fill="none" stroke="#bfbfbf" points="688.73,-2725 748.73,-2725 "/>
-<text text-anchor="middle" x="718.73" y="-2713" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="688.73,-2706 748.73,-2706 "/>
-<text text-anchor="middle" x="718.73" y="-2694" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="689.73,-2687 689.73,-2744 749.73,-2744 749.73,-2687 689.73,-2687"/>
+<text text-anchor="middle" x="719.73" y="-2732" font-family="Helvetica,sans-Serif" font-size="10.00">std::string</text>
+<polyline fill="none" stroke="#bfbfbf" points="689.73,-2725 749.73,-2725 "/>
+<text text-anchor="middle" x="719.73" y="-2713" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="689.73,-2706 749.73,-2706 "/>
+<text text-anchor="middle" x="719.73" y="-2694" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node23&#45;&gt;Node2 -->
 <g id="edge26" class="edge">
 <title>Node23&#45;&gt;Node2</title>
-<path fill="none" stroke="#404040" d="M723.77,-2686.99C737.17,-2611.23 772.73,-2393 772.73,-2210 772.73,-2210 772.73,-2210 772.73,-1111 772.73,-784.16 912.31,-658.96 748.73,-376 721.23,-328.41 664.96,-298.05 622.03,-280.82"/>
+<path fill="none" stroke="#404040" d="M724.67,-2686.99C737.83,-2611.22 772.73,-2392.96 772.73,-2210 772.73,-2210 772.73,-2210 772.73,-1111 772.73,-784.16 912.31,-658.96 748.73,-376 721.23,-328.41 664.96,-298.05 622.03,-280.82"/>
 <polygon fill="none" stroke="#404040" points="621.79,-280.73 614.76,-282.3 610.6,-276.41 617.64,-274.84 621.79,-280.73"/>
 <text text-anchor="middle" x="798.23" y="-1561.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #toolName</text>
 </g>
 <!-- Node23&#45;&gt;Node22 -->
 <g id="edge24" class="edge">
 <title>Node23&#45;&gt;Node22</title>
-<path fill="none" stroke="#404040" d="M714.87,-2686.66C703.15,-2602.16 667.94,-2348.41 654.26,-2249.8"/>
-<polygon fill="none" stroke="#404040" points="654.24,-2249.64 649.45,-2244.25 652.59,-2237.76 657.37,-2243.15 654.24,-2249.64"/>
-<text text-anchor="middle" x="710.73" y="-2380" font-family="Helvetica,sans-Serif" font-size="10.00"> +openScadCode</text>
-<text text-anchor="middle" x="710.73" y="-2369" font-family="Helvetica,sans-Serif" font-size="10.00">+fileName</text>
+<path fill="none" stroke="#404040" d="M715.82,-2686.66C703.92,-2602.16 668.21,-2348.41 654.34,-2249.8"/>
+<polygon fill="none" stroke="#404040" points="654.31,-2249.64 649.52,-2244.26 652.64,-2237.76 657.44,-2243.14 654.31,-2249.64"/>
+<text text-anchor="middle" x="709.23" y="-2380" font-family="Helvetica,sans-Serif" font-size="10.00"> +fileName</text>
+<text text-anchor="middle" x="709.23" y="-2369" font-family="Helvetica,sans-Serif" font-size="10.00">+openScadCode</text>
 </g>
 <!-- Node24 -->
 <g id="node24" class="node">
 <title>Node24</title>
 <g id="a_node24"><a xlink:title="STL class.">
-<polygon fill="white" stroke="#bfbfbf" points="671.23,-3062.5 671.23,-3130.5 766.23,-3130.5 766.23,-3062.5 671.23,-3062.5"/>
-<text text-anchor="start" x="679.23" y="-3118.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::basic_string&lt;</text>
-<text text-anchor="middle" x="718.73" y="-3107.5" font-family="Helvetica,sans-Serif" font-size="10.00"> char &gt;</text>
-<polyline fill="none" stroke="#bfbfbf" points="671.23,-3100.5 766.23,-3100.5 "/>
-<text text-anchor="middle" x="718.73" y="-3088.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="671.23,-3081.5 766.23,-3081.5 "/>
-<text text-anchor="middle" x="718.73" y="-3069.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="672.23,-3062.5 672.23,-3130.5 767.23,-3130.5 767.23,-3062.5 672.23,-3062.5"/>
+<text text-anchor="start" x="680.23" y="-3118.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::basic_string&lt;</text>
+<text text-anchor="middle" x="719.73" y="-3107.5" font-family="Helvetica,sans-Serif" font-size="10.00"> char &gt;</text>
+<polyline fill="none" stroke="#bfbfbf" points="672.23,-3100.5 767.23,-3100.5 "/>
+<text text-anchor="middle" x="719.73" y="-3088.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="672.23,-3081.5 767.23,-3081.5 "/>
+<text text-anchor="middle" x="719.73" y="-3069.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node24&#45;&gt;Node23 -->
 <g id="edge25" class="edge">
 <title>Node24&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M718.73,-3052.15C718.73,-2973.59 718.73,-2809.8 718.73,-2744.37"/>
-<polygon fill="none" stroke="midnightblue" points="715.23,-3052.2 718.73,-3062.2 722.23,-3052.2 715.23,-3052.2"/>
+<path fill="none" stroke="midnightblue" d="M719.73,-3052.15C719.73,-2973.59 719.73,-2809.8 719.73,-2744.37"/>
+<polygon fill="none" stroke="midnightblue" points="716.23,-3052.2 719.73,-3062.2 723.23,-3052.2 716.23,-3052.2"/>
 </g>
 </g>
 </svg>

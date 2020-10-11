@@ -1,0 +1,22 @@
+<map id="T_MESH::Basic_TMesh::mergeCoincidentEdges" name="T_MESH::Basic_TMesh::mergeCoincidentEdges">
+<area shape="rect" id="node1" title="Looks for topologically different edges having the same geometry (i.e." alt="" coords="5,295,171,336"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a5cfa58598dda499ca47c6963ef75ea87" title="If the edge is on boundary return its only incident triangle. NULL otherwise." alt="" coords="227,5,421,47"/>
+<area shape="rect" id="node3" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af3baa55cf02bd943635012a489d6c33a" title="Gets the first node, NULL if empty. &#160;&#160;O(1)." alt="" coords="739,94,880,121"/>
+<area shape="rect" id="node4" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a0f2457674237bd05c42d68b023502742" title="TRUE iff edge is on the boundary (i.e., one of the two incident triangles is NULL)." alt="" coords="222,353,426,379"/>
+<area shape="rect" id="node5" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ae11cf4d5f73b416ca9335fd3d6dea58f" title="Removes all the unlinked elements from the lists. Returns the number of removed elements...." alt="" coords="235,204,413,245"/>
+<area shape="rect" id="node12" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a46cd99ce46b77a7b154c0a651cf80afa" title="Removes all the unlinked vertices from List V. Returns the number of removed vertices...." alt="" coords="493,123,657,164"/>
+<area shape="rect" id="node13" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a4c2d4262f06232e3a7cd1a8bd1a0298b" title="Replace edge &#39;a&#39; with edge &#39;b&#39; in the triangle and return TRUE. If &#39;a&#39; is not an edge of the triangle..." alt="" coords="219,403,429,430"/>
+<area shape="rect" id="node14" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a7c5746b86fdc294c58847a77c188391c" title="Sorts the list using &#39;comp&#39; as comparison function for two elements. &#160;&#160;O(numels()^2)." alt="" coords="257,302,391,329"/>
+<area shape="rect" id="node19" href="$de/df9/namespace_t___m_e_s_h.html#a91f0a8d9aa6e28658d36472bb5ad1b1f" title="Vertex&#45;based edge comparison for qsort." alt="" coords="231,454,417,481"/>
+<area shape="rect" id="node20" href="$de/df9/namespace_t___m_e_s_h.html#a3766b20d48429b5278ed41446623204f" title="Lexycographic comparison to be used with jqsort() or abstractHeap." alt="" coords="245,505,403,531"/>
+<area shape="rect" id="node6" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a31ae056d8614b35cf8b4ea59f6b6a008" title="Removes all the unlinked edges from List E. Returns the number of removed edges. O(N)." alt="" coords="493,188,657,229"/>
+<area shape="rect" id="node11" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a4e221f29cf4ddb2c64ab866fc7a7e996" title="Removes all the unlinked triangles from List T. Returns the number of removed triangles...." alt="" coords="493,253,657,295"/>
+<area shape="rect" id="node7" href="$da/d53/class_t___m_e_s_h_1_1_node.html#ae661edb2148691ba90cfe14d73d2545b" title="Returns the next node in the list, possibly NULL." alt="" coords="735,145,883,171"/>
+<area shape="rect" id="node8" href="$da/d53/class_t___m_e_s_h_1_1_node.html#aed5d13bba326f240b2058b5a2a28c3c3" title="Returns the previous node in the list, possibly NULL." alt="" coords="735,195,883,222"/>
+<area shape="rect" id="node9" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#aec091d7c66b66c92fe56f06f41f448f4" title="Deletes and removes the node &#39;n&#39; from the list. &#160;&#160;O(1)." alt="" coords="720,297,899,323"/>
+<area shape="rect" id="node10" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a700222ddbd4160a36795249926752f79" title="Gets the last node, NULL if empty. &#160;&#160;O(1)." alt="" coords="744,246,875,273"/>
+<area shape="rect" id="node15" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#ae601a7e17364ce83f74ffcb6c64971ca" title="Appends a new node storing &#39;d&#39; to the head. &#160;&#160;O(1)." alt="" coords="481,370,668,397"/>
+<area shape="rect" id="node16" href="$de/df9/namespace_t___m_e_s_h.html#a5715fed89554fb33e87bb209df729ffe" title=" " alt="" coords="517,421,633,447"/>
+<area shape="rect" id="node17" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a1e032966857d82dbc5716b94bc4d3d3c" title="Deletes and removes all the nodes. &#160;&#160;O(numels())." alt="" coords="477,319,672,346"/>
+<area shape="rect" id="node18" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a28c649d203d3884852862eee78b1be07" title="Creates an array out of the list. &#160;&#160;O(numels())." alt="" coords="497,471,652,498"/>
+</map>

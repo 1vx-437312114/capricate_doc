@@ -12,11 +12,11 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="d4/d48/structpretty__print_1_1delimiters_3_01_1_1std_1_1multiset_3_01_t_00_01_t_comp_00_01_t_allocator_01_4_00_01wchar__t_01_4.html" target="_top" xlink:title=" ">
+<g id="a_node1"><a xlink:href="d5/d93/structpretty__print_1_1delimiters_3_01_1_1std_1_1multiset_3_01_t_00_01_t_comp_00_01_t_allocator_01_4_00_01char_01_4.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-41.5 140,-41.5 140,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">pretty_print::delimiters</text>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; ::std::multiset&lt; T, TComp,</text>
-<text text-anchor="middle" x="70" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"> TAllocator &gt;, wchar_t &gt;</text>
+<text text-anchor="middle" x="70" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"> TAllocator &gt;, char &gt;</text>
 </a>
 </g>
 </g>

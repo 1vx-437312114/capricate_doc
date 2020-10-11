@@ -19,8 +19,8 @@
 <area shape="rect" id="node17" href="$d1/db5/class_lasso_interactor_style.html#a711994cec6c74643d2bc161ba73daacd" title="Overwritten method, which is executed when the left mouse button is released." alt="" coords="494,632,637,673"/>
 <area shape="rect" id="node19" href="$db/dbb/class_picking_interactor_style.html#a1620702107e2c2d0c0aefbd896098b0d" title="Overloaded method, invoked when right mouse button is pressed." alt="" coords="490,749,641,791"/>
 <area shape="rect" id="node20" href="$d6/db5/class_scene.html#af1128c48ccb6999066aa1d935075cb23" title="Remove a touchpoint from the scene given its unique touchpoint id." alt="" coords="479,698,652,725"/>
-<area shape="rect" id="node21" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="252,779,395,820"/>
-<area shape="rect" id="node22" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="246,596,401,637"/>
-<area shape="rect" id="node23" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="242,661,405,703"/>
-<area shape="rect" id="node24" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="265,727,382,754"/>
+<area shape="rect" id="node21" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="242,788,405,829"/>
+<area shape="rect" id="node22" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="265,606,382,633"/>
+<area shape="rect" id="node23" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="252,657,395,699"/>
+<area shape="rect" id="node24" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="246,723,401,764"/>
 </map>

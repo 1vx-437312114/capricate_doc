@@ -1,0 +1,4 @@
+<map id="Scene::setTextActorsVisibility" name="Scene::setTextActorsVisibility">
+<area shape="rect" id="node1" title="Set if the touchpoint / connector number labels are visible." alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#ab61727c9bb477bccca373f92a2b8bea4" title="Return the touchpoint number label text actor." alt="" coords="251,5,417,32"/>
+</map>

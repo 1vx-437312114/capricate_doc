@@ -1,0 +1,4 @@
+<map id="T_MESH::Edge::dihedralAngle" name="T_MESH::Edge::dihedralAngle">
+<area shape="rect" id="node1" title="Dihedral angle at the edge." alt="" coords="256,13,456,39"/>
+<area shape="rect" id="node2" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a8bd2f4abef22ff4b6544bff46c17167f" title="Sum of signed dihedral angles. Returns DBL_MAX if on boundary." alt="" coords="5,5,208,47"/>
+</map>

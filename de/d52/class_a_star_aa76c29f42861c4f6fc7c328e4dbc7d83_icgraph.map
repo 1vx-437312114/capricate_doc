@@ -9,8 +9,8 @@
 <area shape="rect" id="node16" href="$d0/da8/class_threshold_accepting_optimizer.html#a6dead9a1dffa1d54cb9cc59e80655fb7" title=" " alt="" coords="477,309,671,350"/>
 <area shape="rect" id="node17" href="$da/d4f/class_brute_force_optimizer.html#aa2a4ae05bdd60786dee2cd865a15185e" title=" " alt="" coords="1011,185,1153,226"/>
 <area shape="rect" id="node18" href="$de/d52/class_a_star.html#a23dc71dd589a135db676975917279d06" title="Set the voxels defined through the voxel index path vector to value." alt="" coords="1266,622,1385,648"/>
-<area shape="rect" id="node19" href="$d0/d4c/class_null_optimizer.html#a1e6bb8c39e5ed279b4adc430738daee2" title=" " alt="" coords="1246,672,1405,699"/>
-<area shape="rect" id="node20" href="$da/d20/class_greedy_optimizer.html#ade730f3f396b9464b50e7c5185e6f319" title=" " alt="" coords="1237,723,1414,750"/>
+<area shape="rect" id="node19" href="$da/d20/class_greedy_optimizer.html#ade730f3f396b9464b50e7c5185e6f319" title=" " alt="" coords="1237,672,1414,699"/>
+<area shape="rect" id="node20" href="$d0/d4c/class_null_optimizer.html#a1e6bb8c39e5ed279b4adc430738daee2" title=" " alt="" coords="1246,723,1405,750"/>
 <area shape="rect" id="node21" href="$d2/d35/class_random_optimizer.html#aa5ce0ce1fb926e31ed56452870a2b9d7" title=" " alt="" coords="1233,774,1417,800"/>
 <area shape="rect" id="node22" href="$de/d52/class_a_star.html#a38fa07c212033976433ac07e04d2f626" title="Unmark a path (unlock)" alt="" coords="1259,824,1392,851"/>
 <area shape="rect" id="node4" href="$de/d17/class_great_deluge_optimizer.html#ac56ec7a807a73b6d9a588faa1a433885" title="Run the great deluge algorithm." alt="" coords="759,404,909,445"/>

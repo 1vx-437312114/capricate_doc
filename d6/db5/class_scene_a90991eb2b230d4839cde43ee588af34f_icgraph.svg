@@ -21,9 +21,9 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../de/dd7/class_polyline_touchpoint_tool.html#a68d7b8c4d090063977b3404e4084290a" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="178,-88 178,-118 294,-118 294,-88 178,-88"/>
-<text text-anchor="start" x="186" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">PolylineTouchpointTool</text>
+<g id="a_node2"><a xlink:href="../../de/de0/class_freehand_touchpoint_tool.html#a553b2df8ed2128433bac512947a1ce2c" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="175,-88 175,-118 297,-118 297,-88 175,-88"/>
+<text text-anchor="start" x="183" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">FreehandTouchpointTool</text>
 <text text-anchor="middle" x="236" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">::execute</text>
 </a>
 </g>
@@ -37,9 +37,9 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="../../de/de0/class_freehand_touchpoint_tool.html#a553b2df8ed2128433bac512947a1ce2c" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="175,-39 175,-69 297,-69 297,-39 175,-39"/>
-<text text-anchor="start" x="183" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">FreehandTouchpointTool</text>
+<g id="a_node3"><a xlink:href="../../de/dd7/class_polyline_touchpoint_tool.html#a68d7b8c4d090063977b3404e4084290a" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="178,-39 178,-69 294,-69 294,-39 178,-39"/>
+<text text-anchor="start" x="186" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">PolylineTouchpointTool</text>
 <text text-anchor="middle" x="236" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">::execute</text>
 </a>
 </g>
@@ -47,7 +47,7 @@
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M334.65,-54C322.23,-54 309.27,-54 297,-54"/>
+<path fill="none" stroke="midnightblue" d="M334.82,-54C321.39,-54 307.33,-54 294.2,-54"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="334.94,-57.5 344.94,-54 334.94,-50.5 334.94,-57.5"/>
 </g>
 <!-- Node4 -->

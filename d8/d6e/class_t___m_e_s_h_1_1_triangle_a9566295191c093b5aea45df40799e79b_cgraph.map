@@ -1,0 +1,8 @@
+<map id="T_MESH::Triangle::oppositeTriangle" name="T_MESH::Triangle::oppositeTriangle">
+<area shape="rect" id="node1" title="Adjacent triangle opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the triangle." alt="" coords="5,74,192,115"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a7d7329ff24b7b6eb2eceee39711dd650" title="TRUE iff &#39;v&#39; is an end&#45;point of the edge." alt="" coords="240,5,420,32"/>
+<area shape="rect" id="node3" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#ad0c49113ef7f52e4a86959eaafc7baf9" title="First adjacent triangle. NULL if boundary." alt="" coords="255,56,405,83"/>
+<area shape="rect" id="node5" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a2511453b48f8c042e7aac67da3fff129" title="Second adjacent triangle. NULL if boundary." alt="" coords="255,107,405,133"/>
+<area shape="rect" id="node6" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a4383009f2e92ec1445cfdee5c3fa14e4" title="Third adjacent triangle. NULL if boundary." alt="" coords="255,157,405,184"/>
+<area shape="rect" id="node4" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a295cf6f1ac996ea5e760c2bbd590c513" title="Incident triangle opposite to &#39;t&#39;. NULL if &#39;t&#39; is not incident to the edge." alt="" coords="468,107,685,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Scene::addTouchpoint" name="Scene::addTouchpoint">
+<area shape="rect" id="node1" title="Add a touchpoint to the scene (which is subsequently added to the touchpoint registry)" alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#a88b5a8861cea4cd5d748494c0624d5b6" title="Return touchpoint type." alt="" coords="204,5,407,32"/>
+</map>

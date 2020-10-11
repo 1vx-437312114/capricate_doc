@@ -1,0 +1,11 @@
+<map id="T_MESH::mc_grid::segmentIntersectsTriangle" name="T_MESH::mc_grid::segmentIntersectsTriangle">
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,193,157"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a16ed7eb5cd98505d86668c4eb0590645" title="Exact orientation test." alt="" coords="241,5,459,32"/>
+<area shape="rect" id="node5" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#aab3d2050195474d7c90245ada7d1eb40" title="Itersection point between line p&#45;q and plane r&#45;s&#45;t. Return INFINITE_POINT for parallel/degenerate arg..." alt="" coords="263,57,437,98"/>
+<area shape="rect" id="node6" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#aa7b9f783f2e4339083f46d25d3eecf68" title="First vertex." alt="" coords="274,123,426,149"/>
+<area shape="rect" id="node8" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a1bf6a231440a3c73a931c1cfccfee574" title="Second vertex." alt="" coords="274,173,426,200"/>
+<area shape="rect" id="node9" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0c4c2a2ba6b0c975aa3d260f00785e8f" title="Third vertex." alt="" coords="274,224,426,251"/>
+<area shape="rect" id="node3" href="$de/df9/namespace_t___m_e_s_h.html#a31d1470b87fab8f85b54af905e25d15a" title=" " alt="" coords="545,5,678,32"/>
+<area shape="rect" id="node4" href="$de/df9/namespace_t___m_e_s_h.html#ab2a541476dd63dc930853bddc4bf6969" title=" " alt="" coords="764,5,901,32"/>
+<area shape="rect" id="node7" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a560eca8895471f987bd3228b13c40052" title="Vertex shared with edge &#39;b&#39;. NULL if this and &#39;b&#39; do not share any vertex." alt="" coords="507,173,716,200"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="T_MESH::Edge::stitch" name="T_MESH::Edge::stitch">
+<area shape="rect" id="node1" title="Stitching primitive." alt="" coords="5,157,160,184"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a7d7329ff24b7b6eb2eceee39711dd650" title="TRUE iff &#39;v&#39; is an end&#45;point of the edge." alt="" coords="227,5,407,32"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a0f2457674237bd05c42d68b023502742" title="TRUE iff edge is on the boundary (i.e., one of the two incident triangles is NULL)." alt="" coords="215,56,419,83"/>
+<area shape="rect" id="node4" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a7233b095134d4402e88e988a225d65e5" title="Edge next to &#39;e&#39; in the ordering or the triangle. NULL if &#39;e&#39; is not an edge of the triangle." alt="" coords="220,107,413,133"/>
+<area shape="rect" id="node5" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a295cf6f1ac996ea5e760c2bbd590c513" title="Incident triangle opposite to &#39;t&#39;. NULL if &#39;t&#39; is not incident to the edge." alt="" coords="208,157,425,184"/>
+<area shape="rect" id="node6" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aef981891343c94489f00b060bd654b6c" title="Vertex opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="213,208,421,235"/>
+<area shape="rect" id="node7" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a4c2d4262f06232e3a7cd1a8bd1a0298b" title="Replace edge &#39;a&#39; with edge &#39;b&#39; in the triangle and return TRUE. If &#39;a&#39; is not an edge of the triangle..." alt="" coords="211,259,422,285"/>
+<area shape="rect" id="node8" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a96d7a013a37e724352108c9fac25bbf5" title="Replace incident triangle &#39;a&#39; with &#39;b&#39; and return TRUE. If &#39;a&#39; is not incident to the edge return FAL..." alt="" coords="211,309,422,336"/>
+</map>

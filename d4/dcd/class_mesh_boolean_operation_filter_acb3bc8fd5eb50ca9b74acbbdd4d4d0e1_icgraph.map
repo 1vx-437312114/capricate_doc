@@ -1,4 +1,5 @@
 <map id="MeshBooleanOperationFilter::getOutput" name="MeshBooleanOperationFilter::getOutput">
-<area shape="rect" id="node1" title="Return result." alt="" coords="223,5,409,47"/>
-<area shape="rect" id="node2" href="$d9/d00/class_p_s_interface_tool.html#aa26bf20d4e597f64df960e4c1a5c3a69" title=" " alt="" coords="5,13,175,39"/>
+<area shape="rect" id="node1" title="Return result." alt="" coords="240,27,427,69"/>
+<area shape="rect" id="node2" href="$d9/d00/class_p_s_interface_tool.html#aa26bf20d4e597f64df960e4c1a5c3a69" title=" " alt="" coords="14,5,183,32"/>
+<area shape="rect" id="node3" href="$d4/dcd/class_mesh_boolean_operation_filter.html#a2533d9ebda32f8207fdf31e1d8113bf7" title="Return result." alt="" coords="5,57,192,98"/>
 </map>

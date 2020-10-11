@@ -1,0 +1,5 @@
+<map id="T_MESH::Graph::createEdge" name="T_MESH::Graph::createEdge">
+<area shape="rect" id="node1" title="Creates a new edge out of a pair of nodes. O(degree of nodes)." alt="" coords="5,31,199,57"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#ae601a7e17364ce83f74ffcb6c64971ca" title="Appends a new node storing &#39;d&#39; to the head. &#160;&#160;O(1)." alt="" coords="247,5,433,32"/>
+<area shape="rect" id="node3" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af3baa55cf02bd943635012a489d6c33a" title="Gets the first node, NULL if empty. &#160;&#160;O(1)." alt="" coords="269,56,411,83"/>
+</map>

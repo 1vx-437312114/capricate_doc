@@ -1,5 +1,20 @@
 var searchData=
 [
-  ['_5farray_2602',['_array',['../d9/d6b/structpretty__print_1_1array__wrapper__n.html#a1c624bd8bff553e7e0f2c85916dbff7f',1,'pretty_print::array_wrapper_n']]],
-  ['_5fn_2603',['_n',['../d9/d6b/structpretty__print_1_1array__wrapper__n.html#a06bcddab367c8b7b86369728065a7f01',1,'pretty_print::array_wrapper_n']]]
+  ['_5farray_3494',['_array',['../d9/d6b/structpretty__print_1_1array__wrapper__n.html#a1c624bd8bff553e7e0f2c85916dbff7f',1,'pretty_print::array_wrapper_n']]],
+  ['_5fccweba_3495',['_ccwebA',['../d5/dee/orientation_8c.html#a5cb3b13229978deb7f17f0f77e58ce3b',1,'orientation.c']]],
+  ['_5fccwebb_3496',['_ccwebB',['../d5/dee/orientation_8c.html#a45e02992751d5dfbb587c5fb493a66cb',1,'orientation.c']]],
+  ['_5fccwebc_3497',['_ccwebC',['../d5/dee/orientation_8c.html#ad4414062c2abfc3607c5b5d6fbbda498',1,'orientation.c']]],
+  ['_5feps_3498',['_eps',['../d5/dee/orientation_8c.html#aecf31ffa84a1f1ad24aa4f7660dac7c6',1,'orientation.c']]],
+  ['_5ficceba_3499',['_iccebA',['../d5/dee/orientation_8c.html#a6fa5e987a3ac8d15688359e27909a00b',1,'orientation.c']]],
+  ['_5ficcebb_3500',['_iccebB',['../d5/dee/orientation_8c.html#ab9c6ea48155dbdeb626f79986df41ceb',1,'orientation.c']]],
+  ['_5ficcebc_3501',['_iccebC',['../d5/dee/orientation_8c.html#acbcca79fce81b2e03298794a24ae6f27',1,'orientation.c']]],
+  ['_5fispeba_3502',['_ispebA',['../d5/dee/orientation_8c.html#a89715e2c15ca0493be1c22a9b9e85d83',1,'orientation.c']]],
+  ['_5fispebb_3503',['_ispebB',['../d5/dee/orientation_8c.html#aeabaa8e1aef3eaf94ff495cb1499ed00',1,'orientation.c']]],
+  ['_5fispebc_3504',['_ispebC',['../d5/dee/orientation_8c.html#a52aa49b50b4610d68dce4b670dc812f2',1,'orientation.c']]],
+  ['_5fn_3505',['_n',['../d9/d6b/structpretty__print_1_1array__wrapper__n.html#a06bcddab367c8b7b86369728065a7f01',1,'pretty_print::array_wrapper_n']]],
+  ['_5fo3eba_3506',['_o3ebA',['../d5/dee/orientation_8c.html#add74805dbbfe6e9cf16764d9d8b26f22',1,'orientation.c']]],
+  ['_5fo3ebb_3507',['_o3ebB',['../d5/dee/orientation_8c.html#abfca92ef570aea97d39821caef42489d',1,'orientation.c']]],
+  ['_5fo3ebc_3508',['_o3ebC',['../d5/dee/orientation_8c.html#a7613d6e62624103f80a86a70ba4801d9',1,'orientation.c']]],
+  ['_5freb_3509',['_reb',['../d5/dee/orientation_8c.html#a7cf7666a3ebe485881218d12dbe0f42f',1,'orientation.c']]],
+  ['_5fspl_3510',['_spl',['../d5/dee/orientation_8c.html#aab56c6cbe1287756bdf4db2610ad9584',1,'orientation.c']]]
 ];

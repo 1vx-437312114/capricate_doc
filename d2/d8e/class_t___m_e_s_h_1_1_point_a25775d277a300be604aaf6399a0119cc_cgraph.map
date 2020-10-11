@@ -1,0 +1,5 @@
+<map id="T_MESH::Point::pointInInnerTriangle" name="T_MESH::Point::pointInInnerTriangle">
+<area shape="rect" id="node1" title="true if the coplanar point &#39;p&#39; is in the inner area of v1&#45;v2&#45;v3." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$de/df9/namespace_t___m_e_s_h.html#a5dcbe262a73a0769e3f63025edf3d25d" title="Orientation predicates on PM_Rationals." alt="" coords="244,13,377,39"/>
+<area shape="rect" id="node3" href="$de/df9/namespace_t___m_e_s_h.html#a2bad1f974ad8c908dd703494055080c1" title="Orientation predicates using filtering on doubles." alt="" coords="425,13,563,39"/>
+</map>

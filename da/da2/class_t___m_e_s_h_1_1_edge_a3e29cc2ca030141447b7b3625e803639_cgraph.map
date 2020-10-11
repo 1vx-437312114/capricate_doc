@@ -1,0 +1,4 @@
+<map id="T_MESH::Edge::printEdge" name="T_MESH::Edge::printEdge">
+<area shape="rect" id="node1" title="Print the coordinates of the end&#45;ponts to the file handler pointed to by &#39;f&#39; (stdout by default)." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a0a298131a482c67ca63c9e93b51272ad" title="Prints the coordinates of the point to a file handler. stdout is the default." alt="" coords="231,5,408,32"/>
+</map>

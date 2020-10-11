@@ -1,0 +1,6 @@
+<map id="T_MESH::Point::segmentIntersectsTriangle" name="T_MESH::Point::segmentIntersectsTriangle">
+<area shape="rect" id="node1" title="true if segment (s1&#45;s2) intersects the triangle v1&#45;v2&#45;v3 (border included)." alt="" coords="535,23,765,65"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a52d4b92af3766a8a3967ce729ddb3661" title="true if this edge itersects &#39;t&#39; other than on common subsimplexes" alt="" coords="300,5,479,32"/>
+<area shape="rect" id="node3" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a38d6dedff09dd67bc25defcb61304546" title="true if this triangle itersects &#39;t&#39; other than on common subsimplexes if &#39;justproper&#39; is true,..." alt="" coords="292,56,487,83"/>
+<area shape="rect" id="node4" href="$d3/d21/class_t___m_e_s_h_1_1di__cell.html#a225e296cc8fdea7f5dbc9d4b9a5bc79c" title=" " alt="" coords="5,56,244,83"/>
+</map>

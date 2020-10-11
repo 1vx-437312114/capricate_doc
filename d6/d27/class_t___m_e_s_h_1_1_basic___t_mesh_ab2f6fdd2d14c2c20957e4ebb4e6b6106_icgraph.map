@@ -1,0 +1,6 @@
+<map id="T_MESH::Basic_TMesh::selectConnectedComponent" name="T_MESH::Basic_TMesh::selectConnectedComponent">
+<area shape="rect" id="node1" title="Selects all the triangles of the connected component containing t0. O(N)." alt="" coords="505,35,700,76"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a414e3ca5cfc7a3ab7a29a269f92ca7fb" title="This method removes one connected component from the mesh and creates a separate new mesh out of it." alt="" coords="264,5,428,47"/>
+<area shape="rect" id="node3" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#ac35a3a7911650055568e58508d784d45" title=" " alt="" coords="235,71,457,98"/>
+<area shape="rect" id="node4" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#acab069f805e6c473afb4e340d3d8d1ae" title="&lt; AMF_CHANGE &#45; since T_MESH 2.4&#45;2 &gt;" alt="" coords="5,71,187,98"/>
+</map>

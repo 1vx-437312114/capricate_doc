@@ -1,0 +1,11 @@
+<map id="T_MESH::Basic_TMesh::removeUnlinkedElements" name="T_MESH::Basic_TMesh::removeUnlinkedElements">
+<area shape="rect" id="node1" title="Removes all the unlinked elements from the lists. Returns the number of removed elements...." alt="" coords="5,99,184,141"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a31ae056d8614b35cf8b4ea59f6b6a008" title="Removes all the unlinked edges from List E. Returns the number of removed edges. O(N)." alt="" coords="232,34,396,75"/>
+<area shape="rect" id="node8" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a4e221f29cf4ddb2c64ab866fc7a7e996" title="Removes all the unlinked triangles from List T. Returns the number of removed triangles...." alt="" coords="232,99,396,141"/>
+<area shape="rect" id="node9" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a46cd99ce46b77a7b154c0a651cf80afa" title="Removes all the unlinked vertices from List V. Returns the number of removed vertices...." alt="" coords="232,165,396,206"/>
+<area shape="rect" id="node3" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af3baa55cf02bd943635012a489d6c33a" title="Gets the first node, NULL if empty. &#160;&#160;O(1)." alt="" coords="463,56,604,83"/>
+<area shape="rect" id="node4" href="$da/d53/class_t___m_e_s_h_1_1_node.html#ae661edb2148691ba90cfe14d73d2545b" title="Returns the next node in the list, possibly NULL." alt="" coords="459,107,607,133"/>
+<area shape="rect" id="node5" href="$da/d53/class_t___m_e_s_h_1_1_node.html#aed5d13bba326f240b2058b5a2a28c3c3" title="Returns the previous node in the list, possibly NULL." alt="" coords="459,157,607,184"/>
+<area shape="rect" id="node6" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#aec091d7c66b66c92fe56f06f41f448f4" title="Deletes and removes the node &#39;n&#39; from the list. &#160;&#160;O(1)." alt="" coords="444,208,623,235"/>
+<area shape="rect" id="node7" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a700222ddbd4160a36795249926752f79" title="Gets the last node, NULL if empty. &#160;&#160;O(1)." alt="" coords="468,5,599,32"/>
+</map>

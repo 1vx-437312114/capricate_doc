@@ -1,8 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d4/dcd/class_mesh_boolean_operation_filter.html" title="Base class for boolean operations on polygon meshes filters." alt="" coords="5,122,192,149"/>
-<area shape="rect" id="node2" href="$d9/d68/class_cork_mesh_boolean_operation_filter.html" title="Filter for boolean operations on polygon meshes using the cork library." alt="" coords="253,5,439,47"/>
-<area shape="rect" id="node3" href="$d4/d76/class_i_g_l_mesh_boolean_operation_filter.html" title="Filter for boolean operations on polygon meshes using the igl library." alt="" coords="243,71,449,98"/>
-<area shape="rect" id="node4" href="$db/dff/class_v_t_k_mesh_boolean_operation_filter.html" title="Filter for boolean operations on polygon meshes using the vtk library with the vtkBooleanOperationPol..." alt="" coords="240,122,452,149"/>
-<area shape="rect" id="node5" href="$d8/d32/class_v_t_k_mesh_bool_filter.html" title="Filter for boolean operations on polygon meshes using the vtkbool library." alt="" coords="279,173,413,199"/>
-<area shape="rect" id="node6" href="$dd/da0/class_v_t_k_mesh_loop_boolean_operation_filter.html" title="Filter for boolean operations on polygon meshes using the vtk library with the vtkLoopBooleanPolyData..." alt="" coords="241,224,451,265"/>
+<area shape="rect" id="node1" href="$d2/dcb/struct_manhattan_distance_heuristic.html" title="Manhattan distance heuristic functor." alt="" coords="5,5,192,32"/>
 </map>

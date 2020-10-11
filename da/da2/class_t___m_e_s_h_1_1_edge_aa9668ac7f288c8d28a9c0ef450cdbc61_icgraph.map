@@ -1,0 +1,10 @@
+<map id="T_MESH::Edge::overlaps" name="T_MESH::Edge::overlaps">
+<area shape="rect" id="node1" title="Returns TRUE if edge is not on boundary and its two incident triangles overlap." alt="" coords="487,109,657,135"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#af1784de753585f8a0d7c8d481c751147" title="Return TRUE iff one of the adjacent triangles overlaps with this one." alt="" coords="244,14,431,41"/>
+<area shape="rect" id="node4" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ae68a594aa67b93af92c5a6f57296f32d" title="Unlinks the vertex if it is either Flat() or DoubleFlat()." alt="" coords="247,68,427,109"/>
+<area shape="rect" id="node6" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0d6037f1cb9166537f576f93bb38fea3" title="Removes overlapping triangles and return their number." alt="" coords="240,133,435,175"/>
+<area shape="rect" id="node7" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a88600f587cbaf2f57c7be3b6e202a22d" title="This is as coordBackApproximation() but it also checks for intersections and, if any,..." alt="" coords="236,199,439,240"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a6c419b3b7ebd44fca9fdc7a048ff7b52" title="Retriangulates the vertex neghborhood based on heuristics." alt="" coords="15,5,179,47"/>
+<area shape="rect" id="node5" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa754eda7f26bb3d770882fcf625c83c3" title="Removes all the vertices that can be deleted without changing the geometric realization...." alt="" coords="5,71,188,112"/>
+<area shape="rect" id="node8" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#acab069f805e6c473afb4e340d3d8d1ae" title="&lt; AMF_CHANGE &#45; since T_MESH 2.4&#45;2 &gt;" alt="" coords="6,206,187,233"/>
+</map>

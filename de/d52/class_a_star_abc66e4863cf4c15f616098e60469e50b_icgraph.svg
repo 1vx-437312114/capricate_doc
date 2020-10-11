@@ -147,18 +147,17 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="../../d0/da8/class_threshold_accepting_optimizer.html#a6dead9a1dffa1d54cb9cc59e80655fb7" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="354,-175.5 354,-205.5 499,-205.5 499,-175.5 354,-175.5"/>
-<text text-anchor="start" x="362" y="-193.5" font-family="Helvetica,sans-Serif" font-size="10.00">ThresholdAcceptingOptimizer</text>
-<text text-anchor="middle" x="426.5" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">::optimize</text>
+<g id="a_node7"><a xlink:href="../../dc/d6d/class_g_a_optimizer.html#a71b18c78d275e4d896826f07b2e01f4b" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="0,-186 0,-205 116,-205 116,-186 0,-186"/>
+<text text-anchor="middle" x="58" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">GAOptimizer::optimize</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node5&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M581.47,-102.86C570.31,-105.67 558.59,-109.96 549,-116.5 526.67,-131.72 535.14,-150 513,-165.5 507.43,-169.4 501.24,-172.7 494.82,-175.49"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="582.47,-106.23 591.49,-100.67 580.97,-99.39 582.47,-106.23"/>
+<path fill="none" stroke="midnightblue" d="M580.91,-97.62C526.31,-98.36 425,-101.83 340,-116.5 244.62,-132.96 135.14,-168.83 85.7,-185.99"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="581.23,-101.12 591.19,-97.5 581.15,-94.12 581.23,-101.12"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
@@ -211,17 +210,18 @@
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="../../dc/d6d/class_g_a_optimizer.html#a71b18c78d275e4d896826f07b2e01f4b" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-186 0,-205 116,-205 116,-186 0,-186"/>
-<text text-anchor="middle" x="58" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">GAOptimizer::optimize</text>
+<g id="a_node11"><a xlink:href="../../d0/da8/class_threshold_accepting_optimizer.html#a6dead9a1dffa1d54cb9cc59e80655fb7" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="354,-175.5 354,-205.5 499,-205.5 499,-175.5 354,-175.5"/>
+<text text-anchor="start" x="362" y="-193.5" font-family="Helvetica,sans-Serif" font-size="10.00">ThresholdAcceptingOptimizer</text>
+<text text-anchor="middle" x="426.5" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">::optimize</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node11 -->
 <g id="edge10" class="edge">
 <title>Node5&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M580.91,-97.62C526.31,-98.36 425,-101.83 340,-116.5 244.62,-132.96 135.14,-168.83 85.7,-185.99"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="581.23,-101.12 591.19,-97.5 581.15,-94.12 581.23,-101.12"/>
+<path fill="none" stroke="midnightblue" d="M581.47,-102.86C570.31,-105.67 558.59,-109.96 549,-116.5 526.67,-131.72 535.14,-150 513,-165.5 507.43,-169.4 501.24,-172.7 494.82,-175.49"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="582.47,-106.23 591.49,-100.67 580.97,-99.39 582.47,-106.23"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node">
@@ -296,33 +296,33 @@
 <g id="node16" class="node">
 <title>Node16</title>
 <g id="a_node16"><a xlink:href="../../d1/d15/class_hill_climbing_optimizer.html#a9795a338d707c56b13c72901ae29d5a6" target="_top" xlink:title="Run hill climbing algorithm.">
-<polygon fill="white" stroke="black" points="566,-273.5 566,-303.5 677,-303.5 677,-273.5 566,-273.5"/>
-<text text-anchor="start" x="574" y="-291.5" font-family="Helvetica,sans-Serif" font-size="10.00">HillClimbingOptimizer</text>
-<text text-anchor="middle" x="621.5" y="-280.5" font-family="Helvetica,sans-Serif" font-size="10.00">::hillClimbing</text>
+<polygon fill="white" stroke="black" points="566,-224.5 566,-254.5 677,-254.5 677,-224.5 566,-224.5"/>
+<text text-anchor="start" x="574" y="-242.5" font-family="Helvetica,sans-Serif" font-size="10.00">HillClimbingOptimizer</text>
+<text text-anchor="middle" x="621.5" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">::hillClimbing</text>
 </a>
 </g>
 </g>
 <!-- Node14&#45;&gt;Node16 -->
 <g id="edge16" class="edge">
 <title>Node14&#45;&gt;Node16</title>
-<path fill="none" stroke="midnightblue" d="M735.8,-210.6C733.8,-211.82 731.86,-213.12 730,-214.5 707.99,-230.8 716.04,-248.25 694,-264.5 688.84,-268.31 683.03,-271.54 677.01,-274.27"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="737.81,-213.49 744.94,-205.65 734.48,-207.33 737.81,-213.49"/>
+<path fill="none" stroke="midnightblue" d="M735.76,-208.32C716.54,-213.61 695.69,-219.35 677.18,-224.45"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="736.93,-211.63 745.64,-205.6 735.07,-204.88 736.93,-211.63"/>
 </g>
 <!-- Node17 -->
 <g id="node17" class="node">
 <title>Node17</title>
 <g id="a_node17"><a xlink:href="../../d1/d15/class_hill_climbing_optimizer.html#ae2de69929faffda3aeb400bde2a5a097" target="_top" xlink:title="Run hill climbing algorithm with random restart.">
-<polygon fill="white" stroke="black" points="550.5,-224.5 550.5,-254.5 692.5,-254.5 692.5,-224.5 550.5,-224.5"/>
-<text text-anchor="start" x="558.5" y="-242.5" font-family="Helvetica,sans-Serif" font-size="10.00">HillClimbingOptimizer</text>
-<text text-anchor="middle" x="621.5" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">::hillClimbingRandomRestart</text>
+<polygon fill="white" stroke="black" points="550.5,-273.5 550.5,-303.5 692.5,-303.5 692.5,-273.5 550.5,-273.5"/>
+<text text-anchor="start" x="558.5" y="-291.5" font-family="Helvetica,sans-Serif" font-size="10.00">HillClimbingOptimizer</text>
+<text text-anchor="middle" x="621.5" y="-280.5" font-family="Helvetica,sans-Serif" font-size="10.00">::hillClimbingRandomRestart</text>
 </a>
 </g>
 </g>
 <!-- Node14&#45;&gt;Node17 -->
 <g id="edge18" class="edge">
 <title>Node14&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M735.76,-208.32C716.54,-213.61 695.69,-219.35 677.18,-224.45"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="736.93,-211.63 745.64,-205.6 735.07,-204.88 736.93,-211.63"/>
+<path fill="none" stroke="midnightblue" d="M735.8,-210.6C733.8,-211.82 731.86,-213.12 730,-214.5 707.99,-230.8 716.04,-248.25 694,-264.5 689.36,-267.92 684.21,-270.87 678.85,-273.42"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="737.81,-213.49 744.94,-205.65 734.48,-207.33 737.81,-213.49"/>
 </g>
 <!-- Node18 -->
 <g id="node18" class="node">
@@ -380,14 +380,14 @@
 <!-- Node16&#45;&gt;Node9 -->
 <g id="edge17" class="edge">
 <title>Node16&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M556.24,-272.19C532.26,-266.1 505.28,-259.25 482.23,-253.4"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="555.41,-275.59 565.97,-274.66 557.14,-268.8 555.41,-275.59"/>
+<path fill="none" stroke="midnightblue" d="M555.92,-239.5C532.02,-239.5 505.18,-239.5 482.23,-239.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="555.97,-243 565.97,-239.5 555.97,-236 555.97,-243"/>
 </g>
 <!-- Node17&#45;&gt;Node9 -->
 <g id="edge19" class="edge">
 <title>Node17&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M540.18,-239.5C520.67,-239.5 500.25,-239.5 482.24,-239.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="540.28,-243 550.28,-239.5 540.28,-236 540.28,-243"/>
+<path fill="none" stroke="midnightblue" d="M551.33,-270.94C528.54,-265.15 503.54,-258.81 482,-253.34"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="550.73,-274.4 561.28,-273.47 552.45,-267.61 550.73,-274.4"/>
 </g>
 <!-- Node19 -->
 <g id="node19" class="node">
@@ -425,9 +425,9 @@
 <path fill="none" stroke="midnightblue" d="M366.09,-321.01C338.05,-315.59 304.98,-309.19 278.35,-304.04"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="365.69,-324.5 376.17,-322.96 367.01,-317.62 365.69,-324.5"/>
 </g>
-<!-- Node20&#45;&gt;Node11 -->
+<!-- Node20&#45;&gt;Node7 -->
 <g id="edge23" class="edge">
-<title>Node20&#45;&gt;Node11</title>
+<title>Node20&#45;&gt;Node7</title>
 <path fill="none" stroke="midnightblue" d="M201.92,-279.72C166.98,-259.13 104.66,-222.41 75.23,-205.07"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="200.19,-282.77 210.59,-284.83 203.75,-276.73 200.19,-282.77"/>
 </g>
@@ -437,9 +437,9 @@
 <path fill="none" stroke="midnightblue" d="M538.93,-26.47C525.76,-25.17 512.21,-23.84 499.3,-22.57"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="538.61,-29.96 548.91,-27.45 539.3,-22.99 538.61,-29.96"/>
 </g>
-<!-- Node22&#45;&gt;Node7 -->
+<!-- Node22&#45;&gt;Node11 -->
 <g id="edge28" class="edge">
-<title>Node22&#45;&gt;Node7</title>
+<title>Node22&#45;&gt;Node11</title>
 <path fill="none" stroke="midnightblue" d="M538.54,-190.5C525.5,-190.5 512.09,-190.5 499.3,-190.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="538.91,-194 548.91,-190.5 538.91,-187 538.91,-194"/>
 </g>

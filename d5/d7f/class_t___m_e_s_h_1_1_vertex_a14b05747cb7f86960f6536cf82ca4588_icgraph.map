@@ -1,0 +1,12 @@
+<map id="T_MESH::Vertex::VT" name="T_MESH::Vertex::VT">
+<area shape="rect" id="node1" title="List of incident triangles." alt="" coords="712,130,859,157"/>
+<area shape="rect" id="node2" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ab1b8b908e7dd7b5ef141c4374e81ce9f" title="Normal at the vertex computed as the sum of incident triangle normals weighted on their incidence ang..." alt="" coords="470,17,659,43"/>
+<area shape="rect" id="node4" href="$de/df9/namespace_t___m_e_s_h.html#acb1342ee7a7281f17abe972751299e4b" title=" " alt="" coords="472,71,657,98"/>
+<area shape="rect" id="node7" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ae68a594aa67b93af92c5a6f57296f32d" title="Unlinks the vertex if it is either Flat() or DoubleFlat()." alt="" coords="475,123,655,164"/>
+<area shape="rect" id="node9" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a6c419b3b7ebd44fca9fdc7a048ff7b52" title="Retriangulates the vertex neghborhood based on heuristics." alt="" coords="483,188,647,229"/>
+<area shape="rect" id="node10" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#aa42496c5fe09d307db8af7b93315beb7" title="A third of the total area of incident triangles." alt="" coords="465,254,664,281"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aeee5df0f56276202cb41254b08ea07ac" title="Randomly move vertices along their normals." alt="" coords="244,5,408,47"/>
+<area shape="rect" id="node5" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#a4a05d540177eaf325992664030d0743e" title=" " alt="" coords="235,71,417,98"/>
+<area shape="rect" id="node6" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#acab069f805e6c473afb4e340d3d8d1ae" title="&lt; AMF_CHANGE &#45; since T_MESH 2.4&#45;2 &gt;" alt="" coords="5,71,187,98"/>
+<area shape="rect" id="node8" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa754eda7f26bb3d770882fcf625c83c3" title="Removes all the vertices that can be deleted without changing the geometric realization...." alt="" coords="235,123,417,164"/>
+</map>

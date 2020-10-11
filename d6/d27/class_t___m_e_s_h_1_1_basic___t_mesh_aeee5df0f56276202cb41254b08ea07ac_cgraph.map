@@ -1,0 +1,27 @@
+<map id="T_MESH::Basic_TMesh::addNormalNoise" name="T_MESH::Basic_TMesh::addNormalNoise">
+<area shape="rect" id="node1" title="Randomly move vertices along their normals." alt="" coords="5,277,169,318"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#adea1f5290b0c0e649bdd0ed31ac6bf5d" title="Approximate bounding ball radius. O(N)." alt="" coords="229,99,395,141"/>
+<area shape="rect" id="node7" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ab1b8b908e7dd7b5ef141c4374e81ce9f" title="Normal at the vertex computed as the sum of incident triangle normals weighted on their incidence ang..." alt="" coords="217,284,407,311"/>
+<area shape="rect" id="node21" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af0e61026072f65c9ba882df526acfd2e" title="Gets the number of elements. &#160;&#160;O(1)." alt="" coords="733,664,887,691"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0fde7560f4781428338f067e79a544ef" title="Bounding box longest edge. &#39;b&#39; and &#39;t&#39; are set as the longest diagonal end&#45;points...." alt="" coords="472,41,636,82"/>
+<area shape="rect" id="node4" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#aad687fb125896ea8a6c53fd5d4035f10" title="Divides the vector by its length. If isNull() the application exits with an error." alt="" coords="465,107,643,133"/>
+<area shape="rect" id="node5" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a365cdce7948e9459b819b2357b05cb72" title=" " alt="" coords="731,5,889,32"/>
+<area shape="rect" id="node6" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a61ce9f22ddfe41f036566d4a2f920ac4" title="Distance from origin." alt="" coords="993,107,1150,133"/>
+<area shape="rect" id="node8" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a571efd48d91c2b1cb1ec13d31f1dd7bf" title="Angle at vertex &#39;v&#39;. Return &#45;1 if &#39;v&#39; is not a vertex of the triangle." alt="" coords="459,208,649,235"/>
+<area shape="rect" id="node14" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a8691b38a70ff623515691c89945ddd64" title="Return a normal vector with direction (v1&#45;v2) cross (v2&#45;v3). If triangle is degenerate return a null ..." alt="" coords="455,259,653,285"/>
+<area shape="rect" id="node15" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a0ac3250c48d7be19c5184d15366c8b85" title="TRUE if vector is (0,0,0)" alt="" coords="477,309,631,336"/>
+<area shape="rect" id="node16" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a958776075d9b5e917461dc9adcacf7c4" title="Creates a new point with coordinates (0,0,0)." alt="" coords="478,360,630,387"/>
+<area shape="rect" id="node17" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a14b05747cb7f86960f6536cf82ca4588" title="List of incident triangles." alt="" coords="481,487,627,513"/>
+<area shape="rect" id="node9" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a7d19f5b5b98c1999de03da56eab91478" title=" " alt="" coords="723,107,897,133"/>
+<area shape="rect" id="node10" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#aa7b9f783f2e4339083f46d25d3eecf68" title="First vertex." alt="" coords="734,208,886,235"/>
+<area shape="rect" id="node12" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a1bf6a231440a3c73a931c1cfccfee574" title="Second vertex." alt="" coords="734,259,886,285"/>
+<area shape="rect" id="node13" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0c4c2a2ba6b0c975aa3d260f00785e8f" title="Third vertex." alt="" coords="734,309,886,336"/>
+<area shape="rect" id="node11" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a560eca8895471f987bd3228b13c40052" title="Vertex shared with edge &#39;b&#39;. NULL if this and &#39;b&#39; do not share any vertex." alt="" coords="967,259,1176,285"/>
+<area shape="rect" id="node18" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#ae601a7e17364ce83f74ffcb6c64971ca" title="Appends a new node storing &#39;d&#39; to the head. &#160;&#160;O(1)." alt="" coords="717,360,903,387"/>
+<area shape="rect" id="node19" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a1b14a2838ee3745d5fb413f9e7ecc214" title="Appends a new node storing &#39;d&#39; to the tail. &#160;&#160;O(1)." alt="" coords="723,411,897,437"/>
+<area shape="rect" id="node20" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a96830b6d677fab318268f287682ad151" title="Triangle on the left of the edge when looking from &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="717,461,903,488"/>
+<area shape="rect" id="node22" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a77cc688b97fd6501b5dca8385fce4137" title="Triangle&#39;s edge opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the triangle." alt="" coords="701,512,919,539"/>
+<area shape="rect" id="node24" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aef981891343c94489f00b060bd654b6c" title="Vertex opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="706,563,914,589"/>
+<area shape="rect" id="node25" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aa9788a51d590116555c8a062e253a197" title="Triangle on the right of the edge when looking from &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="713,613,907,640"/>
+<area shape="rect" id="node23" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a7d7329ff24b7b6eb2eceee39711dd650" title="TRUE iff &#39;v&#39; is an end&#45;point of the edge." alt="" coords="981,512,1161,539"/>
+</map>

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['polyhedron_3148',['Polyhedron',['../dd/db0/cgal__defs_8h.html#ab2e9050780d379b0920b2729f17c0248',1,'cgal_defs.h']]],
-  ['primitive_3149',['Primitive',['../dd/db0/cgal__defs_8h.html#a329a1711af02e6b8bbbde7c6623f6e0d',1,'cgal_defs.h']]],
-  ['priorityqueue_3150',['PriorityQueue',['../de/d52/class_a_star.html#a53efbbbc186b13d1246133127db33714',1,'AStar']]]
+  ['nef_5fpolyhedron_3923',['Nef_polyhedron',['../dd/db0/cgal__defs_8h.html#abee79c4ec4a0f449a079b9521217a557',1,'cgal_defs.h']]],
+  ['no_3924',['no',['../db/de3/structpretty__print_1_1detail_1_1sfinae__base.html#ab8ea87e476a507db1f9a3b50672f08ff',1,'pretty_print::detail::sfinae_base']]]
 ];

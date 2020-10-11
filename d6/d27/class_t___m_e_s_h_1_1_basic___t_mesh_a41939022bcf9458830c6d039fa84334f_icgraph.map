@@ -1,0 +1,6 @@
+<map id="T_MESH::Basic_TMesh::newObject" name="T_MESH::Basic_TMesh::newObject">
+<area shape="rect" id="node1" title=" " alt="" coords="471,39,635,80"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#afc1a8623d60cb11d867453bde34bd06e" title="Creates a new Basic_TMesh out of an existing selection containing &#39;t0&#39;. O(output)." alt="" coords="217,5,423,47"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a8686b7d18135399d26971c4e7f76ab76" title="Creates a new Basic_TMesh out of an existing triangle &#39;t0&#39;. O(output)." alt="" coords="221,71,419,112"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a414e3ca5cfc7a3ab7a29a269f92ca7fb" title="This method removes one connected component from the mesh and creates a separate new mesh out of it." alt="" coords="5,5,169,47"/>
+</map>

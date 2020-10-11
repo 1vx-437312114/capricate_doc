@@ -1,0 +1,5 @@
+<map id="T_MESH::Point::printPoint" name="T_MESH::Point::printPoint">
+<area shape="rect" id="node1" title="Prints the coordinates of the point to a file handler. stdout is the default." alt="" coords="263,31,440,57"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a3e29cc2ca030141447b7b3625e803639" title="Print the coordinates of the end&#45;ponts to the file handler pointed to by &#39;f&#39; (stdout by default)." alt="" coords="21,5,199,32"/>
+<area shape="rect" id="node3" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a6db1cbebee2a40f5c7a0bf4f2bb008c3" title="Print the coordinates of the three vertices to the file handler pointed to by &#39;f&#39; (stdout by default)..." alt="" coords="5,56,215,83"/>
+</map>

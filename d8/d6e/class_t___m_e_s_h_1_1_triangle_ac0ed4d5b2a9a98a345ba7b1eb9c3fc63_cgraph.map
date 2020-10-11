@@ -1,0 +1,5 @@
+<map id="T_MESH::Triangle::distanceFromPoint" name="T_MESH::Triangle::distanceFromPoint">
+<area shape="rect" id="node1" title="Distance of &#39;p&#39; from the plane of the triangle. Return &#45;1 if triangle is degenerate." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a7428d00b62feac8bfadd50a1ae670303" title="Squared distance of &#39;p&#39; from the plane of the triangle. Return &#45;1 if triangle is degenerate." alt="" coords="240,5,424,47"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#ab776fd41b76790c8451e5f82969f07b8" title="Convert to vector v2&#45;v1." alt="" coords="472,13,643,39"/>
+</map>

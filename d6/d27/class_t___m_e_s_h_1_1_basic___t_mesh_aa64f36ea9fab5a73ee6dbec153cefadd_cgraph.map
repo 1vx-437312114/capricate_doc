@@ -1,0 +1,8 @@
+<map id="T_MESH::Basic_TMesh::quantize" name="T_MESH::Basic_TMesh::quantize">
+<area shape="rect" id="node1" title="Scale the mesh to make it fit within a cube [0,0,0]&#45;[s,s,s] and snap coordinates on grid points O(N)." alt="" coords="5,50,169,91"/>
+<area shape="rect" id="node2" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a12d40351e8d8099cd930aea0a408ee01" title=" " alt="" coords="473,5,704,32"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a698f2a4f416e6535de5fa46f511b73ef" title="Scale the mesh to make it fit within a cube [0,0,0]&#45;[s,s,s]. O(N)." alt="" coords="239,109,403,150"/>
+<area shape="rect" id="node6" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a96b364867d5c72426bdda3d5307cc49d" title="Returns the status before the switch." alt="" coords="217,57,425,84"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0fde7560f4781428338f067e79a544ef" title="Bounding box longest edge. &#39;b&#39; and &#39;t&#39; are set as the longest diagonal end&#45;points...." alt="" coords="507,79,671,121"/>
+<area shape="rect" id="node5" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a5297bdff57822d8539beeb21eaccebdc" title="Set the coordinates to (a,b,c)." alt="" coords="503,145,675,172"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="T_MESH::Point::pointInInnerTriangle" name="T_MESH::Point::pointInInnerTriangle">
+<area shape="rect" id="node1" title="true if the coplanar point &#39;p&#39; is in the inner area of v1&#45;v2&#45;v3." alt="" coords="813,27,1004,69"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#abde09ee10e5163f8e7a6143e0c66b96c" title="true if the coplanar point &#39;p&#39; is either in the inner area of v1&#45;v2&#45;v3 or on its border." alt="" coords="547,5,753,32"/>
+<area shape="rect" id="node6" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#aa7c967dd92c65e98ad3169b2e5715c5e" title="true if segment (s1&#45;s2) intersects the triangle v1&#45;v2&#45;v3 (border included)." alt="" coords="535,57,765,98"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a52d4b92af3766a8a3967ce729ddb3661" title="true if this edge itersects &#39;t&#39; other than on common subsimplexes" alt="" coords="300,8,479,35"/>
+<area shape="rect" id="node4" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a38d6dedff09dd67bc25defcb61304546" title="true if this triangle itersects &#39;t&#39; other than on common subsimplexes if &#39;justproper&#39; is true,..." alt="" coords="292,60,487,87"/>
+<area shape="rect" id="node5" href="$d3/d21/class_t___m_e_s_h_1_1di__cell.html#a225e296cc8fdea7f5dbc9d4b9a5bc79c" title=" " alt="" coords="5,60,244,87"/>
+</map>

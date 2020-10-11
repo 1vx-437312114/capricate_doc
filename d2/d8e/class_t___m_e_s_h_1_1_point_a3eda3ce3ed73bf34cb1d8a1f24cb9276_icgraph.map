@@ -1,0 +1,4 @@
+<map id="T_MESH::Point::segmentsIntersect" name="T_MESH::Point::segmentsIntersect">
+<area shape="rect" id="node1" title="true if (p1&#45;p2) properly intersects (sp1&#45;sp2) at any point (endpoints included)." alt="" coords="232,5,463,32"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a52d4b92af3766a8a3967ce729ddb3661" title="true if this edge itersects &#39;t&#39; other than on common subsimplexes" alt="" coords="5,5,184,32"/>
+</map>

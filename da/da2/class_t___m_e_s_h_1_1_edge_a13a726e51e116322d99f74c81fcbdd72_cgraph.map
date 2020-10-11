@@ -1,0 +1,5 @@
+<map id="T_MESH::Edge::length" name="T_MESH::Edge::length">
+<area shape="rect" id="node1" title="Euclidean length of the edge." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a8261009d0497d23fdb28ac451f70cc64" title="Distance from &#39;b&#39;." alt="" coords="211,5,381,32"/>
+<area shape="rect" id="node3" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a61ce9f22ddfe41f036566d4a2f920ac4" title="Distance from origin." alt="" coords="429,5,587,32"/>
+</map>

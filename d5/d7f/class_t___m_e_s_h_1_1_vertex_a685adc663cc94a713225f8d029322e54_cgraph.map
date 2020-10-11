@@ -1,0 +1,21 @@
+<map id="T_MESH::Vertex::getAngleForTriangulation" name="T_MESH::Vertex::getAngleForTriangulation">
+<area shape="rect" id="node1" title="Discriminant Angle for triangulating 3D polygons." alt="" coords="5,158,185,199"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a8261009d0497d23fdb28ac451f70cc64" title="Distance from &#39;b&#39;." alt="" coords="267,5,438,32"/>
+<area shape="rect" id="node4" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a7d19f5b5b98c1999de03da56eab91478" title=" " alt="" coords="542,56,715,83"/>
+<area shape="rect" id="node5" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a5cfa58598dda499ca47c6963ef75ea87" title="If the edge is on boundary return its only incident triangle. NULL otherwise." alt="" coords="255,158,450,199"/>
+<area shape="rect" id="node6" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a069887e9f69d8daeb4abc9f24c008666" title="Angle between the normal vector of this and the one of &#39;t&#39;. Return &#45;1 if one or both the triangles ar..." alt="" coords="253,107,452,133"/>
+<area shape="rect" id="node13" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a312b5886ae431004c537b8a2a7f6672f" title="Returns the edge following this vertex on the boundary." alt="" coords="233,224,472,251"/>
+<area shape="rect" id="node17" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aef981891343c94489f00b060bd654b6c" title="Vertex opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="525,309,733,336"/>
+<area shape="rect" id="node18" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a9d9ad69308ac425985b0efe7d39b4315" title="Returns the edge preceeding this vertex on the boundary." alt="" coords="233,275,472,301"/>
+<area shape="rect" id="node3" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a61ce9f22ddfe41f036566d4a2f920ac4" title="Distance from origin." alt="" coords="797,5,954,32"/>
+<area shape="rect" id="node7" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#ac657821ebb19f57ea5d92daaa3aefa34" title="Return a vector orthogonal to the plane of the triangle. If triangle is degenerate return a null vect..." alt="" coords="532,107,725,133"/>
+<area shape="rect" id="node12" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a0ac3250c48d7be19c5184d15366c8b85" title="TRUE if vector is (0,0,0)" alt="" coords="551,157,706,184"/>
+<area shape="rect" id="node8" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#aa7b9f783f2e4339083f46d25d3eecf68" title="First vertex." alt="" coords="799,56,951,83"/>
+<area shape="rect" id="node10" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a1bf6a231440a3c73a931c1cfccfee574" title="Second vertex." alt="" coords="799,107,951,133"/>
+<area shape="rect" id="node11" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0c4c2a2ba6b0c975aa3d260f00785e8f" title="Third vertex." alt="" coords="799,157,951,184"/>
+<area shape="rect" id="node9" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a560eca8895471f987bd3228b13c40052" title="Vertex shared with edge &#39;b&#39;. NULL if this and &#39;b&#39; do not share any vertex." alt="" coords="1013,107,1223,133"/>
+<area shape="rect" id="node14" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a96830b6d677fab318268f287682ad151" title="Triangle on the left of the edge when looking from &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="535,208,722,235"/>
+<area shape="rect" id="node15" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a77cc688b97fd6501b5dca8385fce4137" title="Triangle&#39;s edge opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the triangle." alt="" coords="520,259,737,285"/>
+<area shape="rect" id="node16" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a7d7329ff24b7b6eb2eceee39711dd650" title="TRUE iff &#39;v&#39; is an end&#45;point of the edge." alt="" coords="785,259,965,285"/>
+<area shape="rect" id="node19" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aa9788a51d590116555c8a062e253a197" title="Triangle on the right of the edge when looking from &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="532,360,725,387"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="T_MESH::Basic_TMesh::getBoundingBox" name="T_MESH::Basic_TMesh::getBoundingBox">
+<area shape="rect" id="node1" title="Bounding box longest edge. &#39;b&#39; and &#39;t&#39; are set as the longest diagonal end&#45;points...." alt="" coords="449,100,613,141"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aca7f129613f97d93cfce0bcee716a02a" title="Bounding box longest diagonal. O(N)." alt="" coords="227,5,391,47"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#adea1f5290b0c0e649bdd0ed31ac6bf5d" title="Approximate bounding ball radius. O(N)." alt="" coords="227,71,392,112"/>
+<area shape="rect" id="node5" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#a39f41a2f9e1eeffc391bc84a3c0ebe54" title=" " alt="" coords="217,137,401,163"/>
+<area shape="rect" id="node6" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a698f2a4f416e6535de5fa46f511b73ef" title="Scale the mesh to make it fit within a cube [0,0,0]&#45;[s,s,s]. O(N)." alt="" coords="227,188,391,229"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aeee5df0f56276202cb41254b08ea07ac" title="Randomly move vertices along their normals." alt="" coords="5,71,169,112"/>
+<area shape="rect" id="node7" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa64f36ea9fab5a73ee6dbec153cefadd" title="Scale the mesh to make it fit within a cube [0,0,0]&#45;[s,s,s] and snap coordinates on grid points O(N)." alt="" coords="5,188,169,229"/>
+</map>

@@ -1,8 +1,6 @@
 <map id="PreferencesDialog::PreferencesDialog" name="PreferencesDialog::PreferencesDialog">
-<area shape="rect" id="node1" title=" " alt="" coords="5,71,143,112"/>
-<area shape="rect" id="node2" href="$d0/dc0/class_ui___preferences_dialog.html#a05504e552435cca6485e5ee3a42ffe78" title=" " alt="" coords="191,5,341,47"/>
-<area shape="rect" id="node3" href="$d3/d5f/class_preferences_dialog.html#add6559e2380735b7b61d9093d8c2037f" title=" " alt="" coords="191,71,341,112"/>
-<area shape="rect" id="node6" href="$d0/dc0/class_ui___preferences_dialog.html#ab2433bec54af4eb2a64c32241b994e6d" title=" " alt="" coords="191,136,341,177"/>
-<area shape="rect" id="node4" href="$d3/d5f/class_preferences_dialog.html#a1ffe8d078891d522663969313240c03a" title=" " alt="" coords="389,39,527,80"/>
-<area shape="rect" id="node5" href="$d3/d5f/class_preferences_dialog.html#a5944a55e5e11b2cecef4255e91a12e8a" title=" " alt="" coords="389,104,527,145"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,143,80"/>
+<area shape="rect" id="node2" href="$d3/d5f/class_preferences_dialog.html#add6559e2380735b7b61d9093d8c2037f" title=" " alt="" coords="191,39,341,80"/>
+<area shape="rect" id="node3" href="$d3/d5f/class_preferences_dialog.html#a1ffe8d078891d522663969313240c03a" title=" " alt="" coords="389,5,527,47"/>
+<area shape="rect" id="node4" href="$d3/d5f/class_preferences_dialog.html#a5944a55e5e11b2cecef4255e91a12e8a" title=" " alt="" coords="389,71,527,112"/>
 </map>

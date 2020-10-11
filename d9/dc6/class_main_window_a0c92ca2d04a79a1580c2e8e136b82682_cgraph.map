@@ -1,27 +1,52 @@
 <map id="MainWindow::slotOptimizationBenchmarkSphere" name="MainWindow::slotOptimizationBenchmarkSphere">
-<area shape="rect" id="node1" title=" " alt="" coords="5,414,204,455"/>
-<area shape="rect" id="node2" href="$d9/d4f/namespace_layout_algorithms.html#ad165a81c391eaa466ebce1da720ee6b5" title="Computes a wiring entry point in world coordinates for a sphere shaped touchpoint geometry." alt="" coords="252,151,433,193"/>
-<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a15f9fa9fe71b50669ecf5f5a3a1ce90e" title="Import STL / OBJ mesh into the scene." alt="" coords="262,396,423,423"/>
-<area shape="rect" id="node23" href="$d1/d7c/namespace_utils.html#a4b6c4a605143b128db1c74f39d0277ef" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="285,447,400,473"/>
-<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a11dbefea61baedac29ea616f5fae877d" title="slots" alt="" coords="266,497,419,524"/>
-<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="489,5,659,32"/>
-<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a08e4bb8908089a538371760ac9f2f54e" title="En&#45;/disable all menus (usefull during operations which work in another thread)" alt="" coords="481,421,667,448"/>
-<area shape="rect" id="node6" href="$db/dae/class_voxel_image_visualizer.html#a9d6ddcce68efaea01bfacaa932f27d9a" title="Return RGB color cube output visualization." alt="" coords="729,509,875,550"/>
-<area shape="rect" id="node9" href="$db/dae/class_voxel_image_visualizer.html#a279e821afcfbef7cb624c391eec3b7a4" title="Return visualization of the mesh interior only." alt="" coords="501,574,647,615"/>
-<area shape="rect" id="node11" href="$db/dae/class_voxel_image_visualizer.html#a00b60f629dcc3335bff26934e88b9bcb" title="Return the occupation map visualization (unoccupied = yellow, occupied = blue)" alt="" coords="725,639,879,681"/>
-<area shape="rect" id="node12" href="$db/dae/class_voxel_image_visualizer.html#a5f41640feebb9f49204b777abb09fec2" title="Return visualization with VOXEL_OUTSIDE = &quot;White&quot;, VOXEL_OCCUPIED = &quot;Red&quot;, VOXEL_SHELL = &quot;Yellow&quot;,..." alt="" coords="715,443,889,485"/>
-<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a69be5fbef09fb7b5c37dfe4bf546bd8a" title="Return the used voxelizer." alt="" coords="486,691,662,717"/>
-<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a81962e4df0a9d0167d3870ec87a574d9" title="Return the resolution of the used voxelizer." alt="" coords="486,57,662,98"/>
-<area shape="rect" id="node17" href="$dc/da5/class_voxelizer_thread.html#aeec94d245092bf8afa42ec5af6563e1b" title=" " alt="" coords="492,123,656,149"/>
-<area shape="rect" id="node18" href="$dc/d29/class_v_t_k_algorithm_wait_thread.html#a352c79c18a5dac09f0710f4f61437c79" title=" " alt="" coords="489,174,659,215"/>
-<area shape="rect" id="node19" href="$db/dae/class_voxel_image_visualizer.html#a15634f5a62fd0d71806741d1db033243" title="Set input data of the visualizer." alt="" coords="501,239,647,281"/>
-<area shape="rect" id="node20" href="$db/dae/class_voxel_image_visualizer.html#a65eec474a368555a6ba16c1f54e956db" title="Set output size of the visualization." alt="" coords="501,305,647,346"/>
-<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a37afa0d4419a56879d650a1400b42306" title=" " alt="" coords="488,371,660,397"/>
-<area shape="rect" id="node7" href="$db/dae/class_voxel_image_visualizer.html#a381e70e9dba0cad1fddf946aa7f4a408" title="Compute scaling factor for visualization actor." alt="" coords="950,511,1097,553"/>
-<area shape="rect" id="node8" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="937,579,1109,605"/>
-<area shape="rect" id="node10" href="$db/dae/class_voxel_image_visualizer.html#a266b4be6343bb49d53b4af2c9e7df310" title=" " alt="" coords="729,574,875,615"/>
-<area shape="rect" id="node14" href="$d3/d5f/class_preferences_dialog.html#ace3bbb86fc20219c88cef8ff21f4ebf0" title=" " alt="" coords="721,705,883,746"/>
-<area shape="rect" id="node16" href="$d3/d5f/class_preferences_dialog.html#a987ba30f65385851fb38ef638f7c0bec" title=" " alt="" coords="725,49,879,105"/>
-<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a9b4b1ec94ad0c252298db72eb6cf6d6d" title="Refresh the screen after changes to the scene." alt="" coords="715,371,889,397"/>
-<area shape="rect" id="node24" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="521,741,627,768"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,753,204,795"/>
+<area shape="rect" id="node2" href="$d9/d4f/namespace_layout_algorithms.html#ad165a81c391eaa466ebce1da720ee6b5" title="Computes a wiring entry point in world coordinates for a sphere shaped touchpoint geometry." alt="" coords="252,167,433,208"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a15f9fa9fe71b50669ecf5f5a3a1ce90e" title="Import STL / OBJ mesh into the scene." alt="" coords="262,735,423,762"/>
+<area shape="rect" id="node48" href="$d1/d7c/namespace_utils.html#a4b6c4a605143b128db1c74f39d0277ef" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="285,786,400,813"/>
+<area shape="rect" id="node50" href="$d9/dc6/class_main_window.html#a11dbefea61baedac29ea616f5fae877d" title="slots" alt="" coords="266,837,419,863"/>
+<area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html#ae51e750ddb4737270a4d88494dcc21d9" title="Return the bounds of the touchpoint as array object (in object coordinates)" alt="" coords="497,174,651,201"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="489,123,659,150"/>
+<area shape="rect" id="node6" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a43f812f0731e963443ba5d5e59025b57" title="Returns true only if object is a basic Basic_TMesh. All the reimplementations must return false." alt="" coords="492,823,656,864"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a08e4bb8908089a538371760ac9f2f54e" title="En&#45;/disable all menus (usefull during operations which work in another thread)" alt="" coords="481,1070,667,1097"/>
+<area shape="rect" id="node13" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a24c4a4f93e50ac97dbeed1576c2aeb62" title="Fills all the holes having at least &#39;nbe&#39; boundary edges." alt="" coords="492,757,656,799"/>
+<area shape="rect" id="node25" href="$db/dae/class_voxel_image_visualizer.html#a9d6ddcce68efaea01bfacaa932f27d9a" title="Return RGB color cube output visualization." alt="" coords="747,1289,893,1331"/>
+<area shape="rect" id="node28" href="$db/dae/class_voxel_image_visualizer.html#a279e821afcfbef7cb624c391eec3b7a4" title="Return visualization of the mesh interior only." alt="" coords="501,1172,647,1213"/>
+<area shape="rect" id="node30" href="$db/dae/class_voxel_image_visualizer.html#a00b60f629dcc3335bff26934e88b9bcb" title="Return the occupation map visualization (unoccupied = yellow, occupied = blue)" alt="" coords="743,1485,897,1527"/>
+<area shape="rect" id="node31" href="$db/dae/class_voxel_image_visualizer.html#a5f41640feebb9f49204b777abb09fec2" title="Return visualization with VOXEL_OUTSIDE = &quot;White&quot;, VOXEL_OCCUPIED = &quot;Red&quot;, VOXEL_SHELL = &quot;Yellow&quot;,..." alt="" coords="733,1355,907,1396"/>
+<area shape="rect" id="node32" href="$d9/dc6/class_main_window.html#a69be5fbef09fb7b5c37dfe4bf546bd8a" title="Return the used voxelizer." alt="" coords="486,225,662,251"/>
+<area shape="rect" id="node34" href="$d9/dc6/class_main_window.html#a81962e4df0a9d0167d3870ec87a574d9" title="Return the resolution of the used voxelizer." alt="" coords="486,276,662,317"/>
+<area shape="rect" id="node36" href="$dc/da5/class_voxelizer_thread.html#aeec94d245092bf8afa42ec5af6563e1b" title=" " alt="" coords="492,393,656,419"/>
+<area shape="rect" id="node37" href="$dc/d29/class_v_t_k_algorithm_wait_thread.html#a352c79c18a5dac09f0710f4f61437c79" title=" " alt="" coords="489,444,659,485"/>
+<area shape="rect" id="node38" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a24ff0322eb032b4c87635c809c35c914" title="Initialize the triangle mesh from the file &#39;filename&#39;." alt="" coords="492,953,656,995"/>
+<area shape="rect" id="node42" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a1270b60eec84c1f939d405d9ade1a94e" title="Iteratively call strongDegeneracyRemoval and strongIntersectionRemoval to produce an eventually clean..." alt="" coords="492,888,656,929"/>
+<area shape="rect" id="node43" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#afdd849c83a1e4923c54d904826746bda" title="Removes all connected components but the one having most triangles." alt="" coords="721,421,919,463"/>
+<area shape="rect" id="node44" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a8f74c0f20990a21392dab76e878695ae" title="Save the triangle mesh to file &#39;filename&#39;." alt="" coords="492,509,656,551"/>
+<area shape="rect" id="node45" href="$db/dae/class_voxel_image_visualizer.html#a15634f5a62fd0d71806741d1db033243" title="Set input data of the visualizer." alt="" coords="501,575,647,616"/>
+<area shape="rect" id="node46" href="$db/dae/class_voxel_image_visualizer.html#a65eec474a368555a6ba16c1f54e956db" title="Set output size of the visualization." alt="" coords="501,640,647,681"/>
+<area shape="rect" id="node47" href="$d9/dc6/class_main_window.html#a37afa0d4419a56879d650a1400b42306" title=" " alt="" coords="488,706,660,733"/>
+<area shape="rect" id="node7" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a92b68931001a05c499db6e6087ed7596" title="Updates the values of n_boundaries, n_handles and n_shells. O(N)." alt="" coords="738,757,902,799"/>
+<area shape="rect" id="node8" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#ae601a7e17364ce83f74ffcb6c64971ca" title="Appends a new node storing &#39;d&#39; to the head. &#160;&#160;O(1)." alt="" coords="993,487,1180,514"/>
+<area shape="rect" id="node9" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ac8ca8a164a829c53efaefd29b5ea4b6f" title="Returns the vertex following this one on the boundary." alt="" coords="973,735,1200,762"/>
+<area shape="rect" id="node11" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af0e61026072f65c9ba882df526acfd2e" title="Gets the number of elements. &#160;&#160;O(1)." alt="" coords="1009,626,1164,653"/>
+<area shape="rect" id="node10" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a312b5886ae431004c537b8a2a7f6672f" title="Returns the edge following this vertex on the boundary." alt="" coords="1248,794,1487,821"/>
+<area shape="rect" id="node14" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a6472e158753b8a5d49e05042c39ca8a5" title=" " alt="" coords="1005,976,1168,1017"/>
+<area shape="rect" id="node15" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a7545e05048d630ca83f7d5b896dd2cb9" title="Deselects all the triangles. O(N)." alt="" coords="738,976,902,1017"/>
+<area shape="rect" id="node16" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a1f5db14680c00ee8f224f5c7fdbd769e" title=" " alt="" coords="1010,1041,1163,1083"/>
+<area shape="rect" id="node17" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af3baa55cf02bd943635012a489d6c33a" title="Gets the first node, NULL if empty. &#160;&#160;O(1)." alt="" coords="1016,399,1157,426"/>
+<area shape="rect" id="node18" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ac6001e2789a05af164867f6c1dd934f9" title="TRUE iff vertex is on boundary." alt="" coords="715,538,925,565"/>
+<area shape="rect" id="node19" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ab634754175f6dba92fa233df6a2e45ff" title="Takes a selected region and inserts inner vertices to reproduce the sampling density of the surroundi..." alt="" coords="726,304,914,345"/>
+<area shape="rect" id="node20" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#aa7b9f783f2e4339083f46d25d3eecf68" title="First vertex." alt="" coords="1011,305,1163,331"/>
+<area shape="rect" id="node21" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a1bf6a231440a3c73a931c1cfccfee574" title="Second vertex." alt="" coords="1011,159,1163,186"/>
+<area shape="rect" id="node22" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0c4c2a2ba6b0c975aa3d260f00785e8f" title="Third vertex." alt="" coords="1011,225,1163,251"/>
+<area shape="rect" id="node23" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a7082f6178fd62e670974e3b7f44947ee" title=" " alt="" coords="1004,1107,1169,1148"/>
+<area shape="rect" id="node24" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ada33175ee7e873107f23ece56353ffd1" title="Creates a triangulation whose projection on the plane with normal &#39;nor&#39; is Delaunay." alt="" coords="738,589,902,631"/>
+<area shape="rect" id="node26" href="$db/dae/class_voxel_image_visualizer.html#a381e70e9dba0cad1fddf946aa7f4a408" title="Compute scaling factor for visualization actor." alt="" coords="1013,1357,1160,1399"/>
+<area shape="rect" id="node27" href="$db/dae/class_voxel_image_visualizer.html#a2cf2e268d83ea28ea097a557b4e66fcd" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="1001,1425,1173,1451"/>
+<area shape="rect" id="node29" href="$db/dae/class_voxel_image_visualizer.html#a266b4be6343bb49d53b4af2c9e7df310" title=" " alt="" coords="747,1420,893,1461"/>
+<area shape="rect" id="node33" href="$d3/d5f/class_preferences_dialog.html#ace3bbb86fc20219c88cef8ff21f4ebf0" title=" " alt="" coords="739,5,901,47"/>
+<area shape="rect" id="node35" href="$d3/d5f/class_preferences_dialog.html#a987ba30f65385851fb38ef638f7c0bec" title=" " alt="" coords="743,71,897,127"/>
+<area shape="rect" id="node39" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a14f447ce710157a581ca720442a50744" title="Loads EFF." alt="" coords="738,1107,902,1148"/>
+<area shape="rect" id="node40" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa71c313ca25eae9f2a9ed8a162b905e8" title="Loads IV." alt="" coords="738,1224,902,1265"/>
+<area shape="rect" id="node41" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ae34014614b61ea803c9f59e1ca8d54fe" title="Loads OBJ." alt="" coords="738,1041,902,1083"/>
+<area shape="rect" id="node49" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="521,1289,627,1315"/>
 </map>

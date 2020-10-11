@@ -1,6 +1,7 @@
 <map id="Scene::toggleShowTextActors" name="Scene::toggleShowTextActors">
 <area shape="rect" id="node1" title="Toggle between showing / hiding the touchpoint / connector text labels." alt="" coords="5,31,204,57"/>
 <area shape="rect" id="node2" href="$d6/db5/class_scene.html#ae4bdf05105a36057e86693a0f60afbd3" title="Hide the touchpoint / connector text labels." alt="" coords="255,5,410,32"/>
-<area shape="rect" id="node4" href="$d6/db5/class_scene.html#aa9d387019f7a7456bdd8af2b21723387" title="Show the touchpoint / connector number text labels." alt="" coords="252,56,413,83"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#aa9d387019f7a7456bdd8af2b21723387" title="Show the touchpoint / connector number text labels." alt="" coords="252,56,413,83"/>
 <area shape="rect" id="node3" href="$d6/db5/class_scene.html#a8a1b015f159dd9ba883ae601464f6c28" title="Set if the touchpoint / connector number labels are visible." alt="" coords="461,31,659,57"/>
+<area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html#ab61727c9bb477bccca373f92a2b8bea4" title="Return the touchpoint number label text actor." alt="" coords="707,31,873,57"/>
 </map>

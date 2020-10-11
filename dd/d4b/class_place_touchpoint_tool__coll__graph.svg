@@ -13,22 +13,22 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title="Tool for placing sphere shaped touchpoints on a mesh surface.">
-<polygon fill="#bfbfbf" stroke="black" points="483.5,-0.5 483.5,-167.5 618.5,-167.5 618.5,-0.5 483.5,-0.5"/>
-<text text-anchor="middle" x="551" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00">PlaceTouchpointTool</text>
-<polyline fill="none" stroke="black" points="483.5,-148.5 618.5,-148.5 "/>
-<text text-anchor="start" x="491.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; pickingInteractorStyle</text>
-<text text-anchor="start" x="491.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; touchpointType</text>
-<text text-anchor="start" x="491.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; touchpointRadius</text>
-<text text-anchor="start" x="491.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; useConnectionPoint</text>
-<polyline fill="none" stroke="black" points="483.5,-96.5 618.5,-96.5 "/>
-<text text-anchor="start" x="491.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ PlaceTouchpointTool()</text>
-<text text-anchor="start" x="491.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
-<text text-anchor="start" x="491.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
-<text text-anchor="start" x="491.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTouchpointRadius()</text>
-<text text-anchor="start" x="491.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTouchpointRadius()</text>
-<text text-anchor="start" x="491.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTouchpointType()</text>
-<text text-anchor="start" x="491.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUseConnectionPoint()</text>
-<text text-anchor="start" x="491.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setUseConnectionPoint()</text>
+<polygon fill="#bfbfbf" stroke="black" points="482.5,-0.5 482.5,-167.5 617.5,-167.5 617.5,-0.5 482.5,-0.5"/>
+<text text-anchor="middle" x="550" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00">PlaceTouchpointTool</text>
+<polyline fill="none" stroke="black" points="482.5,-148.5 617.5,-148.5 "/>
+<text text-anchor="start" x="490.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; pickingInteractorStyle</text>
+<text text-anchor="start" x="490.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; touchpointType</text>
+<text text-anchor="start" x="490.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; touchpointRadius</text>
+<text text-anchor="start" x="490.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; useConnectionPoint</text>
+<polyline fill="none" stroke="black" points="482.5,-96.5 617.5,-96.5 "/>
+<text text-anchor="start" x="490.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ PlaceTouchpointTool()</text>
+<text text-anchor="start" x="490.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
+<text text-anchor="start" x="490.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
+<text text-anchor="start" x="490.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTouchpointRadius()</text>
+<text text-anchor="start" x="490.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTouchpointRadius()</text>
+<text text-anchor="start" x="490.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTouchpointType()</text>
+<text text-anchor="start" x="490.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUseConnectionPoint()</text>
+<text text-anchor="start" x="490.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setUseConnectionPoint()</text>
 </a>
 </g>
 </g>
@@ -36,27 +36,27 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../da/db7/class_tool.html" target="_top" xlink:title="Base class for tools.">
-<polygon fill="white" stroke="black" points="506.5,-205.5 506.5,-339.5 595.5,-339.5 595.5,-205.5 506.5,-205.5"/>
-<text text-anchor="middle" x="551" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">Tool</text>
-<polyline fill="none" stroke="black" points="506.5,-320.5 595.5,-320.5 "/>
-<text text-anchor="start" x="514.5" y="-308.5" font-family="Helvetica,sans-Serif" font-size="10.00"># toolID</text>
-<polyline fill="none" stroke="black" points="506.5,-301.5 595.5,-301.5 "/>
-<text text-anchor="start" x="514.5" y="-289.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Tool()</text>
-<text text-anchor="start" x="514.5" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Tool()</text>
-<text text-anchor="start" x="514.5" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
-<text text-anchor="start" x="514.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
-<text text-anchor="start" x="514.5" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getToolName()</text>
-<text text-anchor="start" x="514.5" y="-234.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setToolName()</text>
-<text text-anchor="start" x="514.5" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getToolID()</text>
-<text text-anchor="start" x="514.5" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setToolID()</text>
+<polygon fill="white" stroke="black" points="505.5,-205.5 505.5,-339.5 594.5,-339.5 594.5,-205.5 505.5,-205.5"/>
+<text text-anchor="middle" x="550" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">Tool</text>
+<polyline fill="none" stroke="black" points="505.5,-320.5 594.5,-320.5 "/>
+<text text-anchor="start" x="513.5" y="-308.5" font-family="Helvetica,sans-Serif" font-size="10.00"># toolID</text>
+<polyline fill="none" stroke="black" points="505.5,-301.5 594.5,-301.5 "/>
+<text text-anchor="start" x="513.5" y="-289.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Tool()</text>
+<text text-anchor="start" x="513.5" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Tool()</text>
+<text text-anchor="start" x="513.5" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
+<text text-anchor="start" x="513.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
+<text text-anchor="start" x="513.5" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getToolName()</text>
+<text text-anchor="start" x="513.5" y="-234.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setToolName()</text>
+<text text-anchor="start" x="513.5" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getToolID()</text>
+<text text-anchor="start" x="513.5" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setToolID()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M551,-195.29C551,-186.16 551,-176.81 551,-167.59"/>
-<polygon fill="none" stroke="midnightblue" points="547.5,-195.48 551,-205.48 554.5,-195.48 547.5,-195.48"/>
+<path fill="none" stroke="midnightblue" d="M550,-195.29C550,-186.16 550,-176.81 550,-167.59"/>
+<polygon fill="none" stroke="midnightblue" points="546.5,-195.48 550,-205.48 553.5,-195.48 546.5,-195.48"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -133,8 +133,8 @@
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="#404040" d="M427.63,-555.32C458.78,-484.16 492.72,-406.63 517.1,-350.94"/>
-<polygon fill="none" stroke="#404040" points="517.19,-350.74 515.93,-343.64 522,-339.75 523.26,-346.85 517.19,-350.74"/>
+<path fill="none" stroke="#404040" d="M427.52,-554.66C458.49,-483.57 492.18,-406.24 516.37,-350.7"/>
+<polygon fill="none" stroke="#404040" points="516.44,-350.54 515.17,-343.45 521.23,-339.54 522.5,-346.64 516.44,-350.54"/>
 <text text-anchor="middle" x="528.5" y="-361" font-family="Helvetica,sans-Serif" font-size="10.00"> #scene</text>
 </g>
 <!-- Node4 -->
@@ -242,8 +242,8 @@
 <title>Node6&#45;&gt;Node10</title>
 <path fill="none" stroke="#404040" d="M174.74,-1697.95C185.65,-1664.4 203.33,-1610.03 220.44,-1557.38"/>
 <polygon fill="none" stroke="#404040" points="220.48,-1557.24 218.54,-1550.3 224.19,-1545.83 226.14,-1552.77 220.48,-1557.24"/>
-<text text-anchor="middle" x="244.5" y="-1578" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;touchpoints</text>
-<text text-anchor="middle" x="244.5" y="-1567" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;connectors</text>
+<text text-anchor="middle" x="243.5" y="-1578" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;connectors</text>
+<text text-anchor="middle" x="243.5" y="-1567" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;touchpoints</text>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
@@ -660,49 +660,49 @@
 <g id="node23" class="node">
 <title>Node23</title>
 <g id="a_node23"><a xlink:title="STL class.">
-<polygon fill="white" stroke="#bfbfbf" points="634,-2698 634,-2755 694,-2755 694,-2698 634,-2698"/>
-<text text-anchor="middle" x="664" y="-2743" font-family="Helvetica,sans-Serif" font-size="10.00">std::string</text>
-<polyline fill="none" stroke="#bfbfbf" points="634,-2736 694,-2736 "/>
-<text text-anchor="middle" x="664" y="-2724" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="634,-2717 694,-2717 "/>
-<text text-anchor="middle" x="664" y="-2705" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="635,-2698 635,-2755 695,-2755 695,-2698 635,-2698"/>
+<text text-anchor="middle" x="665" y="-2743" font-family="Helvetica,sans-Serif" font-size="10.00">std::string</text>
+<polyline fill="none" stroke="#bfbfbf" points="635,-2736 695,-2736 "/>
+<text text-anchor="middle" x="665" y="-2724" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="635,-2717 695,-2717 "/>
+<text text-anchor="middle" x="665" y="-2705" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node23&#45;&gt;Node2 -->
 <g id="edge26" class="edge">
 <title>Node23&#45;&gt;Node2</title>
-<path fill="none" stroke="#404040" d="M669.03,-2697.99C682.44,-2622.23 718,-2404 718,-2221 718,-2221 718,-2221 718,-739.5 718,-595.39 646.35,-440.13 596.91,-350.16"/>
-<polygon fill="none" stroke="#404040" points="596.83,-350.01 590.42,-346.71 591,-339.52 597.41,-342.82 596.83,-350.01"/>
+<path fill="none" stroke="#404040" d="M669.94,-2697.99C683.1,-2622.22 718,-2403.96 718,-2221 718,-2221 718,-2221 718,-739.5 718,-595.5 646.13,-440.51 596.4,-350.52"/>
+<polygon fill="none" stroke="#404040" points="596.31,-350.34 589.89,-347.06 590.45,-339.87 596.87,-343.15 596.31,-350.34"/>
 <text text-anchor="middle" x="743.5" y="-1572.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #toolName</text>
 </g>
 <!-- Node23&#45;&gt;Node22 -->
 <g id="edge24" class="edge">
 <title>Node23&#45;&gt;Node22</title>
-<path fill="none" stroke="#404040" d="M660.14,-2697.66C648.41,-2613.16 613.2,-2359.41 599.52,-2260.8"/>
-<polygon fill="none" stroke="#404040" points="599.5,-2260.64 594.71,-2255.25 597.85,-2248.76 602.64,-2254.15 599.5,-2260.64"/>
-<text text-anchor="middle" x="656" y="-2391" font-family="Helvetica,sans-Serif" font-size="10.00"> +openScadCode</text>
-<text text-anchor="middle" x="656" y="-2380" font-family="Helvetica,sans-Serif" font-size="10.00">+fileName</text>
+<path fill="none" stroke="#404040" d="M661.08,-2697.66C649.19,-2613.16 613.48,-2359.41 599.6,-2260.8"/>
+<polygon fill="none" stroke="#404040" points="599.58,-2260.64 594.78,-2255.26 597.91,-2248.76 602.7,-2254.14 599.58,-2260.64"/>
+<text text-anchor="middle" x="654.5" y="-2391" font-family="Helvetica,sans-Serif" font-size="10.00"> +fileName</text>
+<text text-anchor="middle" x="654.5" y="-2380" font-family="Helvetica,sans-Serif" font-size="10.00">+openScadCode</text>
 </g>
 <!-- Node24 -->
 <g id="node24" class="node">
 <title>Node24</title>
 <g id="a_node24"><a xlink:title="STL class.">
-<polygon fill="white" stroke="#bfbfbf" points="616.5,-3073.5 616.5,-3141.5 711.5,-3141.5 711.5,-3073.5 616.5,-3073.5"/>
-<text text-anchor="start" x="624.5" y="-3129.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::basic_string&lt;</text>
-<text text-anchor="middle" x="664" y="-3118.5" font-family="Helvetica,sans-Serif" font-size="10.00"> char &gt;</text>
-<polyline fill="none" stroke="#bfbfbf" points="616.5,-3111.5 711.5,-3111.5 "/>
-<text text-anchor="middle" x="664" y="-3099.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="616.5,-3092.5 711.5,-3092.5 "/>
-<text text-anchor="middle" x="664" y="-3080.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="617.5,-3073.5 617.5,-3141.5 712.5,-3141.5 712.5,-3073.5 617.5,-3073.5"/>
+<text text-anchor="start" x="625.5" y="-3129.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::basic_string&lt;</text>
+<text text-anchor="middle" x="665" y="-3118.5" font-family="Helvetica,sans-Serif" font-size="10.00"> char &gt;</text>
+<polyline fill="none" stroke="#bfbfbf" points="617.5,-3111.5 712.5,-3111.5 "/>
+<text text-anchor="middle" x="665" y="-3099.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="617.5,-3092.5 712.5,-3092.5 "/>
+<text text-anchor="middle" x="665" y="-3080.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node24&#45;&gt;Node23 -->
 <g id="edge25" class="edge">
 <title>Node24&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M664,-3063.15C664,-2984.59 664,-2820.8 664,-2755.37"/>
-<polygon fill="none" stroke="midnightblue" points="660.5,-3063.2 664,-3073.2 667.5,-3063.2 660.5,-3063.2"/>
+<path fill="none" stroke="midnightblue" d="M665,-3063.15C665,-2984.59 665,-2820.8 665,-2755.37"/>
+<polygon fill="none" stroke="midnightblue" points="661.5,-3063.2 665,-3073.2 668.5,-3063.2 661.5,-3063.2"/>
 </g>
 </g>
 </svg>

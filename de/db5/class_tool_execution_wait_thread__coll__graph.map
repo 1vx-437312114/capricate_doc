@@ -1,7 +1,7 @@
 <map id="ToolExecutionWaitThread" name="ToolExecutionWaitThread">
-<area shape="rect" id="node1" title="Thread for executing tools while keeping the GUI responsive." alt="" coords="661,3984,851,4091"/>
-<area shape="rect" id="node2" title=" " alt="" coords="699,3793,771,3870"/>
-<area shape="rect" id="node3" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="795,3741,914,3921"/>
+<area shape="rect" id="node1" title="Thread for executing tools while keeping the GUI responsive." alt="" coords="663,3984,852,4091"/>
+<area shape="rect" id="node2" title=" " alt="" coords="700,3793,772,3870"/>
+<area shape="rect" id="node3" href="$da/db7/class_tool.html" title="Base class for tools." alt="" coords="797,3741,915,3921"/>
 <area shape="rect" id="node4" href="$d6/db5/class_scene.html" title="Holds all scene specific objects and settings." alt="" coords="361,2736,575,3679"/>
 <area shape="rect" id="node5" title=" " alt="" coords="5,2574,192,2651"/>
 <area shape="rect" id="node6" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="12,2236,185,2401"/>
@@ -22,6 +22,6 @@
 <area shape="rect" id="node21" title=" " alt="" coords="531,1553,685,1630"/>
 <area shape="rect" id="node22" title=" " alt="" coords="710,1545,911,1637"/>
 <area shape="rect" id="node23" href="$d3/dbe/struct_component_1_1_open_s_c_a_d_sub_component.html" title="OpenSCAD Code container for subcomponents." alt="" coords="669,1196,925,1273"/>
-<area shape="rect" id="node24" title="STL class." alt="" coords="851,521,931,598"/>
-<area shape="rect" id="node25" title="STL class." alt="" coords="827,5,954,97"/>
+<area shape="rect" id="node24" title="STL class." alt="" coords="852,521,932,598"/>
+<area shape="rect" id="node25" title="STL class." alt="" coords="829,5,955,97"/>
 </map>

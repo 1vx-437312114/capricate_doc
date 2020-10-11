@@ -1,0 +1,6 @@
+<map id="T_MESH::Triangle::perimeter" name="T_MESH::Triangle::perimeter">
+<area shape="rect" id="node1" title="Perimeter of the triangle." alt="" coords="5,5,197,32"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a13a726e51e116322d99f74c81fcbdd72" title="Euclidean length of the edge." alt="" coords="245,5,403,32"/>
+<area shape="rect" id="node3" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a8261009d0497d23fdb28ac451f70cc64" title="Distance from &#39;b&#39;." alt="" coords="451,5,621,32"/>
+<area shape="rect" id="node4" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a61ce9f22ddfe41f036566d4a2f920ac4" title="Distance from origin." alt="" coords="669,5,827,32"/>
+</map>

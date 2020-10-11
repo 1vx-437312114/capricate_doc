@@ -1,0 +1,4 @@
+<map id="T_MESH::Point::distanceLineLine" name="T_MESH::Point::distanceLineLine">
+<area shape="rect" id="node1" title="Distance between the straight lines through (this) &#45; l1_p2 and l2_p1 &#45; l2_p2." alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a61ce9f22ddfe41f036566d4a2f920ac4" title="Distance from origin." alt="" coords="272,5,429,32"/>
+</map>

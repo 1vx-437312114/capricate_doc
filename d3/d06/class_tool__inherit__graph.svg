@@ -69,52 +69,54 @@
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d2/d68/class_export_open_scad_tool.html" target="_top" xlink:title="Tool for exporting a wired mesh to the openscad format.">
-<polygon fill="white" stroke="black" points="209,-28 209,-195 340,-195 340,-28 209,-28"/>
-<text text-anchor="middle" x="274.5" y="-183" font-family="Helvetica,sans-Serif" font-size="10.00">ExportOpenScadTool</text>
-<polyline fill="none" stroke="black" points="209,-176 340,-176 "/>
-<text text-anchor="start" x="217" y="-164" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; filename</text>
-<polyline fill="none" stroke="black" points="209,-157 340,-157 "/>
-<text text-anchor="start" x="217" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00">+ ExportOpenScadTool()</text>
-<text text-anchor="start" x="217" y="-134" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
-<text text-anchor="start" x="217" y="-123" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
-<text text-anchor="start" x="217" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFilename()</text>
-<text text-anchor="start" x="217" y="-101" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeConnectionList()</text>
-<text text-anchor="start" x="217" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeMesh()</text>
-<text text-anchor="start" x="217" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeWiring()</text>
-<text text-anchor="start" x="217" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeDifference()</text>
-<text text-anchor="start" x="217" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeMagnets()</text>
-<text text-anchor="start" x="217" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeDifferenceMagnets()</text>
-<text text-anchor="start" x="217" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeComponents()</text>
+<polygon fill="white" stroke="black" points="209,-22.5 209,-200.5 340,-200.5 340,-22.5 209,-22.5"/>
+<text text-anchor="middle" x="274.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">ExportOpenScadTool</text>
+<polyline fill="none" stroke="black" points="209,-181.5 340,-181.5 "/>
+<text text-anchor="start" x="217" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; filename</text>
+<polyline fill="none" stroke="black" points="209,-162.5 340,-162.5 "/>
+<text text-anchor="start" x="217" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ExportOpenScadTool()</text>
+<text text-anchor="start" x="217" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
+<text text-anchor="start" x="217" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
+<text text-anchor="start" x="217" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFilename()</text>
+<text text-anchor="start" x="217" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeConnectionList()</text>
+<text text-anchor="start" x="217" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeMesh()</text>
+<text text-anchor="start" x="217" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeWiring()</text>
+<text text-anchor="start" x="217" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeDifference()</text>
+<text text-anchor="start" x="217" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeMagnets()</text>
+<text text-anchor="start" x="217" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeDifferenceMagnets()</text>
+<text text-anchor="start" x="217" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeComponents()</text>
+<text text-anchor="start" x="217" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; fixMesh()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M752.54,-335.4C660.77,-331.03 474.05,-311.04 348.5,-223 337.63,-215.38 327.91,-205.6 319.37,-195.03"/>
+<path fill="none" stroke="midnightblue" d="M752.54,-335.4C660.77,-331.03 474.05,-311.04 348.5,-223 339.62,-216.77 331.5,-209.1 324.17,-200.74"/>
 <polygon fill="none" stroke="midnightblue" points="752.57,-338.91 762.72,-335.84 752.88,-331.91 752.57,-338.91"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../dd/d00/class_export_s_t_l_tool.html" target="_top" xlink:title="Tool for exporting a wired mesh to the stl file format.">
-<polygon fill="white" stroke="black" points="358,-61 358,-162 473,-162 473,-61 358,-61"/>
-<text text-anchor="middle" x="415.5" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">ExportSTLTool</text>
-<polyline fill="none" stroke="black" points="358,-143 473,-143 "/>
-<text text-anchor="start" x="366" y="-131" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; filename</text>
-<polyline fill="none" stroke="black" points="358,-124 473,-124 "/>
-<text text-anchor="start" x="366" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">+ ExportSTLTool()</text>
-<text text-anchor="start" x="366" y="-101" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
-<text text-anchor="start" x="366" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
-<text text-anchor="start" x="366" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFilename()</text>
-<text text-anchor="start" x="366" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeConnectionList()</text>
+<polygon fill="white" stroke="black" points="358,-55.5 358,-167.5 473,-167.5 473,-55.5 358,-55.5"/>
+<text text-anchor="middle" x="415.5" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00">ExportSTLTool</text>
+<polyline fill="none" stroke="black" points="358,-148.5 473,-148.5 "/>
+<text text-anchor="start" x="366" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; filename</text>
+<polyline fill="none" stroke="black" points="358,-129.5 473,-129.5 "/>
+<text text-anchor="start" x="366" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ExportSTLTool()</text>
+<text text-anchor="start" x="366" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
+<text text-anchor="start" x="366" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
+<text text-anchor="start" x="366" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFilename()</text>
+<text text-anchor="start" x="366" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; writeConnectionList()</text>
+<text text-anchor="start" x="366" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; fixMesh()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M752.83,-329.19C683.15,-317.46 562.09,-288.67 481.5,-223 461.84,-206.98 446.64,-183.44 435.81,-162.21"/>
+<path fill="none" stroke="midnightblue" d="M752.83,-329.19C683.15,-317.46 562.09,-288.67 481.5,-223 463.48,-208.32 449.21,-187.33 438.62,-167.58"/>
 <polygon fill="none" stroke="midnightblue" points="752.29,-332.65 762.72,-330.8 753.42,-325.74 752.29,-332.65"/>
 </g>
 <!-- Node5 -->

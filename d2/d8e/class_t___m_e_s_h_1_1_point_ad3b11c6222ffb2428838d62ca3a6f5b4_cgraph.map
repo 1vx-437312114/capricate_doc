@@ -1,0 +1,9 @@
+<map id="T_MESH::Point::closestPoints" name="T_MESH::Point::closestPoints">
+<area shape="rect" id="node1" title="Line&#45;line closest point computation." alt="" coords="5,107,207,133"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#afe0da45dca244a169623e5cacc30c28a" title="Distance from straight line through &#39;a&#39; and &#39;b&#39;." alt="" coords="255,56,480,83"/>
+<area shape="rect" id="node4" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a61ce9f22ddfe41f036566d4a2f920ac4" title="Distance from origin." alt="" coords="529,81,686,108"/>
+<area shape="rect" id="node5" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a7d19f5b5b98c1999de03da56eab91478" title=" " alt="" coords="281,107,454,133"/>
+<area shape="rect" id="node6" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#aad687fb125896ea8a6c53fd5d4035f10" title="Divides the vector by its length. If isNull() the application exits with an error." alt="" coords="278,5,457,32"/>
+<area shape="rect" id="node7" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a5297bdff57822d8539beeb21eaccebdc" title="Set the coordinates to (a,b,c)." alt="" coords="281,208,453,235"/>
+<area shape="rect" id="node3" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a365cdce7948e9459b819b2357b05cb72" title=" " alt="" coords="528,31,687,57"/>
+</map>

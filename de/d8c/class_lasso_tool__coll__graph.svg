@@ -13,24 +13,24 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title="Tool for drawing arbitrary shaped touchpoints on a mesh.">
-<polygon fill="#bfbfbf" stroke="black" points="481.5,-0.5 481.5,-189.5 620.5,-189.5 620.5,-0.5 481.5,-0.5"/>
-<text text-anchor="middle" x="551" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">LassoTool</text>
-<polyline fill="none" stroke="black" points="481.5,-170.5 620.5,-170.5 "/>
-<text text-anchor="start" x="489.5" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; lassoInteractorStyle</text>
-<text text-anchor="start" x="489.5" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; selectionChangedCallback</text>
-<text text-anchor="start" x="489.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; touchpointType</text>
-<text text-anchor="start" x="489.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; surfaceOverlap</text>
-<text text-anchor="start" x="489.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; touchpointDepth</text>
-<text text-anchor="start" x="489.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; trimExtrusion</text>
-<polyline fill="none" stroke="black" points="481.5,-96.5 620.5,-96.5 "/>
-<text text-anchor="start" x="489.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ LassoTool()</text>
-<text text-anchor="start" x="489.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
-<text text-anchor="start" x="489.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
-<text text-anchor="start" x="489.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTouchpointType()</text>
-<text text-anchor="start" x="489.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSurfaceOverlap()</text>
-<text text-anchor="start" x="489.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTouchpointDepth()</text>
-<text text-anchor="start" x="489.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRectangularTouchpoint</text>
-<text text-anchor="start" x="489.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Bounds()</text>
+<polygon fill="#bfbfbf" stroke="black" points="480.5,-0.5 480.5,-189.5 619.5,-189.5 619.5,-0.5 480.5,-0.5"/>
+<text text-anchor="middle" x="550" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">LassoTool</text>
+<polyline fill="none" stroke="black" points="480.5,-170.5 619.5,-170.5 "/>
+<text text-anchor="start" x="488.5" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; lassoInteractorStyle</text>
+<text text-anchor="start" x="488.5" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; selectionChangedCallback</text>
+<text text-anchor="start" x="488.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; touchpointType</text>
+<text text-anchor="start" x="488.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; surfaceOverlap</text>
+<text text-anchor="start" x="488.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; touchpointDepth</text>
+<text text-anchor="start" x="488.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; trimExtrusion</text>
+<polyline fill="none" stroke="black" points="480.5,-96.5 619.5,-96.5 "/>
+<text text-anchor="start" x="488.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ LassoTool()</text>
+<text text-anchor="start" x="488.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
+<text text-anchor="start" x="488.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
+<text text-anchor="start" x="488.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTouchpointType()</text>
+<text text-anchor="start" x="488.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSurfaceOverlap()</text>
+<text text-anchor="start" x="488.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTouchpointDepth()</text>
+<text text-anchor="start" x="488.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRectangularTouchpoint</text>
+<text text-anchor="start" x="488.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Bounds()</text>
 </a>
 </g>
 </g>
@@ -38,27 +38,27 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../da/db7/class_tool.html" target="_top" xlink:title="Base class for tools.">
-<polygon fill="white" stroke="black" points="506.5,-227.5 506.5,-361.5 595.5,-361.5 595.5,-227.5 506.5,-227.5"/>
-<text text-anchor="middle" x="551" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00">Tool</text>
-<polyline fill="none" stroke="black" points="506.5,-342.5 595.5,-342.5 "/>
-<text text-anchor="start" x="514.5" y="-330.5" font-family="Helvetica,sans-Serif" font-size="10.00"># toolID</text>
-<polyline fill="none" stroke="black" points="506.5,-323.5 595.5,-323.5 "/>
-<text text-anchor="start" x="514.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Tool()</text>
-<text text-anchor="start" x="514.5" y="-300.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Tool()</text>
-<text text-anchor="start" x="514.5" y="-289.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
-<text text-anchor="start" x="514.5" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
-<text text-anchor="start" x="514.5" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getToolName()</text>
-<text text-anchor="start" x="514.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setToolName()</text>
-<text text-anchor="start" x="514.5" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getToolID()</text>
-<text text-anchor="start" x="514.5" y="-234.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setToolID()</text>
+<polygon fill="white" stroke="black" points="505.5,-227.5 505.5,-361.5 594.5,-361.5 594.5,-227.5 505.5,-227.5"/>
+<text text-anchor="middle" x="550" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00">Tool</text>
+<polyline fill="none" stroke="black" points="505.5,-342.5 594.5,-342.5 "/>
+<text text-anchor="start" x="513.5" y="-330.5" font-family="Helvetica,sans-Serif" font-size="10.00"># toolID</text>
+<polyline fill="none" stroke="black" points="505.5,-323.5 594.5,-323.5 "/>
+<text text-anchor="start" x="513.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Tool()</text>
+<text text-anchor="start" x="513.5" y="-300.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Tool()</text>
+<text text-anchor="start" x="513.5" y="-289.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ execute()</text>
+<text text-anchor="start" x="513.5" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
+<text text-anchor="start" x="513.5" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getToolName()</text>
+<text text-anchor="start" x="513.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setToolName()</text>
+<text text-anchor="start" x="513.5" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getToolID()</text>
+<text text-anchor="start" x="513.5" y="-234.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setToolID()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M551,-217.38C551,-208.33 551,-199.02 551,-189.76"/>
-<polygon fill="none" stroke="midnightblue" points="547.5,-217.46 551,-227.46 554.5,-217.46 547.5,-217.46"/>
+<path fill="none" stroke="midnightblue" d="M550,-217.38C550,-208.33 550,-199.02 550,-189.76"/>
+<polygon fill="none" stroke="midnightblue" points="546.5,-217.46 550,-227.46 553.5,-217.46 546.5,-217.46"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -135,8 +135,8 @@
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="#404040" d="M427.63,-577.32C458.78,-506.16 492.72,-428.63 517.1,-372.94"/>
-<polygon fill="none" stroke="#404040" points="517.19,-372.74 515.93,-365.64 522,-361.75 523.26,-368.85 517.19,-372.74"/>
+<path fill="none" stroke="#404040" d="M427.52,-576.66C458.49,-505.57 492.18,-428.24 516.37,-372.7"/>
+<polygon fill="none" stroke="#404040" points="516.44,-372.54 515.17,-365.45 521.23,-361.54 522.5,-368.64 516.44,-372.54"/>
 <text text-anchor="middle" x="528.5" y="-383" font-family="Helvetica,sans-Serif" font-size="10.00"> #scene</text>
 </g>
 <!-- Node4 -->
@@ -244,8 +244,8 @@
 <title>Node6&#45;&gt;Node10</title>
 <path fill="none" stroke="#404040" d="M174.74,-1719.95C185.65,-1686.4 203.33,-1632.03 220.44,-1579.38"/>
 <polygon fill="none" stroke="#404040" points="220.48,-1579.24 218.54,-1572.3 224.19,-1567.83 226.14,-1574.77 220.48,-1579.24"/>
-<text text-anchor="middle" x="244.5" y="-1600" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;touchpoints</text>
-<text text-anchor="middle" x="244.5" y="-1589" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;connectors</text>
+<text text-anchor="middle" x="243.5" y="-1600" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;connectors</text>
+<text text-anchor="middle" x="243.5" y="-1589" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;touchpoints</text>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
@@ -662,49 +662,49 @@
 <g id="node23" class="node">
 <title>Node23</title>
 <g id="a_node23"><a xlink:title="STL class.">
-<polygon fill="white" stroke="#bfbfbf" points="634,-2720 634,-2777 694,-2777 694,-2720 634,-2720"/>
-<text text-anchor="middle" x="664" y="-2765" font-family="Helvetica,sans-Serif" font-size="10.00">std::string</text>
-<polyline fill="none" stroke="#bfbfbf" points="634,-2758 694,-2758 "/>
-<text text-anchor="middle" x="664" y="-2746" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="634,-2739 694,-2739 "/>
-<text text-anchor="middle" x="664" y="-2727" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="635,-2720 635,-2777 695,-2777 695,-2720 635,-2720"/>
+<text text-anchor="middle" x="665" y="-2765" font-family="Helvetica,sans-Serif" font-size="10.00">std::string</text>
+<polyline fill="none" stroke="#bfbfbf" points="635,-2758 695,-2758 "/>
+<text text-anchor="middle" x="665" y="-2746" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="635,-2739 695,-2739 "/>
+<text text-anchor="middle" x="665" y="-2727" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node23&#45;&gt;Node2 -->
 <g id="edge26" class="edge">
 <title>Node23&#45;&gt;Node2</title>
-<path fill="none" stroke="#404040" d="M669.03,-2719.99C682.44,-2644.23 718,-2426 718,-2243 718,-2243 718,-2243 718,-761.5 718,-617.39 646.35,-462.13 596.91,-372.16"/>
-<polygon fill="none" stroke="#404040" points="596.83,-372.01 590.42,-368.71 591,-361.52 597.41,-364.82 596.83,-372.01"/>
+<path fill="none" stroke="#404040" d="M669.94,-2719.99C683.1,-2644.22 718,-2425.96 718,-2243 718,-2243 718,-2243 718,-761.5 718,-617.5 646.13,-462.51 596.4,-372.52"/>
+<polygon fill="none" stroke="#404040" points="596.31,-372.34 589.89,-369.06 590.45,-361.87 596.87,-365.15 596.31,-372.34"/>
 <text text-anchor="middle" x="743.5" y="-1594.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #toolName</text>
 </g>
 <!-- Node23&#45;&gt;Node22 -->
 <g id="edge24" class="edge">
 <title>Node23&#45;&gt;Node22</title>
-<path fill="none" stroke="#404040" d="M660.14,-2719.66C648.41,-2635.16 613.2,-2381.41 599.52,-2282.8"/>
-<polygon fill="none" stroke="#404040" points="599.5,-2282.64 594.71,-2277.25 597.85,-2270.76 602.64,-2276.15 599.5,-2282.64"/>
-<text text-anchor="middle" x="656" y="-2413" font-family="Helvetica,sans-Serif" font-size="10.00"> +openScadCode</text>
-<text text-anchor="middle" x="656" y="-2402" font-family="Helvetica,sans-Serif" font-size="10.00">+fileName</text>
+<path fill="none" stroke="#404040" d="M661.08,-2719.66C649.19,-2635.16 613.48,-2381.41 599.6,-2282.8"/>
+<polygon fill="none" stroke="#404040" points="599.58,-2282.64 594.78,-2277.26 597.91,-2270.76 602.7,-2276.14 599.58,-2282.64"/>
+<text text-anchor="middle" x="654.5" y="-2413" font-family="Helvetica,sans-Serif" font-size="10.00"> +fileName</text>
+<text text-anchor="middle" x="654.5" y="-2402" font-family="Helvetica,sans-Serif" font-size="10.00">+openScadCode</text>
 </g>
 <!-- Node24 -->
 <g id="node24" class="node">
 <title>Node24</title>
 <g id="a_node24"><a xlink:title="STL class.">
-<polygon fill="white" stroke="#bfbfbf" points="616.5,-3095.5 616.5,-3163.5 711.5,-3163.5 711.5,-3095.5 616.5,-3095.5"/>
-<text text-anchor="start" x="624.5" y="-3151.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::basic_string&lt;</text>
-<text text-anchor="middle" x="664" y="-3140.5" font-family="Helvetica,sans-Serif" font-size="10.00"> char &gt;</text>
-<polyline fill="none" stroke="#bfbfbf" points="616.5,-3133.5 711.5,-3133.5 "/>
-<text text-anchor="middle" x="664" y="-3121.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="616.5,-3114.5 711.5,-3114.5 "/>
-<text text-anchor="middle" x="664" y="-3102.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="617.5,-3095.5 617.5,-3163.5 712.5,-3163.5 712.5,-3095.5 617.5,-3095.5"/>
+<text text-anchor="start" x="625.5" y="-3151.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::basic_string&lt;</text>
+<text text-anchor="middle" x="665" y="-3140.5" font-family="Helvetica,sans-Serif" font-size="10.00"> char &gt;</text>
+<polyline fill="none" stroke="#bfbfbf" points="617.5,-3133.5 712.5,-3133.5 "/>
+<text text-anchor="middle" x="665" y="-3121.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="617.5,-3114.5 712.5,-3114.5 "/>
+<text text-anchor="middle" x="665" y="-3102.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node24&#45;&gt;Node23 -->
 <g id="edge25" class="edge">
 <title>Node24&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M664,-3085.15C664,-3006.59 664,-2842.8 664,-2777.37"/>
-<polygon fill="none" stroke="midnightblue" points="660.5,-3085.2 664,-3095.2 667.5,-3085.2 660.5,-3085.2"/>
+<path fill="none" stroke="midnightblue" d="M665,-3085.15C665,-3006.59 665,-2842.8 665,-2777.37"/>
+<polygon fill="none" stroke="midnightblue" points="661.5,-3085.2 665,-3095.2 668.5,-3085.2 661.5,-3085.2"/>
 </g>
 </g>
 </svg>

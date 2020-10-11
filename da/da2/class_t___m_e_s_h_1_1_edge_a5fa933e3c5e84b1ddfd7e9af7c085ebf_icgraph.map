@@ -1,0 +1,4 @@
+<map id="T_MESH::Edge::curvature" name="T_MESH::Edge::curvature">
+<area shape="rect" id="node1" title="Angle between the normals of the two incident triangles." alt="" coords="217,13,393,39"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a68fa4723b8e20632bbe5a66e714cfc1a" title="Tag sharp edges based on threshold angle. O(N)." alt="" coords="5,5,169,47"/>
+</map>

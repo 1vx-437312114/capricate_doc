@@ -1,15 +1,52 @@
 <map id="ExportOpenScadTool::writeDifference" name="ExportOpenScadTool::writeDifference">
-<area shape="rect" id="node1" title="Export the meshdifference between mesh and wiring in the openscad format." alt="" coords="5,169,151,210"/>
-<area shape="rect" id="node2" href="$d2/d68/class_export_open_scad_tool.html#a7f29f99b52300deb6af6bdab5153030d" title="Export the mesh in the openscad format." alt="" coords="199,67,344,109"/>
-<area shape="rect" id="node4" href="$d2/d68/class_export_open_scad_tool.html#a2e36901501e307b74705aa84f4227d67" title="Export the wiring in the openscad format." alt="" coords="199,201,344,242"/>
-<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="414,5,585,32"/>
-<area shape="rect" id="node5" href="$d1/d7c/namespace_utils.html#adfd018a6efe0bd54e0e8344ecc1fe208" title="Compute world coordinate equivalent of voxel grid integer index." alt="" coords="442,56,557,83"/>
-<area shape="rect" id="node6" href="$d9/d58/class_touchpoint.html#a25425137e60d6d5f21d597e8f6632eed" title="Return the interior wiring connection position (world coordinates)" alt="" coords="400,107,599,133"/>
-<area shape="rect" id="node7" href="$d9/d58/class_touchpoint.html#a61c467b19b4d5940fdeff3070709d2b2" title="Return if touchpoint is sphere shaped." alt="" coords="418,157,581,184"/>
-<area shape="rect" id="node8" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="412,208,587,235"/>
-<area shape="rect" id="node9" href="$d9/d58/class_touchpoint.html#a3c7555f7762d81e5b93e48fa31a7490c" title="Return the geometry of the touchpoint (vtkPolyData)" alt="" coords="417,259,582,285"/>
-<area shape="rect" id="node10" href="$d9/d58/class_touchpoint.html#af65e6d637a44d8a800b51186d18364a2" title="Return radius of sphere shaped touchpoint." alt="" coords="403,309,596,336"/>
-<area shape="rect" id="node11" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="401,360,598,387"/>
-<area shape="rect" id="node12" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="655,436,800,463"/>
-<area shape="rect" id="node13" href="$d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" title="Return dimensions of the voxel data." alt="" coords="392,461,607,488"/>
+<area shape="rect" id="node1" title="Export the meshdifference between mesh and wiring in the openscad format." alt="" coords="5,1031,151,1072"/>
+<area shape="rect" id="node2" href="$d2/d68/class_export_open_scad_tool.html#a7f29f99b52300deb6af6bdab5153030d" title="Export the mesh in the openscad format." alt="" coords="199,908,344,949"/>
+<area shape="rect" id="node4" href="$d2/d68/class_export_open_scad_tool.html#a2e36901501e307b74705aa84f4227d67" title="Export the wiring in the openscad format." alt="" coords="199,1063,344,1104"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="414,826,585,853"/>
+<area shape="rect" id="node5" href="$d1/d7c/namespace_utils.html#adfd018a6efe0bd54e0e8344ecc1fe208" title="Compute world coordinate equivalent of voxel grid integer index." alt="" coords="442,994,557,1021"/>
+<area shape="rect" id="node6" href="$d2/d68/class_export_open_scad_tool.html#a6e48e9b58a764bc8032b1fbc4082603d" title=" " alt="" coords="427,877,572,919"/>
+<area shape="rect" id="node43" href="$d9/d58/class_touchpoint.html#a25425137e60d6d5f21d597e8f6632eed" title="Return the interior wiring connection position (world coordinates)" alt="" coords="400,1095,599,1122"/>
+<area shape="rect" id="node44" href="$d9/d58/class_touchpoint.html#a61c467b19b4d5940fdeff3070709d2b2" title="Return if touchpoint is sphere shaped." alt="" coords="418,1146,581,1173"/>
+<area shape="rect" id="node45" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="412,1197,587,1223"/>
+<area shape="rect" id="node46" href="$d9/d58/class_touchpoint.html#a3c7555f7762d81e5b93e48fa31a7490c" title="Return the geometry of the touchpoint (vtkPolyData)" alt="" coords="417,1247,582,1274"/>
+<area shape="rect" id="node47" href="$d9/d58/class_touchpoint.html#af65e6d637a44d8a800b51186d18364a2" title="Return radius of sphere shaped touchpoint." alt="" coords="403,1298,596,1325"/>
+<area shape="rect" id="node48" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="401,1349,598,1375"/>
+<area shape="rect" id="node49" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="664,1333,809,1359"/>
+<area shape="rect" id="node50" href="$d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" title="Return dimensions of the voxel data." alt="" coords="392,943,607,970"/>
+<area shape="rect" id="node7" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a43f812f0731e963443ba5d5e59025b57" title="Returns true only if object is a basic Basic_TMesh. All the reimplementations must return false." alt="" coords="655,827,819,868"/>
+<area shape="rect" id="node13" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a24c4a4f93e50ac97dbeed1576c2aeb62" title="Fills all the holes having at least &#39;nbe&#39; boundary edges." alt="" coords="867,545,1031,587"/>
+<area shape="rect" id="node25" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a24ff0322eb032b4c87635c809c35c914" title="Initialize the triangle mesh from the file &#39;filename&#39;." alt="" coords="655,1267,819,1308"/>
+<area shape="rect" id="node38" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a1270b60eec84c1f939d405d9ade1a94e" title="Iteratively call strongDegeneracyRemoval and strongIntersectionRemoval to produce an eventually clean..." alt="" coords="867,188,1031,229"/>
+<area shape="rect" id="node41" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#afdd849c83a1e4923c54d904826746bda" title="Removes all connected components but the one having most triangles." alt="" coords="1085,743,1283,784"/>
+<area shape="rect" id="node42" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a8f74c0f20990a21392dab76e878695ae" title="Save the triangle mesh to file &#39;filename&#39;." alt="" coords="655,909,819,951"/>
+<area shape="rect" id="node8" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a92b68931001a05c499db6e6087ed7596" title="Updates the values of n_boundaries, n_handles and n_shells. O(N)." alt="" coords="1102,808,1266,849"/>
+<area shape="rect" id="node9" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#ae601a7e17364ce83f74ffcb6c64971ca" title="Appends a new node storing &#39;d&#39; to the head. &#160;&#160;O(1)." alt="" coords="1357,721,1544,747"/>
+<area shape="rect" id="node10" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ac8ca8a164a829c53efaefd29b5ea4b6f" title="Returns the vertex following this one on the boundary." alt="" coords="1337,553,1564,579"/>
+<area shape="rect" id="node12" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af0e61026072f65c9ba882df526acfd2e" title="Gets the number of elements. &#160;&#160;O(1)." alt="" coords="1373,950,1528,977"/>
+<area shape="rect" id="node11" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a312b5886ae431004c537b8a2a7f6672f" title="Returns the edge following this vertex on the boundary." alt="" coords="1612,502,1851,529"/>
+<area shape="rect" id="node14" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a6472e158753b8a5d49e05042c39ca8a5" title=" " alt="" coords="1369,1311,1532,1352"/>
+<area shape="rect" id="node15" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a7545e05048d630ca83f7d5b896dd2cb9" title="Deselects all the triangles. O(N)." alt="" coords="1102,188,1266,229"/>
+<area shape="rect" id="node16" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a1f5db14680c00ee8f224f5c7fdbd769e" title=" " alt="" coords="1374,1376,1527,1417"/>
+<area shape="rect" id="node17" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af3baa55cf02bd943635012a489d6c33a" title="Gets the first node, NULL if empty. &#160;&#160;O(1)." alt="" coords="1380,473,1521,499"/>
+<area shape="rect" id="node18" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ac6001e2789a05af164867f6c1dd934f9" title="TRUE iff vertex is on boundary." alt="" coords="1079,641,1289,667"/>
+<area shape="rect" id="node19" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ab634754175f6dba92fa233df6a2e45ff" title="Takes a selected region and inserts inner vertices to reproduce the sampling density of the surroundi..." alt="" coords="1090,356,1278,397"/>
+<area shape="rect" id="node20" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#aa7b9f783f2e4339083f46d25d3eecf68" title="First vertex." alt="" coords="1375,254,1527,281"/>
+<area shape="rect" id="node21" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a1bf6a231440a3c73a931c1cfccfee574" title="Second vertex." alt="" coords="1375,305,1527,331"/>
+<area shape="rect" id="node22" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0c4c2a2ba6b0c975aa3d260f00785e8f" title="Third vertex." alt="" coords="1375,130,1527,157"/>
+<area shape="rect" id="node23" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a7082f6178fd62e670974e3b7f44947ee" title=" " alt="" coords="1368,1441,1533,1483"/>
+<area shape="rect" id="node24" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ada33175ee7e873107f23ece56353ffd1" title="Creates a triangulation whose projection on the plane with normal &#39;nor&#39; is Delaunay." alt="" coords="1102,575,1266,616"/>
+<area shape="rect" id="node26" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a14f447ce710157a581ca720442a50744" title="Loads EFF." alt="" coords="1102,1507,1266,1548"/>
+<area shape="rect" id="node28" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a612459f7bda4fd4312684cbb412f1e02" title=" " alt="" coords="1349,1507,1552,1534"/>
+<area shape="rect" id="node29" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa71c313ca25eae9f2a9ed8a162b905e8" title="Loads IV." alt="" coords="867,1267,1031,1308"/>
+<area shape="rect" id="node30" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0c926e4d0861047162403f5fc6ffeb1b" title="Loads VRML 1.0." alt="" coords="1102,1311,1266,1352"/>
+<area shape="rect" id="node31" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ae34014614b61ea803c9f59e1ca8d54fe" title="Loads OBJ." alt="" coords="1102,1376,1266,1417"/>
+<area shape="rect" id="node32" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a99e172b1652938b4711784c555e1b141" title="Loads OFF." alt="" coords="1102,1572,1266,1613"/>
+<area shape="rect" id="node33" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a9ab86ddab641aabe9295c41e90dc666c" title="Loads PLY." alt="" coords="1102,1637,1266,1679"/>
+<area shape="rect" id="node34" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ab6066b06c1bf3f54cf8f67b6aafb810e" title="Loads STL." alt="" coords="1102,1128,1266,1169"/>
+<area shape="rect" id="node35" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a396ed0279c68c7436eedba97669f020b" title="Loads VER&#45;TRI." alt="" coords="1102,1245,1266,1287"/>
+<area shape="rect" id="node36" href="$de/df9/namespace_t___m_e_s_h.html#adf6e6f405c325f9d227e30fc5eec6277" title="Returns TRUE if the two strings are equal in a case&#45;insensitive sense /////." alt="" coords="1375,1077,1526,1103"/>
+<area shape="rect" id="node37" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa4f8d986e02686de18f5b6e2333cd8d6" title="Loads VRML 2.0." alt="" coords="1102,1441,1266,1483"/>
+<area shape="rect" id="node27" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a4048dc3645716a12a1438f7223050492" title=" " alt="" coords="1374,1135,1527,1162"/>
+<area shape="rect" id="node39" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ad32aa211f56765c622531f23e1433dc4" title="Inverts the selection status of all the triangles. O(N)." alt="" coords="1102,5,1266,47"/>
+<area shape="rect" id="node40" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a2574d782d653ace6993b54c7b73a81af" title="Degeneracy check using exact predicates. Return TRUE iff triangle has zero area." alt="" coords="1088,123,1280,164"/>
 </map>

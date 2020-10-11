@@ -1,0 +1,6 @@
+<map id="T_MESH::Point::distanceFromLine" name="T_MESH::Point::distanceFromLine">
+<area shape="rect" id="node1" title="Distance from straight line through &#39;a&#39; and &#39;b&#39;." alt="" coords="284,56,509,83"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#ad3b11c6222ffb2428838d62ca3a6f5b4" title="Line&#45;line closest point computation." alt="" coords="20,5,221,32"/>
+<area shape="rect" id="node3" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a3491d4fab616e26dd12b9fe70e80bda5" title="Distance from segment a&#45;b." alt="" coords="5,56,236,83"/>
+<area shape="rect" id="node4" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a30920146d4f7a6816450ad90d6d41eaf" title="Distance from straight line through &#39;a&#39; and &#39;b&#39;. *cc is set to the closest line point." alt="" coords="8,107,233,133"/>
+</map>

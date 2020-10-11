@@ -1,0 +1,12 @@
+<map id="T_MESH::Vertex::getBoundaryAngle" name="T_MESH::Vertex::getBoundaryAngle">
+<area shape="rect" id="node1" title="Returns the angle between the two incident boundary edges. If the vertex is not on the boundary,..." alt="" coords="5,74,208,115"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a7d19f5b5b98c1999de03da56eab91478" title=" " alt="" coords="289,5,462,32"/>
+<area shape="rect" id="node4" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a312b5886ae431004c537b8a2a7f6672f" title="Returns the edge following this vertex on the boundary." alt="" coords="256,56,495,83"/>
+<area shape="rect" id="node8" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aef981891343c94489f00b060bd654b6c" title="Vertex opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="547,107,755,133"/>
+<area shape="rect" id="node9" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a9d9ad69308ac425985b0efe7d39b4315" title="Returns the edge preceeding this vertex on the boundary." alt="" coords="256,157,495,184"/>
+<area shape="rect" id="node3" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a61ce9f22ddfe41f036566d4a2f920ac4" title="Distance from origin." alt="" coords="573,5,730,32"/>
+<area shape="rect" id="node5" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a96830b6d677fab318268f287682ad151" title="Triangle on the left of the edge when looking from &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="558,56,745,83"/>
+<area shape="rect" id="node6" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a77cc688b97fd6501b5dca8385fce4137" title="Triangle&#39;s edge opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the triangle." alt="" coords="543,157,760,184"/>
+<area shape="rect" id="node7" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a7d7329ff24b7b6eb2eceee39711dd650" title="TRUE iff &#39;v&#39; is an end&#45;point of the edge." alt="" coords="808,157,988,184"/>
+<area shape="rect" id="node10" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aa9788a51d590116555c8a062e253a197" title="Triangle on the right of the edge when looking from &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the edge." alt="" coords="555,208,748,235"/>
+</map>

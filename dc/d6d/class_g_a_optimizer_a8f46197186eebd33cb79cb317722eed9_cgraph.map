@@ -2,26 +2,33 @@
 <area shape="rect" id="node1" title="Run the genetic algorithm." alt="" coords="5,157,208,184"/>
 <area shape="rect" id="node2" href="$dc/d6d/class_g_a_optimizer.html#a37941b6f02ffe5e777f0d3e421158205" title="Generate next population of individuals." alt="" coords="256,157,487,184"/>
 <area shape="rect" id="node9" href="$dc/d6d/class_g_a_optimizer.html#a77b17390fe144ff6740cb1ebe7677138" title="Rank individuals corresponding to their fitness value." alt="" coords="542,259,734,285"/>
-<area shape="rect" id="node24" href="$dc/d6d/class_g_a_optimizer.html#ad6c4879784ab7d308f653f025257fcc2" title="Create the initial (first) population." alt="" coords="273,56,469,83"/>
+<area shape="rect" id="node31" href="$dc/d6d/class_g_a_optimizer.html#ad6c4879784ab7d308f653f025257fcc2" title="Create the initial (first) population." alt="" coords="273,56,469,83"/>
 <area shape="rect" id="node3" href="$dc/d6d/class_g_a_optimizer.html#a4b960fd3988a358ce142a40354a20182" title="Crossover the whole mating pool." alt="" coords="539,157,737,184"/>
 <area shape="rect" id="node6" href="$dc/d6d/class_g_a_optimizer.html#a84d38a2e5f2157c8ba768a482c133e9e" title="Creates the mating pool." alt="" coords="535,107,741,133"/>
 <area shape="rect" id="node7" href="$dc/d6d/class_g_a_optimizer.html#aab62835f38ddff98e90b038382f09464" title="Mutate the entire population." alt="" coords="535,208,741,235"/>
-<area shape="rect" id="node23" href="$dc/d6d/class_g_a_optimizer.html#ad99279f0064d85a080dbb5ac1170ab2d" title="Does the &#39;natural&#39; selection by selection of elite and fittest indivuals." alt="" coords="559,56,717,83"/>
+<area shape="rect" id="node30" href="$dc/d6d/class_g_a_optimizer.html#ad99279f0064d85a080dbb5ac1170ab2d" title="Does the &#39;natural&#39; selection by selection of elite and fittest indivuals." alt="" coords="559,56,717,83"/>
 <area shape="rect" id="node4" href="$dc/d6d/class_g_a_optimizer.html#a871288172fcf79145d2efd12c5be1c29" title="The crossover function for two parents to create one child." alt="" coords="820,157,957,184"/>
 <area shape="rect" id="node5" href="$dc/d6d/class_g_a_optimizer.html#a4f7a2414ff6fab79ee07ad939eed1576" title="Permutates the list via Fisher&#45;Yates&#45;Shuffle." alt="" coords="802,56,975,83"/>
 <area shape="rect" id="node8" href="$dc/d6d/class_g_a_optimizer.html#a8c81f435211f986ae70c57fb9c7123c1" title="Mutate an individual (create neighbor)" alt="" coords="816,208,961,235"/>
 <area shape="rect" id="node10" href="$dc/d6d/class_g_a_optimizer.html#a9557e1575e4fa512fab3e4cb681a02e2" title="Computes fitness of an indivudal." alt="" coords="789,259,988,285"/>
 <area shape="rect" id="node11" href="$d9/d02/class_optimizer.html#a4f2470e3a7450a12d4daa5df86d50ce8" title="computes the total wire length of a wiring" alt="" coords="793,310,984,351"/>
-<area shape="rect" id="node12" href="$de/d52/class_a_star.html#a29f560899446dc99d6f157e4997650d7" title="Unmark all paths." alt="" coords="1073,179,1213,205"/>
-<area shape="rect" id="node13" href="$de/d52/class_a_star.html#aa76c29f42861c4f6fc7c328e4dbc7d83" title="Mark a path as locked so that it can not be used by another search." alt="" coords="1297,153,1416,180"/>
-<area shape="rect" id="node14" href="$d6/db5/class_scene.html#a64cb0dcdcb57a45fe485fb3489c112c4" title="Return if the 26&#45;neighborhood voxels of a connection path are locked too." alt="" coords="1041,229,1245,256"/>
-<area shape="rect" id="node15" href="$d6/db5/class_scene.html#abe8f9d18527a1fea362460cdc53cb5eb" title="Return the bounds of the mesh in scene coordinates." alt="" coords="1036,281,1249,322"/>
-<area shape="rect" id="node16" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="1044,347,1241,373"/>
-<area shape="rect" id="node17" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="1070,397,1215,424"/>
-<area shape="rect" id="node18" href="$de/d52/class_a_star.html#a67f440fb4e77fad8d273ef848e9703c1" title="Reset grid." alt="" coords="1097,448,1189,475"/>
-<area shape="rect" id="node22" href="$de/d52/class_a_star.html#a0d1fd50821c4cd7bbd8a87bd9fcf5dd3" title="Search a path in the voxelgrid using the A* algorithm with the preset heuristic." alt="" coords="1078,499,1207,525"/>
-<area shape="rect" id="node19" href="$de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" title="Resets the 3D voxel grid to it&#39;s default values." alt="" coords="1299,448,1415,475"/>
-<area shape="rect" id="node20" href="$de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" title="Initializes the 3D voxel grid." alt="" coords="1464,448,1568,475"/>
-<area shape="rect" id="node21" href="$de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="1616,448,1696,475"/>
-<area shape="rect" id="node25" href="$dc/d6d/class_g_a_optimizer.html#a94b1a8965fe73191c12f3c070f21746e" title="Create a new individual (via shuffeling)" alt="" coords="540,5,736,32"/>
+<area shape="rect" id="node12" href="$de/d52/class_a_star.html#a29f560899446dc99d6f157e4997650d7" title="Unmark all paths." alt="" coords="1073,83,1213,109"/>
+<area shape="rect" id="node13" href="$de/d52/class_a_star.html#aa76c29f42861c4f6fc7c328e4dbc7d83" title="Mark a path as locked so that it can not be used by another search." alt="" coords="1331,57,1449,84"/>
+<area shape="rect" id="node14" href="$d9/d58/class_touchpoint.html#a30cdb1f0de39cf4ffe2d23c3c750d331" title="Return outside wiring entry point (grid coordinates)" alt="" coords="1054,134,1231,175"/>
+<area shape="rect" id="node15" href="$d6/db5/class_scene.html#a64cb0dcdcb57a45fe485fb3489c112c4" title="Return if the 26&#45;neighborhood voxels of a connection path are locked too." alt="" coords="1041,200,1245,227"/>
+<area shape="rect" id="node16" href="$d6/db5/class_scene.html#abe8f9d18527a1fea362460cdc53cb5eb" title="Return the bounds of the mesh in scene coordinates." alt="" coords="1036,251,1249,293"/>
+<area shape="rect" id="node17" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="1044,317,1241,344"/>
+<area shape="rect" id="node18" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="1070,368,1215,395"/>
+<area shape="rect" id="node19" href="$d9/d58/class_touchpoint.html#afbb2470ea0d67a12a29eb3d6bd958f01" title="Mark voxel grid cells as occupied by the touchpoint geometry." alt="" coords="1049,419,1237,445"/>
+<area shape="rect" id="node24" href="$de/d52/class_a_star.html#a67f440fb4e77fad8d273ef848e9703c1" title="Reset grid." alt="" coords="1097,520,1189,547"/>
+<area shape="rect" id="node28" href="$de/d52/class_a_star.html#a0d1fd50821c4cd7bbd8a87bd9fcf5dd3" title="Search a path in the voxelgrid using the A* algorithm with the preset heuristic." alt="" coords="1078,571,1207,597"/>
+<area shape="rect" id="node29" href="$d9/d58/class_touchpoint.html#a550348f9d05c347b5186b6531d583a11" title="Mark voxel grid cells as unoccupied by the touchpoint geometry." alt="" coords="1041,469,1244,496"/>
+<area shape="rect" id="node20" href="$d9/d58/class_touchpoint.html#a1b82f162b238396efeae6b9369430a87" title="Mark voxel grid cells occupied / unoccupied by the touchpoint geometry." alt="" coords="1297,411,1483,453"/>
+<area shape="rect" id="node21" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="1581,469,1687,496"/>
+<area shape="rect" id="node22" href="$d9/d58/class_touchpoint.html#a465057d2b000f7fc374d594fb8b80ce6" title="Return the bounds of the touchpoint in world coordinates." alt="" coords="1531,353,1737,394"/>
+<area shape="rect" id="node23" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="1597,419,1671,445"/>
+<area shape="rect" id="node25" href="$de/d52/class_a_star.html#af8f32d428d15af1c33dc9f77929299ca" title="Resets the 3D voxel grid to it&#39;s default values." alt="" coords="1332,520,1448,547"/>
+<area shape="rect" id="node26" href="$de/d52/class_a_star.html#aadbff393646adec069b3264bed4edc9f" title="Initializes the 3D voxel grid." alt="" coords="1582,520,1686,547"/>
+<area shape="rect" id="node27" href="$de/d52/class_a_star.html#abc66e4863cf4c15f616098e60469e50b" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="1785,520,1865,547"/>
+<area shape="rect" id="node32" href="$dc/d6d/class_g_a_optimizer.html#a94b1a8965fe73191c12f3c070f21746e" title="Create a new individual (via shuffeling)" alt="" coords="540,5,736,32"/>
 </map>

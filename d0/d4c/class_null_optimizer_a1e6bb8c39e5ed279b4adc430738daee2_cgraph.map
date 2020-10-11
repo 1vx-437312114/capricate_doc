@@ -1,9 +1,16 @@
 <map id="NullOptimizer::optimize" name="NullOptimizer::optimize">
-<area shape="rect" id="node1" title=" " alt="" coords="5,148,164,175"/>
-<area shape="rect" id="node2" href="$d6/db5/class_scene.html#a64cb0dcdcb57a45fe485fb3489c112c4" title="Return if the 26&#45;neighborhood voxels of a connection path are locked too." alt="" coords="217,5,421,32"/>
-<area shape="rect" id="node3" href="$d6/db5/class_scene.html#abe8f9d18527a1fea362460cdc53cb5eb" title="Return the bounds of the mesh in scene coordinates." alt="" coords="212,57,425,98"/>
-<area shape="rect" id="node4" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="220,123,417,149"/>
-<area shape="rect" id="node5" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="246,173,391,200"/>
-<area shape="rect" id="node6" href="$de/d52/class_a_star.html#aa76c29f42861c4f6fc7c328e4dbc7d83" title="Mark a path as locked so that it can not be used by another search." alt="" coords="259,224,378,251"/>
-<area shape="rect" id="node7" href="$de/d52/class_a_star.html#a0d1fd50821c4cd7bbd8a87bd9fcf5dd3" title="Search a path in the voxelgrid using the A* algorithm with the preset heuristic." alt="" coords="254,275,383,301"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,239,164,266"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#a30cdb1f0de39cf4ffe2d23c3c750d331" title="Return outside wiring entry point (grid coordinates)" alt="" coords="230,5,407,47"/>
+<area shape="rect" id="node3" href="$d6/db5/class_scene.html#a64cb0dcdcb57a45fe485fb3489c112c4" title="Return if the 26&#45;neighborhood voxels of a connection path are locked too." alt="" coords="217,71,421,98"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html#abe8f9d18527a1fea362460cdc53cb5eb" title="Return the bounds of the mesh in scene coordinates." alt="" coords="212,123,425,164"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#a5c26ef724365bd55c471acc673d60674" title="Return the touchpoint registry of the scene." alt="" coords="220,189,417,215"/>
+<area shape="rect" id="node6" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="246,239,391,266"/>
+<area shape="rect" id="node7" href="$d9/d58/class_touchpoint.html#afbb2470ea0d67a12a29eb3d6bd958f01" title="Mark voxel grid cells as occupied by the touchpoint geometry." alt="" coords="225,290,413,317"/>
+<area shape="rect" id="node12" href="$de/d52/class_a_star.html#aa76c29f42861c4f6fc7c328e4dbc7d83" title="Mark a path as locked so that it can not be used by another search." alt="" coords="259,341,378,367"/>
+<area shape="rect" id="node13" href="$de/d52/class_a_star.html#a0d1fd50821c4cd7bbd8a87bd9fcf5dd3" title="Search a path in the voxelgrid using the A* algorithm with the preset heuristic." alt="" coords="254,391,383,418"/>
+<area shape="rect" id="node14" href="$d9/d58/class_touchpoint.html#a550348f9d05c347b5186b6531d583a11" title="Mark voxel grid cells as unoccupied by the touchpoint geometry." alt="" coords="217,442,420,469"/>
+<area shape="rect" id="node8" href="$d9/d58/class_touchpoint.html#a1b82f162b238396efeae6b9369430a87" title="Mark voxel grid cells occupied / unoccupied by the touchpoint geometry." alt="" coords="473,359,659,400"/>
+<area shape="rect" id="node9" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="757,307,863,334"/>
+<area shape="rect" id="node10" href="$d9/d58/class_touchpoint.html#a465057d2b000f7fc374d594fb8b80ce6" title="Return the bounds of the touchpoint in world coordinates." alt="" coords="707,359,913,400"/>
+<area shape="rect" id="node11" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="773,425,847,451"/>
 </map>

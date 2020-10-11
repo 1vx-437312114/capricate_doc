@@ -1,0 +1,8 @@
+<map id="loopSplit::loopSplit" name="loopSplit::loopSplit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,136,83"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a5332cb4780fa56bdd9e95b250defc82c" title="Triangle&#39;s vertex opposite to &#39;e&#39;. NULL if &#39;e&#39; is not an edge of the triangle." alt="" coords="184,49,371,90"/>
+<area shape="rect" id="node3" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#aa7b9f783f2e4339083f46d25d3eecf68" title="First vertex." alt="" coords="419,5,571,32"/>
+<area shape="rect" id="node5" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a1bf6a231440a3c73a931c1cfccfee574" title="Second vertex." alt="" coords="419,56,571,83"/>
+<area shape="rect" id="node6" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0c4c2a2ba6b0c975aa3d260f00785e8f" title="Third vertex." alt="" coords="419,107,571,133"/>
+<area shape="rect" id="node4" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a560eca8895471f987bd3228b13c40052" title="Vertex shared with edge &#39;b&#39;. NULL if this and &#39;b&#39; do not share any vertex." alt="" coords="619,56,828,83"/>
+</map>

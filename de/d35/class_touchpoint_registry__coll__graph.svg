@@ -13,32 +13,32 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title="Manages all the touchpoints and connections in a scene.">
-<polygon fill="#bfbfbf" stroke="black" points="63,-0.5 63,-277.5 208,-277.5 208,-0.5 63,-0.5"/>
-<text text-anchor="middle" x="135.5" y="-265.5" font-family="Helvetica,sans-Serif" font-size="10.00">TouchpointRegistry</text>
-<polyline fill="none" stroke="black" points="63,-258.5 208,-258.5 "/>
-<text text-anchor="middle" x="135.5" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="63,-239.5 208,-239.5 "/>
-<text text-anchor="start" x="71" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TouchpointRegistry()</text>
-<text text-anchor="start" x="71" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addTouchpoint()</text>
-<text text-anchor="start" x="71" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addConnector()</text>
-<text text-anchor="start" x="71" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addConnection()</text>
-<text text-anchor="start" x="71" y="-183.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeTouchpoint()</text>
-<text text-anchor="start" x="71" y="-172.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeConnector()</text>
-<text text-anchor="start" x="71" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeConnection()</text>
-<text text-anchor="start" x="71" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTouchpoints()</text>
-<text text-anchor="start" x="71" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getConnectors()</text>
-<text text-anchor="start" x="71" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getConnections()</text>
-<text text-anchor="start" x="71" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTouchpoint()</text>
-<text text-anchor="start" x="71" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getConnector()</text>
-<text text-anchor="start" x="71" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getConnection()</text>
-<text text-anchor="start" x="71" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTouchpointByID()</text>
-<text text-anchor="start" x="71" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getConnectorByID()</text>
-<text text-anchor="start" x="71" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumberOfTouchpoints()</text>
-<text text-anchor="start" x="71" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumberOfConnectors()</text>
-<text text-anchor="start" x="71" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumberOfConnections()</text>
-<text text-anchor="start" x="71" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearConnections()</text>
-<text text-anchor="start" x="71" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ updateIDs()</text>
-<text text-anchor="start" x="71" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ reset()</text>
+<polygon fill="#bfbfbf" stroke="black" points="64,-0.5 64,-277.5 209,-277.5 209,-0.5 64,-0.5"/>
+<text text-anchor="middle" x="136.5" y="-265.5" font-family="Helvetica,sans-Serif" font-size="10.00">TouchpointRegistry</text>
+<polyline fill="none" stroke="black" points="64,-258.5 209,-258.5 "/>
+<text text-anchor="middle" x="136.5" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="64,-239.5 209,-239.5 "/>
+<text text-anchor="start" x="72" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TouchpointRegistry()</text>
+<text text-anchor="start" x="72" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addTouchpoint()</text>
+<text text-anchor="start" x="72" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addConnector()</text>
+<text text-anchor="start" x="72" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addConnection()</text>
+<text text-anchor="start" x="72" y="-183.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeTouchpoint()</text>
+<text text-anchor="start" x="72" y="-172.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeConnector()</text>
+<text text-anchor="start" x="72" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeConnection()</text>
+<text text-anchor="start" x="72" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTouchpoints()</text>
+<text text-anchor="start" x="72" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getConnectors()</text>
+<text text-anchor="start" x="72" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getConnections()</text>
+<text text-anchor="start" x="72" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTouchpoint()</text>
+<text text-anchor="start" x="72" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getConnector()</text>
+<text text-anchor="start" x="72" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getConnection()</text>
+<text text-anchor="start" x="72" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTouchpointByID()</text>
+<text text-anchor="start" x="72" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getConnectorByID()</text>
+<text text-anchor="start" x="72" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumberOfTouchpoints()</text>
+<text text-anchor="start" x="72" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumberOfConnectors()</text>
+<text text-anchor="start" x="72" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumberOfConnections()</text>
+<text text-anchor="start" x="72" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearConnections()</text>
+<text text-anchor="start" x="72" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ updateIDs()</text>
+<text text-anchor="start" x="72" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ reset()</text>
 </a>
 </g>
 </g>
@@ -59,10 +59,10 @@
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M110.55,-412.22C113.3,-382.21 117.55,-335.82 121.77,-289.8"/>
-<polygon fill="none" stroke="#404040" points="121.77,-289.75 118.34,-283.41 122.87,-277.8 126.31,-284.14 121.77,-289.75"/>
-<text text-anchor="middle" x="148" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;touchpoints</text>
-<text text-anchor="middle" x="148" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;connectors</text>
+<path fill="none" stroke="#404040" d="M110.66,-412.22C113.51,-382.21 117.91,-335.82 122.28,-289.8"/>
+<polygon fill="none" stroke="#404040" points="122.29,-289.75 118.87,-283.39 123.42,-277.8 126.83,-284.15 122.29,-289.75"/>
+<text text-anchor="middle" x="147" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;connectors</text>
+<text text-anchor="middle" x="147" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;touchpoints</text>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -213,8 +213,8 @@
 <!-- Node5&#45;&gt;Node1 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M237.27,-325.31C230.67,-313.29 222.72,-298.82 214.22,-283.33"/>
-<polygon fill="none" stroke="#404040" points="214.03,-282.98 207.63,-279.65 208.25,-272.47 214.64,-275.8 214.03,-282.98"/>
+<path fill="none" stroke="#404040" d="M237.43,-325.31C230.98,-313.48 223.25,-299.28 214.97,-284.08"/>
+<polygon fill="none" stroke="#404040" points="214.9,-283.95 208.52,-280.59 209.16,-273.41 215.54,-276.77 214.9,-283.95"/>
 <text text-anchor="middle" x="257" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;connections</text>
 </g>
 <!-- Node6 -->

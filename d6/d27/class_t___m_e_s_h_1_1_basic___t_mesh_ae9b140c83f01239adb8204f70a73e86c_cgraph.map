@@ -1,0 +1,6 @@
+<map id="T_MESH::Basic_TMesh::CreateTriangle" name="T_MESH::Basic_TMesh::CreateTriangle">
+<area shape="rect" id="node1" title="Creates a properly oriented Triangle bounded by three existing mesh edges." alt="" coords="5,49,169,90"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#ae601a7e17364ce83f74ffcb6c64971ca" title="Appends a new node storing &#39;d&#39; to the head. &#160;&#160;O(1)." alt="" coords="229,5,415,32"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a560eca8895471f987bd3228b13c40052" title="Vertex shared with edge &#39;b&#39;. NULL if this and &#39;b&#39; do not share any vertex." alt="" coords="217,56,427,83"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a1fda4e2b03b24abb8784e3a1c6fb49e7" title="AMF_ADD 1.1&gt;" alt="" coords="240,107,404,149"/>
+</map>

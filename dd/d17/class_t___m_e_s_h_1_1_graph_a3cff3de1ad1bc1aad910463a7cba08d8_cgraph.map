@@ -1,0 +1,11 @@
+<map id="T_MESH::Graph::deleteUnlinkedElements" name="T_MESH::Graph::deleteUnlinkedElements">
+<area shape="rect" id="node1" title="Eliminates isolated nodes and unlinked edges from the lists." alt="" coords="5,181,219,222"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af3baa55cf02bd943635012a489d6c33a" title="Gets the first node, NULL if empty. &#160;&#160;O(1)." alt="" coords="285,5,427,32"/>
+<area shape="rect" id="node3" href="$dd/d41/class_t___m_e_s_h_1_1graph_node.html#a585d54dc5a4cd5a4642df1aa15991614" title="Returns TRUE if the node is isolated. O(1)." alt="" coords="279,57,433,98"/>
+<area shape="rect" id="node5" href="$d7/dd6/class_t___m_e_s_h_1_1graph_edge.html#af091fe9186d672ad2309936a55b3135e" title="Returns TRUE if this edge does not connect points. O(1)." alt="" coords="279,122,433,163"/>
+<area shape="rect" id="node6" href="$da/d53/class_t___m_e_s_h_1_1_node.html#ae661edb2148691ba90cfe14d73d2545b" title="Returns the next node in the list, possibly NULL." alt="" coords="282,188,430,215"/>
+<area shape="rect" id="node7" href="$da/d53/class_t___m_e_s_h_1_1_node.html#aed5d13bba326f240b2058b5a2a28c3c3" title="Returns the previous node in the list, possibly NULL." alt="" coords="282,239,430,265"/>
+<area shape="rect" id="node8" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#aec091d7c66b66c92fe56f06f41f448f4" title="Deletes and removes the node &#39;n&#39; from the list. &#160;&#160;O(1)." alt="" coords="267,289,445,316"/>
+<area shape="rect" id="node9" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a700222ddbd4160a36795249926752f79" title="Gets the last node, NULL if empty. &#160;&#160;O(1)." alt="" coords="291,340,421,367"/>
+<area shape="rect" id="node4" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af0e61026072f65c9ba882df526acfd2e" title="Gets the number of elements. &#160;&#160;O(1)." alt="" coords="493,64,648,91"/>
+</map>

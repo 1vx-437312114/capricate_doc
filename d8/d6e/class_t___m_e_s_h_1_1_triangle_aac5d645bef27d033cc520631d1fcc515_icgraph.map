@@ -1,0 +1,7 @@
+<map id="T_MESH::Triangle::hasVertex" name="T_MESH::Triangle::hasVertex">
+<area shape="rect" id="node1" title="TRUE iff &#39;v&#39; is a vertex of the triangle." alt="" coords="771,42,967,69"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#ac8f0f2d0f1a3ab47110f30ca73970fb7" title="If this triangle shares a vertex with &#39;b&#39;, then such a vertex is returned. NULL otherwise." alt="" coords="535,5,723,47"/>
+<area shape="rect" id="node5" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a52d4b92af3766a8a3967ce729ddb3661" title="true if this edge itersects &#39;t&#39; other than on common subsimplexes" alt="" coords="539,71,718,98"/>
+<area shape="rect" id="node3" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a38d6dedff09dd67bc25defcb61304546" title="true if this triangle itersects &#39;t&#39; other than on common subsimplexes if &#39;justproper&#39; is true,..." alt="" coords="292,13,487,39"/>
+<area shape="rect" id="node4" href="$d3/d21/class_t___m_e_s_h_1_1di__cell.html#a225e296cc8fdea7f5dbc9d4b9a5bc79c" title=" " alt="" coords="5,13,244,39"/>
+</map>

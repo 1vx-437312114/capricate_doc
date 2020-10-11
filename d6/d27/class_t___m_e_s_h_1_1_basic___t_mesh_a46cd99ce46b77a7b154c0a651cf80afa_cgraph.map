@@ -1,0 +1,8 @@
+<map id="T_MESH::Basic_TMesh::removeVertices" name="T_MESH::Basic_TMesh::removeVertices">
+<area shape="rect" id="node1" title="Removes all the unlinked vertices from List V. Returns the number of removed vertices...." alt="" coords="5,99,169,141"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af3baa55cf02bd943635012a489d6c33a" title="Gets the first node, NULL if empty. &#160;&#160;O(1)." alt="" coords="236,5,377,32"/>
+<area shape="rect" id="node3" href="$da/d53/class_t___m_e_s_h_1_1_node.html#ae661edb2148691ba90cfe14d73d2545b" title="Returns the next node in the list, possibly NULL." alt="" coords="233,56,381,83"/>
+<area shape="rect" id="node4" href="$da/d53/class_t___m_e_s_h_1_1_node.html#aed5d13bba326f240b2058b5a2a28c3c3" title="Returns the previous node in the list, possibly NULL." alt="" coords="233,107,381,133"/>
+<area shape="rect" id="node5" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#aec091d7c66b66c92fe56f06f41f448f4" title="Deletes and removes the node &#39;n&#39; from the list. &#160;&#160;O(1)." alt="" coords="217,157,396,184"/>
+<area shape="rect" id="node6" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a700222ddbd4160a36795249926752f79" title="Gets the last node, NULL if empty. &#160;&#160;O(1)." alt="" coords="241,208,372,235"/>
+</map>

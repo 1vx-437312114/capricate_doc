@@ -1,12 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d9/d02/class_optimizer.html" title="Base class for wirelength optimizers." alt="" coords="5,208,84,235"/>
-<area shape="rect" id="node2" href="$da/d4f/class_brute_force_optimizer.html" title="Optimizes the total wirelength of all connections by exhaustive search." alt="" coords="157,5,300,32"/>
-<area shape="rect" id="node3" href="$dc/d6d/class_g_a_optimizer.html" title="Optimizes the total wirelength of all connections by using a genetic algorithm." alt="" coords="180,56,277,83"/>
-<area shape="rect" id="node4" href="$de/d17/class_great_deluge_optimizer.html" title="Optimizes the total wirelength of all connections by using the great deluge algorithm." alt="" coords="153,107,304,133"/>
-<area shape="rect" id="node5" href="$da/d20/class_greedy_optimizer.html" title="Optimizes the total wirelength of all connections by using the nearest neighbor (greedy) algorithm." alt="" coords="169,157,289,184"/>
-<area shape="rect" id="node6" href="$d1/d15/class_hill_climbing_optimizer.html" title="Optimizes the total wirelength of all connections by using the hill climbing algorithm." alt="" coords="155,208,303,235"/>
-<area shape="rect" id="node7" href="$d0/d4c/class_null_optimizer.html" title="Does not optimize at all (null) but instead connects the first touchpoint with the first connector an..." alt="" coords="178,259,279,285"/>
-<area shape="rect" id="node8" href="$d2/d35/class_random_optimizer.html" title="The RandomOptimizer generates random connections in the hope to find a good one by pure luck." alt="" coords="165,309,292,336"/>
-<area shape="rect" id="node9" href="$d0/d53/class_simulated_annealing_optimizer.html" title="Optimizes the total wirelength of all connections by using the simulated annealing optimizer." alt="" coords="132,360,325,387"/>
-<area shape="rect" id="node10" href="$d0/da8/class_threshold_accepting_optimizer.html" title="Optimizes total wirelength of all connections by using the threshold acceptance algorithm." alt="" coords="132,411,325,437"/>
+<area shape="rect" id="node1" href="$d5/d50/classmutable__priority__queue.html" title=" " alt="" coords="5,5,192,61"/>
 </map>

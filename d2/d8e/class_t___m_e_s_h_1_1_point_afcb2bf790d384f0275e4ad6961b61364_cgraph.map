@@ -1,0 +1,10 @@
+<map id="T_MESH::Point::segmentIntersectsTriangle" name="T_MESH::Point::segmentIntersectsTriangle">
+<area shape="rect" id="node1" title="true if segment (s1&#45;s2) intersects the triangle v1&#45;v2&#45;v3 (border included)." alt="" coords="5,57,236,98"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a16ed7eb5cd98505d86668c4eb0590645" title="Exact orientation test." alt="" coords="284,5,501,32"/>
+<area shape="rect" id="node5" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a882a22d815f18d8327787012a120637c" title="Exact planar side test." alt="" coords="299,57,487,98"/>
+<area shape="rect" id="node8" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a25775d277a300be604aaf6399a0119cc" title="true if the coplanar point &#39;p&#39; is in the inner area of v1&#45;v2&#45;v3." alt="" coords="297,122,488,163"/>
+<area shape="rect" id="node3" href="$de/df9/namespace_t___m_e_s_h.html#a31d1470b87fab8f85b54af905e25d15a" title=" " alt="" coords="549,5,683,32"/>
+<area shape="rect" id="node4" href="$de/df9/namespace_t___m_e_s_h.html#ab2a541476dd63dc930853bddc4bf6969" title=" " alt="" coords="731,5,868,32"/>
+<area shape="rect" id="node6" href="$de/df9/namespace_t___m_e_s_h.html#a5dcbe262a73a0769e3f63025edf3d25d" title="Orientation predicates on PM_Rationals." alt="" coords="549,96,683,123"/>
+<area shape="rect" id="node7" href="$de/df9/namespace_t___m_e_s_h.html#a2bad1f974ad8c908dd703494055080c1" title="Orientation predicates using filtering on doubles." alt="" coords="731,96,868,123"/>
+</map>

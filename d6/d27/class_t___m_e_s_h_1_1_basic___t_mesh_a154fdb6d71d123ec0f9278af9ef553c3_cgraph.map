@@ -1,0 +1,6 @@
+<map id="T_MESH::Basic_TMesh::duplicateEdge" name="T_MESH::Basic_TMesh::duplicateEdge">
+<area shape="rect" id="node1" title="If the &#39;e&#39; is internal, creates a copy of the edge and associates e&#45;&gt;t2 to this copy." alt="" coords="5,57,169,98"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#ae601a7e17364ce83f74ffcb6c64971ca" title="Appends a new node storing &#39;d&#39; to the head. &#160;&#160;O(1)." alt="" coords="229,5,416,32"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a20469173793123e3dd41269a48602ba2" title="AMF_ADD 1.1&gt;" alt="" coords="241,57,405,98"/>
+<area shape="rect" id="node4" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a4c2d4262f06232e3a7cd1a8bd1a0298b" title="Replace edge &#39;a&#39; with edge &#39;b&#39; in the triangle and return TRUE. If &#39;a&#39; is not an edge of the triangle..." alt="" coords="217,123,428,149"/>
+</map>

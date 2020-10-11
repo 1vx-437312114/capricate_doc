@@ -1,0 +1,5 @@
+<map id="T_MESH::Point::squaredTriangleArea3D" name="T_MESH::Point::squaredTriangleArea3D">
+<area shape="rect" id="node1" title="Squared area of the triangle p&#45;q&#45;r." alt="" coords="485,5,700,47"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a88600f587cbaf2f57c7be3b6e202a22d" title="This is as coordBackApproximation() but it also checks for intersections and, if any,..." alt="" coords="235,5,437,47"/>
+<area shape="rect" id="node3" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#acab069f805e6c473afb4e340d3d8d1ae" title="&lt; AMF_CHANGE &#45; since T_MESH 2.4&#45;2 &gt;" alt="" coords="5,13,187,39"/>
+</map>

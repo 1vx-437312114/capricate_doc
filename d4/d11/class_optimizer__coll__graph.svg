@@ -339,8 +339,8 @@
 <title>Node9&#45;&gt;Node13</title>
 <path fill="none" stroke="#404040" d="M422.58,-1470.95C408.43,-1437.33 385.47,-1382.8 363.26,-1330.05"/>
 <polygon fill="none" stroke="#404040" points="363.19,-1329.89 357.18,-1325.91 358.53,-1318.83 364.55,-1322.81 363.19,-1329.89"/>
-<text text-anchor="middle" x="401" y="-1351" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;touchpoints</text>
-<text text-anchor="middle" x="401" y="-1340" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;connectors</text>
+<text text-anchor="middle" x="400" y="-1351" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;connectors</text>
+<text text-anchor="middle" x="400" y="-1340" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;touchpoints</text>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">
@@ -697,8 +697,8 @@
 <title>Node24&#45;&gt;Node23</title>
 <path fill="none" stroke="#404040" d="M619.5,-2506.66C619.5,-2422.16 619.5,-2168.41 619.5,-2069.8"/>
 <polygon fill="none" stroke="#404040" points="619.5,-2069.76 615.5,-2063.76 619.5,-2057.76 623.5,-2063.76 619.5,-2069.76"/>
-<text text-anchor="middle" x="657.5" y="-2200" font-family="Helvetica,sans-Serif" font-size="10.00"> +openScadCode</text>
-<text text-anchor="middle" x="657.5" y="-2189" font-family="Helvetica,sans-Serif" font-size="10.00">+fileName</text>
+<text text-anchor="middle" x="656" y="-2200" font-family="Helvetica,sans-Serif" font-size="10.00"> +fileName</text>
+<text text-anchor="middle" x="656" y="-2189" font-family="Helvetica,sans-Serif" font-size="10.00">+openScadCode</text>
 </g>
 <!-- Node25 -->
 <g id="node25" class="node">

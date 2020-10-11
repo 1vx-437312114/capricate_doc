@@ -1,0 +1,6 @@
+<map id="T_MESH::Triangle::getLongestEdge" name="T_MESH::Triangle::getLongestEdge">
+<area shape="rect" id="node1" title="Returns the longest edge of the triangle." alt="" coords="5,5,237,32"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a3daee959b7b2c13f21e69e4243438dc4" title="Squared length of the edge." alt="" coords="285,5,492,32"/>
+<area shape="rect" id="node3" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a91e129190fdfb3a70c287f77ec9c7851" title="Squared distance from &#39;*b&#39;." alt="" coords="540,5,760,32"/>
+<area shape="rect" id="node4" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a9772b28d248a5198f2421bd510f263ba" title="Squared distance from origin." alt="" coords="808,5,1015,32"/>
+</map>

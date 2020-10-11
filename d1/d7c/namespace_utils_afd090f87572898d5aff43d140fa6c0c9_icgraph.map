@@ -1,7 +1,8 @@
 <map id="Utils::convertPolyDataToOFFStr" name="Utils::convertPolyDataToOFFStr">
-<area shape="rect" id="node1" title="Converts a vtkPolyData object to an OFF file string which can be written to disk or passed to a funct..." alt="" coords="477,61,645,102"/>
-<area shape="rect" id="node2" href="$dd/d00/class_export_s_t_l_tool.html#a218420198ac8fef5b9f9a8acc889307d" title=" " alt="" coords="9,12,171,39"/>
-<area shape="rect" id="node3" href="$d9/d00/class_p_s_interface_tool.html#aa26bf20d4e597f64df960e4c1a5c3a69" title=" " alt="" coords="5,67,175,93"/>
-<area shape="rect" id="node4" href="$d4/d76/class_i_g_l_mesh_boolean_operation_filter.html#a2a84e6e879e95cac0ad31f1531c621ea" title="Execute operation on meshes." alt="" coords="223,31,429,73"/>
-<area shape="rect" id="node5" href="$d9/d68/class_cork_mesh_boolean_operation_filter.html#a0248d172d1c6b4037b2ce5bab38f14c3" title="Execute operation on meshes." alt="" coords="233,149,419,190"/>
+<area shape="rect" id="node1" title="Converts a vtkPolyData object to an OFF file string which can be written to disk or passed to a funct..." alt="" coords="477,104,645,145"/>
+<area shape="rect" id="node2" href="$dd/d00/class_export_s_t_l_tool.html#a218420198ac8fef5b9f9a8acc889307d" title=" " alt="" coords="9,16,171,43"/>
+<area shape="rect" id="node3" href="$d9/d00/class_p_s_interface_tool.html#aa26bf20d4e597f64df960e4c1a5c3a69" title=" " alt="" coords="5,136,175,163"/>
+<area shape="rect" id="node4" href="$d8/d0b/class_c_g_a_l_mesh_boolean_operation_filter.html#ab87a833f1550c7d8dae9a01119df93df" title="Execute operation on meshes." alt="" coords="229,104,423,145"/>
+<area shape="rect" id="node5" href="$d9/d68/class_cork_mesh_boolean_operation_filter.html#a0248d172d1c6b4037b2ce5bab38f14c3" title="Execute operation on meshes." alt="" coords="233,169,419,210"/>
+<area shape="rect" id="node6" href="$d4/d76/class_i_g_l_mesh_boolean_operation_filter.html#a2a84e6e879e95cac0ad31f1531c621ea" title="Execute operation on meshes." alt="" coords="223,38,429,80"/>
 </map>

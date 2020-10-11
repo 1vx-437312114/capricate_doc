@@ -1,0 +1,6 @@
+<map id="T_MESH::Basic_TMesh::bboxLongestDiagonal" name="T_MESH::Basic_TMesh::bboxLongestDiagonal">
+<area shape="rect" id="node1" title="Bounding box longest diagonal. O(N)." alt="" coords="5,27,169,69"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a8261009d0497d23fdb28ac451f70cc64" title="Distance from &#39;b&#39;." alt="" coords="217,5,388,32"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0fde7560f4781428338f067e79a544ef" title="Bounding box longest edge. &#39;b&#39; and &#39;t&#39; are set as the longest diagonal end&#45;points...." alt="" coords="221,57,385,98"/>
+<area shape="rect" id="node3" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a61ce9f22ddfe41f036566d4a2f920ac4" title="Distance from origin." alt="" coords="436,5,593,32"/>
+</map>

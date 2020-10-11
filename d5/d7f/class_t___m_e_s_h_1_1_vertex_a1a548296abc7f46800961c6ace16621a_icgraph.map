@@ -1,0 +1,4 @@
+<map id="T_MESH::Vertex::totalAngle" name="T_MESH::Vertex::totalAngle">
+<area shape="rect" id="node1" title="Sum of incident angles. Returns &#45;1 if on boundary." alt="" coords="235,13,421,39"/>
+<area shape="rect" id="node2" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a1defe2ebd2eec9272dec86fe6ca3b166" title="Excess angle. Returns DBL_MAX if on boundary." alt="" coords="5,5,187,47"/>
+</map>

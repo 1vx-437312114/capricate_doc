@@ -1,4 +1,4 @@
 <map id="VTKMeshBoolFilter" name="VTKMeshBoolFilter">
-<area shape="rect" id="node1" title="Filter for boolean operations on polygon meshes using the vtkbool library." alt="" coords="13,263,212,413"/>
-<area shape="rect" id="node2" href="$d4/dcd/class_mesh_boolean_operation_filter.html" title="Base class for boolean operations on polygon meshes filters." alt="" coords="5,5,220,215"/>
+<area shape="rect" id="node1" title="Filter for boolean operations on polygon meshes using the vtkbool library." alt="" coords="13,307,212,457"/>
+<area shape="rect" id="node2" href="$d4/dcd/class_mesh_boolean_operation_filter.html" title="Base class for boolean operations on polygon meshes filters." alt="" coords="5,5,220,259"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="T_MESH::abstractHeap::removeHead" name="T_MESH::abstractHeap::removeHead">
+<area shape="rect" id="node1" title="Removes and returns the first element after rearranging the heap." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$d7/d34/class_t___m_e_s_h_1_1abstract_heap.html#a8066bd7d503c5c85a6b0d20e77d46f7e" title="Moves the i&#39;th object down on the heap." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$d7/d34/class_t___m_e_s_h_1_1abstract_heap.html#a7902f4e34b172050699c8edb0548ddd9" title="Comparison of two heap elements." alt="" coords="427,5,589,47"/>
+</map>

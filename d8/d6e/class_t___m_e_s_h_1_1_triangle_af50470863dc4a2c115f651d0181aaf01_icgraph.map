@@ -1,0 +1,6 @@
+<map id="T_MESH::Triangle::nextVertex" name="T_MESH::Triangle::nextVertex">
+<area shape="rect" id="node1" title="Vertex next to &#39;v&#39; in the ordering or the triangle. NULL if &#39;v&#39; is not a vertex of the triangle." alt="" coords="699,5,899,32"/>
+<area shape="rect" id="node2" href="$de/df9/namespace_t___m_e_s_h.html#acb1342ee7a7281f17abe972751299e4b" title=" " alt="" coords="465,5,651,32"/>
+<area shape="rect" id="node3" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#a4a05d540177eaf325992664030d0743e" title=" " alt="" coords="235,5,417,32"/>
+<area shape="rect" id="node4" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#acab069f805e6c473afb4e340d3d8d1ae" title="&lt; AMF_CHANGE &#45; since T_MESH 2.4&#45;2 &gt;" alt="" coords="5,5,187,32"/>
+</map>

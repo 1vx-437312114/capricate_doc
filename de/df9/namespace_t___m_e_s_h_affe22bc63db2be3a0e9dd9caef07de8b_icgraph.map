@@ -1,0 +1,4 @@
+<map id="T_MESH::edgeCompare" name="T_MESH::edgeCompare">
+<area shape="rect" id="node1" title="Edge comparison based on length to be used with jqsort() or abstractHeap." alt="" coords="248,13,413,39"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0d6037f1cb9166537f576f93bb38fea3" title="Removes overlapping triangles and return their number." alt="" coords="5,5,200,47"/>
+</map>

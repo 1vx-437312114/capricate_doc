@@ -40,8 +40,8 @@
 <title>Node2&#45;&gt;Node1</title>
 <path fill="none" stroke="#404040" d="M96,-116.4C96,-102.5 96,-85.39 96,-70.07"/>
 <polygon fill="none" stroke="#404040" points="96,-69.74 92,-63.74 96,-57.74 100,-63.74 96,-69.74"/>
-<text text-anchor="middle" x="134" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00"> +openScadCode</text>
-<text text-anchor="middle" x="134" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+fileName</text>
+<text text-anchor="middle" x="132.5" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00"> +fileName</text>
+<text text-anchor="middle" x="132.5" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+openScadCode</text>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">

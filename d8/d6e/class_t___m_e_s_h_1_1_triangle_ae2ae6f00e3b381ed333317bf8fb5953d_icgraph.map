@@ -1,0 +1,7 @@
+<map id="T_MESH::Triangle::commonEdge" name="T_MESH::Triangle::commonEdge">
+<area shape="rect" id="node1" title="If this triangle shares an edge with &#39;b&#39;, then such an edge is returned. NULL otherwise." alt="" coords="553,42,772,69"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#ae0f21d42971e76425031d362a682fae0" title="TRUE if the oriantation is consistent with the one of &#39;t&#39; OR if this and &#39;t&#39; do not share any edge." alt="" coords="292,15,505,42"/>
+<area shape="rect" id="node4" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a38d6dedff09dd67bc25defcb61304546" title="true if this triangle itersects &#39;t&#39; other than on common subsimplexes if &#39;justproper&#39; is true,..." alt="" coords="301,67,496,94"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a02a1d3413dd04010e5a8c259d00eb23d" title="Same as above, but acts on a single connected component and uses one specific triangle from which the..." alt="" coords="37,5,212,47"/>
+<area shape="rect" id="node5" href="$d3/d21/class_t___m_e_s_h_1_1di__cell.html#a225e296cc8fdea7f5dbc9d4b9a5bc79c" title=" " alt="" coords="5,71,244,98"/>
+</map>

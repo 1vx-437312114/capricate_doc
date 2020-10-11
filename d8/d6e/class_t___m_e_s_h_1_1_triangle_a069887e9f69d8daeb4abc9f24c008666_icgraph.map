@@ -1,0 +1,8 @@
+<map id="T_MESH::Triangle::getDAngle" name="T_MESH::Triangle::getDAngle">
+<area shape="rect" id="node1" title="Angle between the normal vector of this and the one of &#39;t&#39;. Return &#45;1 if one or both the triangles ar..." alt="" coords="445,71,644,98"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#abd5594a9e9360e62ef707cec470d0f63" title="Checks the mesh for degeneracies, concident vertices and overlaps." alt="" coords="225,5,389,47"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a5fa933e3c5e84b1ddfd7e9af7c085ebf" title="Angle between the normals of the two incident triangles." alt="" coords="219,71,395,98"/>
+<area shape="rect" id="node5" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a685adc663cc94a713225f8d029322e54" title="Discriminant Angle for triangulating 3D polygons." alt="" coords="217,124,397,165"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a68fa4723b8e20632bbe5a66e714cfc1a" title="Tag sharp edges based on threshold angle. O(N)." alt="" coords="5,61,169,103"/>
+<area shape="rect" id="node6" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#affae34779bd3e7f044e4cd2f038950e9" title="Creates a triangulation of the hole based on the assumption that it is flat." alt="" coords="5,127,169,168"/>
+</map>

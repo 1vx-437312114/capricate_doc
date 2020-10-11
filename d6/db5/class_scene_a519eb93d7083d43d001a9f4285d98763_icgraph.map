@@ -1,5 +1,5 @@
 <map id="Scene::setContourWidget" name="Scene::setContourWidget">
 <area shape="rect" id="node1" title="Set the actual contour widget." alt="" coords="216,46,388,73"/>
-<area shape="rect" id="node2" href="$de/dd7/class_polyline_touchpoint_tool.html#a68d7b8c4d090063977b3404e4084290a" title=" " alt="" coords="9,5,164,47"/>
-<area shape="rect" id="node3" href="$de/de0/class_freehand_touchpoint_tool.html#a553b2df8ed2128433bac512947a1ce2c" title=" " alt="" coords="5,71,168,112"/>
+<area shape="rect" id="node2" href="$de/de0/class_freehand_touchpoint_tool.html#a553b2df8ed2128433bac512947a1ce2c" title=" " alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node3" href="$de/dd7/class_polyline_touchpoint_tool.html#a68d7b8c4d090063977b3404e4084290a" title=" " alt="" coords="9,71,164,112"/>
 </map>

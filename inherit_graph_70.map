@@ -1,8 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d1/db8/class_voxelizer.html" title="Base class for voxelizers." alt="" coords="5,107,80,133"/>
-<area shape="rect" id="node2" href="$da/dce/class_multi_pass_voxelizer.html" title="Multipass rasterization based robust voxelizer." alt="" coords="132,5,265,32"/>
-<area shape="rect" id="node3" href="$d5/d6e/class_octree_voxelizer.html" title="Octree based voxelizer." alt="" coords="141,56,256,83"/>
-<area shape="rect" id="node4" href="$dd/df8/class_robust_voxelizer.html" title="Robust voxelizer based on raycasting and majority voting." alt="" coords="140,107,257,133"/>
-<area shape="rect" id="node5" href="$d8/dc0/class_single_pass_voxelizer.html" title="Single pass rasterization based voxelizer." alt="" coords="128,157,269,184"/>
-<area shape="rect" id="node6" href="$d3/d01/class_surface_voxelizer.html" title="Mesh surface only voxelizer." alt="" coords="139,208,259,235"/>
+<area shape="rect" id="node1" href="$d5/d0d/class_t___m_e_s_h_1_1_matrix3x3.html" title="Generic 3x3 matrix." alt="" coords="5,5,147,32"/>
 </map>

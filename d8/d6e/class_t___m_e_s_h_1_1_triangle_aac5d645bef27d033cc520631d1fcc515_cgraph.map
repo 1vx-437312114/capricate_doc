@@ -1,0 +1,4 @@
+<map id="T_MESH::Triangle::hasVertex" name="T_MESH::Triangle::hasVertex">
+<area shape="rect" id="node1" title="TRUE iff &#39;v&#39; is a vertex of the triangle." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a7d7329ff24b7b6eb2eceee39711dd650" title="TRUE iff &#39;v&#39; is an end&#45;point of the edge." alt="" coords="249,5,429,32"/>
+</map>

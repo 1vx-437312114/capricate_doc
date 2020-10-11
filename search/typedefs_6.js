@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['iterator_3142',['iterator',['../d5/d50/classmutable__priority__queue.html#ab47b1408111218aa5123c8f50efd39a8',1,'mutable_priority_queue']]]
+  ['halfedge_5fdescriptor_3917',['halfedge_descriptor',['../dd/db0/cgal__defs_8h.html#ae75445b59e11f302bb50e077ae3f33c4',1,'cgal_defs.h']]]
 ];

@@ -1,0 +1,15 @@
+<map id="T_MESH::Point::isNull" name="T_MESH::Point::isNull">
+<area shape="rect" id="node1" title="TRUE if vector is (0,0,0)" alt="" coords="741,225,896,251"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a03d6770b7e450fbaf9070cf4689ffb2f" title="Dihedral angle at the edge." alt="" coords="481,54,681,81"/>
+<area shape="rect" id="node4" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a30920146d4f7a6816450ad90d6d41eaf" title="Distance from straight line through &#39;a&#39; and &#39;b&#39;. *cc is set to the closest line point." alt="" coords="468,145,693,171"/>
+<area shape="rect" id="node5" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a069887e9f69d8daeb4abc9f24c008666" title="Angle between the normal vector of this and the one of &#39;t&#39;. Return &#45;1 if one or both the triangles ar..." alt="" coords="481,195,680,222"/>
+<area shape="rect" id="node10" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#affae34779bd3e7f044e4cd2f038950e9" title="Creates a triangulation of the hole based on the assumption that it is flat." alt="" coords="5,220,169,261"/>
+<area shape="rect" id="node11" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ab1b8b908e7dd7b5ef141c4374e81ce9f" title="Normal at the vertex computed as the sum of incident triangle normals weighted on their incidence ang..." alt="" coords="486,305,675,331"/>
+<area shape="rect" id="node13" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0167ce385b2562d494e329e1b405e437" title="Projection of &#39;p&#39; on the plane of the triangle. Return INFINITE_POINT if triangle is degenerate." alt="" coords="492,355,669,382"/>
+<area shape="rect" id="node3" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a8bd2f4abef22ff4b6544bff46c17167f" title="Sum of signed dihedral angles. Returns DBL_MAX if on boundary." alt="" coords="217,5,420,47"/>
+<area shape="rect" id="node6" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#abd5594a9e9360e62ef707cec470d0f63" title="Checks the mesh for degeneracies, concident vertices and overlaps." alt="" coords="237,71,401,112"/>
+<area shape="rect" id="node7" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a5fa933e3c5e84b1ddfd7e9af7c085ebf" title="Angle between the normals of the two incident triangles." alt="" coords="231,137,407,163"/>
+<area shape="rect" id="node9" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a685adc663cc94a713225f8d029322e54" title="Discriminant Angle for triangulating 3D polygons." alt="" coords="229,188,409,229"/>
+<area shape="rect" id="node8" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a68fa4723b8e20632bbe5a66e714cfc1a" title="Tag sharp edges based on threshold angle. O(N)." alt="" coords="5,129,169,171"/>
+<area shape="rect" id="node12" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aeee5df0f56276202cb41254b08ea07ac" title="Randomly move vertices along their normals." alt="" coords="237,305,401,347"/>
+</map>

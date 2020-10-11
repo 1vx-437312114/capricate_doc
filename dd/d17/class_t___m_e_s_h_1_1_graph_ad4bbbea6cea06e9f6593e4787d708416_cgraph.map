@@ -1,0 +1,7 @@
+<map id="T_MESH::Graph::destroyEdge" name="T_MESH::Graph::destroyEdge">
+<area shape="rect" id="node1" title="Removes and deletes the edge. Updates the graph connectivity accordingly." alt="" coords="5,31,205,57"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a9b21af68dacaaf9a95e2a33ee5941e54" title="Inserts a new node storing &#39;d&#39; right after &#39;n&#39;. &#160;&#160;O(1)." alt="" coords="492,5,679,32"/>
+<area shape="rect" id="node4" href="$dd/d17/class_t___m_e_s_h_1_1_graph.html#a9e18d0427961140b357931a19fd3c482" title="Unlinks the edge and updates the graph connectivity accordingly." alt="" coords="253,56,444,83"/>
+<area shape="rect" id="node3" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#aec091d7c66b66c92fe56f06f41f448f4" title="Deletes and removes the node &#39;n&#39; from the list. &#160;&#160;O(1)." alt="" coords="727,5,905,32"/>
+<area shape="rect" id="node5" href="$d7/dd6/class_t___m_e_s_h_1_1graph_edge.html#aae4c21b57d7d5183a080aa753a213e72" title="Makes this edge as &#39;unlinked&#39; from the graph. O(1)." alt="" coords="508,57,663,98"/>
+</map>

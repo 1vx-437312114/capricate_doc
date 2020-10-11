@@ -1,0 +1,8 @@
+<map id="T_MESH::Triangle::printTriangle" name="T_MESH::Triangle::printTriangle">
+<area shape="rect" id="node1" title="Print the coordinates of the three vertices to the file handler pointed to by &#39;f&#39; (stdout by default)..." alt="" coords="5,81,215,108"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a0a298131a482c67ca63c9e93b51272ad" title="Prints the coordinates of the point to a file handler. stdout is the default." alt="" coords="263,5,440,32"/>
+<area shape="rect" id="node3" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#aa7b9f783f2e4339083f46d25d3eecf68" title="First vertex." alt="" coords="275,56,427,83"/>
+<area shape="rect" id="node5" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a1bf6a231440a3c73a931c1cfccfee574" title="Second vertex." alt="" coords="275,107,427,133"/>
+<area shape="rect" id="node6" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0c4c2a2ba6b0c975aa3d260f00785e8f" title="Third vertex." alt="" coords="275,157,427,184"/>
+<area shape="rect" id="node4" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a560eca8895471f987bd3228b13c40052" title="Vertex shared with edge &#39;b&#39;. NULL if this and &#39;b&#39; do not share any vertex." alt="" coords="488,107,697,133"/>
+</map>

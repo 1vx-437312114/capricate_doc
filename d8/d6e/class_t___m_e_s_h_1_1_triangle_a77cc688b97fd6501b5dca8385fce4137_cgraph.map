@@ -1,0 +1,4 @@
+<map id="T_MESH::Triangle::oppositeEdge" name="T_MESH::Triangle::oppositeEdge">
+<area shape="rect" id="node1" title="Triangle&#39;s edge opposite to &#39;v&#39;. NULL if &#39;v&#39; is not a vertex of the triangle." alt="" coords="5,5,223,32"/>
+<area shape="rect" id="node2" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a7d7329ff24b7b6eb2eceee39711dd650" title="TRUE iff &#39;v&#39; is an end&#45;point of the edge." alt="" coords="271,5,451,32"/>
+</map>

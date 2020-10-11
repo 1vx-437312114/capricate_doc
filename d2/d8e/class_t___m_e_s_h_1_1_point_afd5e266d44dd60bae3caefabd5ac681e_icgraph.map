@@ -1,0 +1,4 @@
+<map id="T_MESH::Point::lineLineIntersection" name="T_MESH::Point::lineLineIntersection">
+<area shape="rect" id="node1" title="Itersection point between lines p&#45;q and r&#45;s. Return INFINITE_POINT if lineas are either parallel or d..." alt="" coords="217,13,452,39"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a7820b9b31ae0c9187ea7ddd4a1ccff48" title="True if the mesh properly contains &#39;p&#39; (exact when using rationals)." alt="" coords="5,5,169,47"/>
+</map>

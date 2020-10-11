@@ -1,0 +1,8 @@
+<map id="T_MESH::Point::linePlaneIntersection" name="T_MESH::Point::linePlaneIntersection">
+<area shape="rect" id="node1" title="Itersection point between line p&#45;q and plane r&#45;s&#45;t. Return INFINITE_POINT for parallel/degenerate arg..." alt="" coords="699,64,873,105"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a7820b9b31ae0c9187ea7ddd4a1ccff48" title="True if the mesh properly contains &#39;p&#39; (exact when using rationals)." alt="" coords="475,5,639,47"/>
+<area shape="rect" id="node3" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0167ce385b2562d494e329e1b405e437" title="Projection of &#39;p&#39; on the plane of the triangle. Return INFINITE_POINT if triangle is degenerate." alt="" coords="468,71,645,98"/>
+<area shape="rect" id="node4" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#a90d051518ed2e58eb090ab6bf66a7418" title=" " alt="" coords="463,123,651,164"/>
+<area shape="rect" id="node5" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#a6d9c5aef72b72121eb5c421939b53ddc" title="&lt; AMF_CHANGE &#45; since T_MESH 2.4&#45;2 &gt;" alt="" coords="235,123,415,164"/>
+<area shape="rect" id="node6" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#acab069f805e6c473afb4e340d3d8d1ae" title="&lt; AMF_CHANGE &#45; since T_MESH 2.4&#45;2 &gt;" alt="" coords="5,130,187,157"/>
+</map>

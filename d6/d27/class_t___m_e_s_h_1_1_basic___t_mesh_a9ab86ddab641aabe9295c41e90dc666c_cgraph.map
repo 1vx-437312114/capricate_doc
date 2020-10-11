@@ -1,0 +1,52 @@
+<map id="T_MESH::Basic_TMesh::loadPLY" name="T_MESH::Basic_TMesh::loadPLY">
+<area shape="rect" id="node1" title="Loads PLY." alt="" coords="5,1401,169,1442"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a1b14a2838ee3745d5fb413f9e7ecc214" title="Appends a new node storing &#39;d&#39; to the tail. &#160;&#160;O(1)." alt="" coords="1519,182,1694,208"/>
+<area shape="rect" id="node3" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a6472e158753b8a5d49e05042c39ca8a5" title=" " alt="" coords="245,1713,408,1754"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a4dccd1d7e0db0246a83b424408fdd677" title=" " alt="" coords="245,1046,409,1088"/>
+<area shape="rect" id="node11" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a8cbf313f4e9cab9dab1b026b45dd1c8e" title="AMF_ADD 1.1&gt;" alt="" coords="1281,297,1445,338"/>
+<area shape="rect" id="node30" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a858df1d3c985685df741e12996cbe9c7" title=" " alt="" coords="778,1155,955,1182"/>
+<area shape="rect" id="node32" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ad9778346824249e85cd737f871004030" title=" " alt="" coords="245,176,409,217"/>
+<area shape="rect" id="node37" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a1f5db14680c00ee8f224f5c7fdbd769e" title=" " alt="" coords="250,1778,403,1820"/>
+<area shape="rect" id="node38" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a365cdce7948e9459b819b2357b05cb72" title=" " alt="" coords="787,1383,946,1410"/>
+<area shape="rect" id="node39" href="$de/df9/namespace_t___m_e_s_h.html#aed9889f50f3eaf41e08c4f87b7d5b28f" title=" " alt="" coords="488,1358,719,1384"/>
+<area shape="rect" id="node40" href="$de/df9/namespace_t___m_e_s_h.html#ae545aa8f39c53f4f578bc1f72f9762c2" title=" " alt="" coords="484,1408,723,1435"/>
+<area shape="rect" id="node41" href="$de/df9/namespace_t___m_e_s_h.html#aa6590b2b4cd0e848906f0db04cd71e58" title=" " alt="" coords="235,1256,418,1283"/>
+<area shape="rect" id="node42" href="$de/df9/namespace_t___m_e_s_h.html#a67f4d55bb9e9ac6861495bc56bdd10eb" title=" " alt="" coords="511,1206,695,1232"/>
+<area shape="rect" id="node43" href="$de/df9/namespace_t___m_e_s_h.html#abf0aa2a8831f2c223603dd48baf4e3f5" title=" " alt="" coords="506,1459,701,1486"/>
+<area shape="rect" id="node44" href="$de/df9/namespace_t___m_e_s_h.html#a436780e90cf6470bcb6e63fd54bb67d9" title=" " alt="" coords="217,1510,436,1536"/>
+<area shape="rect" id="node46" href="$de/df9/namespace_t___m_e_s_h.html#a6c5d27a8c29d4c51233d8d2945cb2462" title=" " alt="" coords="235,1560,418,1587"/>
+<area shape="rect" id="node47" href="$de/df9/namespace_t___m_e_s_h.html#ab5d590fedcf4572fd4e3c3df3b628e6d" title=" " alt="" coords="509,1611,698,1638"/>
+<area shape="rect" id="node48" href="$de/df9/namespace_t___m_e_s_h.html#a2fc5e5d1a3d168da959836d433c90773" title=" " alt="" coords="235,1611,419,1638"/>
+<area shape="rect" id="node49" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a7082f6178fd62e670974e3b7f44947ee" title=" " alt="" coords="244,1844,409,1885"/>
+<area shape="rect" id="node50" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a612459f7bda4fd4312684cbb412f1e02" title=" " alt="" coords="225,1910,428,1936"/>
+<area shape="rect" id="node5" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a679e744670de791fb61a0a1a27918a6f" title="If called in rebuildConnectivity(bool) fix the connectivity between geometric elements." alt="" coords="521,746,685,788"/>
+<area shape="rect" id="node14" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af0e61026072f65c9ba882df526acfd2e" title="Gets the number of elements. &#160;&#160;O(1)." alt="" coords="1529,1028,1684,1055"/>
+<area shape="rect" id="node31" href="$de/df2/class_t___m_e_s_h_1_1_t_mesh.html#a4048dc3645716a12a1438f7223050492" title=" " alt="" coords="527,1104,680,1131"/>
+<area shape="rect" id="node6" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a23a9a07da273649588c3ba1b7ddc13c8" title="Convert to manifold." alt="" coords="785,746,949,788"/>
+<area shape="rect" id="node9" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ac7b0d0ba25c3977d769beb35a3922a8d" title="Detect singular vertices and duplicte them." alt="" coords="1011,486,1213,528"/>
+<area shape="rect" id="node15" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a551c0666a2a5b45ab9cf00d8171af788" title="Checks that triangles are consistently oriented and, if they are not, invert some of them to achieve ..." alt="" coords="1025,552,1199,593"/>
+<area shape="rect" id="node25" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a46cd99ce46b77a7b154c0a651cf80afa" title="Removes all the unlinked vertices from List V. Returns the number of removed vertices...." alt="" coords="1281,937,1445,978"/>
+<area shape="rect" id="node27" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a53c8c7ff34f6b7cfd913c89b1bffcf9a" title="Remove redundant triangles (i.e." alt="" coords="773,428,961,469"/>
+<area shape="rect" id="node7" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#ae601a7e17364ce83f74ffcb6c64971ca" title="Appends a new node storing &#39;d&#39; to the head. &#160;&#160;O(1)." alt="" coords="1513,490,1700,516"/>
+<area shape="rect" id="node8" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a154fdb6d71d123ec0f9278af9ef553c3" title="If the &#39;e&#39; is internal, creates a copy of the edge and associates e&#45;&gt;t2 to this copy." alt="" coords="1281,718,1445,760"/>
+<area shape="rect" id="node16" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a1dc79fe920ed916984ba0c57317962f4" title="TRUE iff edge is properly linked to a Basic_TMesh." alt="" coords="1027,902,1197,928"/>
+<area shape="rect" id="node17" href="$de/df9/namespace_t___m_e_s_h.html#a6dbd912d07badf7fd95058fc6a397212" title="Lexycographic edge comparison to be used with jqsort() or abstractHeap." alt="" coords="1020,952,1204,979"/>
+<area shape="rect" id="node18" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#afb5640cc9cc702d898e68d21dbefd5e3" title=" " alt="" coords="1030,770,1194,812"/>
+<area shape="rect" id="node24" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ae11cf4d5f73b416ca9335fd3d6dea58f" title="Removes all the unlinked elements from the lists. Returns the number of removed elements...." alt="" coords="1023,836,1201,877"/>
+<area shape="rect" id="node26" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a7c5746b86fdc294c58847a77c188391c" title="Sorts the list using &#39;comp&#39; as comparison function for two elements. &#160;&#160;O(numels()^2)." alt="" coords="1045,618,1179,644"/>
+<area shape="rect" id="node10" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a4b7979420235f0058af0d25a40f27a0c" title="Returns the node storing &#39;d&#39;. NULL if not found. &#160;&#160;O(numels())." alt="" coords="1267,515,1460,542"/>
+<area shape="rect" id="node12" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a4ebfc7836cd37fa28b41e972511377f6" title="Replace vertex &#39;a&#39; with vertex &#39;b&#39; in the edge and return TRUE. If &#39;a&#39; is not a vertex of the edge re..." alt="" coords="1263,464,1464,491"/>
+<area shape="rect" id="node13" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a66b49df1416ddcee6be0e1abe3aadda9" title="List of incident edges." alt="" coords="1290,566,1437,592"/>
+<area shape="rect" id="node19" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af3baa55cf02bd943635012a489d6c33a" title="Gets the first node, NULL if empty. &#160;&#160;O(1)." alt="" coords="1536,864,1677,891"/>
+<area shape="rect" id="node20" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a0f2457674237bd05c42d68b023502742" title="TRUE iff edge is on the boundary (i.e., one of the two incident triangles is NULL)." alt="" coords="1261,363,1465,390"/>
+<area shape="rect" id="node21" href="$da/d53/class_t___m_e_s_h_1_1_node.html#ae661edb2148691ba90cfe14d73d2545b" title="Returns the next node in the list, possibly NULL." alt="" coords="1533,799,1681,826"/>
+<area shape="rect" id="node22" href="$da/d53/class_t___m_e_s_h_1_1_node.html#aed5d13bba326f240b2058b5a2a28c3c3" title="Returns the previous node in the list, possibly NULL." alt="" coords="1533,930,1681,956"/>
+<area shape="rect" id="node23" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a9b21af68dacaaf9a95e2a33ee5941e54" title="Inserts a new node storing &#39;d&#39; right after &#39;n&#39;. &#160;&#160;O(1)." alt="" coords="1270,63,1457,90"/>
+<area shape="rect" id="node28" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a5332cb4780fa56bdd9e95b250defc82c" title="Triangle&#39;s vertex opposite to &#39;e&#39;. NULL if &#39;e&#39; is not an edge of the triangle." alt="" coords="1019,369,1205,410"/>
+<area shape="rect" id="node29" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a8587dde3c2d3c7ff7d0f7c8ff82ecf70" title="Unlinks a triangle from the mesh. O(1)." alt="" coords="1030,304,1194,345"/>
+<area shape="rect" id="node33" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a8b4a8af1afbada8096079d9bc19ee0c0" title=" " alt="" coords="771,144,963,185"/>
+<area shape="rect" id="node34" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0cd2bcd2e4d1ff1cb1a78ead09e121a3" title="Creates an Edge connecting two existing mesh vertices." alt="" coords="1281,180,1445,221"/>
+<area shape="rect" id="node35" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ad0bd7c6b374606f5deb427751e137e99" title="Creates an arbitrarily oriented Triangle bounded by three existing mesh edges." alt="" coords="1274,114,1453,156"/>
+<area shape="rect" id="node36" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#abae9bf2ee7d8e273f990a614641b77f0" title="Deletes and removes the node storing &#39;d&#39; and frees the memory occupied by &#39;d&#39; itself...." alt="" coords="1029,100,1195,127"/>
+<area shape="rect" id="node45" href="$de/df9/namespace_t___m_e_s_h.html#a4ee4f96e80899d7720f6131c7bb73d35" title=" " alt="" coords="508,1560,699,1587"/>
+</map>

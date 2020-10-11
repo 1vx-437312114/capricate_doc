@@ -1,0 +1,9 @@
+<map id="T_MESH::Triangle::area" name="T_MESH::Triangle::area">
+<area shape="rect" id="node1" title="Area of the triangle (Heron&#39;s formula)." alt="" coords="252,177,415,203"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ac7e9308b55710e7fa20763644773f82d" title="Total area of the mesh. O(N)." alt="" coords="23,5,187,47"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#afc73285fdf00cc4abd5caf119e625a51" title="Return the center of mass of the mesh." alt="" coords="23,71,187,112"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a1e291ae1f1df131933ee7bfcbbcf69d1" title="Removes all the connected components whose area is less than &#39;epsilon&#39;." alt="" coords="5,136,204,177"/>
+<area shape="rect" id="node5" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a11e0d5c044e95b01e3cc8beb77c60f8f" title="Re&#45;triangulates the currently selected region using a Delaunay&#45;like approach. O(SlogS)." alt="" coords="8,201,201,243"/>
+<area shape="rect" id="node6" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a806804866bb7e55b952446133fd9567b" title="Total volume of the mesh assuming that boundaries() = 0. O(N)." alt="" coords="23,267,187,308"/>
+<area shape="rect" id="node7" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#aa42496c5fe09d307db8af7b93315beb7" title="A third of the total area of incident triangles." alt="" coords="5,333,204,359"/>
+</map>

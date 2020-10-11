@@ -1,7 +1,10 @@
 <map id="Scene::updateLabels" name="Scene::updateLabels">
-<area shape="rect" id="node1" title="Update the touchpoint / connector number text labels." alt="" coords="5,56,149,83"/>
-<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#ab61727c9bb477bccca373f92a2b8bea4" title="Return the touchpoint number label text actor." alt="" coords="197,5,364,32"/>
-<area shape="rect" id="node3" href="$d6/db5/class_scene.html#ae4bdf05105a36057e86693a0f60afbd3" title="Hide the touchpoint / connector text labels." alt="" coords="203,56,358,83"/>
-<area shape="rect" id="node5" href="$d6/db5/class_scene.html#aa9d387019f7a7456bdd8af2b21723387" title="Show the touchpoint / connector number text labels." alt="" coords="200,107,361,133"/>
-<area shape="rect" id="node4" href="$d6/db5/class_scene.html#a8a1b015f159dd9ba883ae601464f6c28" title="Set if the touchpoint / connector number labels are visible." alt="" coords="412,81,609,108"/>
+<area shape="rect" id="node1" title="Update the touchpoint / connector number text labels." alt="" coords="5,132,149,159"/>
+<area shape="rect" id="node2" href="$d9/d58/class_touchpoint.html#a25425137e60d6d5f21d597e8f6632eed" title="Return the interior wiring connection position (world coordinates)" alt="" coords="197,5,396,32"/>
+<area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html#a3c7555f7762d81e5b93e48fa31a7490c" title="Return the geometry of the touchpoint (vtkPolyData)" alt="" coords="214,56,379,83"/>
+<area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html#ab61727c9bb477bccca373f92a2b8bea4" title="Return the touchpoint number label text actor." alt="" coords="689,132,856,159"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#ae4bdf05105a36057e86693a0f60afbd3" title="Hide the touchpoint / connector text labels." alt="" coords="219,157,374,184"/>
+<area shape="rect" id="node7" href="$d9/d58/class_touchpoint.html#a27645f8861d2ce10dc9bff4e72549539" title="Set text label touchpoint number actor." alt="" coords="213,208,380,235"/>
+<area shape="rect" id="node8" href="$d6/db5/class_scene.html#aa9d387019f7a7456bdd8af2b21723387" title="Show the touchpoint / connector number text labels." alt="" coords="216,259,377,285"/>
+<area shape="rect" id="node6" href="$d6/db5/class_scene.html#a8a1b015f159dd9ba883ae601464f6c28" title="Set if the touchpoint / connector number labels are visible." alt="" coords="444,157,641,184"/>
 </map>

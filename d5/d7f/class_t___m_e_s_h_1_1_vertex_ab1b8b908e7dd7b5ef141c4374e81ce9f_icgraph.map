@@ -1,0 +1,4 @@
+<map id="T_MESH::Vertex::getNormal" name="T_MESH::Vertex::getNormal">
+<area shape="rect" id="node1" title="Normal at the vertex computed as the sum of incident triangle normals weighted on their incidence ang..." alt="" coords="217,13,407,39"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aeee5df0f56276202cb41254b08ea07ac" title="Randomly move vertices along their normals." alt="" coords="5,5,169,47"/>
+</map>

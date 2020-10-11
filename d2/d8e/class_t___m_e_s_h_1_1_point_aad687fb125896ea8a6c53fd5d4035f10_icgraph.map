@@ -1,0 +1,10 @@
+<map id="T_MESH::Point::normalize" name="T_MESH::Point::normalize">
+<area shape="rect" id="node1" title="Divides the vector by its length. If isNull() the application exits with an error." alt="" coords="467,148,645,175"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#ad3b11c6222ffb2428838d62ca3a6f5b4" title="Line&#45;line closest point computation." alt="" coords="217,5,419,32"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#adea1f5290b0c0e649bdd0ed31ac6bf5d" title="Approximate bounding ball radius. O(N)." alt="" coords="235,57,401,98"/>
+<area shape="rect" id="node5" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aa346a946670643c160483695ffd53608" title="Return the normal at the edge as the average of the normals of the two incident triangles." alt="" coords="227,123,409,149"/>
+<area shape="rect" id="node6" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ab1b8b908e7dd7b5ef141c4374e81ce9f" title="Normal at the vertex computed as the sum of incident triangle normals weighted on their incidence ang..." alt="" coords="223,173,413,200"/>
+<area shape="rect" id="node7" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a6c419b3b7ebd44fca9fdc7a048ff7b52" title="Retriangulates the vertex neghborhood based on heuristics." alt="" coords="236,225,400,266"/>
+<area shape="rect" id="node8" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#affae34779bd3e7f044e4cd2f038950e9" title="Creates a triangulation of the hole based on the assumption that it is flat." alt="" coords="236,290,400,331"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aeee5df0f56276202cb41254b08ea07ac" title="Randomly move vertices along their normals." alt="" coords="5,111,169,153"/>
+</map>

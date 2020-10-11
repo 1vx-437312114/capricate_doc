@@ -1,0 +1,4 @@
+<map id="T_MESH::Vertex::prevOnBoundary" name="T_MESH::Vertex::prevOnBoundary">
+<area shape="rect" id="node1" title="Returns the vertex preceeding this one on the boundary." alt="" coords="217,13,444,39"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a010c12b5c3406aefb5a3c730dd61923f" title="Joins the two boundary vertices gv and gw through an edge." alt="" coords="5,5,169,47"/>
+</map>

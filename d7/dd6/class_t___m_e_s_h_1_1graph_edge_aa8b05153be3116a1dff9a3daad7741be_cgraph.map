@@ -1,0 +1,14 @@
+<map id="T_MESH::graphEdge::collapse" name="T_MESH::graphEdge::collapse">
+<area shape="rect" id="node1" title="Edge collapse. O(degree of neighbors)." alt="" coords="5,290,160,331"/>
+<area shape="rect" id="node2" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#ae601a7e17364ce83f74ffcb6c64971ca" title="Appends a new node storing &#39;d&#39; to the head. &#160;&#160;O(1)." alt="" coords="208,5,395,32"/>
+<area shape="rect" id="node3" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#af3baa55cf02bd943635012a489d6c33a" title="Gets the first node, NULL if empty. &#160;&#160;O(1)." alt="" coords="231,56,372,83"/>
+<area shape="rect" id="node4" href="$d7/dd6/class_t___m_e_s_h_1_1graph_edge.html#af091fe9186d672ad2309936a55b3135e" title="Returns TRUE if this edge does not connect points. O(1)." alt="" coords="224,107,379,149"/>
+<area shape="rect" id="node5" href="$d7/dd6/class_t___m_e_s_h_1_1graph_edge.html#aae4c21b57d7d5183a080aa753a213e72" title="Makes this edge as &#39;unlinked&#39; from the graph. O(1)." alt="" coords="224,173,379,214"/>
+<area shape="rect" id="node6" href="$da/d53/class_t___m_e_s_h_1_1_node.html#ae661edb2148691ba90cfe14d73d2545b" title="Returns the next node in the list, possibly NULL." alt="" coords="227,239,375,265"/>
+<area shape="rect" id="node7" href="$d7/dd6/class_t___m_e_s_h_1_1graph_edge.html#ad46d2fc3a30fe3b57ca575f59efe311c" title="Returns the node oppsite to &#39;n&#39;. O(1)." alt="" coords="224,290,379,331"/>
+<area shape="rect" id="node8" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a9701d1b3769b92b7d2a7ed6da895a863" title="Deletes and removes the first node. Returns its data. &#160;&#160;O(1)." alt="" coords="219,356,384,383"/>
+<area shape="rect" id="node9" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#aec091d7c66b66c92fe56f06f41f448f4" title="Deletes and removes the node &#39;n&#39; from the list. &#160;&#160;O(1)." alt="" coords="443,407,621,433"/>
+<area shape="rect" id="node10" href="$da/d53/class_t___m_e_s_h_1_1_node.html#aed5d13bba326f240b2058b5a2a28c3c3" title="Returns the previous node in the list, possibly NULL." alt="" coords="227,457,375,484"/>
+<area shape="rect" id="node11" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a9b21af68dacaaf9a95e2a33ee5941e54" title="Inserts a new node storing &#39;d&#39; right after &#39;n&#39;. &#160;&#160;O(1)." alt="" coords="208,508,395,535"/>
+<area shape="rect" id="node12" href="$d3/d04/class_t___m_e_s_h_1_1_list.html#a700222ddbd4160a36795249926752f79" title="Gets the last node, NULL if empty. &#160;&#160;O(1)." alt="" coords="236,559,367,585"/>
+</map>

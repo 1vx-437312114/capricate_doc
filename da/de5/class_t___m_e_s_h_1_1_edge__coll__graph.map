@@ -1,0 +1,6 @@
+<map id="T_MESH::Edge" name="T_MESH::Edge">
+<area shape="rect" id="node1" title="Edge of a Basic_TMesh." alt="" coords="51,35,212,699"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html" title="Triangle of a Basic_TMesh." alt="" coords="5,820,143,1352"/>
+<area shape="rect" id="node3" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html" title="Vertex of a Basic_TMesh." alt="" coords="167,835,357,1337"/>
+<area shape="rect" id="node4" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html" title="Geometric point definition." alt="" coords="236,5,432,728"/>
+</map>

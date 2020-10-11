@@ -1,0 +1,35 @@
+<map id="T_MESH::Edge::swap" name="T_MESH::Edge::swap">
+<area shape="rect" id="node1" title="Combinatorial edge&#45;swap." alt="" coords="1849,177,2003,203"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a4e21f75df1c237f565bf232e0cd73b74" title="Iteratively swaps edges to minimize the Delaunay minimum angle. O(N)." alt="" coords="1622,5,1786,47"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0f8e60452797662c0a255697fd9093ad" title="Performs one step of Loop subdivision." alt="" coords="1622,71,1786,112"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ab634754175f6dba92fa233df6a2e45ff" title="Takes a selected region and inserts inner vertices to reproduce the sampling density of the surroundi..." alt="" coords="1610,136,1798,177"/>
+<area shape="rect" id="node28" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ae68a594aa67b93af92c5a6f57296f32d" title="Unlinks the vertex if it is either Flat() or DoubleFlat()." alt="" coords="1614,267,1794,308"/>
+<area shape="rect" id="node30" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0d6037f1cb9166537f576f93bb38fea3" title="Removes overlapping triangles and return their number." alt="" coords="1607,332,1801,373"/>
+<area shape="rect" id="node31" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ada33175ee7e873107f23ece56353ffd1" title="Creates a triangulation whose projection on the plane with normal &#39;nor&#39; is Delaunay." alt="" coords="1622,201,1786,243"/>
+<area shape="rect" id="node5" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a5d522c7bb892873b10efb533a4e94b94" title="Hole filling algorithm." alt="" coords="1380,103,1544,144"/>
+<area shape="rect" id="node6" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a24c4a4f93e50ac97dbeed1576c2aeb62" title="Fills all the holes having at least &#39;nbe&#39; boundary edges." alt="" coords="1380,168,1544,209"/>
+<area shape="rect" id="node27" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a010c12b5c3406aefb5a3c730dd61923f" title="Joins the two boundary vertices gv and gw through an edge." alt="" coords="1380,37,1544,79"/>
+<area shape="rect" id="node7" href="$d2/d68/class_export_open_scad_tool.html#a6e48e9b58a764bc8032b1fbc4082603d" title=" " alt="" coords="716,44,861,85"/>
+<area shape="rect" id="node12" href="$dd/d00/class_export_s_t_l_tool.html#a82d1e11c365c1ed2adf6d831b7f6014f" title=" " alt="" coords="708,143,869,170"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a15f9fa9fe71b50669ecf5f5a3a1ce90e" title="Import STL / OBJ mesh into the scene." alt="" coords="708,295,869,322"/>
+<area shape="rect" id="node24" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#af160de0b4a939ef2cb93279f67e6dd34" title="Calls &#39;removeDegenerateTriangles()&#39; and, if some degeneracies remain, removes them and fills the resu..." alt="" coords="1129,168,1317,209"/>
+<area shape="rect" id="node26" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a1415feaeb04556d7729a02f73b546ab1" title="Removes all the intersecting triangles and patches the resulting holes." alt="" coords="1130,103,1317,144"/>
+<area shape="rect" id="node8" href="$d2/d68/class_export_open_scad_tool.html#a2e36901501e307b74705aa84f4227d67" title="Export the wiring in the openscad format." alt="" coords="488,40,633,81"/>
+<area shape="rect" id="node9" href="$d2/d68/class_export_open_scad_tool.html#a71ef67a238fb9cd74563b65d77c1ea73" title=" " alt="" coords="23,40,168,81"/>
+<area shape="rect" id="node10" href="$d2/d68/class_export_open_scad_tool.html#a9c35cf64ece9ee328df6ebfd080c0689" title="Export the meshdifference between mesh and wiring in the openscad format." alt="" coords="251,40,396,81"/>
+<area shape="rect" id="node11" href="$d2/d68/class_export_open_scad_tool.html#adc9cf506ecd2ef6e33f37f2eb206da1a" title="Export the meshdifference between mesh and magnets in the openscad format." alt="" coords="240,105,407,147"/>
+<area shape="rect" id="node13" href="$dd/d00/class_export_s_t_l_tool.html#a218420198ac8fef5b9f9a8acc889307d" title=" " alt="" coords="480,106,641,133"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a6e3c9bc26115fb1b1664607e58716641" title=" " alt="" coords="463,485,658,511"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a46bb2fea8ddeab75e15a223c291116b6" title=" " alt="" coords="461,536,660,577"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#affed0fab82fd390e2762933c6dca9124" title=" " alt="" coords="461,157,660,199"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#adfdb8fcb8685844e8ce11bfb41b83b7d" title=" " alt="" coords="461,223,660,264"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a5283a0d7aeeafd409c69b272053f3986" title=" " alt="" coords="461,288,660,329"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a0c92ca2d04a79a1580c2e8e136b82682" title=" " alt="" coords="461,353,660,395"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#a86cd359f80311725589d0861dd7a9851" title=" " alt="" coords="461,419,660,460"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,353,413,395"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,361,185,387"/>
+<area shape="rect" id="node25" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a1270b60eec84c1f939d405d9ade1a94e" title="Iteratively call strongDegeneracyRemoval and strongIntersectionRemoval to produce an eventually clean..." alt="" coords="917,136,1081,177"/>
+<area shape="rect" id="node29" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa754eda7f26bb3d770882fcf625c83c3" title="Removes all the vertices that can be deleted without changing the geometric realization...." alt="" coords="1371,364,1553,405"/>
+<area shape="rect" id="node32" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a11e0d5c044e95b01e3cc8beb77c60f8f" title="Re&#45;triangulates the currently selected region using a Delaunay&#45;like approach. O(SlogS)." alt="" coords="1365,233,1559,275"/>
+<area shape="rect" id="node33" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a6c419b3b7ebd44fca9fdc7a048ff7b52" title="Retriangulates the vertex neghborhood based on heuristics." alt="" coords="1380,299,1544,340"/>
+</map>

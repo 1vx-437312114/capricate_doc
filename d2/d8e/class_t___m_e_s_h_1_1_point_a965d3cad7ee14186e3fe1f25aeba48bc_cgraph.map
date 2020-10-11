@@ -1,0 +1,6 @@
+<map id="T_MESH::Point::pointInInnerSegment" name="T_MESH::Point::pointInInnerSegment">
+<area shape="rect" id="node1" title="true if &#39;p&#39; is a point of the segment v1&#45;v2 (endpoints excluded)" alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#ac128e5865f9413fa4c2baaa9fdd03597" title="Exact misalignment test. Returns TRUE iff points are not aligned." alt="" coords="244,13,475,39"/>
+<area shape="rect" id="node3" href="$de/df9/namespace_t___m_e_s_h.html#a5dcbe262a73a0769e3f63025edf3d25d" title="Orientation predicates on PM_Rationals." alt="" coords="523,13,656,39"/>
+<area shape="rect" id="node4" href="$de/df9/namespace_t___m_e_s_h.html#a2bad1f974ad8c908dd703494055080c1" title="Orientation predicates using filtering on doubles." alt="" coords="704,13,841,39"/>
+</map>

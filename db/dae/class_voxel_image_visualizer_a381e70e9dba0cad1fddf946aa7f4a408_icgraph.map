@@ -25,10 +25,10 @@
 <area shape="rect" id="node21" href="$d6/db5/class_scene.html#a415555bc0037489b1a9421747c318746" title="Update the occupation map visualization after changes to the underlying voxel data." alt="" coords="717,580,915,621"/>
 <area shape="rect" id="node22" href="$db/dbb/class_picking_interactor_style.html#a1620702107e2c2d0c0aefbd896098b0d" title="Overloaded method, invoked when right mouse button is pressed." alt="" coords="490,748,641,789"/>
 <area shape="rect" id="node23" href="$d6/db5/class_scene.html#af1128c48ccb6999066aa1d935075cb23" title="Remove a touchpoint from the scene given its unique touchpoint id." alt="" coords="479,697,652,723"/>
-<area shape="rect" id="node24" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="252,777,395,819"/>
-<area shape="rect" id="node25" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="246,595,401,636"/>
-<area shape="rect" id="node26" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="242,660,405,701"/>
-<area shape="rect" id="node27" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="265,726,382,753"/>
+<area shape="rect" id="node24" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="242,787,405,828"/>
+<area shape="rect" id="node25" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="265,605,382,631"/>
+<area shape="rect" id="node26" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="252,656,395,697"/>
+<area shape="rect" id="node27" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="246,721,401,763"/>
 <area shape="rect" id="node30" href="$db/dae/class_voxel_image_visualizer.html#a279e821afcfbef7cb624c391eec3b7a4" title="Return visualization of the mesh interior only." alt="" coords="977,427,1123,468"/>
 <area shape="rect" id="node31" href="$db/dae/class_voxel_image_visualizer.html#ad15f9c4638d8e8671414bebdee17a8f3" title="Return visualization of the mesh surface only." alt="" coords="976,361,1124,403"/>
 <area shape="rect" id="node33" href="$db/dae/class_voxel_image_visualizer.html#a832d4efbe743573453e2ee744e92ece6" title="Return background color cells visualization." alt="" coords="977,709,1123,751"/>

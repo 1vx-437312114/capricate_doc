@@ -1,0 +1,5 @@
+<map id="T_MESH::Point::exactMisalignment" name="T_MESH::Point::exactMisalignment">
+<area shape="rect" id="node1" title="Exact misalignment test. Returns TRUE iff points are not aligned." alt="" coords="5,5,236,32"/>
+<area shape="rect" id="node2" href="$de/df9/namespace_t___m_e_s_h.html#a5dcbe262a73a0769e3f63025edf3d25d" title="Orientation predicates on PM_Rationals." alt="" coords="284,5,417,32"/>
+<area shape="rect" id="node3" href="$de/df9/namespace_t___m_e_s_h.html#a2bad1f974ad8c908dd703494055080c1" title="Orientation predicates using filtering on doubles." alt="" coords="465,5,603,32"/>
+</map>

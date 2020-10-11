@@ -1,0 +1,4 @@
+<map id="T_MESH::Triangle::overlaps" name="T_MESH::Triangle::overlaps">
+<area shape="rect" id="node1" title="Return TRUE iff one of the adjacent triangles overlaps with this one." alt="" coords="217,13,404,39"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a6c419b3b7ebd44fca9fdc7a048ff7b52" title="Retriangulates the vertex neghborhood based on heuristics." alt="" coords="5,5,169,47"/>
+</map>

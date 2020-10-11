@@ -5,16 +5,16 @@
  -->
 <!-- Title: AStar::init Pages: 1 -->
 <svg width="249pt" height="263pt"
- viewBox="0.00 0.00 249.00 263.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 259)">
+ viewBox="0.00 0.00 249.00 262.50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 258.5)">
 <title>AStar::init</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-259 245,-259 245,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-258.5 245,-258.5 245,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title="Initializes A* grid nodes.">
-<polygon fill="#bfbfbf" stroke="black" points="181,-117.5 181,-136.5 241,-136.5 241,-117.5 181,-117.5"/>
-<text text-anchor="middle" x="211" y="-124.5" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::init</text>
+<polygon fill="#bfbfbf" stroke="black" points="181,-128 181,-147 241,-147 241,-128 181,-128"/>
+<text text-anchor="middle" x="211" y="-135" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::init</text>
 </a>
 </g>
 </g>
@@ -22,95 +22,95 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../de/d52/class_a_star.html#a68113f6c893688205f6b189aca7ba061" target="_top" xlink:title="Construct an A* object.">
-<polygon fill="white" stroke="black" points="36.5,-235.5 36.5,-254.5 108.5,-254.5 108.5,-235.5 36.5,-235.5"/>
-<text text-anchor="middle" x="72.5" y="-242.5" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::AStar</text>
+<polygon fill="white" stroke="black" points="36.5,-235 36.5,-254 108.5,-254 108.5,-235 36.5,-235"/>
+<text text-anchor="middle" x="72.5" y="-242" font-family="Helvetica,sans-Serif" font-size="10.00">AStar::AStar</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M202.53,-146.06C192.73,-168.58 173.36,-205.55 145,-226 134.48,-233.59 121.13,-238.15 108.82,-240.88"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="205.87,-147.15 206.47,-136.58 199.4,-144.47 205.87,-147.15"/>
+<path fill="none" stroke="midnightblue" d="M201.04,-156.23C190.45,-176.37 170.93,-207.87 145,-225.5 134.27,-232.79 120.88,-237.29 108.6,-240.06"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="204.26,-157.63 205.64,-147.12 198.01,-154.48 204.26,-157.63"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="../../d0/da8/class_threshold_accepting_optimizer.html#a6dead9a1dffa1d54cb9cc59e80655fb7" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-186 0,-216 145,-216 145,-186 0,-186"/>
-<text text-anchor="start" x="8" y="-204" font-family="Helvetica,sans-Serif" font-size="10.00">ThresholdAcceptingOptimizer</text>
-<text text-anchor="middle" x="72.5" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">::optimize</text>
+<g id="a_node3"><a xlink:href="../../dc/d6d/class_g_a_optimizer.html#a71b18c78d275e4d896826f07b2e01f4b" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="14.5,-197 14.5,-216 130.5,-216 130.5,-197 14.5,-197"/>
+<text text-anchor="middle" x="72.5" y="-204" font-family="Helvetica,sans-Serif" font-size="10.00">GAOptimizer::optimize</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M191.94,-143.54C179.49,-154.25 162.15,-167.86 145,-177 138.76,-180.33 131.97,-183.32 125.14,-185.97"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="194.54,-145.91 199.72,-136.67 189.91,-140.67 194.54,-145.91"/>
+<path fill="none" stroke="midnightblue" d="M192.57,-154.01C180.17,-164.94 162.64,-178.81 145,-187.5 137.28,-191.3 128.7,-194.42 120.25,-196.94"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="195.22,-156.33 200.27,-147.02 190.52,-151.15 195.22,-156.33"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../de/d17/class_great_deluge_optimizer.html#ad0e859eaa1e24d3ba184cb0641972427" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="16,-137 16,-167 129,-167 129,-137 16,-137"/>
-<text text-anchor="start" x="24" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">GreatDelugeOptimizer</text>
-<text text-anchor="middle" x="72.5" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">::optimize</text>
+<polygon fill="white" stroke="black" points="16,-147.5 16,-177.5 129,-177.5 129,-147.5 16,-147.5"/>
+<text text-anchor="start" x="24" y="-165.5" font-family="Helvetica,sans-Serif" font-size="10.00">GreatDelugeOptimizer</text>
+<text text-anchor="middle" x="72.5" y="-154.5" font-family="Helvetica,sans-Serif" font-size="10.00">::optimize</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M170.74,-134.19C157.78,-136.56 143.11,-139.25 129.17,-141.8"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="171.51,-137.61 180.72,-132.36 170.25,-130.72 171.51,-137.61"/>
+<path fill="none" stroke="midnightblue" d="M170.74,-144.69C157.78,-147.06 143.11,-149.75 129.17,-152.3"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="171.51,-148.11 180.72,-142.86 170.25,-141.22 171.51,-148.11"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="../../d1/d15/class_hill_climbing_optimizer.html#a4f1754d5bfc6c5e702ee1421ed0cb204" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="17,-88 17,-118 128,-118 128,-88 17,-88"/>
-<text text-anchor="start" x="25" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">HillClimbingOptimizer</text>
-<text text-anchor="middle" x="72.5" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">::optimize</text>
+<polygon fill="white" stroke="black" points="17,-98.5 17,-128.5 128,-128.5 128,-98.5 17,-98.5"/>
+<text text-anchor="start" x="25" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">HillClimbingOptimizer</text>
+<text text-anchor="middle" x="72.5" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">::optimize</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M170.52,-120.06C157.28,-117.73 142.26,-115.09 128.06,-112.59"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="170.26,-123.57 180.72,-121.85 171.47,-116.67 170.26,-123.57"/>
+<path fill="none" stroke="midnightblue" d="M170.52,-130.56C157.28,-128.23 142.26,-125.59 128.06,-123.09"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="170.26,-134.07 180.72,-132.35 171.47,-127.17 170.26,-134.07"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="../../d0/d53/class_simulated_annealing_optimizer.html#a8e1aba518749f6534cdb3155a38af511" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-39 0,-69 145,-69 145,-39 0,-39"/>
-<text text-anchor="start" x="8" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">SimulatedAnnealingOptimizer</text>
-<text text-anchor="middle" x="72.5" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">::optimize</text>
+<polygon fill="white" stroke="black" points="0,-49.5 0,-79.5 145,-79.5 145,-49.5 0,-49.5"/>
+<text text-anchor="start" x="8" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">SimulatedAnnealingOptimizer</text>
+<text text-anchor="middle" x="72.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">::optimize</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M191.35,-110.87C178.87,-100.69 161.73,-87.84 145,-79 138.02,-75.31 130.39,-71.98 122.79,-69.04"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="189.26,-113.69 199.18,-117.41 193.75,-108.31 189.26,-113.69"/>
+<path fill="none" stroke="midnightblue" d="M191.35,-121.37C178.87,-111.19 161.73,-98.34 145,-89.5 138.02,-85.81 130.39,-82.48 122.79,-79.54"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="189.26,-124.19 199.18,-127.91 193.75,-118.81 189.26,-124.19"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="../../dc/d6d/class_g_a_optimizer.html#a71b18c78d275e4d896826f07b2e01f4b" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="14.5,-0.5 14.5,-19.5 130.5,-19.5 130.5,-0.5 14.5,-0.5"/>
-<text text-anchor="middle" x="72.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">GAOptimizer::optimize</text>
+<g id="a_node7"><a xlink:href="../../d0/da8/class_threshold_accepting_optimizer.html#a6dead9a1dffa1d54cb9cc59e80655fb7" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="0,-0.5 0,-30.5 145,-30.5 145,-0.5 0,-0.5"/>
+<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">ThresholdAcceptingOptimizer</text>
+<text text-anchor="middle" x="72.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">::optimize</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M202.23,-108.05C192.24,-86.01 172.78,-50.11 145,-30 138.94,-25.62 131.96,-22.19 124.78,-19.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="199.08,-109.57 206.27,-117.35 205.5,-106.78 199.08,-109.57"/>
+<path fill="none" stroke="midnightblue" d="M201.85,-118.51C191.59,-96.74 171.99,-61.38 145,-40.5 140.01,-36.64 134.37,-33.35 128.51,-30.54"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="198.7,-120.05 206.01,-127.72 205.08,-117.17 198.7,-120.05"/>
 </g>
 </g>
 </svg>

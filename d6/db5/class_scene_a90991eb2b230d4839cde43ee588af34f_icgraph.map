@@ -1,7 +1,7 @@
 <map id="Scene::getMeshActor" name="Scene::getMeshActor">
 <area shape="rect" id="node1" title="Return the graphical representation (vtkActor) of the mesh." alt="" coords="465,78,613,105"/>
-<area shape="rect" id="node2" href="$de/dd7/class_polyline_touchpoint_tool.html#a68d7b8c4d090063977b3404e4084290a" title=" " alt="" coords="243,5,397,47"/>
-<area shape="rect" id="node3" href="$de/de0/class_freehand_touchpoint_tool.html#a553b2df8ed2128433bac512947a1ce2c" title=" " alt="" coords="239,71,401,112"/>
+<area shape="rect" id="node2" href="$de/de0/class_freehand_touchpoint_tool.html#a553b2df8ed2128433bac512947a1ce2c" title=" " alt="" coords="239,5,401,47"/>
+<area shape="rect" id="node3" href="$de/dd7/class_polyline_touchpoint_tool.html#a68d7b8c4d090063977b3404e4084290a" title=" " alt="" coords="243,71,397,112"/>
 <area shape="rect" id="node4" href="$d6/db5/class_scene.html#a266f98c6795eca4f5c03cba5761967d6" title="Replace the actual mesh polydata with the polydata given as parameter." alt="" coords="223,137,417,163"/>
 <area shape="rect" id="node5" href="$d9/d00/class_p_s_interface_tool.html#aa26bf20d4e597f64df960e4c1a5c3a69" title=" " alt="" coords="5,137,175,163"/>
 </map>

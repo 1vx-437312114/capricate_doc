@@ -1,0 +1,9 @@
+<map id="T_MESH::Point::innerSegmentsCross" name="T_MESH::Point::innerSegmentsCross">
+<area shape="rect" id="node1" title="true if the interior of (p1&#45;p2) properly intersects the interior of (sp1&#45;sp2)." alt="" coords="5,27,215,69"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a16ed7eb5cd98505d86668c4eb0590645" title="Exact orientation test." alt="" coords="263,5,480,32"/>
+<area shape="rect" id="node5" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a882a22d815f18d8327787012a120637c" title="Exact planar side test." alt="" coords="277,57,465,98"/>
+<area shape="rect" id="node3" href="$de/df9/namespace_t___m_e_s_h.html#a31d1470b87fab8f85b54af905e25d15a" title=" " alt="" coords="528,5,661,32"/>
+<area shape="rect" id="node4" href="$de/df9/namespace_t___m_e_s_h.html#ab2a541476dd63dc930853bddc4bf6969" title=" " alt="" coords="709,5,847,32"/>
+<area shape="rect" id="node6" href="$de/df9/namespace_t___m_e_s_h.html#a5dcbe262a73a0769e3f63025edf3d25d" title="Orientation predicates on PM_Rationals." alt="" coords="528,64,661,91"/>
+<area shape="rect" id="node7" href="$de/df9/namespace_t___m_e_s_h.html#a2bad1f974ad8c908dd703494055080c1" title="Orientation predicates using filtering on doubles." alt="" coords="709,64,847,91"/>
+</map>

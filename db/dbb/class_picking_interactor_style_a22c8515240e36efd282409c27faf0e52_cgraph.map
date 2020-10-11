@@ -1,19 +1,20 @@
 <map id="PickingInteractorStyle::OnLeftButtonDown" name="PickingInteractorStyle::OnLeftButtonDown">
-<area shape="rect" id="node1" title="Overloaded method, invoked when left mouse button is pressed." alt="" coords="5,324,156,365"/>
-<area shape="rect" id="node2" href="$d9/d4f/namespace_layout_algorithms.html#ad165a81c391eaa466ebce1da720ee6b5" title="Computes a wiring entry point in world coordinates for a sphere shaped touchpoint geometry." alt="" coords="223,57,404,99"/>
-<area shape="rect" id="node3" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="483,35,654,62"/>
-<area shape="rect" id="node4" href="$d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022" title="Computes the nearest voxel index to a given index point which is inside of the mesh boundaries." alt="" coords="204,175,423,216"/>
-<area shape="rect" id="node8" href="$d9/d58/class_touchpoint.html#a85820150b53ece4c635f7ca5ed189afa" title="Return the graphical representation (vtkActor) of the touchpoint." alt="" coords="242,306,385,333"/>
-<area shape="rect" id="node9" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="226,357,401,383"/>
-<area shape="rect" id="node10" href="$d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" title="Return dimensions of the voxel data." alt="" coords="206,123,421,150"/>
-<area shape="rect" id="node11" href="$d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee" title="Checks if a given index point is part of the voxels which lie inside the meshs boundaries." alt="" coords="220,240,407,281"/>
-<area shape="rect" id="node12" href="$d1/d7c/namespace_utils.html#a4b6c4a605143b128db1c74f39d0277ef" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="256,407,371,434"/>
-<area shape="rect" id="node14" href="$d9/d58/class_touchpoint.html#a862c860cb3a0062311ead13141a78e0b" title="Set outside wiring entry point (world coordinates)" alt="" coords="225,459,402,500"/>
-<area shape="rect" id="node15" href="$d9/d58/class_touchpoint.html#a40917c4b1d9899aa738703aa9df619f4" title="Set outside wiring entry point (grid coordinates)" alt="" coords="225,524,402,565"/>
-<area shape="rect" id="node16" href="$d9/d58/class_touchpoint.html#afc37b6344a58531545ac5a55cd11e993" title="Set the interior wiring connection position (grid coordinates)" alt="" coords="214,589,413,631"/>
-<area shape="rect" id="node17" href="$d9/d58/class_touchpoint.html#a7c20c3ec7d08db873bdb3152f4c37f34" title="Translate touchpoint position by given vector." alt="" coords="242,655,385,682"/>
-<area shape="rect" id="node5" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="496,146,641,173"/>
-<area shape="rect" id="node6" href="$d6/db5/class_scene.html#a5a6d3fda8f75cf2aa8b19d7fd7f3c355" title="Return the voxelization resolution." alt="" coords="471,247,667,274"/>
-<area shape="rect" id="node7" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="531,197,606,223"/>
-<area shape="rect" id="node13" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="515,407,622,434"/>
+<area shape="rect" id="node1" title="Overloaded method, invoked when left mouse button is pressed." alt="" coords="5,323,156,364"/>
+<area shape="rect" id="node2" href="$d9/d4f/namespace_layout_algorithms.html#ad165a81c391eaa466ebce1da720ee6b5" title="Computes a wiring entry point in world coordinates for a sphere shaped touchpoint geometry." alt="" coords="223,5,404,47"/>
+<area shape="rect" id="node4" href="$d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" title="Return the geometric data (vtkPolyData) of the mesh." alt="" coords="483,67,654,94"/>
+<area shape="rect" id="node5" href="$d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022" title="Computes the nearest voxel index to a given index point which is inside of the mesh boundaries." alt="" coords="204,173,423,215"/>
+<area shape="rect" id="node9" href="$d9/d58/class_touchpoint.html#a85820150b53ece4c635f7ca5ed189afa" title="Return the graphical representation (vtkActor) of the touchpoint." alt="" coords="242,305,385,331"/>
+<area shape="rect" id="node10" href="$d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" title="Return the scaled size of the mesh (in mm)" alt="" coords="226,355,401,382"/>
+<area shape="rect" id="node11" href="$d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" title="Return dimensions of the voxel data." alt="" coords="206,122,421,149"/>
+<area shape="rect" id="node12" href="$d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee" title="Checks if a given index point is part of the voxels which lie inside the meshs boundaries." alt="" coords="220,239,407,280"/>
+<area shape="rect" id="node13" href="$d1/d7c/namespace_utils.html#a4b6c4a605143b128db1c74f39d0277ef" title="Compute voxel grid integer index equivalent from world coordinate." alt="" coords="256,406,371,433"/>
+<area shape="rect" id="node15" href="$d9/d58/class_touchpoint.html#a862c860cb3a0062311ead13141a78e0b" title="Set outside wiring entry point (world coordinates)" alt="" coords="225,457,402,499"/>
+<area shape="rect" id="node16" href="$d9/d58/class_touchpoint.html#a40917c4b1d9899aa738703aa9df619f4" title="Set outside wiring entry point (grid coordinates)" alt="" coords="225,523,402,564"/>
+<area shape="rect" id="node17" href="$d9/d58/class_touchpoint.html#afc37b6344a58531545ac5a55cd11e993" title="Set the interior wiring connection position (grid coordinates)" alt="" coords="214,588,413,629"/>
+<area shape="rect" id="node18" href="$d9/d58/class_touchpoint.html#a7c20c3ec7d08db873bdb3152f4c37f34" title="Translate touchpoint position by given vector." alt="" coords="242,654,385,681"/>
+<area shape="rect" id="node3" href="$d9/d58/class_touchpoint.html#ae51e750ddb4737270a4d88494dcc21d9" title="Return the bounds of the touchpoint as array object (in object coordinates)" alt="" coords="491,13,646,39"/>
+<area shape="rect" id="node6" href="$d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" title="Return the voxel grid image data." alt="" coords="496,145,641,171"/>
+<area shape="rect" id="node7" href="$d6/db5/class_scene.html#a5a6d3fda8f75cf2aa8b19d7fd7f3c355" title="Return the voxelization resolution." alt="" coords="471,195,667,222"/>
+<area shape="rect" id="node8" href="$d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" title="Compute 1D linearized index from 3D&#45;coodinate index." alt="" coords="531,246,606,273"/>
+<area shape="rect" id="node14" href="$d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" title="Clamp integer value between min and max." alt="" coords="515,406,622,433"/>
 </map>

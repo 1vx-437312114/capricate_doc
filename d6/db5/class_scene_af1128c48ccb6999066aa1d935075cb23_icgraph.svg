@@ -5,81 +5,81 @@
  -->
 <!-- Title: Scene::removeTouchpoint Pages: 1 -->
 <svg width="296pt" height="176pt"
- viewBox="0.00 0.00 296.00 175.50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 171.5)">
+ viewBox="0.00 0.00 296.00 176.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 172)">
 <title>Scene::removeTouchpoint</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-171.5 292,-171.5 292,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-172 292,-172 292,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title="Remove a touchpoint from the scene given its unique touchpoint id.">
-<polygon fill="#bfbfbf" stroke="black" points="158,-68.5 158,-87.5 288,-87.5 288,-68.5 158,-68.5"/>
-<text text-anchor="middle" x="223" y="-75.5" font-family="Helvetica,sans-Serif" font-size="10.00">Scene::removeTouchpoint</text>
+<polygon fill="#bfbfbf" stroke="black" points="158,-77 158,-96 288,-96 288,-77 158,-77"/>
+<text text-anchor="middle" x="223" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">Scene::removeTouchpoint</text>
 </a>
 </g>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="7.5,-137 7.5,-167 114.5,-167 114.5,-137 7.5,-137"/>
-<text text-anchor="start" x="15.5" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">PlaceTouchpointTool</text>
-<text text-anchor="middle" x="61" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">::undo</text>
+<g id="a_node2"><a xlink:href="../../de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="0,-137.5 0,-167.5 122,-167.5 122,-137.5 0,-137.5"/>
+<text text-anchor="start" x="8" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00">FreehandTouchpointTool</text>
+<text text-anchor="middle" x="61" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00">::undo</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M194.68,-92.43C174.74,-102.77 146.96,-116.79 122,-128 115.25,-131.03 107.99,-134.1 100.93,-136.98"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="196.54,-95.41 203.79,-87.68 193.3,-89.2 196.54,-95.41"/>
+<path fill="none" stroke="midnightblue" d="M189.21,-100.03C162.87,-110.89 125.92,-126.13 98.62,-137.39"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="190.82,-103.15 198.73,-96.1 188.16,-96.67 190.82,-103.15"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="../../de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3,-88 3,-118 119,-118 119,-88 3,-88"/>
-<text text-anchor="start" x="11" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">PolylineTouchpointTool</text>
-<text text-anchor="middle" x="61" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">::undo</text>
+<g id="a_node3"><a xlink:href="../../dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="17,-99 17,-118 105,-118 105,-99 17,-99"/>
+<text text-anchor="middle" x="61" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">LassoTool::undo</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M150.93,-89.1C140.27,-90.77 129.4,-92.47 119.09,-94.08"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="151.71,-92.52 161.05,-87.52 150.63,-85.61 151.71,-92.52"/>
+<path fill="none" stroke="midnightblue" d="M147.78,-96.71C133.14,-98.72 118.25,-100.77 105.07,-102.58"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="148.41,-100.15 157.84,-95.32 147.46,-93.22 148.41,-100.15"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-39 0,-69 122,-69 122,-39 0,-39"/>
-<text text-anchor="start" x="8" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">FreehandTouchpointTool</text>
-<text text-anchor="middle" x="61" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">::undo</text>
+<g id="a_node4"><a xlink:href="../../d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="7.5,-49.5 7.5,-79.5 114.5,-79.5 114.5,-49.5 7.5,-49.5"/>
+<text text-anchor="start" x="15.5" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">PlaceTouchpointTool</text>
+<text text-anchor="middle" x="61" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">::undo</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M148.14,-66.92C139.41,-65.61 130.59,-64.29 122.09,-63.01"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="147.9,-70.42 158.3,-68.45 148.93,-63.5 147.9,-70.42"/>
+<path fill="none" stroke="midnightblue" d="M147.67,-76.28C136.51,-74.75 125.21,-73.19 114.63,-71.74"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="147.46,-79.78 157.84,-77.68 148.41,-72.85 147.46,-79.78"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="../../dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="17,-0.5 17,-19.5 105,-19.5 105,-0.5 17,-0.5"/>
-<text text-anchor="middle" x="61" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">LassoTool::undo</text>
+<g id="a_node5"><a xlink:href="../../de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="3,-0.5 3,-30.5 119,-30.5 119,-0.5 3,-0.5"/>
+<text text-anchor="start" x="11" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">PolylineTouchpointTool</text>
+<text text-anchor="middle" x="61" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">::undo</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M194.8,-63.8C174.92,-53.7 147.16,-40.18 122,-30 112.74,-26.25 102.48,-22.64 93.1,-19.54"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="193.38,-67 203.88,-68.45 196.58,-60.77 193.38,-67"/>
+<path fill="none" stroke="midnightblue" d="M192.65,-72.66C172.79,-63.38 145.92,-50.98 122,-40.5 114.56,-37.24 106.56,-33.84 98.9,-30.63"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="191.26,-75.87 201.8,-76.94 194.23,-69.53 191.26,-75.87"/>
 </g>
 </g>
 </svg>

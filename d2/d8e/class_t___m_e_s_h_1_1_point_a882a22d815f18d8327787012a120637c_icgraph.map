@@ -1,0 +1,17 @@
+<map id="T_MESH::Point::exactSameSideOnPlane" name="T_MESH::Point::exactSameSideOnPlane">
+<area shape="rect" id="node1" title="Exact planar side test." alt="" coords="821,152,1009,193"/>
+<area shape="rect" id="node2" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a892d5d924741499540373924c3ef337e" title="true if the interior of (p1&#45;p2) properly intersects the interior of (sp1&#45;sp2)." alt="" coords="553,5,763,47"/>
+<area shape="rect" id="node3" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a38d6dedff09dd67bc25defcb61304546" title="true if this triangle itersects &#39;t&#39; other than on common subsimplexes if &#39;justproper&#39; is true,..." alt="" coords="296,71,491,98"/>
+<area shape="rect" id="node5" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#aa9668ac7f288c8d28a9c0ef450cdbc61" title="Returns TRUE if edge is not on boundary and its two incident triangles overlap." alt="" coords="573,297,743,323"/>
+<area shape="rect" id="node8" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#ae68a594aa67b93af92c5a6f57296f32d" title="Unlinks the vertex if it is either Flat() or DoubleFlat()." alt="" coords="303,224,483,265"/>
+<area shape="rect" id="node13" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#aa7c967dd92c65e98ad3169b2e5715c5e" title="true if segment (s1&#45;s2) intersects the triangle v1&#45;v2&#45;v3 (border included)." alt="" coords="543,123,773,164"/>
+<area shape="rect" id="node15" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html#a3eda3ce3ed73bf34cb1d8a1f24cb9276" title="true if (p1&#45;p2) properly intersects (sp1&#45;sp2) at any point (endpoints included)." alt="" coords="543,189,773,215"/>
+<area shape="rect" id="node4" href="$d3/d21/class_t___m_e_s_h_1_1di__cell.html#a225e296cc8fdea7f5dbc9d4b9a5bc79c" title=" " alt="" coords="5,71,244,98"/>
+<area shape="rect" id="node6" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#af1784de753585f8a0d7c8d481c751147" title="Return TRUE iff one of the adjacent triangles overlaps with this one." alt="" coords="300,421,487,447"/>
+<area shape="rect" id="node10" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a0d6037f1cb9166537f576f93bb38fea3" title="Removes overlapping triangles and return their number." alt="" coords="296,355,491,396"/>
+<area shape="rect" id="node11" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a88600f587cbaf2f57c7be3b6e202a22d" title="This is as coordBackApproximation() but it also checks for intersections and, if any,..." alt="" coords="292,289,495,331"/>
+<area shape="rect" id="node7" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a6c419b3b7ebd44fca9fdc7a048ff7b52" title="Retriangulates the vertex neghborhood based on heuristics." alt="" coords="43,413,207,455"/>
+<area shape="rect" id="node9" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa754eda7f26bb3d770882fcf625c83c3" title="Removes all the vertices that can be deleted without changing the geometric realization...." alt="" coords="33,224,216,265"/>
+<area shape="rect" id="node12" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#acab069f805e6c473afb4e340d3d8d1ae" title="&lt; AMF_CHANGE &#45; since T_MESH 2.4&#45;2 &gt;" alt="" coords="34,297,215,323"/>
+<area shape="rect" id="node14" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a52d4b92af3766a8a3967ce729ddb3661" title="true if this edge itersects &#39;t&#39; other than on common subsimplexes" alt="" coords="304,151,483,178"/>
+</map>

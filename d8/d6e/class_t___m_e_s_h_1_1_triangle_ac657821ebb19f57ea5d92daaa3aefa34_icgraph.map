@@ -1,0 +1,14 @@
+<map id="T_MESH::Triangle::getVector" name="T_MESH::Triangle::getVector">
+<area shape="rect" id="node1" title="Return a vector orthogonal to the plane of the triangle. If triangle is degenerate return a null vect..." alt="" coords="693,189,887,215"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a069887e9f69d8daeb4abc9f24c008666" title="Angle between the normal vector of this and the one of &#39;t&#39;. Return &#45;1 if one or both the triangles ar..." alt="" coords="447,71,645,98"/>
+<area shape="rect" id="node8" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a7820b9b31ae0c9187ea7ddd4a1ccff48" title="True if the mesh properly contains &#39;p&#39; (exact when using rationals)." alt="" coords="464,123,628,164"/>
+<area shape="rect" id="node9" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#a0167ce385b2562d494e329e1b405e437" title="Projection of &#39;p&#39; on the plane of the triangle. Return INFINITE_POINT if triangle is degenerate." alt="" coords="457,189,635,215"/>
+<area shape="rect" id="node10" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#a6d9c5aef72b72121eb5c421939b53ddc" title="&lt; AMF_CHANGE &#45; since T_MESH 2.4&#45;2 &gt;" alt="" coords="456,240,636,281"/>
+<area shape="rect" id="node12" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#a4a05d540177eaf325992664030d0743e" title=" " alt="" coords="455,306,637,333"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#abd5594a9e9360e62ef707cec470d0f63" title="Checks the mesh for degeneracies, concident vertices and overlaps." alt="" coords="226,5,390,47"/>
+<area shape="rect" id="node4" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a5fa933e3c5e84b1ddfd7e9af7c085ebf" title="Angle between the normals of the two incident triangles." alt="" coords="220,71,396,98"/>
+<area shape="rect" id="node6" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a685adc663cc94a713225f8d029322e54" title="Discriminant Angle for triangulating 3D polygons." alt="" coords="218,125,398,167"/>
+<area shape="rect" id="node5" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a68fa4723b8e20632bbe5a66e714cfc1a" title="Tag sharp edges based on threshold angle. O(N)." alt="" coords="5,63,169,104"/>
+<area shape="rect" id="node7" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#affae34779bd3e7f044e4cd2f038950e9" title="Creates a triangulation of the hole based on the assumption that it is flat." alt="" coords="5,128,169,169"/>
+<area shape="rect" id="node11" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#acab069f805e6c473afb4e340d3d8d1ae" title="&lt; AMF_CHANGE &#45; since T_MESH 2.4&#45;2 &gt;" alt="" coords="217,277,399,303"/>
+</map>

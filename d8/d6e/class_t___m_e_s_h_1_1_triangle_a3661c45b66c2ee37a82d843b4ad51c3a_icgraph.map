@@ -1,0 +1,8 @@
+<map id="T_MESH::Triangle::hasEdge" name="T_MESH::Triangle::hasEdge">
+<area shape="rect" id="node1" title="TRUE iff &#39;e&#39; is an edge of the triangle." alt="" coords="699,71,888,98"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a7b760e8cf0522061d2df0bc6e73cd439" title="Check the mesh connectivity." alt="" coords="476,5,640,47"/>
+<area shape="rect" id="node3" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a52d4b92af3766a8a3967ce729ddb3661" title="true if this edge itersects &#39;t&#39; other than on common subsimplexes" alt="" coords="469,71,647,98"/>
+<area shape="rect" id="node4" href="$de/df9/namespace_t___m_e_s_h.html#acb1342ee7a7281f17abe972751299e4b" title=" " alt="" coords="465,122,651,149"/>
+<area shape="rect" id="node5" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#a4a05d540177eaf325992664030d0743e" title=" " alt="" coords="235,122,417,149"/>
+<area shape="rect" id="node6" href="$d9/d69/class_t___m_e_s_h_1_1mc__grid.html#acab069f805e6c473afb4e340d3d8d1ae" title="&lt; AMF_CHANGE &#45; since T_MESH 2.4&#45;2 &gt;" alt="" coords="5,122,187,149"/>
+</map>

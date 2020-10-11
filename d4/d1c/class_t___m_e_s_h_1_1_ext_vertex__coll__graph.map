@@ -1,0 +1,9 @@
+<map id="T_MESH::ExtVertex" name="T_MESH::ExtVertex">
+<area shape="rect" id="node1" title="Extended vertex for temporary use during connectivity creation." alt="" coords="205,1679,346,1756"/>
+<area shape="rect" id="node2" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html" title="Vertex of a Basic_TMesh." alt="" coords="8,805,199,1308"/>
+<area shape="rect" id="node4" href="$da/da2/class_t___m_e_s_h_1_1_edge.html" title="Edge of a Basic_TMesh." alt="" coords="11,1385,172,2049"/>
+<area shape="rect" id="node3" href="$d2/d8e/class_t___m_e_s_h_1_1_point.html" title="Geometric point definition." alt="" coords="5,5,201,728"/>
+<area shape="rect" id="node5" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html" title="Triangle of a Basic_TMesh." alt="" coords="23,2141,160,2673"/>
+<area shape="rect" id="node6" href="$d3/d04/class_t___m_e_s_h_1_1_list.html" title="Doubly linked list." alt="" coords="223,813,346,1301"/>
+<area shape="rect" id="node7" href="$da/d53/class_t___m_e_s_h_1_1_node.html" title="Generic node of a doubly likned list." alt="" coords="227,299,342,435"/>
+</map>

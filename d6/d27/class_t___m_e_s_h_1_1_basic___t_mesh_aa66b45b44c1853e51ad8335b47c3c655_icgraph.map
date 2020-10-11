@@ -1,0 +1,6 @@
+<map id="T_MESH::Basic_TMesh::getRegion" name="T_MESH::Basic_TMesh::getRegion">
+<area shape="rect" id="node1" title="Make a list of triangles within distance L from &#39;p&#39;. O(output)." alt="" coords="228,71,392,112"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a6fd569696e5e82e4a057fdbde867b9a3" title="Marks all the triangles within distance L from &#39;p&#39; as deselected. O(output)." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a82ad208cf248597408fec98aac0bc182" title="Deselects all the triangles farther than L from &#39;p&#39;. O(N)." alt="" coords="7,71,178,112"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a3d3c58507dcc8ca23f2ffd6d3f57f5e9" title="Marks all the triangles within distance L from &#39;p&#39; as selected. O(output)." alt="" coords="11,136,175,177"/>
+</map>

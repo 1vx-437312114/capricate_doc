@@ -5,10 +5,10 @@
  -->
 <!-- Title: PickingInteractorStyle::OnLeftButtonDown Pages: 1 -->
 <svg width="504pt" height="515pt"
- viewBox="0.00 0.00 504.00 515.47" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 511.47)">
+ viewBox="0.00 0.00 504.00 514.50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 510.5)">
 <title>PickingInteractorStyle::OnLeftButtonDown</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-511.47 500,-511.47 500,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-510.5 500,-510.5 500,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
@@ -23,275 +23,290 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d9/d4f/namespace_layout_algorithms.html#ad165a81c391eaa466ebce1da720ee6b5" target="_top" xlink:title="Computes a wiring entry point in world coordinates for a sphere shaped touchpoint geometry.">
-<polygon fill="white" stroke="black" points="163,-438 163,-468 299,-468 299,-438 163,-438"/>
-<text text-anchor="start" x="171" y="-456" font-family="Helvetica,sans-Serif" font-size="10.00">LayoutAlgorithms::compute</text>
-<text text-anchor="middle" x="231" y="-445" font-family="Helvetica,sans-Serif" font-size="10.00">ConnectionPointSphere</text>
+<polygon fill="white" stroke="black" points="163,-476 163,-506 299,-506 299,-476 163,-476"/>
+<text text-anchor="start" x="171" y="-494" font-family="Helvetica,sans-Serif" font-size="10.00">LayoutAlgorithms::compute</text>
+<text text-anchor="middle" x="231" y="-483" font-family="Helvetica,sans-Serif" font-size="10.00">ConnectionPointSphere</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M61.15,-268.16C70.1,-302 96.3,-384.13 149,-428 151.03,-429.69 153.17,-431.26 155.4,-432.73"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="153.97,-435.94 164.38,-437.89 157.45,-429.87 153.97,-435.94"/>
-</g>
-<!-- Node3 -->
-<g id="node3" class="node">
-<title>Node3</title>
-<g id="a_node3"><a xlink:href="../../d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" target="_top" xlink:title="Return the geometric data (vtkPolyData) of the mesh.">
-<polygon fill="white" stroke="black" points="358.5,-465.5 358.5,-484.5 486.5,-484.5 486.5,-465.5 358.5,-465.5"/>
-<text text-anchor="middle" x="422.5" y="-472.5" font-family="Helvetica,sans-Serif" font-size="10.00">Scene::getMeshPolyData</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node3 -->
-<g id="edge8" class="edge">
-<title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M58.25,-268.29C61.23,-310.54 76.05,-428.92 149,-478 220.5,-526.11 328.22,-504.24 384.41,-487.61"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="385.75,-490.86 394.29,-484.59 383.7,-484.17 385.75,-490.86"/>
+<path fill="none" stroke="midnightblue" d="M59.99,-268.15C66.98,-306.01 90.28,-405.68 149,-461 153.03,-464.79 157.57,-468.11 162.4,-471.02"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="160.9,-474.19 171.37,-475.82 164.2,-468.02 160.9,-474.19"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022" target="_top" xlink:title="Computes the nearest voxel index to a given index point which is inside of the mesh boundaries.">
+<g id="a_node4"><a xlink:href="../../d6/db5/class_scene.html#accf5c16477aba3397a083ded76f2c5f5" target="_top" xlink:title="Return the geometric data (vtkPolyData) of the mesh.">
+<polygon fill="white" stroke="black" points="358.5,-440.5 358.5,-459.5 486.5,-459.5 486.5,-440.5 358.5,-440.5"/>
+<text text-anchor="middle" x="422.5" y="-447.5" font-family="Helvetica,sans-Serif" font-size="10.00">Scene::getMeshPolyData</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node4 -->
+<g id="edge9" class="edge">
+<title>Node1&#45;&gt;Node4</title>
+<path fill="none" stroke="midnightblue" d="M60.34,-268.23C67.79,-303.34 91.4,-389.86 149,-428 212.04,-469.73 302.13,-468.05 361.2,-460.82"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="361.67,-464.29 371.13,-459.52 360.76,-457.35 361.67,-464.29"/>
+</g>
+<!-- Node5 -->
+<g id="node5" class="node">
+<title>Node5</title>
+<g id="a_node5"><a xlink:href="../../d9/d4f/namespace_layout_algorithms.html#a548f7aef3389c05aa79965eabf21a022" target="_top" xlink:title="Computes the nearest voxel index to a given index point which is inside of the mesh boundaries.">
 <polygon fill="white" stroke="black" points="149,-350 149,-380 313,-380 313,-350 149,-350"/>
 <text text-anchor="start" x="157" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00">LayoutAlgorithms::compute</text>
 <text text-anchor="middle" x="231" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00">NearestPointInsideInnerVoxelGrid</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node4 -->
-<g id="edge3" class="edge">
-<title>Node1&#45;&gt;Node4</title>
+<!-- Node1&#45;&gt;Node5 -->
+<g id="edge4" class="edge">
+<title>Node1&#45;&gt;Node5</title>
 <path fill="none" stroke="midnightblue" d="M69.17,-268.03C85.15,-287.6 115.66,-321.6 149,-341 152.01,-342.75 155.15,-344.38 158.38,-345.9"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="157.11,-349.16 167.68,-349.9 159.87,-342.73 157.11,-349.16"/>
 </g>
-<!-- Node8 -->
-<g id="node8" class="node">
-<title>Node8</title>
-<g id="a_node8"><a xlink:href="../../d9/d58/class_touchpoint.html#a85820150b53ece4c635f7ca5ed189afa" target="_top" xlink:title="Return the graphical representation (vtkActor) of the touchpoint.">
+<!-- Node9 -->
+<g id="node9" class="node">
+<title>Node9</title>
+<g id="a_node9"><a xlink:href="../../d9/d58/class_touchpoint.html#a85820150b53ece4c635f7ca5ed189afa" target="_top" xlink:title="Return the graphical representation (vtkActor) of the touchpoint.">
 <polygon fill="white" stroke="black" points="177.5,-262.5 177.5,-281.5 284.5,-281.5 284.5,-262.5 177.5,-262.5"/>
 <text text-anchor="middle" x="231" y="-269.5" font-family="Helvetica,sans-Serif" font-size="10.00">Touchpoint::getActor</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node8 -->
-<g id="edge7" class="edge">
-<title>Node1&#45;&gt;Node8</title>
+<!-- Node1&#45;&gt;Node9 -->
+<g id="edge8" class="edge">
+<title>Node1&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M113.03,-259.12C130.24,-261.01 149.32,-263.11 167,-265.06"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="166.89,-268.57 177.22,-266.19 167.66,-261.61 166.89,-268.57"/>
-</g>
-<!-- Node9 -->
-<g id="node9" class="node">
-<title>Node9</title>
-<g id="a_node9"><a xlink:href="../../d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" target="_top" xlink:title="Return the scaled size of the mesh (in mm)">
-<polygon fill="white" stroke="black" points="165.5,-224.5 165.5,-243.5 296.5,-243.5 296.5,-224.5 165.5,-224.5"/>
-<text text-anchor="middle" x="231" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">Scene::getMeshScalesize</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node9 -->
-<g id="edge9" class="edge">
-<title>Node1&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M113.03,-246.88C126.42,-245.41 140.95,-243.81 155.07,-242.25"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="155.7,-245.7 165.26,-241.13 154.94,-238.75 155.7,-245.7"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="../../d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" target="_top" xlink:title="Return dimensions of the voxel data.">
-<polygon fill="white" stroke="black" points="150.5,-399.5 150.5,-418.5 311.5,-418.5 311.5,-399.5 150.5,-399.5"/>
-<text text-anchor="middle" x="231" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">Scene::getVoxelDataDimensions</text>
+<g id="a_node10"><a xlink:href="../../d6/db5/class_scene.html#a9c15511eba6900e36681315c7e5911c5" target="_top" xlink:title="Return the scaled size of the mesh (in mm)">
+<polygon fill="white" stroke="black" points="165.5,-224.5 165.5,-243.5 296.5,-243.5 296.5,-224.5 165.5,-224.5"/>
+<text text-anchor="middle" x="231" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">Scene::getMeshScalesize</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node10 -->
 <g id="edge10" class="edge">
 <title>Node1&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M63.15,-268.09C74.67,-296.65 103.63,-358.55 149,-390 151.88,-391.99 154.93,-393.78 158.11,-395.38"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="156.78,-398.62 167.34,-399.42 159.59,-392.21 156.78,-398.62"/>
+<path fill="none" stroke="midnightblue" d="M113.03,-246.88C126.42,-245.41 140.95,-243.81 155.07,-242.25"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="155.7,-245.7 165.26,-241.13 154.94,-238.75 155.7,-245.7"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="../../d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee" target="_top" xlink:title="Checks if a given index point is part of the voxels which lie inside the meshs boundaries.">
+<g id="a_node11"><a xlink:href="../../d6/db5/class_scene.html#af78767d0af348d25ddf80ef8cfe1f67a" target="_top" xlink:title="Return dimensions of the voxel data.">
+<polygon fill="white" stroke="black" points="150.5,-399.5 150.5,-418.5 311.5,-418.5 311.5,-399.5 150.5,-399.5"/>
+<text text-anchor="middle" x="231" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">Scene::getVoxelDataDimensions</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node11 -->
+<g id="edge11" class="edge">
+<title>Node1&#45;&gt;Node11</title>
+<path fill="none" stroke="midnightblue" d="M63.15,-268.09C74.67,-296.65 103.63,-358.55 149,-390 151.88,-391.99 154.93,-393.78 158.11,-395.38"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="156.78,-398.62 167.34,-399.42 159.59,-392.21 156.78,-398.62"/>
+</g>
+<!-- Node12 -->
+<g id="node12" class="node">
+<title>Node12</title>
+<g id="a_node12"><a xlink:href="../../d9/d4f/namespace_layout_algorithms.html#ae4a370e6ad78fdf1fa1d775a135339ee" target="_top" xlink:title="Checks if a given index point is part of the voxels which lie inside the meshs boundaries.">
 <polygon fill="white" stroke="black" points="161,-301 161,-331 301,-331 301,-301 161,-301"/>
 <text text-anchor="start" x="169" y="-319" font-family="Helvetica,sans-Serif" font-size="10.00">LayoutAlgorithms::isVoxel</text>
 <text text-anchor="middle" x="231" y="-308" font-family="Helvetica,sans-Serif" font-size="10.00">IndexInsideMeshBoundaries</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node11 -->
-<g id="edge12" class="edge">
-<title>Node1&#45;&gt;Node11</title>
+<!-- Node1&#45;&gt;Node12 -->
+<g id="edge13" class="edge">
+<title>Node1&#45;&gt;Node12</title>
 <path fill="none" stroke="midnightblue" d="M91.53,-268.03C108.62,-275.35 129.75,-284.05 149,-291 155.42,-293.32 162.17,-295.61 168.92,-297.82"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="168.18,-301.26 178.77,-300.99 170.32,-294.6 168.18,-301.26"/>
 </g>
-<!-- Node12 -->
-<g id="node12" class="node">
-<title>Node12</title>
-<g id="a_node12"><a xlink:href="../../d1/d7c/namespace_utils.html#a4b6c4a605143b128db1c74f39d0277ef" target="_top" xlink:title="Compute voxel grid integer index equivalent from world coordinate.">
+<!-- Node13 -->
+<g id="node13" class="node">
+<title>Node13</title>
+<g id="a_node13"><a xlink:href="../../d1/d7c/namespace_utils.html#a4b6c4a605143b128db1c74f39d0277ef" target="_top" xlink:title="Compute voxel grid integer index equivalent from world coordinate.">
 <polygon fill="white" stroke="black" points="188,-186.5 188,-205.5 274,-205.5 274,-186.5 188,-186.5"/>
 <text text-anchor="middle" x="231" y="-193.5" font-family="Helvetica,sans-Serif" font-size="10.00">Utils::posToCell</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node12 -->
-<g id="edge16" class="edge">
-<title>Node1&#45;&gt;Node12</title>
+<!-- Node1&#45;&gt;Node13 -->
+<g id="edge17" class="edge">
+<title>Node1&#45;&gt;Node13</title>
 <path fill="none" stroke="midnightblue" d="M90.05,-237.96C107.31,-230.37 129.03,-221.44 149,-215 158.18,-212.04 168.09,-209.33 177.71,-206.94"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="178.69,-210.31 187.6,-204.57 177.06,-203.5 178.69,-210.31"/>
 </g>
-<!-- Node14 -->
-<g id="node14" class="node">
-<title>Node14</title>
-<g id="a_node14"><a xlink:href="../../d9/d58/class_touchpoint.html#a862c860cb3a0062311ead13141a78e0b" target="_top" xlink:title="Set outside wiring entry point (world coordinates)">
+<!-- Node15 -->
+<g id="node15" class="node">
+<title>Node15</title>
+<g id="a_node15"><a xlink:href="../../d9/d58/class_touchpoint.html#a862c860cb3a0062311ead13141a78e0b" target="_top" xlink:title="Set outside wiring entry point (world coordinates)">
 <polygon fill="white" stroke="black" points="164.5,-137 164.5,-167 297.5,-167 297.5,-137 164.5,-137"/>
 <text text-anchor="start" x="172.5" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">Touchpoint::setConnection</text>
 <text text-anchor="middle" x="231" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">Point</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node14 -->
-<g id="edge18" class="edge">
-<title>Node1&#45;&gt;Node14</title>
+<!-- Node1&#45;&gt;Node15 -->
+<g id="edge19" class="edge">
+<title>Node1&#45;&gt;Node15</title>
 <path fill="none" stroke="midnightblue" d="M71.99,-237.78C88.98,-220.76 118.67,-193.42 149,-177 153.15,-174.75 157.53,-172.68 162.02,-170.76"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="163.34,-174.01 171.35,-167.06 160.76,-167.5 163.34,-174.01"/>
 </g>
-<!-- Node15 -->
-<g id="node15" class="node">
-<title>Node15</title>
-<g id="a_node15"><a xlink:href="../../d9/d58/class_touchpoint.html#a40917c4b1d9899aa738703aa9df619f4" target="_top" xlink:title="Set outside wiring entry point (grid coordinates)">
+<!-- Node16 -->
+<g id="node16" class="node">
+<title>Node16</title>
+<g id="a_node16"><a xlink:href="../../d9/d58/class_touchpoint.html#a40917c4b1d9899aa738703aa9df619f4" target="_top" xlink:title="Set outside wiring entry point (grid coordinates)">
 <polygon fill="white" stroke="black" points="164.5,-88 164.5,-118 297.5,-118 297.5,-88 164.5,-88"/>
 <text text-anchor="start" x="172.5" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">Touchpoint::setConnection</text>
 <text text-anchor="middle" x="231" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">PointIndex</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node15 -->
-<g id="edge19" class="edge">
-<title>Node1&#45;&gt;Node15</title>
+<!-- Node1&#45;&gt;Node16 -->
+<g id="edge20" class="edge">
+<title>Node1&#45;&gt;Node16</title>
 <path fill="none" stroke="midnightblue" d="M64.45,-237.69C77.29,-211.12 107.28,-156.5 149,-127 151.15,-125.48 153.39,-124.06 155.71,-122.72"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="157.64,-125.67 164.96,-118 154.46,-119.43 157.64,-125.67"/>
 </g>
-<!-- Node16 -->
-<g id="node16" class="node">
-<title>Node16</title>
-<g id="a_node16"><a xlink:href="../../d9/d58/class_touchpoint.html#afc37b6344a58531545ac5a55cd11e993" target="_top" xlink:title="Set the interior wiring connection position (grid coordinates)">
+<!-- Node17 -->
+<g id="node17" class="node">
+<title>Node17</title>
+<g id="a_node17"><a xlink:href="../../d9/d58/class_touchpoint.html#afc37b6344a58531545ac5a55cd11e993" target="_top" xlink:title="Set the interior wiring connection position (grid coordinates)">
 <polygon fill="white" stroke="black" points="156.5,-39 156.5,-69 305.5,-69 305.5,-39 156.5,-39"/>
 <text text-anchor="start" x="164.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">Touchpoint::setInteriorPosition</text>
 <text text-anchor="middle" x="231" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">Index</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node16 -->
-<g id="edge20" class="edge">
-<title>Node1&#45;&gt;Node16</title>
+<!-- Node1&#45;&gt;Node17 -->
+<g id="edge21" class="edge">
+<title>Node1&#45;&gt;Node17</title>
 <path fill="none" stroke="midnightblue" d="M61.12,-237.8C69.99,-203.87 96.05,-121.57 149,-78 150.57,-76.71 152.21,-75.48 153.91,-74.33"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="155.96,-77.18 162.79,-69.07 152.4,-71.15 155.96,-77.18"/>
 </g>
-<!-- Node17 -->
-<g id="node17" class="node">
-<title>Node17</title>
-<g id="a_node17"><a xlink:href="../../d9/d58/class_touchpoint.html#a7c20c3ec7d08db873bdb3152f4c37f34" target="_top" xlink:title="Translate touchpoint position by given vector.">
+<!-- Node18 -->
+<g id="node18" class="node">
+<title>Node18</title>
+<g id="a_node18"><a xlink:href="../../d9/d58/class_touchpoint.html#a7c20c3ec7d08db873bdb3152f4c37f34" target="_top" xlink:title="Translate touchpoint position by given vector.">
 <polygon fill="white" stroke="black" points="177.5,-0.5 177.5,-19.5 284.5,-19.5 284.5,-0.5 177.5,-0.5"/>
 <text text-anchor="middle" x="231" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Touchpoint::translate</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node17 -->
-<g id="edge21" class="edge">
-<title>Node1&#45;&gt;Node17</title>
+<!-- Node1&#45;&gt;Node18 -->
+<g id="edge22" class="edge">
+<title>Node1&#45;&gt;Node18</title>
 <path fill="none" stroke="midnightblue" d="M59,-237.73C63.86,-197.07 82.87,-85.46 149,-29 154.51,-24.29 160.98,-20.7 167.81,-17.97"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="168.95,-21.28 177.3,-14.75 166.7,-14.65 168.95,-21.28"/>
+</g>
+<!-- Node3 -->
+<g id="node3" class="node">
+<title>Node3</title>
+<g id="a_node3"><a xlink:href="../../d9/d58/class_touchpoint.html#ae51e750ddb4737270a4d88494dcc21d9" target="_top" xlink:title="Return the bounds of the touchpoint as array object (in object coordinates)">
+<polygon fill="white" stroke="black" points="364.5,-481.5 364.5,-500.5 480.5,-500.5 480.5,-481.5 364.5,-481.5"/>
+<text text-anchor="middle" x="422.5" y="-488.5" font-family="Helvetica,sans-Serif" font-size="10.00">Touchpoint::getBounds</text>
+</a>
+</g>
 </g>
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M299.08,-460.79C315.04,-462.64 332.14,-464.63 348.36,-466.51"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="347.98,-469.99 358.32,-467.67 348.79,-463.04 347.98,-469.99"/>
+<path fill="none" stroke="midnightblue" d="M299.08,-491C316.96,-491 336.29,-491 354.18,-491"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="354.25,-494.5 364.25,-491 354.25,-487.5 354.25,-494.5"/>
 </g>
-<!-- Node5 -->
-<g id="node5" class="node">
-<title>Node5</title>
-<g id="a_node5"><a xlink:href="../../d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" target="_top" xlink:title="Return the voxel grid image data.">
+<!-- Node2&#45;&gt;Node4 -->
+<g id="edge3" class="edge">
+<title>Node2&#45;&gt;Node4</title>
+<path fill="none" stroke="midnightblue" d="M299.08,-476.49C321.5,-471.63 346.2,-466.29 367.5,-461.68"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="368.31,-465.09 377.34,-459.55 366.83,-458.25 368.31,-465.09"/>
+</g>
+<!-- Node6 -->
+<g id="node6" class="node">
+<title>Node6</title>
+<g id="a_node6"><a xlink:href="../../d6/db5/class_scene.html#a7e5ee53ea01ef113afaaf4b7c10accf3" target="_top" xlink:title="Return the voxel grid image data.">
 <polygon fill="white" stroke="black" points="368,-382.5 368,-401.5 477,-401.5 477,-382.5 368,-382.5"/>
 <text text-anchor="middle" x="422.5" y="-389.5" font-family="Helvetica,sans-Serif" font-size="10.00">Scene::getVoxelData</text>
 </a>
 </g>
 </g>
-<!-- Node4&#45;&gt;Node5 -->
-<g id="edge4" class="edge">
-<title>Node4&#45;&gt;Node5</title>
+<!-- Node5&#45;&gt;Node6 -->
+<g id="edge5" class="edge">
+<title>Node5&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M313.19,-376.57C328.06,-378.69 343.39,-380.87 357.67,-382.91"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="357.46,-386.41 367.86,-384.36 358.45,-379.48 357.46,-386.41"/>
-</g>
-<!-- Node6 -->
-<g id="node6" class="node">
-<title>Node6</title>
-<g id="a_node6"><a xlink:href="../../d6/db5/class_scene.html#a5a6d3fda8f75cf2aa8b19d7fd7f3c355" target="_top" xlink:title="Return the voxelization resolution.">
-<polygon fill="white" stroke="black" points="349,-306.5 349,-325.5 496,-325.5 496,-306.5 349,-306.5"/>
-<text text-anchor="middle" x="422.5" y="-313.5" font-family="Helvetica,sans-Serif" font-size="10.00">Scene::getVoxelizeResolution</text>
-</a>
-</g>
-</g>
-<!-- Node4&#45;&gt;Node6 -->
-<g id="edge5" class="edge">
-<title>Node4&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M290.14,-349.97C317.33,-342.94 349.26,-334.68 374.83,-328.07"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="375.85,-331.42 384.65,-325.53 374.09,-324.64 375.85,-331.42"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="../../d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" target="_top" xlink:title="Compute 1D linearized index from 3D&#45;coodinate index.">
-<polygon fill="white" stroke="black" points="394.5,-344.5 394.5,-363.5 450.5,-363.5 450.5,-344.5 394.5,-344.5"/>
-<text text-anchor="middle" x="422.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00">Utils::idx</text>
+<g id="a_node7"><a xlink:href="../../d6/db5/class_scene.html#a5a6d3fda8f75cf2aa8b19d7fd7f3c355" target="_top" xlink:title="Return the voxelization resolution.">
+<polygon fill="white" stroke="black" points="349,-344.5 349,-363.5 496,-363.5 496,-344.5 349,-344.5"/>
+<text text-anchor="middle" x="422.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00">Scene::getVoxelizeResolution</text>
 </a>
 </g>
 </g>
-<!-- Node4&#45;&gt;Node7 -->
+<!-- Node5&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
-<title>Node4&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M313.19,-360.29C337.83,-358.86 363.71,-357.35 384,-356.18"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="384.28,-359.67 394.06,-355.59 383.87,-352.68 384.28,-359.67"/>
+<title>Node5&#45;&gt;Node7</title>
+<path fill="none" stroke="midnightblue" d="M313.19,-360.29C321.62,-359.8 330.19,-359.3 338.64,-358.81"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="339.08,-362.29 348.86,-358.22 338.67,-355.3 339.08,-362.29"/>
 </g>
-<!-- Node10&#45;&gt;Node5 -->
-<g id="edge11" class="edge">
-<title>Node10&#45;&gt;Node5</title>
+<!-- Node8 -->
+<g id="node8" class="node">
+<title>Node8</title>
+<g id="a_node8"><a xlink:href="../../d1/d7c/namespace_utils.html#a606fb1eb5072ca20f56293fa71bd8578" target="_top" xlink:title="Compute 1D linearized index from 3D&#45;coodinate index.">
+<polygon fill="white" stroke="black" points="394.5,-306.5 394.5,-325.5 450.5,-325.5 450.5,-306.5 394.5,-306.5"/>
+<text text-anchor="middle" x="422.5" y="-313.5" font-family="Helvetica,sans-Serif" font-size="10.00">Utils::idx</text>
+</a>
+</g>
+</g>
+<!-- Node5&#45;&gt;Node8 -->
+<g id="edge7" class="edge">
+<title>Node5&#45;&gt;Node8</title>
+<path fill="none" stroke="midnightblue" d="M290.14,-349.97C320.92,-342.01 357.78,-332.48 384.61,-325.54"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="385.57,-328.91 394.37,-323.01 383.81,-322.13 385.57,-328.91"/>
+</g>
+<!-- Node11&#45;&gt;Node6 -->
+<g id="edge12" class="edge">
+<title>Node11&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M311.54,-401.86C326.93,-400.48 342.87,-399.05 357.68,-397.73"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="358.08,-401.2 367.73,-396.82 357.45,-394.23 358.08,-401.2"/>
 </g>
-<!-- Node11&#45;&gt;Node5 -->
-<g id="edge13" class="edge">
-<title>Node11&#45;&gt;Node5</title>
+<!-- Node12&#45;&gt;Node6 -->
+<g id="edge14" class="edge">
+<title>Node12&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M291.2,-331.01C298.75,-333.86 306.2,-337.17 313,-341 331.65,-351.51 330.13,-362.9 349,-373 353.29,-375.3 357.88,-377.33 362.58,-379.12"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="361.74,-382.54 372.33,-382.48 364.02,-375.92 361.74,-382.54"/>
 </g>
-<!-- Node11&#45;&gt;Node6 -->
-<g id="edge14" class="edge">
-<title>Node11&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M301.22,-316C313.48,-316 326.36,-316 338.95,-316"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="338.97,-319.5 348.97,-316 338.97,-312.5 338.97,-319.5"/>
-</g>
-<!-- Node11&#45;&gt;Node7 -->
+<!-- Node12&#45;&gt;Node7 -->
 <g id="edge15" class="edge">
-<title>Node11&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M301.22,-329.88C329.4,-335.53 360.84,-341.84 384.51,-346.58"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="383.97,-350.04 394.47,-348.58 385.35,-343.18 383.97,-350.04"/>
+<title>Node12&#45;&gt;Node7</title>
+<path fill="none" stroke="midnightblue" d="M301.22,-329.88C321.93,-334.03 344.4,-338.54 364.25,-342.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="363.58,-345.95 374.07,-344.49 364.95,-339.09 363.58,-345.95"/>
 </g>
-<!-- Node13 -->
-<g id="node13" class="node">
-<title>Node13</title>
-<g id="a_node13"><a xlink:href="../../d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" target="_top" xlink:title="Clamp integer value between min and max.">
+<!-- Node12&#45;&gt;Node8 -->
+<g id="edge16" class="edge">
+<title>Node12&#45;&gt;Node8</title>
+<path fill="none" stroke="midnightblue" d="M301.22,-316C329.27,-316 360.56,-316 384.19,-316"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="384.47,-319.5 394.47,-316 384.47,-312.5 384.47,-319.5"/>
+</g>
+<!-- Node14 -->
+<g id="node14" class="node">
+<title>Node14</title>
+<g id="a_node14"><a xlink:href="../../d1/d7c/namespace_utils.html#ac9b063fc04e0a4e5501c8ed0af96ac47" target="_top" xlink:title="Clamp integer value between min and max.">
 <polygon fill="white" stroke="black" points="382.5,-186.5 382.5,-205.5 462.5,-205.5 462.5,-186.5 382.5,-186.5"/>
 <text text-anchor="middle" x="422.5" y="-193.5" font-family="Helvetica,sans-Serif" font-size="10.00">Utils::clampInt</text>
 </a>
 </g>
 </g>
-<!-- Node12&#45;&gt;Node13 -->
-<g id="edge17" class="edge">
-<title>Node12&#45;&gt;Node13</title>
+<!-- Node13&#45;&gt;Node14 -->
+<g id="edge18" class="edge">
+<title>Node13&#45;&gt;Node14</title>
 <path fill="none" stroke="midnightblue" d="M274.06,-196C303.03,-196 341.63,-196 372.07,-196"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="372.47,-199.5 382.47,-196 372.47,-192.5 372.47,-199.5"/>
 </g>

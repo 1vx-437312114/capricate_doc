@@ -1,5 +1,5 @@
 <map id="TouchpointRegistry" name="TouchpointRegistry">
-<area shape="rect" id="node1" title="Manages all the touchpoints and connections in a scene." alt="" coords="89,1713,283,2084"/>
+<area shape="rect" id="node1" title="Manages all the touchpoints and connections in a scene." alt="" coords="91,1713,284,2084"/>
 <area shape="rect" id="node2" title=" " alt="" coords="69,1443,229,1535"/>
 <area shape="rect" id="node3" title=" " alt="" coords="39,1055,234,1132"/>
 <area shape="rect" id="node4" href="$d9/d58/class_touchpoint.html" title="Base class for representing various design elements which are embeded in mesh surface." alt="" coords="5,5,244,831"/>

@@ -1,0 +1,50 @@
+<map id="T_MESH::Point::distance" name="T_MESH::Point::distance">
+<area shape="rect" id="node1" title="Distance from &#39;b&#39;." alt="" coords="2324,318,2495,345"/>
+<area shape="rect" id="node2" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aca7f129613f97d93cfce0bcee716a02a" title="Bounding box longest diagonal. O(N)." alt="" coords="2104,71,2268,112"/>
+<area shape="rect" id="node3" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a685adc663cc94a713225f8d029322e54" title="Discriminant Angle for triangulating 3D polygons." alt="" coords="2096,136,2276,177"/>
+<area shape="rect" id="node5" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#a241b03a7b1ffbd7e971c9d0e780a6430" title="Discriminant Angle for triangulating flat (or nearly flat) polygons." alt="" coords="2096,311,2276,352"/>
+<area shape="rect" id="node31" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#aa66b45b44c1853e51ad8335b47c3c655" title="Make a list of triangles within distance L from &#39;p&#39;. O(output)." alt="" coords="2104,201,2268,243"/>
+<area shape="rect" id="node35" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a13a726e51e116322d99f74c81fcbdd72" title="Euclidean length of the edge." alt="" coords="2107,406,2265,433"/>
+<area shape="rect" id="node46" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ab634754175f6dba92fa233df6a2e45ff" title="Takes a selected region and inserts inner vertices to reproduce the sampling density of the surroundi..." alt="" coords="1857,604,2045,645"/>
+<area shape="rect" id="node48" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ab556ef1844ea6a41c8503a6563375506" title="Removes triangles within distance L from &#39;p&#39;. O(N)." alt="" coords="2104,508,2268,549"/>
+<area shape="rect" id="node4" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#affae34779bd3e7f044e4cd2f038950e9" title="Creates a triangulation of the hole based on the assumption that it is flat." alt="" coords="1869,5,2033,47"/>
+<area shape="rect" id="node6" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ada33175ee7e873107f23ece56353ffd1" title="Creates a triangulation whose projection on the plane with normal &#39;nor&#39; is Delaunay." alt="" coords="1624,415,1788,456"/>
+<area shape="rect" id="node7" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a5d522c7bb892873b10efb533a4e94b94" title="Hole filling algorithm." alt="" coords="1380,627,1544,668"/>
+<area shape="rect" id="node8" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a24c4a4f93e50ac97dbeed1576c2aeb62" title="Fills all the holes having at least &#39;nbe&#39; boundary edges." alt="" coords="1380,507,1544,548"/>
+<area shape="rect" id="node29" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a11e0d5c044e95b01e3cc8beb77c60f8f" title="Re&#45;triangulates the currently selected region using a Delaunay&#45;like approach. O(SlogS)." alt="" coords="1365,320,1559,361"/>
+<area shape="rect" id="node30" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a6c419b3b7ebd44fca9fdc7a048ff7b52" title="Retriangulates the vertex neghborhood based on heuristics." alt="" coords="1380,415,1544,456"/>
+<area shape="rect" id="node9" href="$d2/d68/class_export_open_scad_tool.html#a6e48e9b58a764bc8032b1fbc4082603d" title=" " alt="" coords="716,395,861,436"/>
+<area shape="rect" id="node14" href="$dd/d00/class_export_s_t_l_tool.html#a82d1e11c365c1ed2adf6d831b7f6014f" title=" " alt="" coords="708,461,869,487"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#a15f9fa9fe71b50669ecf5f5a3a1ce90e" title="Import STL / OBJ mesh into the scene." alt="" coords="708,649,869,675"/>
+<area shape="rect" id="node26" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#af160de0b4a939ef2cb93279f67e6dd34" title="Calls &#39;removeDegenerateTriangles()&#39; and, if some degeneracies remain, removes them and fills the resu..." alt="" coords="1129,572,1317,613"/>
+<area shape="rect" id="node28" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a1415feaeb04556d7729a02f73b546ab1" title="Removes all the intersecting triangles and patches the resulting holes." alt="" coords="1130,507,1317,548"/>
+<area shape="rect" id="node10" href="$d2/d68/class_export_open_scad_tool.html#a2e36901501e307b74705aa84f4227d67" title="Export the wiring in the openscad format." alt="" coords="488,393,633,435"/>
+<area shape="rect" id="node11" href="$d2/d68/class_export_open_scad_tool.html#a71ef67a238fb9cd74563b65d77c1ea73" title=" " alt="" coords="23,393,168,435"/>
+<area shape="rect" id="node12" href="$d2/d68/class_export_open_scad_tool.html#a9c35cf64ece9ee328df6ebfd080c0689" title="Export the meshdifference between mesh and wiring in the openscad format." alt="" coords="251,393,396,435"/>
+<area shape="rect" id="node13" href="$d2/d68/class_export_open_scad_tool.html#adc9cf506ecd2ef6e33f37f2eb206da1a" title="Export the meshdifference between mesh and magnets in the openscad format." alt="" coords="240,459,407,500"/>
+<area shape="rect" id="node15" href="$dd/d00/class_export_s_t_l_tool.html#a218420198ac8fef5b9f9a8acc889307d" title=" " alt="" coords="480,459,641,486"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a6e3c9bc26115fb1b1664607e58716641" title=" " alt="" coords="463,838,658,865"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#a46bb2fea8ddeab75e15a223c291116b6" title=" " alt="" coords="461,889,660,931"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#affed0fab82fd390e2762933c6dca9124" title=" " alt="" coords="461,511,660,552"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#adfdb8fcb8685844e8ce11bfb41b83b7d" title=" " alt="" coords="461,576,660,617"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#a5283a0d7aeeafd409c69b272053f3986" title=" " alt="" coords="461,641,660,683"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a0c92ca2d04a79a1580c2e8e136b82682" title=" " alt="" coords="461,707,660,748"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a86cd359f80311725589d0861dd7a9851" title=" " alt="" coords="461,772,660,813"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a33dddfc15db4053f9117728538e7ece4" title="Set up qt specific signal and slots part for enabling user interaction." alt="" coords="233,707,413,748"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="5,714,185,741"/>
+<area shape="rect" id="node27" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a1270b60eec84c1f939d405d9ade1a94e" title="Iteratively call strongDegeneracyRemoval and strongIntersectionRemoval to produce an eventually clean..." alt="" coords="917,507,1081,548"/>
+<area shape="rect" id="node32" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a6fd569696e5e82e4a057fdbde867b9a3" title="Marks all the triangles within distance L from &#39;p&#39; as deselected. O(output)." alt="" coords="1863,71,2038,112"/>
+<area shape="rect" id="node33" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a82ad208cf248597408fec98aac0bc182" title="Deselects all the triangles farther than L from &#39;p&#39;. O(N)." alt="" coords="1865,136,2036,177"/>
+<area shape="rect" id="node34" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a3d3c58507dcc8ca23f2ffd6d3f57f5e9" title="Marks all the triangles within distance L from &#39;p&#39; as selected. O(output)." alt="" coords="1869,201,2033,243"/>
+<area shape="rect" id="node36" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#acf32f12a5dce4bd2e616b57388cbd454" title="Area of the triangle (Heron&#39;s formula)." alt="" coords="1869,267,2032,294"/>
+<area shape="rect" id="node42" href="$da/da2/class_t___m_e_s_h_1_1_edge.html#a69732ceedf860b233ba902e2395b059f" title="Return the minimum among the six angles of the two incident triangles.2PI if on boundary." alt="" coords="1853,369,2048,411"/>
+<area shape="rect" id="node44" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a010c12b5c3406aefb5a3c730dd61923f" title="Joins the two boundary vertices gv and gw through an edge." alt="" coords="1624,545,1788,587"/>
+<area shape="rect" id="node45" href="$d8/d6e/class_t___m_e_s_h_1_1_triangle.html#abdf4288c0529bbab569ca2300674e180" title="Perimeter of the triangle." alt="" coords="1855,435,2047,462"/>
+<area shape="rect" id="node47" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a9f904aaedce6c3de9689f8d8106507bc" title="Return the triangle with the maximum &#39;z&#39; coordinate in the shell containing &#39;t0&#39;. O(N)." alt="" coords="1869,487,2033,528"/>
+<area shape="rect" id="node37" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#ac7e9308b55710e7fa20763644773f82d" title="Total area of the mesh. O(N)." alt="" coords="1624,349,1788,391"/>
+<area shape="rect" id="node38" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#afc73285fdf00cc4abd5caf119e625a51" title="Return the center of mass of the mesh." alt="" coords="1624,51,1788,92"/>
+<area shape="rect" id="node39" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a1e291ae1f1df131933ee7bfcbbcf69d1" title="Removes all the connected components whose area is less than &#39;epsilon&#39;." alt="" coords="1607,116,1805,157"/>
+<area shape="rect" id="node40" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a806804866bb7e55b952446133fd9567b" title="Total volume of the mesh assuming that boundaries() = 0. O(N)." alt="" coords="1624,181,1788,223"/>
+<area shape="rect" id="node41" href="$d5/d7f/class_t___m_e_s_h_1_1_vertex.html#aa42496c5fe09d307db8af7b93315beb7" title="A third of the total area of incident triangles." alt="" coords="1607,247,1805,274"/>
+<area shape="rect" id="node43" href="$d6/d27/class_t___m_e_s_h_1_1_basic___t_mesh.html#a4e21f75df1c237f565bf232e0cd73b74" title="Iteratively swaps edges to minimize the Delaunay minimum angle. O(N)." alt="" coords="1624,480,1788,521"/>
+</map>

@@ -1,13 +1,13 @@
 <map id="Touchpoint::setPolyData" name="Touchpoint::setPolyData">
-<area shape="rect" id="node1" title="Set the polydata of the touchpoint." alt="" coords="479,238,644,265"/>
+<area shape="rect" id="node1" title="Set the polydata of the touchpoint." alt="" coords="479,231,644,258"/>
 <area shape="rect" id="node2" href="$d6/db5/class_scene.html#ac01cc081cd4585c277b21c7f9fa95b8b" title="Remvoe a connector from the scene given its unique connector id." alt="" coords="259,78,429,105"/>
-<area shape="rect" id="node5" href="$d6/db5/class_scene.html#af1128c48ccb6999066aa1d935075cb23" title="Remove a touchpoint from the scene given its unique touchpoint id." alt="" coords="257,209,431,235"/>
-<area shape="rect" id="node10" href="$db/d46/class_touchpoint_registry.html#a18c09937c7361167f40db48812ea1afc" title="Clear everything." alt="" coords="277,260,411,301"/>
-<area shape="rect" id="node11" href="$d6/db5/class_scene.html#a30201c068436f1339f9709b778b19ee1" title="Reset the whole scene and all actors." alt="" coords="277,326,411,353"/>
-<area shape="rect" id="node3" href="$d1/da7/class_place_ground_plane8_connectors_tool.html#a9388811a14ed25cfa2513a210e786523" title=" " alt="" coords="5,5,209,47"/>
-<area shape="rect" id="node4" href="$dc/db2/class_place_ground_plane4_connectors_tool.html#a1977c6cac0bb721d0db3fc0aec683a21" title=" " alt="" coords="5,71,209,112"/>
-<area shape="rect" id="node6" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="36,136,179,177"/>
-<area shape="rect" id="node7" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="30,201,185,243"/>
-<area shape="rect" id="node8" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="26,267,189,308"/>
-<area shape="rect" id="node9" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="49,333,166,359"/>
+<area shape="rect" id="node5" href="$d6/db5/class_scene.html#af1128c48ccb6999066aa1d935075cb23" title="Remove a touchpoint from the scene given its unique touchpoint id." alt="" coords="257,202,431,229"/>
+<area shape="rect" id="node10" href="$db/d46/class_touchpoint_registry.html#a18c09937c7361167f40db48812ea1afc" title="Clear everything." alt="" coords="277,253,411,295"/>
+<area shape="rect" id="node11" href="$d6/db5/class_scene.html#a30201c068436f1339f9709b778b19ee1" title="Reset the whole scene and all actors." alt="" coords="277,319,411,346"/>
+<area shape="rect" id="node3" href="$dc/db2/class_place_ground_plane4_connectors_tool.html#a1977c6cac0bb721d0db3fc0aec683a21" title=" " alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node4" href="$d1/da7/class_place_ground_plane8_connectors_tool.html#a9388811a14ed25cfa2513a210e786523" title=" " alt="" coords="5,71,209,112"/>
+<area shape="rect" id="node6" href="$de/de0/class_freehand_touchpoint_tool.html#a8c241ab6ea3d7ced711c84036836e885" title=" " alt="" coords="26,136,189,177"/>
+<area shape="rect" id="node7" href="$dd/d4a/class_lasso_tool.html#ad4e65963efd59e0802ecb4fbd8d8b288" title=" " alt="" coords="49,202,166,229"/>
+<area shape="rect" id="node8" href="$d1/d4e/class_place_touchpoint_tool.html#aa565ccff15d4591dc9c6dee73adfe6e8" title=" " alt="" coords="36,253,179,295"/>
+<area shape="rect" id="node9" href="$de/dd7/class_polyline_touchpoint_tool.html#a9ee474813d977ff7b9877372035a319c" title=" " alt="" coords="30,319,185,360"/>
 </map>
